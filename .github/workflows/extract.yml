@@ -62,6 +62,12 @@ jobs:
         run: |
           python -m symbol_exporter.symbol_inspection symbols
 
+      - name: index
+        shell: bash -l {0}
+        if: success() && ! env.CI_SKIP
+        run: |
+          python -m symbol_exporter.index
+
       - name: list files
         shell: bash -l {0}
         if: success() && ! env.CI_SKIP
