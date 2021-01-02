@@ -1,11 +1,11 @@
 name: extract
 
 on:
-#   push:
-#     branches: 
-#       - "*"
+  push:
+    branches: 
+      - "*"
   schedule:
-    - cron:  '17 * * * *'
+    - cron:  '0 * * * *'
   
   
   
