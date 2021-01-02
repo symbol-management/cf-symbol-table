@@ -81,7 +81,7 @@ jobs:
         run: |
           git config user.name circleci
           git config user.email circleci@cf-symbol-table.symbol-managment.github.com
-          git commit -m "Updated ysnlr"
+          git commit -m "Updated symbols"
 
       - name: push changes
         shell: bash -l {0}
