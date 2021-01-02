@@ -54,7 +54,7 @@ jobs:
           popd
           # Use our dask config so dask kills things before the runner
           mkdir ~/.config/dask
-          mv distributed.yaml ~/.config/dask
+          cp distributed.yaml ~/.config/dask
 
       - name: extract_symbols
         shell: bash -l {0}
