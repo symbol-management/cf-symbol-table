@@ -68,6 +68,12 @@ jobs:
         run: |
           python -m symbol_exporter.index
 
+      - name: compat
+        shell: bash -l {0}
+        if: success() && ! env.CI_SKIP
+        run: |
+          python -m symbol_exporter.compatability_tracker
+
       - name: list files
         shell: bash -l {0}
         if: success() && ! env.CI_SKIP
