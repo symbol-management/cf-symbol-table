@@ -1,32 +1,43 @@
 {
+ "mleap.bundle":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
  "mleap.bundle.serialize":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.bundle.serialize.MLeapDeserializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.bundle.serialize.MLeapSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.bundle.serialize.Vector":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.bundle.serialize._type_map":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.gensim.word2vec":{
@@ -65,6 +76,12 @@
    "mleap-0.16.1-pyh9f0ad1d_0"
   ]
  },
+ "mleap.pyspark":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
  "mleap.pyspark.MathBinary":{
   "__set__":true,
   "elements":[
@@ -86,7 +103,14 @@
  "mleap.pyspark.feature":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.pyspark.feature.OneHotEncoder":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.pyspark.feature.math_binary":{
@@ -194,169 +218,251 @@
  "mleap.pyspark.spark_support":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.pyspark.spark_support.SimpleSparkSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.pyspark.spark_support.deserializeFromBundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.pyspark.spark_support.serializeToBundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.base":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.base.LinearRegression":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.base.MLeapDeserializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.base.MLeapSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.base.SimpleSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.base.deserialize_from_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.base.mleap_init":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.base.serialize_to_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.base_tests":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.base_tests.Binarizer":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.base_tests.FeatureExtractor":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.base_tests.LinearRegression":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.base_tests.LogisticRegression":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.base_tests.LogisticRegressionCV":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.base_tests.TransformerTests":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.decomposition":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.decomposition.pca":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.decomposition.pca.MLeapSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.decomposition.pca.SimpleSparkSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.decomposition.pca.mleap_init":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.decomposition.pca.serialize_to_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.ensemble":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.ensemble.forest":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.ensemble.forest.MLeapSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.ensemble.forest.SimpleSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.ensemble.forest.Vector":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.ensemble.forest.mleap_init":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.ensemble.forest.serialize_to_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.extensions":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.extensions.data":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.feature_extraction":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.feature_extraction.text":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.feature_extraction.text.CountVectorizerSerializer":{
@@ -410,79 +516,104 @@
  "mleap.sklearn.feature_union":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.feature_union.SimplekSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.feature_union.deserialize_from_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.feature_union.mleap_init":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.feature_union.serialize_to_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.logistic":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.logistic.LogisticRegression":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.logistic.LogisticRegressionCV":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.logistic.MLeapDeserializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.logistic.MLeapSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.logistic.SimpleSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.logistic.deserialize_from_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.logistic.mleap_init":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.logistic.serialize_to_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.pipeline":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.pipeline.SimpleSerializer":{
@@ -494,13 +625,21 @@
  "mleap.sklearn.preprocessing":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.preprocessing.data":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.data.Binarizer":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.preprocessing.data.BinarizerSerializer":{
@@ -512,7 +651,14 @@
  "mleap.sklearn.preprocessing.data.FeatureExtractor":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.data.Imputer":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.preprocessing.data.ImputerSerializer":{
@@ -524,7 +670,8 @@
  "mleap.sklearn.preprocessing.data.LabelEncoder":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.preprocessing.data.MLeapDeserializer":{
@@ -542,13 +689,21 @@
  "mleap.sklearn.preprocessing.data.MathBinary":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.preprocessing.data.MathUnary":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.data.MinMaxScaler":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.preprocessing.data.MinMaxScalerSerializer":{
@@ -563,6 +718,12 @@
    "mleap-0.16.1-pyh9f0ad1d_0"
   ]
  },
+ "mleap.sklearn.preprocessing.data.OneHotEncoder":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
  "mleap.sklearn.preprocessing.data.OneHotEncoderSerializer":{
   "__set__":true,
   "elements":[
@@ -573,6 +734,12 @@
   "__set__":true,
   "elements":[
    "mleap-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "mleap.sklearn.preprocessing.data.PolynomialFeatures":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.preprocessing.data.ReshapeArrayToN1":{
@@ -587,6 +754,12 @@
    "mleap-0.16.1-pyh9f0ad1d_0"
   ]
  },
+ "mleap.sklearn.preprocessing.data.StandardScaler":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
  "mleap.sklearn.preprocessing.data.StandardScalerSerializer":{
   "__set__":true,
   "elements":[
@@ -596,7 +769,14 @@
  "mleap.sklearn.preprocessing.data.StringMap":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.data.StringMap.deserialize_from_bundle.transformer":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.preprocessing.data.ToDense":{
@@ -647,100 +827,212 @@
    "mleap-0.16.1-pyh9f0ad1d_0"
   ]
  },
+ "mleap.sklearn.preprocessing.data.transformer":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.Binarizer":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.FeatureExtractor":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.Imputer":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.LabelEncoder":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.MathBinary":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.MathUnary":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.MinMaxScaler":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.OneHotEncoder":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.PolynomialFeatures":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.StandardScaler":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.StringMap":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.sklearn.preprocessing.tests.TransformerTests":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
+  ]
+ },
  "mleap.sklearn.svm":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.svm.MLeapDeserializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.svm.MLeapSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.svm.SimpleSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.svm.deserialize_from_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.svm.mleap_init":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.svm.serialize_to_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.tree":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.tree.tree":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.tree.tree.MLeapSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.tree.tree.SimpleSerializer":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.tree.tree.mleap_init":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.sklearn.tree.tree.serialize_to_bundle":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.tensorflow":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.tensorflow.test":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.tensorflow.test.NodeLookup":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.version":{
   "__set__":true,
   "elements":[
-   "mleap-0.16.1-pyh9f0ad1d_0"
+   "mleap-0.16.1-pyh9f0ad1d_0",
+   "mleap-0.8.1-py_1"
+  ]
+ },
+ "mleap.version.__version__":{
+  "__set__":true,
+  "elements":[
+   "mleap-0.8.1-py_1"
   ]
  },
  "mleap.version.version":{

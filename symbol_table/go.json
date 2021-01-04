@@ -3363,7 +3363,8 @@
  "google.api_core.datetime_helpers":{
   "__set__":true,
   "elements":[
-   "google-api-core-1.2.1-py_0"
+   "google-api-core-1.2.1-py_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.api_core.datetime_helpers.DatetimeWithNanoseconds":{
@@ -3573,7 +3574,8 @@
  "google.api_core.exceptions.NotFound":{
   "__set__":true,
   "elements":[
-   "google-api-core-1.2.1-py_0"
+   "google-api-core-1.2.1-py_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.api_core.exceptions.NotModified":{
@@ -4152,6 +4154,12 @@
    "google-api-core-1.2.1-py_0"
   ]
  },
+ "google.api_core.iam.Policy":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
  "google.api_core.operation":{
   "__set__":true,
   "elements":[
@@ -4311,7 +4319,8 @@
  "google.api_core.page_iterator":{
   "__set__":true,
   "elements":[
-   "google-api-core-1.2.1-py_0"
+   "google-api-core-1.2.1-py_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.api_core.page_iterator.GRPCIterator":{
@@ -4614,11 +4623,18 @@
    "google-api-core-1.2.1-py_0"
   ]
  },
+ "google.auth.credentials.AnonymousCredentials":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
  "google.cloud._helpers":{
   "__set__":true,
   "elements":[
    "google-cloud-core-0.26.0-py36_0",
-   "google-cloud-core-0.27.1-py27_0"
+   "google-cloud-core-0.27.1-py27_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud._helpers.UTC":{
@@ -4667,7 +4683,8 @@
   "elements":[
    "google-cloud-core-0.25.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
-   "google-cloud-core-0.27.1-py27_0"
+   "google-cloud-core-0.27.1-py27_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud._helpers._NOW":{
@@ -4675,7 +4692,8 @@
   "elements":[
    "google-cloud-core-0.25.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
-   "google-cloud-core-0.27.1-py27_0"
+   "google-cloud-core-0.27.1-py27_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud._helpers._RFC3339_MICROS":{
@@ -4724,7 +4742,8 @@
   "elements":[
    "google-cloud-core-0.25.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
-   "google-cloud-core-0.27.1-py27_0"
+   "google-cloud-core-0.27.1-py27_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud._helpers._date_from_iso8601_date":{
@@ -4759,7 +4778,8 @@
    "google-cloud-core-0.25.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
    "google-cloud-core-0.27.1-py27_0",
-   "google-cloud-monitoring-0.28.1-py35_0"
+   "google-cloud-monitoring-0.28.1-py35_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud._helpers._determine_default_project":{
@@ -4854,7 +4874,8 @@
   "elements":[
    "google-cloud-core-0.25.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
-   "google-cloud-core-0.27.1-py27_0"
+   "google-cloud-core-0.27.1-py27_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud._helpers._time_from_iso8601_time_naive":{
@@ -4880,7 +4901,8 @@
    "google-cloud-bigquery-0.26.0-py27_0",
    "google-cloud-core-0.25.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
-   "google-cloud-core-0.27.1-py27_0"
+   "google-cloud-core-0.27.1-py27_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud._helpers.duration_pb2":{
@@ -4936,6 +4958,7 @@
   "elements":[
    "google-cloud-bigquery-0.26.0-py27_0",
    "google-cloud-monitoring-0.28.1-py35_0",
+   "google-cloud-storage-1.24.1-py37_1",
    "google-cloud-translate-1.5.0-py37_0"
   ]
  },
@@ -6439,7 +6462,8 @@
   "__set__":true,
   "elements":[
    "google-cloud-bigquery-0.26.0-py27_0",
-   "google-cloud-monitoring-0.28.1-py35_0"
+   "google-cloud-monitoring-0.28.1-py35_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud.client._ClientFactoryMixin":{
@@ -6575,7 +6599,8 @@
   "elements":[
    "google-cloud-bigquery-0.26.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
-   "google-cloud-core-0.27.1-py27_0"
+   "google-cloud-core-0.27.1-py27_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud.exceptions.BadGateway":{
@@ -6689,7 +6714,8 @@
    "google-cloud-core-0.25.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
    "google-cloud-core-0.27.1-py27_0",
-   "google-cloud-monitoring-0.28.1-py35_0"
+   "google-cloud-monitoring-0.28.1-py35_0",
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud.exceptions.NotModified":{
@@ -7581,6 +7607,1290 @@
    "google-cloud-core-0.25.0-py27_0",
    "google-cloud-core-0.26.0-py36_0",
    "google-cloud-core-0.27.1-py27_0"
+  ]
+ },
+ "google.cloud.storage.Batch":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.Blob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.Bucket":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.Client":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.__all__":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.__version__":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers.STORAGE_EMULATOR_ENV_VAR":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers._DEFAULT_STORAGE_HOST":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers._PropertyMixin":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers._base64_md5hash":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers._get_storage_host":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers._scalar_property":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers._validate_name":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._helpers._write_buffer_to_hash":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._http":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._http.Connection":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._http.__version__":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._http._http":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.DEFAULT_ENDPOINT":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.MULTIPLE_SPACES":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.MULTIPLE_SPACES_RE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.NOW":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.SERVICE_ACCOUNT_URL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.SEVEN_DAYS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing._Canonical":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing._EXPIRATION_TYPES":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing._helpers":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.canonicalize":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.ensure_signed_credentials":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.generate_signed_url_v2":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.generate_signed_url_v4":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.get_canonical_headers":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.get_expiration_seconds_v2":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.get_expiration_seconds_v4":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage._signing.get_signed_query_params_v2":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.acl":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.acl.ACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.acl.BucketACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.acl.DefaultObjectACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.acl.ObjectACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.acl._ACLEntity":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch.Batch":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch.Connection":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch.MIMEApplicationHTTP":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch._FutureDict":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch._FutureResponse":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch._generate_faux_mime_message":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch._helpers":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch._unpack_batch_response":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.batch.exceptions":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.ACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.ARCHIVE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.Blob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.COLDLINE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.ChunkedDownload":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.Download":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.MULTI_REGIONAL_LEGACY_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.MultipartUpload":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.NEARLINE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.NotFound":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.ObjectACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.Policy":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.REGIONAL_LEGACY_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.RawChunkedDownload":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.RawDownload":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.ResumableUpload":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.STANDARD_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._API_ACCESS_ENDPOINT":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._BASE_UPLOAD_TEMPLATE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._CONTENT_TYPE_FIELD":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._DEFAULT_CHUNKSIZE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._DEFAULT_CONTENT_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._DOWNLOAD_URL_TEMPLATE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._MAX_MULTIPART_SIZE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._MULTIPART_URL_TEMPLATE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._NUM_RETRIES_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._PropertyMixin":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._READ_LESS_THAN_SIZE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._RESUMABLE_URL_TEMPLATE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._STORAGE_HOST":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._WRITABLE_FIELDS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._add_query_parameters":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._bytes_to_unicode":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._get_encryption_headers":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._get_storage_host":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._maybe_rewind":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._quote":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._raise_from_invalid_response":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._rfc3339_to_datetime":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._scalar_property":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob._to_bytes":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.exceptions":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.generate_signed_url_v2":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.generate_signed_url_v4":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.blob.resumable_media":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.ARCHIVE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.Blob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.Bucket":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.BucketACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.BucketNotification":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.COLDLINE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.DUAL_REGION_LOCATION_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.DURABLE_REDUCED_AVAILABILITY_LEGACY_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.DefaultObjectACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.IAMConfiguration":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.LifecycleRuleConditions":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.LifecycleRuleDelete":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.LifecycleRuleSetStorageClass":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.MULTI_REGIONAL_LEGACY_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.MULTI_REGION_LOCATION_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.NEARLINE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.NONE_PAYLOAD_FORMAT":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.NotFound":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.Policy":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.REGIONAL_LEGACY_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.REGION_LOCATION_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.STANDARD_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._API_ACCESS_ENDPOINT":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._BPO_ENABLED_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._BPO_LOCK_TIME_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._LOCATION_SETTER_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._NOW":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._PropertyMixin":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._UBLA_BPO_ENABLED_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._UBLA_BPO_LOCK_TIME_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._blobs_page_start":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._datetime_to_rfc3339":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._default":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._item_to_blob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._item_to_notification":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._rfc3339_to_datetime":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._scalar_property":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._signing":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket._validate_name":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.datetime_helpers":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.generate_signed_url_v2":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.generate_signed_url_v4":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.bucket.page_iterator":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.AnonymousCredentials":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.Batch":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.Blob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.Bucket":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.BucketACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.Client":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.ClientWithProject":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.Connection":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.DefaultObjectACL":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.HMACKeyMetadata":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.NotFound":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client._LocalStack":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client._get_storage_host":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client._item_to_bucket":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client._item_to_hmac_key_metadata":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client._marker":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.client.page_iterator":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.ARCHIVE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.COLDLINE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.DUAL_REGION_LOCATION_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.DURABLE_REDUCED_AVAILABILITY_LEGACY_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.MULTI_REGIONAL_LEGACY_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.MULTI_REGION_LOCATION_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.NEARLINE_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.REGIONAL_LEGACY_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.REGION_LOCATION_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.constants.STANDARD_STORAGE_CLASS":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.hmac_key":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.hmac_key.HMACKeyMetadata":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.hmac_key.NotFound":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.hmac_key._rfc3339_to_datetime":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_ADMIN_ROLE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_BUCKETS_CREATE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_BUCKETS_DELETE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_BUCKETS_GET":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_BUCKETS_GET_IAM_POLICY":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_BUCKETS_LIST":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_BUCKETS_SET_IAM_POLICY":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_BUCKETS_UPDATE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_EDITOR_ROLE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECTS_CREATE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECTS_DELETE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECTS_GET":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECTS_GET_IAM_POLICY":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECTS_LIST":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECTS_SET_IAM_POLICY":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECTS_UPDATE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECT_ADMIN_ROLE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECT_CREATOR_ROLE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OBJECT_VIEWER_ROLE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_OWNER_ROLE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.iam.STORAGE_VIEWER_ROLE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification.BucketNotification":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification.JSON_API_V1_PAYLOAD_FORMAT":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification.NONE_PAYLOAD_FORMAT":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification.NotFound":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification.OBJECT_ARCHIVE_EVENT_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification.OBJECT_DELETE_EVENT_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification.OBJECT_FINALIZE_EVENT_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification.OBJECT_METADATA_UPDATE_EVENT_TYPE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification._BAD_TOPIC":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification._PROJECT_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification._TOPIC_NAME_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification._TOPIC_REF_FMT":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification._TOPIC_REF_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification._TOPIC_REF_RE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
+  ]
+ },
+ "google.cloud.storage.notification._parse_topic_path":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-storage-1.24.1-py37_1"
   ]
  },
  "google.cloud.streaming.buffered_stream":{
@@ -24156,6 +25466,8 @@
   "__set__":true,
   "elements":[
    "google-cloud-bigquery-0.26.0-py27_0",
+   "google-cloud-storage-1.24.1-py37_1",
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24168,72 +25480,108 @@
  "google.resumable_media.InvalidResponse":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.PERMANENT_REDIRECT":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.RetryStrategy":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.TOO_MANY_REQUESTS":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.UPLOAD_CHUNK_SIZE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.__all__":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._download":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._download.ChunkedDownload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
+  ]
+ },
+ "google.resumable_media._download.ChunkedDownload.bytes_downloaded":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
+  ]
+ },
+ "google.resumable_media._download.ChunkedDownload.invalid":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
+  ]
+ },
+ "google.resumable_media._download.ChunkedDownload.total_bytes":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
   ]
  },
  "google.resumable_media._download.Download":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
+  ]
+ },
+ "google.resumable_media._download.DownloadBase.finished":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
   ]
  },
  "google.resumable_media._download._ACCEPTABLE_STATUS_CODES":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._download._CONTENT_RANGE_RE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._download._GET":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24252,294 +25600,343 @@
  "google.resumable_media._download._helpers":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._download.add_bytes_range":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._download.common":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._download.get_range_info":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.CONTENT_RANGE_HEADER":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.RANGE_HEADER":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.RETRYABLE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.calculate_retry_wait":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.common":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.do_nothing":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.header_required":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.require_status_code":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._helpers.wait_and_retry":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.MultipartUpload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.ResumableUpload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.ResumableUpload.bytes_uploaded":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.ResumableUpload.chunk_size":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.ResumableUpload.invalid":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.ResumableUpload.resumable_url":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.ResumableUpload.total_bytes":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.SimpleUpload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.UploadBase":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.UploadBase.finished":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._BOUNDARY_FORMAT":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._BOUNDARY_WIDTH":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._BYTES_RANGE_RE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._CONTENT_RANGE_TEMPLATE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._CONTENT_TYPE_HEADER":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._CRLF":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._EMPTY_RANGE_TEMPLATE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._MULTIPART_BEGIN":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._MULTIPART_SEP":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._POST":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._PUT":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._RANGE_UNKNOWN_TEMPLATE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._RELATED_HEADER":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._STREAM_ERROR_TEMPLATE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._STREAM_READ_PAST_TEMPLATE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload._helpers":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.common":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.construct_multipart_request":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.get_boundary":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.get_content_range":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.get_next_chunk":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.get_total_bytes":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media._upload.resumable_media":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.common":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24552,66 +25949,79 @@
  "google.resumable_media.common.InvalidResponse":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.common.MAX_CUMULATIVE_RETRY":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.common.MAX_SLEEP":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.common.PERMANENT_REDIRECT":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.common.RetryStrategy":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.common.TOO_MANY_REQUESTS":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.common.UPLOAD_CHUNK_SIZE":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.common._SLEEP_RETRY_ERROR_MSG":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.ChunkedDownload":{
   "__set__":true,
   "elements":[
+   "google-cloud-storage-1.24.1-py37_1",
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.Download":{
   "__set__":true,
   "elements":[
+   "google-cloud-storage-1.24.1-py37_1",
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24619,18 +26029,22 @@
   "__set__":true,
   "elements":[
    "google-cloud-bigquery-0.26.0-py27_0",
+   "google-cloud-storage-1.24.1-py37_1",
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.RawChunkedDownload":{
   "__set__":true,
   "elements":[
+   "google-cloud-storage-1.24.1-py37_1",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.RawDownload":{
   "__set__":true,
   "elements":[
+   "google-cloud-storage-1.24.1-py37_1",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24638,24 +26052,29 @@
   "__set__":true,
   "elements":[
    "google-cloud-bigquery-0.26.0-py27_0",
+   "google-cloud-storage-1.24.1-py37_1",
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.SimpleUpload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.__all__":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests._helpers":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24668,6 +26087,7 @@
  "google.resumable_media.requests._helpers.RequestsMixin":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24686,6 +26106,7 @@
  "google.resumable_media.requests._helpers._DEFAULT_RETRY_STRATEGY":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24698,36 +26119,42 @@
  "google.resumable_media.requests._helpers._helpers":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests._helpers.common":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests._helpers.http_request":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.download":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.download.ChunkedDownload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.download.Download":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24779,6 +26206,12 @@
    "google-resumable-media-0.5.0-py_0"
   ]
  },
+ "google.resumable_media.requests.download._SINGLE_GET_CHUNK_SIZE":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
+  ]
+ },
  "google.resumable_media.requests.download._add_decoder":{
   "__set__":true,
   "elements":[
@@ -24788,6 +26221,7 @@
  "google.resumable_media.requests.download._download":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24800,6 +26234,7 @@
  "google.resumable_media.requests.download._helpers":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
@@ -24809,81 +26244,117 @@
    "google-resumable-media-0.5.0-py_0"
   ]
  },
+ "google.resumable_media.requests.download.bytes_downloaded":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
+  ]
+ },
  "google.resumable_media.requests.download.common":{
   "__set__":true,
   "elements":[
    "google-resumable-media-0.5.0-py_0"
   ]
  },
+ "google.resumable_media.requests.download.finished":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
+  ]
+ },
+ "google.resumable_media.requests.download.invalid":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
+  ]
+ },
+ "google.resumable_media.requests.download.total_bytes":{
+  "__set__":true,
+  "elements":[
+   "google-resumable-media-0.2.3-py27_0"
+  ]
+ },
  "google.resumable_media.requests.upload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.MultipartUpload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.ResumableUpload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.SimpleUpload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload._helpers":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload._upload":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.bytes_uploaded":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.chunk_size":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.finished":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.invalid":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.resumable_url":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
  "google.resumable_media.requests.upload.total_bytes":{
   "__set__":true,
   "elements":[
+   "google-resumable-media-0.2.3-py27_0",
    "google-resumable-media-0.5.0-py_0"
   ]
  },
