@@ -15234,13 +15234,15 @@
  "rejected.Consumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.MessageException":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.NullHandler":{
@@ -15255,58 +15257,79 @@
    "rejected-3.12.2-py27_0"
   ]
  },
+ "rejected.ProcessingException":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
  "rejected.PublishingConsumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.SmartConsumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.SmartPublishingConsumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.__all__":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.__author__":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.__since__":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.__version__":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.BS4_MIME_TYPES":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.Consumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.Consumer.DROP_INVALID_MESSAGES":{
@@ -15459,22 +15482,31 @@
    "rejected-3.12.2-py27_0"
   ]
  },
+ "rejected.consumer.DEFAULT_CHANNEL":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
  "rejected.consumer.LOGGER":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.MessageException":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.PICKLE_MIME_TYPES":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.PYTHON26":{
@@ -15486,175 +15518,234 @@
  "rejected.consumer.ProcessingException":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.PublishingConsumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.consumer.RejectedException":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.SmartConsumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.SmartPublishingConsumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.YAML_MIME_TYPES":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.consumer._DROPPED_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer._EXCEPTION_FROM":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer._PROCESSING_EXCEPTIONS":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.bs4":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.data":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.log":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.umsgpack":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.consumer.unicode":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.controller":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.controller.Controller":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.controller.LOGGER":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.controller.__version__":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.controller.add_parser_arguments":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.controller.main":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.controller.mcp":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.controller.raven":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.CONSUMER_EXCEPTION":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.Data":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.MESSAGE_ACK":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.MESSAGE_DROP":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.MESSAGE_EXCEPTION":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.MESSAGE_REQUEUE":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.data.Measurement":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.Message":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.PROCESSING_EXCEPTION":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.Properties":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.data.UNHANDLED_EXCEPTION":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.example":{
@@ -15840,199 +15931,274 @@
  "rejected.log":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.log.CorrelationAdapter":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.log.CorrelationFilter":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.Consumer":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.LOGGER":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.MasterControlProgram":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATES":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATE_ACTIVE":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATE_CONNECTING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATE_IDLE":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATE_INITIALIZING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATE_SHUTTING_DOWN":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATE_SLEEPING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATE_STOPPED":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.STATE_STOP_REQUESTED":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.mcp._PROCESS_RUNNING":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.mcp._PROCESS_STOPPED_OR_DEAD":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.__version__":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.mcp.is_active":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.is_connecting":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.is_idle":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.is_running":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.is_shutting_down":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.is_sleeping":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.is_stopped":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.is_waiting_to_shutdown":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.process":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.state":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.state_description":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mcp.time_in_state":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mixins":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mixins.GarbageCollectorMixin":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.mixins.LOGGER":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.process.AsyncSentryClient":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.process.Callbacks":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.process.Connection":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.process.Delivery":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.LOGGER":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.PYTHON26":{
@@ -16044,61 +16210,71 @@
  "rejected.process.Process":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATES":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATE_ACTIVE":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATE_CONNECTING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATE_IDLE":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATE_INITIALIZING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATE_SHUTTING_DOWN":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATE_SLEEPING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATE_STOPPED":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.STATE_STOP_REQUESTED":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.URI_RE":{
@@ -16110,13 +16286,21 @@
  "rejected.process.__version__":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.process.breadcrumbs":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.data":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.import_consumer":{
@@ -16125,64 +16309,86 @@
    "rejected-3.12.2-py27_0"
   ]
  },
+ "rejected.process.influxdb":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.process.is_active":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
  "rejected.process.is_connecting":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.is_idle":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.is_running":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.is_shutting_down":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.is_sleeping":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.is_stopped":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.is_waiting_to_shutdown":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.raven":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.state":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.state_description":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.process.stats":{
@@ -16191,136 +16397,176 @@
    "rejected-3.12.2-py27_0"
   ]
  },
+ "rejected.process.statsd":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
  "rejected.process.time_in_state":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.process.utils":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.LOGGER":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATES":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATE_ACTIVE":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATE_CONNECTING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATE_IDLE":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATE_INITIALIZING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATE_SHUTTING_DOWN":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATE_SLEEPING":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATE_STOPPED":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.STATE_STOP_REQUESTED":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.state.State.is_active":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.is_connecting":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.is_idle":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.is_running":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.is_shutting_down":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.is_sleeping":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.is_stopped":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.is_waiting_to_shutdown":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.state_description":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.state.State.time_in_state":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.stats":{
@@ -16344,19 +16590,99 @@
  "rejected.statsd":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.statsd.Client":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.statsd.LOGGER":{
   "__set__":true,
   "elements":[
-   "rejected-3.12.2-py27_0"
+   "rejected-3.12.2-py27_0",
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "rejected.statsd.StatsdClient":{
   "__set__":true,
   "elements":[
    "rejected-3.12.2-py27_0"
+  ]
+ },
+ "rejected.testing":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.testing.AsyncTestCase":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.testing.PublishedMessage":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.testing.consumer":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.testing.data":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.testing.gen_test":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.testing.process":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.testing.raven":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.utils":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.utils.get_package_version":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.utils.import_consumer":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
+  ]
+ },
+ "rejected.utils.percentile":{
+  "__set__":true,
+  "elements":[
+   "rejected-3.19.15-py38_1000"
   ]
  },
  "reproject.__all__":{
