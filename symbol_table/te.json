@@ -1873,6 +1873,84 @@
    "tatsu-4.4.0-py36hc560c46_1"
   ]
  },
+ "test.integration":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base.DBTIntegrationTest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base.DBT_CONFIG_DIR":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base.DBT_PROFILES":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base.FakeArgs":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.base.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.connection":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.integration.connection.handle":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
  "test.model_test":{
   "__set__":true,
   "elements":[
@@ -2857,6 +2935,120 @@
   "__set__":true,
   "elements":[
    "forest-0.6.0-py38_0"
+  ]
+ },
+ "test.test_dxchange":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_exchange":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader.TEST_DIR":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader.failureException":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader.list_file_stack_test_case":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader.read_files_test_case":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_reader.shape_after_slice_test_case":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_writer":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_writer._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_writer._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_writer.failureException":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_writer.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_writer.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
+  ]
+ },
+ "test.test_dxchange.test_writer.remove_trailing_digits_test_case":{
+  "__set__":true,
+  "elements":[
+   "dxchange-0.1.3-py35_0"
   ]
  },
  "test.test_earth_networks":{
@@ -4268,6 +4460,7 @@
  "test.unit":{
   "__set__":true,
   "elements":[
+   "dbt-0.8.3-py27_0",
    "fairlearn-0.4.2-py_0",
    "label-maker-0.5.1-py36_0"
   ]
@@ -5430,6 +5623,144 @@
    "fairlearn-0.4.2-py_0"
   ]
  },
+ "test.unit.test_bigquery_adapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_bigquery_adapter.TestBigQueryAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_bigquery_adapter._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_bigquery_adapter._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_bigquery_adapter.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_bigquery_adapter.fake_conn":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_bigquery_adapter.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_bigquery_adapter.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_compiler":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_compiler.CompilerTest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_compiler._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_compiler._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_compiler.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_compiler.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_compiler.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_config":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_config.ConfigTest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_config.TMPDIR":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_config._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_config._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_config.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_config.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_config.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
  "test.unit.test_filter":{
   "__set__":true,
   "elements":[
@@ -5460,6 +5791,132 @@
    "label-maker-0.5.1-py36_0"
   ]
  },
+ "test.unit.test_graph":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph.GraphTest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph_selection":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph_selection.GraphSelectionTest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph_selection._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph_selection._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph_selection.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph_selection.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_graph_selection.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_import":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_import.ImportTest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_import._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_import._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_import.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_import.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_import.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
  "test.unit.test_label":{
   "__set__":true,
   "elements":[
@@ -5470,6 +5927,234 @@
   "__set__":true,
   "elements":[
    "label-maker-0.5.1-py36_0"
+  ]
+ },
+ "test.unit.test_linker":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_linker.LinkerTest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_linker._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_linker._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_linker.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_linker.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_linker.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_parser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_parser.ParserTest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_parser._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_parser._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_parser.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_parser.get_os_path":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_parser.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_parser.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_postgres_adapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_postgres_adapter.TestPostgresAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_postgres_adapter._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_postgres_adapter._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_postgres_adapter.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_postgres_adapter.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_postgres_adapter.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_runner":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_runner.TestRunner":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_runner._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_runner._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_runner.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_runner.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_runner.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client.SystemClient":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client.TMPDIR":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client._testMethodDoc":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client._testMethodName":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client.failureException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client.longMessage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client.maxDiff":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
+  ]
+ },
+ "test.unit.test_system_client.profiles_path":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.8.3-py27_0"
   ]
  },
  "test.unit.test_utils":{
@@ -8444,229 +9129,267 @@
  "tests.test_CreateEdges.TestCreateEdges":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.dsf":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.dsi":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.dts":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.e_full_true":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.fail_connector_selector_order":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.fail_ind_shape":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.fail_r_shape":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.fail_selector_order":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.from_pos":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.ft_from_pos":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.ft_r_dep":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.ft_to_pos":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.max_pairs":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.min_chunk_size":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.p_from_pos":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.p_ft_from_pos":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.p_ft_to_pos":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.p_max_pairs":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.p_min_chunk_size":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.p_step_size":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.p_to_pos":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.s":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.step_size":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.t":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.tdtdic":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.to_pos":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.v":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_CreateEdges.velo":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.TestAppendCP":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.TestInterfaces":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.TestPartitionEdges":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.TestPartitionGraph":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.TestPartitionNodes":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.TestTriuIndices":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.g":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.some_relations":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_DeepGraph.v":{
   "__set__":true,
   "elements":[
-   "deepgraph-0.2.0-np113py27_0"
+   "deepgraph-0.2.0-np113py27_0",
+   "deepgraph-0.2.0-py37h7eb728f_0"
   ]
  },
  "tests.test_api":{
