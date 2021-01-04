@@ -15014,25 +15014,41 @@
  "conda_deps.conda_deps":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.PY_DEPS":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.PY_LOCAL":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.PY_STD":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
+  ]
+ },
+ "conda_deps.conda_deps.R_DEPS":{
+  "__set__":true,
+  "elements":[
+   "conda_deps-0.0.8-py36_0"
+  ]
+ },
+ "conda_deps.conda_deps.check_deps":{
+  "__set__":true,
+  "elements":[
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.check_python_deps":{
@@ -15044,55 +15060,76 @@
  "conda_deps.conda_deps.cleanup_import":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.config_logging":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.get_local_imports":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.is_import":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.is_python_std":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.main":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.print_conda_env":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.py_deps_file":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.py_deps_folder":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
+  ]
+ },
+ "conda_deps.conda_deps.r_deps_file":{
+  "__set__":true,
+  "elements":[
+   "conda_deps-0.0.8-py36_0"
+  ]
+ },
+ "conda_deps.conda_deps.r_deps_folder":{
+  "__set__":true,
+  "elements":[
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_deps.conda_deps.scan_imports":{
@@ -15101,16 +15138,41 @@
    "conda_deps-0.0.2-py37_0"
   ]
  },
+ "conda_deps.conda_deps.scan_python_imports":{
+  "__set__":true,
+  "elements":[
+   "conda_deps-0.0.8-py36_0"
+  ]
+ },
+ "conda_deps.conda_deps.scan_r_imports":{
+  "__set__":true,
+  "elements":[
+   "conda_deps-0.0.8-py36_0"
+  ]
+ },
  "conda_deps.conda_deps.translate_import":{
   "__set__":true,
   "elements":[
    "conda_deps-0.0.2-py37_0"
   ]
  },
+ "conda_deps.conda_deps.translate_python_import":{
+  "__set__":true,
+  "elements":[
+   "conda_deps-0.0.8-py36_0"
+  ]
+ },
+ "conda_deps.conda_deps.translate_r_library":{
+  "__set__":true,
+  "elements":[
+   "conda_deps-0.0.8-py36_0"
+  ]
+ },
  "conda_deps.name":{
   "__set__":true,
   "elements":[
-   "conda_deps-0.0.2-py37_0"
+   "conda_deps-0.0.2-py37_0",
+   "conda_deps-0.0.8-py36_0"
   ]
  },
  "conda_devenv.__version__":{
@@ -19414,6 +19476,72 @@
   "__set__":true,
   "elements":[
    "conda-verify-3.1.1-py36hc560c46_1002"
+  ]
+ },
+ "conduit._C_API":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.blueprint":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.blueprint.mcarray":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.blueprint.mcarray.examples":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.blueprint.mesh":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.blueprint.mesh.examples":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.relay":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.relay.io":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.relay.io.blueprint":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.relay.mpi":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
+  ]
+ },
+ "conduit.relay.web":{
+  "__set__":true,
+  "elements":[
+   "conduit-0.6.0-py39hb25f1e2_0"
   ]
  },
  "configparser.BasicInterpolation":{
