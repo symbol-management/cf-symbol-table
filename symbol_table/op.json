@@ -5194,7 +5194,14 @@
  "opentracing_instrumentation.client_hooks":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks._current_span.set_current_span_func":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks._dbapi2":{
@@ -5269,22 +5276,131 @@
    "opentracing_instrumentation-2.3.0-py35_0"
   ]
  },
+ "opentracing_instrumentation.client_hooks._patcher.Patcher":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
  "opentracing_instrumentation.client_hooks._singleton":{
   "__set__":true,
   "elements":[
    "opentracing_instrumentation-2.3.0-py35_0"
   ]
  },
+ "opentracing_instrumentation.client_hooks._singleton.CALLED":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks._singleton.NOT_CALLED":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
  "opentracing_instrumentation.client_hooks._singleton.singleton":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks._valid_args":{
   "__set__":true,
   "elements":[
    "opentracing_instrumentation-2.3.0-py35_0"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.boto3.Boto3Patcher":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.boto3._Executor":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.boto3._client_make_api_call":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.boto3._service_action_call":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.boto3.logger":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.boto3.utils":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery.CeleryPatcher":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery._task_apply_async":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery.before_task_publish_handler":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery.finish_current_span":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery.set_common_tags":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery.task_apply_async_wrapper":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery.task_failure_handler":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery.task_prerun_handler":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.celery.task_success_handler":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.install_all_patches":{
@@ -5311,16 +5427,53 @@
    "opentracing_instrumentation-2.3.0-py35_0"
   ]
  },
+ "opentracing_instrumentation.client_hooks.mysqldb.MySQLdbPatcher":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
  "opentracing_instrumentation.client_hooks.mysqldb._MySQLdb_connect":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.mysqldb.install_patches":{
   "__set__":true,
   "elements":[
    "opentracing_instrumentation-2.3.0-py35_0"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.psycopg2.Psycopg2CursorWrapper":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.psycopg2._psycopg2_connect":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.psycopg2._psycopg2_extensions_quote_ident":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.psycopg2._psycopg2_extensions_register_type":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.client_hooks.psycopg2.install_patches":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.requests":{
@@ -5374,19 +5527,22 @@
  "opentracing_instrumentation.client_hooks.strict_redis.IPV4_RE":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.strict_redis.METHOD_NAMES":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.strict_redis.ORIG_METHODS":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.strict_redis.get_current_span":{
@@ -5398,19 +5554,22 @@
  "opentracing_instrumentation.client_hooks.strict_redis.install_patches":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.strict_redis.redis":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.strict_redis.reset_patches":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.tornado_http":{
@@ -5506,13 +5665,15 @@
  "opentracing_instrumentation.client_hooks.urllib.install_patches":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.urllib.log":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.urllib2":{
@@ -5524,13 +5685,15 @@
  "opentracing_instrumentation.client_hooks.urllib2.AbstractRequestWrapper":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.urllib2.before_http_request":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.urllib2.get_current_span":{
@@ -5542,175 +5705,216 @@
  "opentracing_instrumentation.client_hooks.urllib2.install_patches":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.urllib2.log":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.client_hooks.urllib2.split_host_and_port":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.config":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.config.CONFIG":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.config._Config":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.get_current_span":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_client":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_client.AbstractRequestWrapper":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_client.CONFIG":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_client.ClientInterceptors":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_client.HOST_PORT_RE":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_client.before_http_request":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_client.split_host_and_port":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_client.utils":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_server":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_server.AbstractRequestWrapper":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_server.TornadoRequestWrapper":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_server.WSGIRequestWrapper":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_server.before_request":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.http_server.config":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.interceptors":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.interceptors.ClientInterceptors":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.interceptors.OpenTracingInterceptor":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.local_span":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.local_span._DummyStackContext":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
+ "opentracing_instrumentation.local_span._span_in_stack_context":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.local_span.func_span":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.local_span.traced_function":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.request_context":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.request_context.RequestContext":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.request_context.ThreadSafeStackContext":{
@@ -5719,52 +5923,66 @@
    "opentracing_instrumentation-2.3.0-py35_0"
   ]
  },
+ "opentracing_instrumentation.request_context._TracerEnteredStackContext":{
+  "__set__":true,
+  "elements":[
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
+  ]
+ },
  "opentracing_instrumentation.request_context.get_current_span":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.request_context.span_in_context":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.request_context.span_in_stack_context":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.span_in_context":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.span_in_stack_context":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.traced_function":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.utils":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "opentracing_instrumentation.utils.start_child_span":{
   "__set__":true,
   "elements":[
-   "opentracing_instrumentation-2.3.0-py35_0"
+   "opentracing_instrumentation-2.3.0-py35_0",
+   "opentracing_instrumentation-3.2.1-py37hc8dfbb8_1"
   ]
  },
  "openturns.ANCOVA":{
