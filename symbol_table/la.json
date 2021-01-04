@@ -6549,21 +6549,36 @@
    "python-lalframe-1.4.5-py37hc1659b7_1"
   ]
  },
+ "lalinference.LALINFERENCE_PARAM_CIRCULAR":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
  "lalinference.LALINFERENCE_PARAM_FIXED":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.LALINFERENCE_PARAM_LINEAR":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.LALINFERENCE_PARAM_OUTPUT":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.LALInferenceHDF5PosteriorSamplesDatasetName":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -6576,7 +6591,14 @@
  "lalinference.__version__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference._lalinference":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference._swig_add_metaclass":{
@@ -6585,10 +6607,29 @@
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
+ "lalinference._swig_getattr":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference._swig_property":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
  "lalinference._swig_repr":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference._swig_setattr":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference._swig_setattr_nondynamic_class_variable":{
@@ -6606,36 +6647,42 @@
  "lalinference.bayespputils":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.ACLError":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.AnalyticLikelihood":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.BurstPosterior":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.DecFormatter":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.DecLocator":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -6648,126 +6695,147 @@
  "lalinference.bayespputils.KDSkeleton":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.KDTree":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.PEOutputParser":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.Posterior":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.RAFormatter":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.RALocator":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.ROTATEY":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.ROTATEZ":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.VOT2HTML":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.__author__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.__date__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.__default_color_lst":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.__default_css_string":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.__default_javascript_string":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.__default_line_styles":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.__version__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils._calculate_confidence_levels":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils._cl_count":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils._cl_width":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils._greedy_bin":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.addSample":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -6780,144 +6848,168 @@
  "lalinference.bayespputils.ang_dist":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.array_ang_sep":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.array_dot":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.array_polar_ang":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.as_array":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.autocorrelation":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.bransDickeParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.burnin":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.calAmpParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.calParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.calPhaseParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.calculate_redshift":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.calibParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.cart2sph":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.chi_precessing":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.component_momentum":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.confidenceLevels":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.confidence_interval_uncertainty":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.contigious_interval_one_param":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.cosmoParam":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.cred_interval":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.cred_level":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.derived_phase":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.derived_time":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -6930,48 +7022,62 @@
  "lalinference.bayespputils.distParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.effectiveSampleSize":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.endTimeParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.energyParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.bayespputils.eosParams":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.bayespputils.find_ndownsample":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.fix_axis_names":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.formatDecTicks":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.formatRATicks":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -6984,12 +7090,14 @@
  "lalinference.bayespputils.getDecString":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.getRAString":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -7002,72 +7110,84 @@
  "lalinference.bayespputils.get_inj_by_time":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.get_prior":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.greedyBinSizes":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.greedy_bin_one_param":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.greedy_bin_two_param":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.histogram2D":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.hostname_short":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.htmlChunk":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.htmlCollapseSection":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.htmlPage":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.htmlSection":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.incParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -7080,6 +7200,7 @@
  "lalinference.bayespputils.kdtree_bin":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -7092,12 +7213,14 @@
  "lalinference.bayespputils.logParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.loglname":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -7110,246 +7233,287 @@
  "lalinference.bayespputils.make_1d_table":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.massParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.massiveGravitonParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.mc2ms":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.mc2q":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.orbital_momentum":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.param":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.parse_converge_output_section":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.phaseParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.physical2radiationFrame":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_burst_waveform":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_calibration_pos":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_corner":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_label":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_one_param_pdf":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_psd":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_sky_map":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_spline_pos":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_two_param_greedy_bins_contour":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_two_param_greedy_bins_hist":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_two_param_kde":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.plot_waveform":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.pol2cart":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.polParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.ppEParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.q2eta":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.q2ms":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.random_split":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.readCoincXML":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.relativePhaseParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.replace_column":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.rotate_vector":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.rotation_matrix":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.roundRadAngle":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.s":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.skyArea":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.skyParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.skymap_confidence_areas":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.skymap_inj_pvalue":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.snrParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.source_mass":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -7362,570 +7526,2249 @@
  "lalinference.bayespputils.sph2cart":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.spinParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.spinParamsAli":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.spinParamsEff":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.spinParamsPrec":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.spin_angles":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.spline_angle_xform":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.statsParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.strongFieldParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.symm_tidal_params":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.tidalParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.tigerParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.timeParams":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.vo_nest2pos":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayespputils.xmlns":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayestar":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.bayestar.command":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.ArgumentParser":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.DirType":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.GlobAction":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.HelpChoicesAction":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.LogLevelAction":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.MatplotlibFigureType":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.SQLiteType":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.VersionAction":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command._sanitize_arg_value_for_xmldoc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.colormap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.dpi":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.figheight":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.figure_parser":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.figwidth":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.get_version":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.iterlines":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.loglevel_type":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.mpl_version":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.prior_parser":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.register_to_xmldoc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.skymap_parser":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.start_msg":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.stop_msg":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.transparent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.type_with_sideeffect":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.command.waveform_parser":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.decorator":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.decorator.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.decorator.as_dict":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.decorator.memoized":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.decorator.with_numpy_random_seed":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.bayestar.deprecation":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayestar.deprecation.MovedWarning":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayestar.deprecation.__all__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayestar.deprecation.rewrap":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.bayestar.deprecation.warn":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.bayestar.distance":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance._add_newdoc_ufunc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance._conditional_kde":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.cartesian_kde_to_moments":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.conditional_kde":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.marginal_cdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.marginal_pdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.marginal_ppf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.parameters_to_marginal_moments":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.principal_axes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.require_contiguous":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.ud_grade":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.volume_render":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.distance.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.CreateForwardCOMPLEX16FFTPlan":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.CreateForwardREAL8FFTPlan":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.CreateReverseCOMPLEX16FFTPlan":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.CreateReverseREAL8FFTPlan":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.__interpolants":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.abs2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.abscissa":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.add_quadrature_phase":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.autocorrelation":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.ceil_pow_2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.colored_noise":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.exp_i":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.fftfilt":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.generate_template":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.get_approximant_and_orders_from_string":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.get_f_lso":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.interpolate_max":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.lanczos":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.log":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.matched_filter_real":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.matched_filter_spa":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.poly_catmull_rom":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.signal_psd_series":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.sngl_inspiral_psd":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.truncated_ifft":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.unitInverseHertz":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.unitInverseSqrtHertz":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.filter.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.ligolw":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.ligolw.LSCTablesAndSeriesContentHandler":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.ligolw.LSCTablesContentHandler":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.ligolw.get_template_bank_f_low":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.ligolw.sim_coinc_and_sngl_inspirals_for_xmldoc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.moc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.moc._add_newdoc_ufunc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.moc.rasterize":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.moc.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.FoundInjection":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.HEALPIX_MACHINE_NSIDE":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.HEALPIX_MACHINE_ORDER":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.HEALPixTree":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._HEALPixTreeVisit":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._HEALPixTreeVisitExtra":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._adjacent_triangle_areas":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._get_detector_location":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._interpolate_level":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._norm":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._reconstruct_nested_breadthfirst":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._reconstruct_nested_depthfirst":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._simplify":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess._vec2radec":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.adaptive_healpix_histogram":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.angle_distance":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.contour":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.cos_angle_distance":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.count_modes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.cov":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.digitize":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.find_ellipse":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.find_greedy_credible_levels":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.find_injection_moc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.flood_fill":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.get_detector_pair_axis":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.indicator":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.interpolate_nested":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.polar_profile":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.posterior_max":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.posterior_mean":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.reconstruct_nested":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.rotate_map_to_axis":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.postprocess.smooth_ud_grade":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.sky_map":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.sky_map.derasterize":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.sky_map.localize":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.sky_map.log":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.sky_map.rasterize":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.sky_map.test":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.sky_map.toa_phoa_snr_log_prior":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.sky_map.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing.InterpolatedPSD":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing.SignalModel":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing._func":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing._ifo":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing._ifos":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing._noise_psd_funcs":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing.get_noise_psd_func":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing.log":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing.vectorize_swig_psd_func":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.bayestar.timing.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.bayestar.warn":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.distance":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance._add_newdoc_ufunc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance._conditional_kde":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.cartesian_kde_to_moments":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.conditional_kde":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.marginal_cdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.marginal_pdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.marginal_ppf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.parameters_to_marginal_moments":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.principal_axes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.require_contiguous":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.ud_grade":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.distance.volume_render":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.eigenframe":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.eigenframe.EigenFrame":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.eigenframe.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.eigenframe.eigenframe_to_icrs":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.eigenframe.icrs_to_eigenframe":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.git_version":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.VersionMismatchError":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.author":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.branch":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.builder":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.check_match":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.committer":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.date":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.id":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.status":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.tag":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.verbose_msg":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.git_version.version":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.healpix_tree":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree.HEALPIX_MACHINE_NSIDE":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree.HEALPIX_MACHINE_ORDER":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree.HEALPixTree":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree._HEALPixTreeVisit":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree._HEALPixTreeVisitExtra":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree._interpolate_level":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree._reconstruct_nested_breadthfirst":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree._reconstruct_nested_depthfirst":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree.adaptive_healpix_histogram":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree.interpolate_nested":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.healpix_tree.reconstruct_nested":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.imrtgr":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.imrtgrutils":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.imrtgrutils.P_integrand":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.imrtgrutils.calc_Mfchif_prior":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.imrtgrutils.calc_final_mass_spin":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.imrtgrutils.calc_sum":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.imrtgrutils.gf":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._RIT_setup":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._RIT_symm_express":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._bbh_HBR2016_ell":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._bbh_HBR2016_setup":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._check_chi":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._check_m":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._final_spin_diff_Healyetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._rescale_Lpeak":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils._truncate_at_Kerr_limit":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_Kerr_trunc_opts":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_Lpeak_fits":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_UIBfits_setup":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_aligned_Lpeak_6mode_SHXJDK":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_average_fits_precessing":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_mass_non_precessing_Healyetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_mass_non_precessing_Husaetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_mass_non_precessing_UIB2016":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_mass_non_spinning_Panetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_mass_projected_spin_Healyetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_mass_projected_spins":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_spin_non_precessing_HBR2016":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_spin_non_precessing_Healyetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_spin_non_precessing_Husaetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_spin_non_precessing_UIB2016":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_spin_non_spinning_Panetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_spin_precessing":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_spin_projected_spin_Healyetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_spin_projected_spins":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_final_state_fits":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_peak_luminosity_non_precessing_Healyetal":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_peak_luminosity_non_precessing_T1600018":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_peak_luminosity_non_precessing_UIB2016":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.bbh_peak_luminosity_projected_spins":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.nrutils.calc_isco_radius":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.pneqns":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.pneqns.Omega":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.pneqns.denergy_by_flux":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.pneqns.evolve_spins_dt":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.pneqns.find_tilts_and_phi12_at_freq":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.imrtgr.pneqns.precession_eqns":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io._":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io.__all__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.io.events":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events._":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.base":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.base.Event":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.base.SingleEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.base.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.base._fmt":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.base.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled.DetectorDisabledError":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled.DetectorDisabledEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled.Event":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled.SingleEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled._fmt":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled.open":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.detector_disabled.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.Event":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.GraceDBEventSource":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.LigoLWEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.LigoLWSingleEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.PHASE_CONVENTION_WARNING":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.SingleEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb._ContentHandler":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb._fmt":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb._read_xml":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.log":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.open":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.gracedb.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf.Event":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf.HDFEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf.HDFSingleEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf.SingleEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf._classify_hdf_file":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf._fmt":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf._hdf_file":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf._psd_segment":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf.open":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.hdf.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.Event":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.LigoLWEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.LigoLWSingleEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.PHASE_CONVENTION_WARNING":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.SingleEvent":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw._ContentHandler":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw._fmt":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw._read_xml":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.log":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.open":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.ligolw.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.magic":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.magic.MagicEventSource":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.magic.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.magic._get_file_type":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.magic.open":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.magic.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.sqlite":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.sqlite.SQLiteEventSource":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.sqlite.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.sqlite.open":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.sqlite.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.events.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.DEFAULT_NESTED_NAMES":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.DEFAULT_NESTED_UNITS":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.DEFAULT_NUNIQ_NAMES":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.DEFAULT_NUNIQ_UNITS":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.FITS_META_MAPPING":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.astropy_version":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.gps_to_iso8601":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.gps_to_mjd":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.identity":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.instruments_from_fits":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.instruments_to_fits":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.iso8601_to_gps":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.npix":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.nside":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.prob":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.read_sky_map":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.io.fits.write_sky_map":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.io.hdf5":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.io.hdf5.LALINFERENCE_PARAM_CIRCULAR":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.io.hdf5.LALINFERENCE_PARAM_FIXED":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.io.hdf5.LALINFERENCE_PARAM_LINEAR":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.io.hdf5.LALINFERENCE_PARAM_OUTPUT":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io.hdf5.LALInferenceHDF5PosteriorSamplesDatasetName":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io.hdf5.__all__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io.hdf5._colname_map":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io.hdf5._find_table":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io.hdf5._identity":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.io.hdf5._remap_colnames":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -7938,6 +9781,7 @@
  "lalinference.io.hdf5.read_samples":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -7947,15 +9791,41 @@
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
+ "lalinference.io.hdf5.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
  "lalinference.io.hdf5.write_samples":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.io.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.kde":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.kde.BoundedKDE":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.lalinference":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -7965,16 +9835,41 @@
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
+ "lalinference.lalinference._lalinference":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
  "lalinference.lalinference._swig_add_metaclass":{
   "__set__":true,
   "elements":[
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
+ "lalinference.lalinference._swig_getattr":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.lalinference._swig_property":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
  "lalinference.lalinference._swig_repr":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.lalinference._swig_setattr":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.lalinference._swig_setattr_nondynamic_class_variable":{
@@ -7992,30 +9887,35 @@
  "lalinference.lalinference_pipe_utils":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.BayesLineJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.BayesLineNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.BayesWavePSDJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.BayesWavePSDNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8034,42 +9934,49 @@
  "lalinference.lalinference_pipe_utils.CoherenceTestJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.CoherenceTestNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.CombineMCMCJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.CombineMCMCNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.EngineJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.EngineNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.Event":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8088,18 +9995,21 @@
  "lalinference.lalinference_pipe_utils.GraceDBJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.GraceDBNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.LALInferenceBurstNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8124,36 +10034,42 @@
  "lalinference.lalinference_pipe_utils.LALInferenceDataDumpNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.LALInferenceMCMCNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.LALInferenceNestNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.LALInferencePipelineDAG":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.MergeJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.MergeNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8172,12 +10088,14 @@
  "lalinference.lalinference_pipe_utils.PlotSkyMapJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.PlotSkyMapNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8196,48 +10114,68 @@
  "lalinference.lalinference_pipe_utils.Query_ROQ_Bounds_Type":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.ROMJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.ROMNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.ResultsPageJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.ResultsPageNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.lalinference_pipe_utils.SingularityJob":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.lalinference_pipe_utils.SingularityNode":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.SkyMapJob":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.SkyMapNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.chooseEngineNode":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8247,9 +10185,16 @@
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
+ "lalinference.lalinference_pipe_utils.create_pfn_tuple":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
  "lalinference.lalinference_pipe_utils.dummyCacheNames":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8268,84 +10213,104 @@
  "lalinference.lalinference_pipe_utils.get_engine_name":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.get_roq_component_mass_priors":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.get_roq_mass_freq_scale_factor":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.get_roq_mchirp_priors":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.get_timeslides_pipedown":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.get_trigger_chirpmass":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.get_xml_psds":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.get_zerolag_lloid":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.get_zerolag_pipedown":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.guess_url":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.mchirp_from_components":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.mkdirs":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.open_pipedown_database":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.lalinference_pipe_utils.readLValert":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.lalinference_pipe_utils.scan_timefile":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8355,345 +10320,2268 @@
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
+ "lalinference.moc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.moc.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.moc._add_newdoc_ufunc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.moc.rasterize":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
  "lalinference.nest2pos":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.nest2pos.compute_weights":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.nest2pos.draw_N_posterior":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.nest2pos.draw_posterior":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.nest2pos.log_integrate_log_trap":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.nest2pos.logsubexp":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.plot":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.plot._":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.plot.__all__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.plot.allsky":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.allsky.AstroDegreesMollweideAxes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.allsky.AstroHoursMollweideAxes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.allsky.AstroLambertAxes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.allsky.AstroMollweideAxes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.allsky.FixedMollweideAxes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.allsky.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.allsky.mpl_version":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.allsky.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.angle":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.angle.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.angle.reference_angle":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.angle.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.angle.wrapped_angle":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.backend_pdf_vcs_friendly":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.backend_pdf_vcs_friendly.FigureCanvas":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.backend_pdf_vcs_friendly.FigureManager":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.backend_pdf_vcs_friendly.FigureManagerPdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.backend_pdf_vcs_friendly.PdfFile":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.backend_pdf_vcs_friendly.PdfPages":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.backend_pdf_vcs_friendly.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.backend_pdf_vcs_friendly.register":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.cmap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.cmap.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.cmap.cmap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.cmap.data":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.cmap.e":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.cmap.f":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.cmap.name":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.cmap.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix._healpix_lookup":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix.colorbar":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix.contour":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix.healpix_contour":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix.healpix_heatmap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix.heatmap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix.outline_text":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.healpix.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.marker":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.marker.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.marker.earth":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.marker.reticle":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.marker.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.cut_dateline":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.cut_prime_meridian":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.make_rect_poly":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.mpl_version":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.reference_angle":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.subdivide_vertices":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.poly.wrapped_angle":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.pp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.pp.PPPlot":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.pp.__all__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.plot.pp.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.plot.spindisk":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.plot.spindisk.__all__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.plot.spindisk.make_disk_plot":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.plot.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.Cell":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.GriddingException":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.INVERSE_TRANSFORMS_MASS":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.OFFSET_VECTORS":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.VALID_TRANSFORMS_MASS":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.__a0":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.__a3":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.__dim_mass":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.__prefac_0":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.__prefac_3":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.__prefac_tau":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.apply_inv_transform":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.apply_transform":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.check_grid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.check_mchirpeta":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.check_spins":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.check_tau0tau3":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.create_new_grid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.create_regular_grid_from_cell":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.deserialize_grid_cells":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.grid_to_cells":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.grid_to_indices":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.init_grid_hdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.load_grid_level":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.load_init_region":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.m1m2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.midpoint":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.ndim_offsets":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.pack_grid_cells":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.prune_duplicate_pts":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.refine_regular_grid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.save_grid_cells_hdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.serialize_grid_cells":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.transform_m1m2_mceta":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.transform_m1m2_mcq":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.transform_m1m2_tau0tau3":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.transform_mceta_m1m2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.transform_mcq_m1m2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.transform_s1zs2z_chi":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.transform_tau0tau3_m1m2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.amrlib.unpack_grid_cells":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.JOB_PRIORITIES":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.LIKELIHOOD_PINNABLE_PARAMS":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.MAXJOBS":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.add_datasource_params":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.add_integration_params":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.add_intrinsic_params":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.add_output_params":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.add_pinnable_params":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.distRef":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.dmax":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.dmin":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.get_pinned_params":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.get_unpinned_params":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.param_limits":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.parse_cl_key_value":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.parse_param":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.common_cl.t_ref_wind":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.__author__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.is_exe":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.which":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.write_1dpos_plot_sub":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.write_bayes_pe_postproc_sub":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.write_integrate_likelihood_extrinsic_sub":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.write_posterior_plot_sub":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.write_result_coalescence_sub":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.dagutils.write_tri_plot_sub":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.__author__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.array_to_symmetric_matrix":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.effectiveFisher":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.eigensystem":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.evalfit2d":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.evalfit3d":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.evalfit4d":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.evalfit5d":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.evaluate_ip_on_grid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.find_effective_Fisher_region":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.linear_spoked_ellipsoid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.make_regular_1d_grids":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.multi_dim_flatgrid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.multi_dim_grid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.multi_dim_meshgrid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.residuals2d":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.residuals3d":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.residuals4d":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.residuals5d":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.uniform_random_ellipsoid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.uniform_spoked_ellipsoid":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.update_params_ip":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.effectiveFisher.update_params_norm_hoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.__author__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.complex_antenna_factor":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.compute_arrival_time_at_detector":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.compute_mode_cross_term_ip":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.compute_mode_ip_time_series":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.compute_mode_iterator":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.compute_spherical_harmonics":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.factored_log_likelihood":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.interpolate_rho_lm":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.precompute_likelihood_terms":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.factored_likelihood.single_detector_log_likelihood":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.ChooseWaveformParams":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.ComplexIP":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.ComplexOverlap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.Fcross":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.Fplus":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.HermitianComplexIP":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.InnerProduct":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.Mceta":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.Overlap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.RealIP":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.SphHarmFrequencySeries_to_dict":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.SphHarmTimeSeries_to_dict":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.TOL_DF":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.__author__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.a":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.approx":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.complex_hoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.complex_hoft":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.complex_norm_hoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.conj_hlmoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.estimateWaveformDuration":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.eta":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.findDeltaF":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.frame_data_to_hoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.frame_data_to_hoft":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.frame_data_to_non_herm_hoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.generate_waveform_from_tmplt":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.get_intp_psd_series_from_xmldoc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.get_psd_series_from_xmldoc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.hlmoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.hlmoft":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.hoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.hoft":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.m1":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.m1_out":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.m1i":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.m1m2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.m2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.m2_out":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.m2i":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.mass1":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.mass2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.mc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.mchirp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.nextPow2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.non_herm_hoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.norm_hoff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.norm_sym_ratio":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.overlap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.params":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.plist":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.resample_psd_series":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.s1z":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.s1zi":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.s2z":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.s2zi":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.sanitize_eta":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.single_ifo_snr":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.string_gps_pretty_print":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.symRatio":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.tidal_lambda_from_tilde":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.tidal_lambda_tilde":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.unwind_phase":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.lalsimutils.xml_to_ChooseWaveformParams_array":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.HealPixSampler":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.MCSampler":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.NanOrInf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.cos_samp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.dec_samp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.delta_func_pdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.delta_func_samp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.gauss_samp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.hps":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.inv_uniform_cdf":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.ns":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.pseudo_dist_samp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.pts":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.quadratic_samp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.rnd_idx":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.smap":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.mcsampler.uniform_samp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.AliasSampler":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.__author__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.alias":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.bin_chosen":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.binning":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.construct_alias_table":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.cprobs":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.cumvar":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.draw_from_alias_table":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.get_adaptive_binning":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.h":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.i":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.idx":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.int_var":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.nbin_side":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.neff":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.new_rvs":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.probs":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.rv":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.rvs":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.samp":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.x":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.statutils.y":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.synchlib":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.synchlib.init_socket":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.synchlib.prepare_data":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.synchlib.send_samples":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.CMAP":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.__author__":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.append_likelihood_result_to_xmldoc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.append_metadata_to_hdf5_group":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.append_samples_to_hdf5_group":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.append_samples_to_xmldoc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.ar":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.assign_id":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.db_identify_param":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.db_to_samples":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.gaussian":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.likelihood_to_snglinsp_row":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.loglikelihood":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.loglikes":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.m1":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.m1i":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.m1m":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.m2":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.m2i":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.m2m":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.multi_valid_cols":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.samp_dict":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.samples_to_siminsp_row":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.sim_valid_ext":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.sim_valid_int":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.sim_valid_req":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.sngl_valid_cols":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.rapid_pe.xmlutils.xmldoc":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.tiger":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.IFO":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.Ninj":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.__author__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.__email__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.__maintainer__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.__status__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.__version__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.args":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.check":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.colordict":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.dist":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.doubles":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.dumpunvetoed":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.ensure_dir":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.excludetimes":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.figseg":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.generateTimeslides":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.getDoubles":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.getTriples":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.i":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.ifos":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.interval":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.maxplot":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.minlen":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.nifos":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.np_version":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.outfolder":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.parser":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.plotsegdist":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.psdlen":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.py_version":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.segfiles":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.seglen":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.segment":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.single":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.singles":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.time":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.timesdict":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.timeslides":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.triples":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.vetofiles":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.make_injtimes.whereInj":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.omegascans_dag":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
@@ -8844,211 +12732,336 @@
  "lalinference.tiger.postproc":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.LoadPickledTigerSet":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.OddsFromBayes":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerCalculateEfficiency":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerCreateCumBayes":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerCreateCumFreq":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerCreateExampleConfigFile":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerCreateHistogram":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerCreateSNRvsOdds":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerKSandPvalue":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerPostProcess":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerPreProcess":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerRun":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.TigerSet":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.__author__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.__credits__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.__email__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.__maintainer__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.__status__":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.clusters":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.color_default":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.ensure":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.fig_height":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.fig_size":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.fig_width":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.fig_width_pt":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.fontsize":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.golden_mean":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.hatch_default":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.inches_per_pt":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.lnPLUS":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.main":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.params":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.py_version":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
   ]
  },
  "lalinference.tiger.postproc.scriptfilename":{
   "__set__":true,
   "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0",
    "python-lalinference-2.0.5-mpi_openmpi_py36hdabe1b1_0"
+  ]
+ },
+ "lalinference.util":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.file":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.file.TemporaryDirectory":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.file.rename":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.file.rm_f":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.file.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite._open":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite._open_a":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite._open_r":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite._open_w":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite._openers":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite.get_filename":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite.open":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
+  ]
+ },
+ "lalinference.util.sqlite.warn":{
+  "__set__":true,
+  "elements":[
+   "python-lalinference-1.10.1-py37h917ab60_0"
   ]
  },
  "lalinference.wrapper":{
