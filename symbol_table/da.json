@@ -4070,16 +4070,24 @@
    "dagster-cron-0.7.1-py_1"
   ]
  },
+ "dagster_dask.DataFrame":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
  "dagster_dask.__all__":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask.__version__":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask.config":{
@@ -4097,7 +4105,74 @@
  "dagster_dask.dask_executor":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame.DataFrame":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame.DataFrameReadTypes":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame.DataFrameToTypes":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame.EngineParquetOptions":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame.WriteCompressionTextOptions":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame._dataframe_loader_config":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame._dataframe_materializer_config":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame.dataframe_loader":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame.dataframe_materializer":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.data_frame.df_type_check":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask.engine":{
@@ -4133,19 +4208,46 @@
  "dagster_dask.executor":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.executor.DASK_RESOURCE_REQUIREMENTS_KEY":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.executor.DaskExecutor":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask.executor.dask_executor":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.executor.get_dask_resource_requirements":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask.executor.query_on_dask_worker":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask.version":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask.version.__nightly__":{
@@ -4157,7 +4259,8 @@
  "dagster_dask.version.__version__":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.conftest":{
@@ -4178,46 +4281,95 @@
    "dagster-dask-0.7.1-py_0"
   ]
  },
+ "dagster_dask_tests.test_data_frame":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask_tests.test_data_frame.create_dask_df":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask_tests.test_data_frame.test_dataframe_inputs":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask_tests.test_data_frame.test_dataframe_outputs":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
  "dagster_dask_tests.test_execute":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_execute.dask_composite_pipeline":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_execute.dask_engine_pipeline":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask_tests.test_execute.dask_pipeline":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask_tests.test_execute.dask_solid":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_execute.pandas_pipeline":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_execute.pandas_solid":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_execute.simple":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_execute.test_composite_execute":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
+ "dagster_dask_tests.test_execute.test_dask":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_execute.test_execute_on_dask":{
@@ -4226,46 +4378,59 @@
    "dagster-dask-0.7.1-py_0"
   ]
  },
+ "dagster_dask_tests.test_execute.test_execute_on_dask_local":{
+  "__set__":true,
+  "elements":[
+   "dagster-dask-0.9.9-py_1"
+  ]
+ },
  "dagster_dask_tests.test_execute.test_pandas_dask":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_graphql":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_graphql.test_execute_hammer_through_dagit":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_resource_tags":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_resource_tags.test_resource_tags":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_version":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_dask_tests.test_version.test_version":{
   "__set__":true,
   "elements":[
-   "dagster-dask-0.7.1-py_0"
+   "dagster-dask-0.7.1-py_0",
+   "dagster-dask-0.9.9-py_1"
   ]
  },
  "dagster_datadog.__all__":{

@@ -65,11 +65,18 @@
    "update_checker-0.12-py27_0"
   ]
  },
+ "uproot.ArrayCache":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
  "uproot.FileSource":{
   "__set__":true,
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -78,7 +85,20 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.LZ4":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.LZMA":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.MemmapSource":{
@@ -86,12 +106,20 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.Pointer":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.STLMap":{
   "__set__":true,
   "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -100,6 +128,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -108,6 +137,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -116,6 +146,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -124,6 +155,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -132,6 +164,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -140,7 +173,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.ThreadSafeArrayCache":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.XRootDSource":{
@@ -148,7 +188,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.ZLIB":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.__all__":{
@@ -156,6 +203,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -164,6 +212,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -172,7 +221,68 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot._connect._pandas.HTTPSource":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.MemmapSource":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.TTreeMethods_pandas":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.XRootDSource":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.asdtype":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.asjagged":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.asobj":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.astable":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.default_flatname":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._connect._pandas.futures2df":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot._connect.to_dask":{
@@ -260,7 +370,20 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot._help.TEXT_WIDTH":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._help._join_and_preserve_sequential_indent":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot._help._method":{
@@ -268,6 +391,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -276,6 +400,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -284,6 +409,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -292,6 +418,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -300,6 +427,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -308,6 +436,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -316,6 +445,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -324,7 +454,26 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot._help.wrap":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._util":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot._util._tobytes":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.asarray":{
@@ -332,6 +481,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -340,6 +490,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -348,6 +499,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -356,6 +508,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -364,6 +517,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -372,6 +526,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -380,6 +535,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -388,6 +544,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -396,6 +553,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -404,6 +562,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -412,6 +571,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -420,6 +580,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -428,6 +589,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -436,6 +598,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -444,6 +607,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -452,6 +616,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -460,6 +625,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -468,6 +634,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -476,6 +643,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -484,6 +652,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -492,6 +661,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -500,6 +670,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -508,6 +679,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -516,6 +688,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -524,6 +697,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -532,6 +706,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -540,6 +715,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -548,6 +724,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -556,6 +733,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -564,6 +742,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -572,6 +751,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -580,6 +760,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -588,6 +769,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -596,6 +778,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -604,6 +787,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -612,6 +796,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -620,6 +805,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -628,6 +814,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -636,6 +823,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -644,6 +832,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -652,6 +841,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -660,6 +850,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -668,6 +859,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -676,6 +868,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -684,6 +877,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -692,6 +886,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -700,6 +895,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -708,6 +904,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -716,6 +913,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -724,6 +922,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -732,6 +931,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -740,6 +940,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -748,6 +949,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -756,6 +958,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -764,6 +967,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -772,6 +976,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -780,6 +985,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -788,6 +994,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -796,6 +1003,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -804,6 +1012,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -812,6 +1021,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -820,6 +1030,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -828,6 +1039,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -836,6 +1048,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -844,6 +1057,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -852,6 +1066,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -860,6 +1075,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -868,6 +1084,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -876,6 +1093,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -884,6 +1102,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -892,6 +1111,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -900,6 +1120,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -908,6 +1129,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -916,6 +1138,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -924,6 +1147,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -932,6 +1156,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -940,6 +1165,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -948,6 +1174,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -956,6 +1183,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -964,6 +1192,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -972,6 +1201,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -980,6 +1210,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -988,6 +1219,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -996,6 +1228,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1004,6 +1237,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1012,6 +1246,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1020,6 +1255,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1028,6 +1264,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1036,6 +1273,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1044,7 +1282,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.const.kZSTD":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.const.kZombie":{
@@ -1052,6 +1297,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1060,6 +1306,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1068,6 +1315,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1076,6 +1324,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1084,6 +1333,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1095,9 +1345,16 @@
    "uproot-base-3.4.15-py27_0"
   ]
  },
+ "uproot.interp.auto.Pointer":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
  "uproot.interp.auto.STLMap":{
   "__set__":true,
   "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1106,6 +1363,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1114,6 +1372,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1122,6 +1381,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1130,6 +1390,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1138,6 +1399,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1146,12 +1408,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
  "uproot.interp.auto._normalize_ftype":{
   "__set__":true,
   "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1160,6 +1424,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1168,6 +1433,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1176,6 +1442,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1184,12 +1451,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
  "uproot.interp.auto.asfloat16":{
   "__set__":true,
   "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1198,6 +1467,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1206,6 +1476,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1214,6 +1485,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1222,6 +1494,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1230,6 +1503,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1238,6 +1512,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1246,7 +1521,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.interp.auto.streamer_aliases":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.interp.interp":{
@@ -1262,6 +1544,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1270,6 +1553,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1277,7 +1561,14 @@
   "__set__":true,
   "elements":[
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.interp.interp.Interpretation.debug_reading":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.interp.interp.Interpretation.identifier":{
@@ -1285,6 +1576,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1301,6 +1593,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1309,6 +1602,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1317,6 +1611,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1325,6 +1620,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1332,7 +1628,14 @@
   "__set__":true,
   "elements":[
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.interp.jagged.debug_reading":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.interp.jagged.identifier":{
@@ -1340,6 +1643,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1351,11 +1655,18 @@
    "uproot-base-3.4.15-py27_0"
   ]
  },
+ "uproot.interp.numerical.BYTEORDER_INDICATORS":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
  "uproot.interp.numerical.__metaclass__":{
   "__set__":true,
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1364,6 +1675,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1372,6 +1684,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1380,6 +1693,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1388,6 +1702,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1396,6 +1711,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1404,12 +1720,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
  "uproot.interp.numerical.asfloat16":{
   "__set__":true,
   "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1418,6 +1736,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1425,7 +1744,14 @@
   "__set__":true,
   "elements":[
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.interp.numerical.debug_reading":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.interp.numerical.identifier":{
@@ -1433,6 +1759,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1441,6 +1768,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1452,9 +1780,22 @@
    "uproot-base-3.4.15-py27_0"
   ]
  },
+ "uproot.interp.objects.JaggedWithByteOffsets":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.interp.objects.Pointer":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
  "uproot.interp.objects.STLMap":{
   "__set__":true,
   "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1463,6 +1804,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1471,6 +1813,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1479,6 +1822,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1487,7 +1831,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.interp.objects._tobytes":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.interp.objects._variable":{
@@ -1495,6 +1846,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1503,6 +1855,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1511,6 +1864,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1519,6 +1873,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1527,6 +1882,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1534,7 +1890,14 @@
   "__set__":true,
   "elements":[
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.interp.objects.debug_reading":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.interpret":{
@@ -1542,6 +1905,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1550,6 +1914,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1558,7 +1923,20 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.newbranch":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.newtree":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.numentries":{
@@ -1566,6 +1944,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1574,7 +1953,38 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.pandas":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.pandas.HTTPSource":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.pandas.MemmapSource":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.pandas.XRootDSource":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.pandas.iterate":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.rootio":{
@@ -1582,6 +1992,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1590,6 +2001,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1598,6 +2010,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1606,6 +2019,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1614,6 +2028,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1622,6 +2037,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1630,7 +2046,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.rootio.ROOT_3a3a_Experimental_3a3a_RNTuple":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.rootio.ROOT_3a3a_TIOFeatures":{
@@ -1638,6 +2061,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1646,6 +2070,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1654,6 +2079,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1662,6 +2088,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1670,6 +2097,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1678,6 +2106,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1686,6 +2115,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1694,6 +2124,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1702,7 +2133,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.rootio.TRef":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.rootio.TStreamerArtificial":{
@@ -1710,6 +2148,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1718,6 +2157,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1726,6 +2166,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1734,6 +2175,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1742,6 +2184,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1750,6 +2193,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1758,6 +2202,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1766,6 +2211,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1774,6 +2220,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1782,6 +2229,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1790,6 +2238,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1798,6 +2247,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1806,12 +2256,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
  "uproot.rootio._KeyError":{
   "__set__":true,
   "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1820,6 +2272,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1828,6 +2281,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1836,6 +2290,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1844,6 +2299,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1852,6 +2308,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1860,6 +2317,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1868,7 +2326,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.rootio._longsize":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.rootio._makeclass":{
@@ -1876,7 +2341,20 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.rootio._mapstrstr":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.rootio._memsize":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.rootio._nametitle":{
@@ -1884,6 +2362,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1892,6 +2371,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1900,6 +2380,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1908,6 +2389,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1916,6 +2398,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1924,6 +2407,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1932,6 +2416,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1940,7 +2425,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.rootio._tobytes":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.rootio.builtin_classes":{
@@ -1948,6 +2440,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1956,6 +2449,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1964,6 +2458,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1972,6 +2467,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1980,6 +2476,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1988,6 +2485,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -1996,6 +2494,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2012,6 +2511,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2020,6 +2520,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2028,6 +2529,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2044,6 +2546,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2052,6 +2555,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2060,6 +2564,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2076,7 +2581,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.source.cursor._tobytes":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.source.file":{
@@ -2092,6 +2604,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2100,6 +2613,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2116,6 +2630,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2124,6 +2639,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2140,6 +2656,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2148,6 +2665,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2164,6 +2682,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2172,6 +2691,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2188,6 +2708,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2196,6 +2717,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2204,6 +2726,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2212,6 +2735,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2220,6 +2744,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2236,6 +2761,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2250,6 +2776,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2258,6 +2785,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2266,7 +2794,26 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.tree._LazyBranch":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.tree._LazyFiles":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.tree._LazyTree":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.tree._bytesid":{
@@ -2274,6 +2821,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2282,6 +2830,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2290,6 +2839,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2298,14 +2848,28 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.tree._memsize":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.tree._normalize_awkwardlib":{
   "__set__":true,
   "elements":[
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.tree._normalize_entrystartstop":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.tree._numentries":{
@@ -2313,7 +2877,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.tree._safename":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.tree.asdtype":{
@@ -2321,7 +2892,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.tree.asgenobj":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.tree.asjagged":{
@@ -2329,7 +2907,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.tree.asobj":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.tree.daskarray":{
@@ -2337,6 +2922,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2345,6 +2931,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2353,6 +2940,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2361,6 +2949,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2369,6 +2958,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2377,6 +2967,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2385,6 +2976,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2393,6 +2985,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2401,6 +2994,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2409,6 +3003,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2417,6 +3012,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2425,6 +3021,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2433,6 +3030,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2449,6 +3047,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2465,6 +3064,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2473,6 +3073,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2481,7 +3082,20 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.write.TFile.TTree":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.TFile.Util":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.write.TFile.nofilter":{
@@ -2489,6 +3103,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2505,6 +3120,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2516,12 +3132,49 @@
    "uproot-base-3.4.15-py27_0"
   ]
  },
+ "uproot.write.TKey.BasketKey":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
  "uproot.write.TKey.TKey":{
   "__set__":true,
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.write.compress.Compression":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.compress.LZ4":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.compress.LZMA":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.compress.ZLIB":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.compress.write":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.write.objects":{
@@ -2530,6 +3183,18 @@
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.write.objects.TH.TH":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TH._bytesid":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.write.objects.TH1":{
@@ -2561,7 +3226,74 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.write.objects.TTree.BasketKey":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree.TBranch":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree.TTree":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree.Util":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree._bytesid":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree._memsize":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree._tobytes":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree.newbranch":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree.newtree":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.TTree.nofilter":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
+  ]
+ },
+ "uproot.write.objects.util.Util":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.write.sink":{
@@ -2585,7 +3317,14 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
+  ]
+ },
+ "uproot.write.sink.cursor._tobytes":{
+  "__set__":true,
+  "elements":[
+   "uproot-base-3.13.0-py36he7cccf2_0"
   ]
  },
  "uproot.write.sink.file":{
@@ -2601,6 +3340,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2609,6 +3349,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2639,6 +3380,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
@@ -2647,6 +3389,7 @@
   "elements":[
    "uproot-3.3.1-py37_0",
    "uproot-3.4.0-py27_0",
+   "uproot-base-3.13.0-py36he7cccf2_0",
    "uproot-base-3.4.15-py27_0"
   ]
  },
