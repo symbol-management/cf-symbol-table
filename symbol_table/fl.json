@@ -2729,6 +2729,894 @@
    "flask-httpauth-3.2.1-py27_0"
   ]
  },
+ "flask_jwt_extended.JWTManager":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.__version__":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.config":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.config._Config":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.config.config":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.config.requires_cryptography":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.create_access_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.create_refresh_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.current_user":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.decode_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.config":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_claims_verification_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_decode_key_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_encode_key_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_expired_token_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_invalid_token_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_jwt_headers_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_needs_fresh_token_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_revoked_token_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_unauthorized_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_user_claims_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_user_identity_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_user_loader_error_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.default_callbacks.default_verify_claims_failed_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.CSRFError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.FreshTokenRequired":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.InvalidHeaderError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.JWTDecodeError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.JWTExtendedException":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.NoAuthorizationError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.RevokedTokenError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.UserClaimsVerificationError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.UserLoadError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.exceptions.WrongTokenError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.fresh_jwt_required":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.get_csrf_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.get_current_user":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.get_jti":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.get_jwt_claims":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.get_jwt_identity":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.get_raw_jwt":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.get_unverified_jwt_headers":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.CSRFError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.FreshTokenRequired":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.InvalidHeaderError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.JWTDecodeError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.JWTManager":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.NoAuthorizationError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.RevokedTokenError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.UserClaimsVerificationError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.UserLoadError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.WrongTokenError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.config":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_claims_verification_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_decode_key_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_encode_key_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_expired_token_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_invalid_token_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_jwt_headers_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_needs_fresh_token_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_revoked_token_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_unauthorized_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_user_claims_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_user_identity_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_user_loader_error_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.default_verify_claims_failed_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.encode_access_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.encode_refresh_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_manager.get_jwt_identity":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_optional":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_refresh_token_required":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.jwt_required":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.set_access_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.set_refresh_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.tokens":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.tokens.CSRFError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.tokens.JWTDecodeError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.tokens._create_csrf_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.tokens._encode_jwt":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.tokens.decode_jwt":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.tokens.encode_access_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.tokens.encode_refresh_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.unset_access_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.unset_jwt_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.unset_refresh_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.RevokedTokenError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.UserClaimsVerificationError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.WrongTokenError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils._get_jwt_manager":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.config":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.create_access_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.create_refresh_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.current_user":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.decode_jwt":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.decode_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.get_csrf_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.get_current_user":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.get_jti":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.get_jwt_claims":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.get_jwt_identity":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.get_raw_jwt":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.get_unverified_jwt_headers":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.has_token_in_blacklist_callback":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.has_user_loader":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.set_access_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.set_refresh_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.token_in_blacklist":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.unset_access_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.unset_jwt_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.unset_refresh_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.user_loader":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.verify_token_claims":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.verify_token_not_blacklisted":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.utils.verify_token_type":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.verify_fresh_jwt_in_request":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.verify_jwt_in_request":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.verify_jwt_refresh_token_in_request":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.CSRFError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.FreshTokenRequired":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.InvalidHeaderError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.NoAuthorizationError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.UserLoadError":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators._decode_jwt_from_cookies":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators._decode_jwt_from_headers":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators._decode_jwt_from_json":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators._decode_jwt_from_query_string":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators._decode_jwt_from_request":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators._load_user":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.config":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.decode_token":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.fresh_jwt_required":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.get_unverified_jwt_headers":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.has_user_loader":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.jwt_optional":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.jwt_refresh_token_required":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.jwt_required":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.user_loader":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.verify_fresh_jwt_in_request":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.verify_jwt_in_request":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.verify_jwt_refresh_token_in_request":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.verify_token_claims":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.verify_token_not_blacklisted":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flask_jwt_extended.view_decorators.verify_token_type":{
+  "__set__":true,
+  "elements":[
+   "flask-jwt-extended-3.25.0-pyhd8ed1ab_0"
+  ]
+ },
  "flask_ldap3_login.AuthenticationResponse":{
   "__set__":true,
   "elements":[
@@ -4093,63 +4981,78 @@
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.JsonApiException":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.ResourceDetail":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.ResourceList":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.ResourceRelationship":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.__all__":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.api":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.api.Api":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.api.ResourceList":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
+  ]
+ },
+ "flask_rest_jsonapi.api.ResourceRelationship":{
+  "__set__":true,
+  "elements":[
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.constants":{
@@ -4168,21 +5071,24 @@
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.BaseDataLayer":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.DEFAULT_PAGE_SIZE":{
@@ -4194,270 +5100,315 @@
  "flask_rest_jsonapi.data_layers.alchemy.InvalidInclude":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.InvalidSort":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.JsonApiException":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.ObjectNotFound":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.RelatedObjectNotFound":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.RelationNotFound":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.SqlalchemyDataLayer":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.create_filters":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.get_model_field":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.get_related_schema":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.get_relationships":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.alchemy.get_schema_field":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.base":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.base.BaseDataLayer":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.filtering":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.filtering.alchemy":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.filtering.alchemy.InvalidFilters":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.filtering.alchemy.Node":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.filtering.alchemy.create_filters":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.filtering.alchemy.get_model_field":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.data_layers.filtering.alchemy.get_relationships":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.decorators":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.decorators.check_headers":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.decorators.check_method_requirements":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.decorators.jsonapi_errors":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.errors":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.errors.jsonapi_errors":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
+  ]
+ },
+ "flask_rest_jsonapi.exceptions.AccessDenied":{
+  "__set__":true,
+  "elements":[
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.BadRequest":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.InvalidField":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.InvalidFilters":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.InvalidInclude":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.InvalidSort":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.InvalidType":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.JsonApiException":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.ObjectNotFound":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.RelatedObjectNotFound":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.exceptions.RelationNotFound":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.pagination":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.pagination.DEFAULT_PAGE_SIZE":{
@@ -4470,214 +5421,245 @@
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.BadRequest":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.InvalidField":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.InvalidFilters":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.InvalidInclude":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.InvalidSort":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.QueryStringManager":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.get_model_field":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.get_relationships":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.querystring.get_schema_from_type":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.BadRequest":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.BaseDataLayer":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.InvalidType":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.JsonApiException":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.QueryStringManager":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.RelationNotFound":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.Resource":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.ResourceDetail":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.ResourceList":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.ResourceRelationship":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.SqlalchemyDataLayer":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.add_pagination_links":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.check_headers":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.check_method_requirements":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.compute_schema":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.get_model_field":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.get_relationships":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.resource.jsonapi_errors":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.schema":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.schema.InvalidField":{
@@ -4690,46 +5672,53 @@
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.schema.compute_schema":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.schema.get_model_field":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.schema.get_related_schema":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.schema.get_relationships":{
   "__set__":true,
   "elements":[
    "flask-rest-jsonapi-0.12.6-py35_1",
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.schema.get_schema_field":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_rest_jsonapi.schema.get_schema_from_type":{
   "__set__":true,
   "elements":[
-   "flask-rest-jsonapi-0.13.0-py27_1"
+   "flask-rest-jsonapi-0.13.0-py27_1",
+   "flask-rest-jsonapi-0.17.1-py36_0"
   ]
  },
  "flask_restalchemy.Api":{
@@ -11236,6 +12225,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11243,6 +12233,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11250,6 +12241,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11257,6 +12249,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11264,6 +12257,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11271,6 +12265,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11278,6 +12273,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11285,18 +12281,21 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.cmd":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.directives":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11304,6 +12303,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11311,6 +12311,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11318,6 +12319,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11343,6 +12345,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11350,12 +12353,14 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.environment.ENVIRONMENT":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11363,6 +12368,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11370,6 +12376,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11383,6 +12390,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11390,6 +12398,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11397,12 +12406,14 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.environment.SimpleSchedulerEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11410,12 +12421,14 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.environment.StandardEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11423,6 +12436,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11430,6 +12444,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11437,6 +12452,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11444,6 +12460,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11451,6 +12468,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11458,6 +12476,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11465,6 +12484,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11472,6 +12492,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11479,6 +12500,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11486,6 +12508,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11493,6 +12516,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11500,6 +12524,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11507,6 +12532,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11514,6 +12540,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11521,6 +12548,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11528,6 +12556,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11535,6 +12564,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11542,6 +12572,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11549,12 +12580,14 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.environments.umich.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11580,6 +12613,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11587,6 +12621,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11594,12 +12629,14 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.environments.xsede.Stampede2Environment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11607,12 +12644,14 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.environments.xsede.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11620,18 +12659,21 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.errors.ConfigKeyError":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.errors.JINJA2":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11639,6 +12681,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11646,12 +12689,14 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.errors.TemplateError":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11689,6 +12734,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11732,6 +12778,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11739,36 +12786,42 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.labels._is_label_func":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.labels.classlabel":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.labels.label":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.labels.staticlabel":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.legacy":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11781,30 +12834,35 @@
  "flow.legacy.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.legacy.submit_04":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.legacy.support_run_legacy_api":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.legacy.support_submit_legacy_api":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.legacy.support_submit_operations_legacy_api":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11878,12 +12936,14 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.operations.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11891,24 +12951,28 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.operations.cmd":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.operations.directives":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.operations.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11922,6 +12986,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11929,6 +12994,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11936,6 +13002,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11943,6 +13010,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11950,18 +13018,21 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project.JINJA2":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project.Jinja2TemplateNotFound":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11969,18 +13040,21 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project.TEMPLATE_HELP":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project._FMT_SCHEDULER_STATUS":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -11988,24 +13062,28 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project._LEGACY_TEMPLATING_METHODS":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project._condition":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12018,6 +13096,7 @@
  "flow.project._fork_with_serialization":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12036,6 +13115,7 @@
  "flow.project._part_of_legacy_template_system":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12048,24 +13128,28 @@
  "flow.project._post":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project._pre":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project._support_legacy_api":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.project._update_job_status":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12073,6 +13157,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12110,6 +13195,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12117,6 +13203,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12136,6 +13223,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12143,6 +13231,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12167,240 +13256,280 @@
  "flow.scheduling":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.FakeScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.MoabScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.SlurmScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.TorqueScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.base":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.base.ClusterJob":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.base.JobStatus":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.base.Scheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.base.Scheduler._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.base.Scheduler._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.fakescheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.fakescheduler.FakeScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.fakescheduler._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.fakescheduler._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.fakescheduler.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.simple_scheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.simple_scheduler.SimpleScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.simple_scheduler._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.simple_scheduler._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.slurm":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.slurm.SlurmJob":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.slurm.SlurmScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.slurm._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.slurm._fetch":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.slurm._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.slurm.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.status":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.status._status_local":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.status._status_scheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.status.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.status.update_status":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.torque":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.torque.TorqueJob":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.torque.TorqueScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.torque._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.torque._fetch":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.torque._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.scheduling.torque.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12450,6 +13579,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12457,18 +13587,21 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.template.JINJA2":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.template.Jinja2TemplateNotFound":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12476,6 +13609,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12483,6 +13617,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12490,6 +13625,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12539,6 +13675,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12546,150 +13683,175 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.config":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.config.MISSING_ENV_CONF_KEY_MSG":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.config._GET_CONFIG_VALUE_NONE":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.config._GetConfigValueNoneType":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.config.get_config_value":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.config.require_config_value":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.dependencies":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.dependencies._requires_jinja2":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.execution":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.execution.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.execution.fork":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc._is_identifier":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc._mkdir_p":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc._positive_int":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc.add_cwd_to_environment_pythonpath":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc.add_path_to_environment_pythonpath":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc.draw_progressbar":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc.redirect_log":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc.switch_to_directory":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.misc.write_human_readable_statepoint":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.progressbar":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.progressbar.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.progressbar.with_progressbar":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12697,6 +13859,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12704,6 +13867,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12711,6 +13875,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12718,6 +13883,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12725,6 +13891,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12732,6 +13899,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12739,6 +13907,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12746,6 +13915,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12753,6 +13923,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12760,6 +13931,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12767,6 +13939,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12774,6 +13947,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12781,6 +13955,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12788,6 +13963,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12795,6 +13971,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12802,6 +13979,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12809,6 +13987,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12816,6 +13995,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12823,6 +14003,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12830,6 +14011,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12837,6 +14019,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12844,6 +14027,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12851,6 +14035,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12858,6 +14043,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12865,6 +14051,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12872,6 +14059,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12879,6 +14067,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12886,6 +14075,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12893,6 +14083,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12900,6 +14091,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12907,6 +14099,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12914,6 +14107,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12921,6 +14115,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12928,6 +14123,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12935,6 +14131,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12942,6 +14139,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12949,6 +14147,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12956,6 +14155,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12963,6 +14163,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12970,6 +14171,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12977,6 +14179,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12984,6 +14187,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12991,6 +14195,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -12998,6 +14203,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13005,6 +14211,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13012,6 +14219,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13019,6 +14227,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13026,30 +14235,35 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.template_filters":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.template_filters._format_timedelta":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.template_filters._identical":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.template_filters._with_np_offset":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13057,6 +14271,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13064,6 +14279,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13071,6 +14287,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13078,6 +14295,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13085,6 +14303,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13092,6 +14311,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13099,6 +14319,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13106,6 +14327,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13113,6 +14335,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13120,6 +14343,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13127,6 +14351,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13134,6 +14359,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13141,6 +14367,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13148,6 +14375,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13155,6 +14383,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13162,6 +14391,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13169,6 +14399,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13176,6 +14407,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13183,6 +14415,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13190,6 +14423,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13197,6 +14431,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13204,6 +14439,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13211,6 +14447,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13218,6 +14455,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13225,6 +14463,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13232,6 +14471,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13239,6 +14479,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13246,6 +14487,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13253,6 +14495,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13260,6 +14503,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13267,6 +14511,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13274,6 +14519,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13281,6 +14527,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13288,6 +14535,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13295,6 +14543,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13302,6 +14551,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13309,6 +14559,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13316,6 +14567,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13323,6 +14575,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13330,6 +14583,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13337,6 +14591,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13344,6 +14599,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13351,6 +14607,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13358,6 +14615,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13365,6 +14623,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13372,6 +14631,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13379,6 +14639,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13386,6 +14647,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13393,6 +14655,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13400,6 +14663,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13407,6 +14671,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13414,6 +14679,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13421,6 +14687,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13428,6 +14695,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13435,6 +14703,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13442,6 +14711,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13449,6 +14719,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13456,6 +14727,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13463,6 +14735,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13470,6 +14743,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13477,6 +14751,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13484,6 +14759,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13491,6 +14767,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13498,6 +14775,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13505,6 +14783,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13512,6 +14791,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13519,6 +14799,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13526,6 +14807,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13533,6 +14815,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13540,6 +14823,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13547,6 +14831,7 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
@@ -13554,24 +14839,28 @@
   "__set__":true,
   "elements":[
    "signac-flow-0.5.6-py27_1",
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.translate":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.translate.abbreviate":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
  "flow.util.translate.shorten":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.3-py35_0"
   ]
  },
