@@ -755,6 +755,12 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.NxView":{
   "__set__":true,
   "elements":[
@@ -764,7 +770,8 @@
  "orangecontrib.network._fr_layout.fruchterman_reingold":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network._get_doc":{
@@ -776,7 +783,8 @@
  "orangecontrib.network.community":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.community.CommunityDetection":{
@@ -806,7 +814,8 @@
  "orangecontrib.network.network":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.network.BaseGraph":{
@@ -851,6 +860,12 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.network.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.network.NxView":{
   "__set__":true,
   "elements":[
@@ -863,10 +878,425 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.network.base":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.base.DirectedEdges":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.base.EdgeType":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.base.Edges":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.base.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.base.UndirectedEdges":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.base.aggregate_over_edge_types":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.base.concatenate_over_edge_types":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.base.sum_over_edge_types":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.community":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.community.CommunityDetection":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.community.add_results_to_items":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.community.label_propagation":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.community.remap_labels":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.__all__":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate._hypercube":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.barbell":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.circular_ladder":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.complete":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.cycle":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.from_csr":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.from_dense":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.from_row_col":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.geometric":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.grid":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.hypercube":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.ladder":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.lollipop":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.path":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.generate.star":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite.NetFileFormat":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite.PajekReader":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite.__all__":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite._write_edges":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite._write_vertices":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite.read_edges":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite.read_pajek":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite.read_vertices":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite.transform_data_to_orange_table":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.readwrite.write_pajek":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.NoWeights":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightConnections":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightGeo":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightGeoDeg":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightInput":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightMax":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightMin":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightOutput":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightType":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.WeightWeightedConnections":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.Weighting":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._dot_edges":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._filtered_edges":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._norm_min_max":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._normalize":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._weight_connections":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._weight_geo":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._weight_input":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._weight_max":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._weight_min":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._weight_no_weights":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._weight_output":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode._weight_weighted_connections":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.network.twomode.to_single_mode":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.networks":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.readwrite":{
@@ -962,85 +1392,134 @@
  "orangecontrib.network.setup":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.setup.configuration":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.BACKGROUND":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.DESCRIPTION":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.ICON":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.NAME":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxAnalysis":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxAnalysis.ERRORED":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxAnalysis.GRAPHLEVEL":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxAnalysis.INTERNAL":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxAnalysis.METHODS":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxAnalysis.MethodDefinition":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxAnalysis.NODELEVEL":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxAnalysis.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxAnalysis.OWNxAnalysis":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxAnalysis.TERMINATED":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxAnalysis.WorkerThread":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxAnalysis.a":{
   "__set__":true,
   "elements":[
    "orange3-network-1.4.1-py36_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxAnalysis.main":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxAnalysis.network":{
@@ -1067,10 +1546,17 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.widgets.OWNxAnalysis.shortest_paths_nan_diag":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.widgets.OWNxClustering":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxClustering.Graph":{
@@ -1079,76 +1565,100 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.widgets.OWNxClustering.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.widgets.OWNxClustering.OWNxClustering":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxClustering.a":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxClustering.community":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxClustering.ow":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxClustering.owFile":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxClustering.set_network":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxExplorer":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxExplorer.FR_ITERATIONS":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxExplorer.GraphView":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxExplorer.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxExplorer.OWNxExplorer":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxExplorer.fruchterman_reingold":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxExplorer.main":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxExplorer.network":{
@@ -1160,7 +1670,8 @@
  "orangecontrib.network.widgets.OWNxFile":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxFile.NONE":{
@@ -1169,10 +1680,17 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.widgets.OWNxFile.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.widgets.OWNxFile.OWNxFile":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxFile.PajekBug":{
@@ -1199,40 +1717,58 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.widgets.OWNxFile.read_pajek":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.widgets.OWNxFromDistances":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxFromDistances.EdgeWeights":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxFromDistances.Histogram":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxFromDistances.InfiniteLine":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxFromDistances.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxFromDistances.NodeSelection":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxFromDistances.OWNxFromDistances":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxFromDistances.appl":{
@@ -1256,25 +1792,41 @@
  "orangecontrib.network.widgets.OWNxFromDistances.pg_InfiniteLine":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxGenerator":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxGenerator.GraphType":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxGenerator.OWNxGenerator":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.__all__":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxGenerator._balanced_tree":{
@@ -1283,16 +1835,101 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.widgets.OWNxGenerator._ctrl_name":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.widgets.OWNxGenerator._hypercube":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxGenerator.a":{
   "__set__":true,
   "elements":[
    "orange3-network-1.4.1-py36_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.barbell":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.circular_ladder":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.complete":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.cycle":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.from_csr":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.from_dense":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.from_row_col":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.geometric":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.grid":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.hypercube":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.ladder":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.lollipop":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.main":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.OWNxGenerator.network":{
@@ -1307,28 +1944,134 @@
    "orange3-network-1.4.1-py36_0"
   ]
  },
+ "orangecontrib.network.widgets.OWNxGenerator.path":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGenerator.star":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGroups":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGroups.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGroups.OWNxGroups":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxGroups.main":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
  "orangecontrib.network.widgets.OWNxSave":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxSave.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxSave.OWNxSave":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxSave.PajekReader":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxSave.main_with_annotation":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxSave.main_without_annotation":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.OWNxSave.readwrite":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.graphview":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.graphview.GraphView":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.network.widgets.graphview.PlotVarWidthCurveItem":{
   "__set__":true,
   "elements":[
-   "orange3-network-1.4.1-py36_0"
+   "orange3-network-1.4.1-py36_0",
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.ownxsinglemode":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.ownxsinglemode.Network":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.ownxsinglemode.OWNxSingleMode":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.ownxsinglemode.main":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
+  ]
+ },
+ "orangecontrib.network.widgets.ownxsinglemode.twomode":{
+  "__set__":true,
+  "elements":[
+   "orange3-network-1.5.0-py36he1b5a44_0"
   ]
  },
  "orangecontrib.timeseries.ARIMA":{
