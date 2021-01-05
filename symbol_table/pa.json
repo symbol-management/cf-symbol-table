@@ -13318,13 +13318,32 @@
    "paramtools-0.13.0-pyh9f0ad1d_0"
   ]
  },
+ "parcels.AdvectionAnalytical":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.AdvectionDiffusionEM":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.AdvectionDiffusionM1":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.AdvectionEE":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.AdvectionRK4":{
@@ -13333,7 +13352,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.AdvectionRK4DiffusionEM":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.AdvectionRK4DiffusionM1":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.BrownianMotion2D":{
@@ -13351,26 +13383,36 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.CurvilinearSGrid":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.CurvilinearZGrid":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.DeferredArray":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.DiffusionUniformKh":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.DuplicateFilter":{
@@ -13379,7 +13421,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.ErrorCode":{
@@ -13388,7 +13431,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.Field":{
@@ -13397,7 +13441,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.FieldOutOfBoundError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.FieldOutOfBoundSurfaceError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.FieldSamplingError":{
@@ -13406,7 +13463,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.FieldSet":{
@@ -13415,7 +13473,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.GNUCompiler":{
@@ -13424,7 +13483,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.Geographic":{
@@ -13433,7 +13493,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.Grid":{
@@ -13442,7 +13503,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.GridSet":{
@@ -13451,7 +13513,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.InterpolationError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.JITParticle":{
@@ -13460,7 +13529,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.Kernel":{
@@ -13469,7 +13539,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.KernelError":{
@@ -13478,7 +13549,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.KernelGenerator":{
@@ -13487,7 +13559,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.LoopGenerator":{
@@ -13496,14 +13569,22 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.MPI":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.NestedField":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.NetcdfFileBuffer":{
@@ -13512,7 +13593,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.OutOfBoundsError":{
@@ -13521,7 +13603,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.OutOfTimeError":{
@@ -13530,7 +13613,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.ParticleAccessor":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.ParticleFile":{
@@ -13539,7 +13629,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.ParticleSet":{
@@ -13548,7 +13639,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.ParticleType":{
@@ -13557,7 +13649,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.RectilinearGrid":{
@@ -13566,13 +13659,15 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.RectilinearSGrid":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.RectilinearZGrid":{
@@ -13580,7 +13675,8 @@
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.ScipyParticle":{
@@ -13589,7 +13685,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.SpatiallyVaryingBrownianMotion2D":{
@@ -13607,7 +13704,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.SummedVectorField":{
@@ -13619,12 +13717,19 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels.ThroughSurfaceError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.TimeConverter":{
   "__set__":true,
   "elements":[
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.TimeExtrapolationError":{
@@ -13633,7 +13738,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.Timer":{
@@ -13642,7 +13748,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.UnitConverter":{
@@ -13651,7 +13758,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.Variable":{
@@ -13660,7 +13768,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.VectorField":{
@@ -13669,7 +13778,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels._Particle":{
@@ -13678,7 +13788,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.__all__":{
@@ -13687,7 +13798,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.__version__":{
@@ -13696,7 +13808,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels._get_cftime_calendars":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels._get_cftime_datetimes":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels._is_particle_started_yet":{
@@ -13706,13 +13831,26 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels._set_calendar":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels._to_write_particles":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels._version":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels._version.version":{
@@ -13721,7 +13859,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.cleanup_remove_files":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.cleanup_unload_lib":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator":{
@@ -13730,7 +13881,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.ConstNode":{
@@ -13739,7 +13891,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.ErrorCodeNode":{
@@ -13748,7 +13901,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.Field":{
@@ -13757,7 +13911,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.FieldEvalNode":{
@@ -13766,7 +13921,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.FieldNode":{
@@ -13775,7 +13931,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.FieldSetNode":{
@@ -13784,7 +13941,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.IntrinsicNode":{
@@ -13793,7 +13951,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.IntrinsicTransformer":{
@@ -13802,7 +13961,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.KernelGenerator":{
@@ -13811,7 +13971,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.LoopGenerator":{
@@ -13820,7 +13981,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.MathNode":{
@@ -13829,42 +13991,48 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.NestedField":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.NestedFieldEvalNode":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.NestedFieldNode":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.NestedVectorFieldEvalNode":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.NestedVectorFieldNode":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.ParticleAttributeNode":{
@@ -13873,7 +14041,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.ParticleNode":{
@@ -13882,7 +14051,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.PrintNode":{
@@ -13891,7 +14061,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.RandomNode":{
@@ -13900,7 +14071,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.SummedField":{
@@ -13909,7 +14081,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.SummedFieldEvalNode":{
@@ -13918,7 +14091,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.SummedFieldNode":{
@@ -13927,7 +14101,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.SummedVectorField":{
@@ -13945,7 +14120,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.SummedVectorFieldNode":{
@@ -13954,7 +14130,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.TupleSplitter":{
@@ -13963,7 +14140,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.VectorField":{
@@ -13972,7 +14150,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.VectorFieldEvalNode":{
@@ -13981,7 +14160,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.VectorFieldNode":{
@@ -13990,7 +14170,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.codegenerator.logger":{
@@ -13999,7 +14180,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.compiler":{
@@ -14008,7 +14190,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.compiler.Compiler":{
@@ -14017,7 +14200,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.compiler.GNUCompiler":{
@@ -14026,7 +14210,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.compiler.MPI":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.compiler.get_cache_dir":{
@@ -14035,7 +14226,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.compiler.get_package_dir":{
@@ -14044,7 +14236,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.compiler.getuid":{
@@ -14053,21 +14246,30 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.convert_xarray_time_units":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.dphidxsi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.dphidxsi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.dup_filter":{
@@ -14076,21 +14278,24 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.dxdxsi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.dxdxsi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples":{
@@ -14099,7 +14304,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.BrownianMotion2D":{
@@ -14111,13 +14317,20 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels.examples.example_brownian.DiffusionUniformKh":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.examples.example_brownian.Field":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.JITParticle":{
@@ -14126,7 +14339,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.ParticleSet":{
@@ -14135,7 +14349,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.ScipyParticle":{
@@ -14144,7 +14359,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.mesh_conversion":{
@@ -14153,7 +14369,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.ptype":{
@@ -14162,7 +14379,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.random":{
@@ -14171,7 +14389,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.test_brownian_example":{
@@ -14180,7 +14399,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_brownian.zeros_fieldset":{
@@ -14192,13 +14412,176 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels.examples.example_dask_chunk_OCMs.AdvectionRK4":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.Field":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.JITParticle":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.ParticleFile":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.ParticleSet":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.ScipyParticle":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.Variable":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.compute_globcurrent_particle_advection":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.compute_nemo_particle_advection":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.compute_pop_particle_advection":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.compute_swash_particle_advection":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.fieldset_from_globcurrent":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.fieldset_from_nemo_3D":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.fieldset_from_pop_1arcs":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.fieldset_from_swash":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.ptype":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_3d_2dfield_sampling":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_diff_entry_chunksize_correction_globcurrent":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_diff_entry_chunksize_error_nemo_complex_conform_depth":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_diff_entry_chunksize_error_nemo_complex_nonconform_depth":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_diff_entry_chunksize_error_nemo_simple":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_diff_entry_dimensions_chunks":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_erroneous_fieldset_init":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_globcurrent_2D":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_nemo_3D":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_pop":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_dask_chunk_OCMs.test_swash":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.examples.example_decaying_moving_eddy.AdvectionRK4":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.FieldSet":{
@@ -14207,7 +14590,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.JITParticle":{
@@ -14216,7 +14600,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.ParticleSet":{
@@ -14225,7 +14610,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.ScipyParticle":{
@@ -14234,7 +14620,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.decaying_moving_eddy_fieldset":{
@@ -14243,7 +14630,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.decaying_moving_example":{
@@ -14252,7 +14640,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.f":{
@@ -14261,7 +14650,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.fieldset":{
@@ -14270,7 +14660,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.filename":{
@@ -14282,13 +14673,20 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels.examples.example_decaying_moving_eddy.fset_filename":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.examples.example_decaying_moving_eddy.gamma":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.gamma_g":{
@@ -14297,7 +14695,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_decaying_moving_eddy.outfile":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.pset":{
@@ -14306,7 +14711,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.ptype":{
@@ -14315,7 +14721,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.start_lat":{
@@ -14324,7 +14731,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.start_lon":{
@@ -14333,7 +14741,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.test_rotation_example":{
@@ -14342,7 +14751,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.true_values":{
@@ -14351,7 +14761,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.u_0":{
@@ -14360,7 +14771,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_decaying_moving_eddy.u_g":{
@@ -14369,7 +14781,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.AdvectionRK4":{
@@ -14378,7 +14791,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_globcurrent.ErrorCode":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.FieldSet":{
@@ -14387,7 +14807,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.JITParticle":{
@@ -14396,7 +14817,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.ParticleSet":{
@@ -14405,7 +14827,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.ScipyParticle":{
@@ -14414,7 +14837,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.Variable":{
@@ -14423,7 +14847,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.ptype":{
@@ -14432,7 +14857,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.set_globcurrent_fieldset":{
@@ -14441,7 +14867,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.test__particles_init_time":{
@@ -14450,7 +14877,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.test_globcurrent_deferred_fieldset_gradient":{
@@ -14462,19 +14890,33 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels.examples.example_globcurrent.test_globcurrent_dt0":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.examples.example_globcurrent.test_globcurrent_fieldset":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.test_globcurrent_netcdf_timestamps":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_globcurrent.test_globcurrent_particle_independence":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.test_globcurrent_particles":{
@@ -14483,7 +14925,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_globcurrent.test_globcurrent_pset_fromfile":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.test_globcurrent_time_extrapolation_error":{
@@ -14492,13 +14941,15 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.test_globcurrent_time_periodic":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.test_globcurrent_variable_fromfield":{
@@ -14507,14 +14958,16 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_globcurrent.test_globcurrent_xarray_vs_netcdf":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.AdvectionEE":{
@@ -14523,7 +14976,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.AdvectionRK4":{
@@ -14532,7 +14986,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.FieldSet":{
@@ -14541,7 +14996,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.JITParticle":{
@@ -14550,7 +15006,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.ParticleSet":{
@@ -14559,7 +15016,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.ScipyParticle":{
@@ -14568,7 +15026,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.args":{
@@ -14577,7 +15036,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.fieldset":{
@@ -14586,7 +15046,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.fieldsetfile":{
@@ -14595,7 +15056,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.filename":{
@@ -14604,7 +15066,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.method":{
@@ -14613,7 +15076,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.moving_eddies_example":{
@@ -14622,7 +15086,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.moving_eddies_fieldset":{
@@ -14631,7 +15096,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_moving_eddies.outfile":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.p":{
@@ -14640,7 +15112,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.ptype":{
@@ -14649,7 +15122,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.test_moving_eddies_fieldset":{
@@ -14658,7 +15132,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.test_moving_eddies_file":{
@@ -14667,7 +15142,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.test_moving_eddies_fwdbwd":{
@@ -14676,7 +15152,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_moving_eddies.test_periodic_and_computeTimeChunk_eddies":{
@@ -14685,7 +15162,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_nemo_curvilinear.AdvectionAnalytical":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.AdvectionRK4":{
@@ -14694,7 +15178,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.FieldSet":{
@@ -14703,7 +15188,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.JITParticle":{
@@ -14712,7 +15198,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.ParticleFile":{
@@ -14721,7 +15208,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.ParticleSet":{
@@ -14730,7 +15218,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.ScipyParticle":{
@@ -14739,7 +15228,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_nemo_curvilinear.advection":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.args":{
@@ -14748,7 +15244,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.make_plot":{
@@ -14757,7 +15254,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.outfile":{
@@ -14766,7 +15264,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.p":{
@@ -14775,7 +15274,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.ptype":{
@@ -14784,7 +15284,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.run_nemo_curvilinear":{
@@ -14793,13 +15294,15 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.test_nemo_3D_samegrid":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_nemo_curvilinear.test_nemo_curvilinear":{
@@ -14808,7 +15311,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.AdvectionRK4":{
@@ -14817,7 +15321,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.FieldSet":{
@@ -14826,7 +15331,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.JITParticle":{
@@ -14835,7 +15341,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.ParticleSet":{
@@ -14844,7 +15351,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.ScipyParticle":{
@@ -14853,7 +15361,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.ptype":{
@@ -14862,7 +15371,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.set_ofam_fieldset":{
@@ -14871,7 +15381,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.test_ofam_fieldset_fillvalues":{
@@ -14880,7 +15391,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.test_ofam_particles":{
@@ -14889,14 +15401,22 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_ofam.test_ofam_xarray_vs_netcdf":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_peninsula.AdvectionAnalytical":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.AdvectionEE":{
@@ -14905,7 +15425,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.AdvectionRK4":{
@@ -14914,7 +15435,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.FieldSet":{
@@ -14923,7 +15445,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.JITParticle":{
@@ -14932,7 +15455,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.ParticleSet":{
@@ -14941,7 +15465,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.ScipyParticle":{
@@ -14950,7 +15475,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.UpdateP":{
@@ -14959,7 +15485,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.Variable":{
@@ -14968,7 +15495,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.args":{
@@ -14977,7 +15505,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.fieldset":{
@@ -14986,7 +15515,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.fieldsetfile":{
@@ -14995,7 +15525,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_peninsula.filename":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.method":{
@@ -15004,7 +15541,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_peninsula.outfile":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.p":{
@@ -15013,7 +15557,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_peninsula.peninsula_example":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.peninsula_fieldset":{
@@ -15022,7 +15573,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.pensinsula_example":{
@@ -15040,7 +15592,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.test_peninsula_fieldset":{
@@ -15049,7 +15602,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_peninsula.test_peninsula_file":{
@@ -15058,7 +15612,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.AdvectionRK4":{
@@ -15067,7 +15622,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.FieldSet":{
@@ -15076,7 +15632,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.JITParticle":{
@@ -15085,7 +15642,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.ParticleSet":{
@@ -15094,7 +15652,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.ScipyParticle":{
@@ -15103,7 +15662,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.fieldset":{
@@ -15112,7 +15672,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.filename":{
@@ -15121,7 +15682,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.examples.example_radial_rotation.outfile":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.ptype":{
@@ -15130,7 +15698,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.radial_rotation_fieldset":{
@@ -15139,7 +15708,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.rotation_example":{
@@ -15148,7 +15718,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.test_rotation_example":{
@@ -15157,7 +15728,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_radial_rotation.true_values":{
@@ -15166,7 +15738,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_recursive_errorhandling.ErrorCode":{
@@ -15175,7 +15748,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_recursive_errorhandling.FieldSet":{
@@ -15184,7 +15758,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_recursive_errorhandling.JITParticle":{
@@ -15193,7 +15768,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_recursive_errorhandling.ParticleSet":{
@@ -15202,7 +15778,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_recursive_errorhandling.ScipyParticle":{
@@ -15211,7 +15788,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_recursive_errorhandling.ptype":{
@@ -15220,7 +15798,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_recursive_errorhandling.random":{
@@ -15229,7 +15808,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_recursive_errorhandling.test_recursive_errorhandling":{
@@ -15238,7 +15818,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.AdvectionEE":{
@@ -15247,7 +15828,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.AdvectionRK4":{
@@ -15256,7 +15838,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.FieldSet":{
@@ -15265,7 +15848,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.JITParticle":{
@@ -15274,7 +15858,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.ParticleSet":{
@@ -15283,7 +15868,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.ScipyParticle":{
@@ -15292,7 +15878,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.UpdateP":{
@@ -15301,7 +15888,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.Variable":{
@@ -15310,7 +15898,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.args":{
@@ -15319,7 +15908,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.method":{
@@ -15328,7 +15918,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.p":{
@@ -15337,7 +15928,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.ptype":{
@@ -15346,7 +15938,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.stommel_example":{
@@ -15355,7 +15948,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.stommel_fieldset":{
@@ -15364,7 +15958,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.test_stommel_fieldset":{
@@ -15373,7 +15968,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.examples.example_stommel.timer":{
@@ -15382,7 +15978,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field":{
@@ -15391,14 +15988,16 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.DeferredArray":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.Field":{
@@ -15407,7 +16006,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.field.FieldOutOfBoundError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.field.FieldOutOfBoundSurfaceError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.FieldSamplingError":{
@@ -15416,7 +16028,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.Geographic":{
@@ -15425,14 +16038,16 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.NestedField":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.NetcdfFileBuffer":{
@@ -15441,7 +16056,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.SummedField":{
@@ -15450,7 +16066,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.SummedVectorField":{
@@ -15467,7 +16084,8 @@
   "elements":[
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.TimeExtrapolationError":{
@@ -15476,7 +16094,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.UnitConverter":{
@@ -15485,7 +16104,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.VectorField":{
@@ -15494,7 +16114,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.__all__":{
@@ -15503,14 +16124,22 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.field.convert_xarray_time_units":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.interpolation_utils":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.logger":{
@@ -15519,7 +16148,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.field.unitconverters_map":{
@@ -15528,7 +16158,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset":{
@@ -15537,7 +16168,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.fieldset.DeferredArray":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.Field":{
@@ -15546,7 +16184,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.FieldSet":{
@@ -15555,14 +16194,16 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.Grid":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.GridSet":{
@@ -15571,14 +16212,22 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.fieldset.MPI":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.NestedField":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.RectilinearZGrid":{
@@ -15594,7 +16243,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.SummedVectorField":{
@@ -15611,7 +16261,14 @@
   "elements":[
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.fieldset.TimeExtrapolationError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.VectorField":{
@@ -15620,7 +16277,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.__all__":{
@@ -15629,7 +16287,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.fieldset.convert_xarray_time_units":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fieldset.logger":{
@@ -15638,7 +16303,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.fix_indentation":{
@@ -15647,7 +16313,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.get_cache_dir":{
@@ -15656,7 +16323,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.getuid":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid":{
@@ -15665,7 +16339,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.CGrid":{
@@ -15674,7 +16349,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.CurvilinearGrid":{
@@ -15683,7 +16359,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.CurvilinearSGrid":{
@@ -15692,7 +16369,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.CurvilinearZGrid":{
@@ -15701,7 +16379,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.Grid":{
@@ -15710,7 +16389,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.GridCode":{
@@ -15719,7 +16399,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.RectilinearGrid":{
@@ -15728,7 +16409,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.RectilinearSGrid":{
@@ -15737,7 +16419,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.RectilinearZGrid":{
@@ -15746,7 +16429,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.TimeConverter":{
@@ -15754,7 +16438,8 @@
   "elements":[
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.__all__":{
@@ -15763,7 +16448,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.grid.logger":{
@@ -15772,7 +16458,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.gridset":{
@@ -15781,7 +16468,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.gridset.GridSet":{
@@ -15790,7 +16478,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.gridset.__all__":{
@@ -15799,7 +16488,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.gridset.logger":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.handler":{
@@ -15808,35 +16504,52 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.indicators_64bit":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.info_once":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.interpolate":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.interpolation_utils":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.jacobian2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.jacobian3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel":{
@@ -15845,7 +16558,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernel.AdvectionAnalytical":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.AdvectionRK4_3D":{
@@ -15854,7 +16574,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.ErrorCode":{
@@ -15863,13 +16584,15 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.Field":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.FieldSamplingError":{
@@ -15880,13 +16603,20 @@
    "parcels-2.0.0beta-py36_1000"
   ]
  },
+ "parcels.kernel.GridCode":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.kernel.Kernel":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.KernelGenerator":{
@@ -15895,7 +16625,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.LoopGenerator":{
@@ -15904,19 +16635,40 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernel.MPI":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.NestedField":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.SummedField":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernel.TimeExtrapolationError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernel.VectorField":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.__all__":{
@@ -15925,7 +16677,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernel.cleanup_remove_files":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernel.cleanup_unload_lib":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.fix_indentation":{
@@ -15934,7 +16699,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.get_cache_dir":{
@@ -15943,7 +16709,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.logger":{
@@ -15952,7 +16719,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.re_indent":{
@@ -15961,7 +16729,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernel.recovery_map":{
@@ -15970,7 +16739,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels":{
@@ -15979,7 +16749,26 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.AdvectionAnalytical":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.AdvectionDiffusionEM":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.AdvectionDiffusionM1":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.AdvectionEE":{
@@ -15988,7 +16777,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.AdvectionRK4":{
@@ -15997,7 +16787,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.AdvectionRK4DiffusionEM":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.AdvectionRK4DiffusionM1":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.BrownianMotion2D":{
@@ -16009,13 +16812,62 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels.kernels.DiffusionUniformKh":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.EOSseawaterproperties":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.EOSseawaterproperties.AdiabticTemperatureGradient":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.EOSseawaterproperties.PressureFromLatDepth":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.EOSseawaterproperties.PtempFromTemp":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.EOSseawaterproperties.TempFromPtemp":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.EOSseawaterproperties.UNESCODensity":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.EOSseawaterproperties.__all__":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.kernels.ErrorCode":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.SpatiallyVaryingBrownianMotion2D":{
@@ -16027,13 +16879,32 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels.kernels.TEOSseawaterdensity":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.TEOSseawaterdensity.PolyTEOS10_bsq":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.TEOSseawaterdensity.__all__":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.kernels.__all__":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.advection":{
@@ -16042,7 +16913,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advection.AdvectionAnalytical":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.advection.AdvectionEE":{
@@ -16051,7 +16929,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.advection.AdvectionRK4":{
@@ -16060,7 +16939,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.advection.AdvectionRK4_3D":{
@@ -16069,7 +16949,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.advection.ErrorCode":{
@@ -16078,7 +16959,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.advection.__all__":{
@@ -16087,7 +16969,62 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advection.interpolation_utils":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advectiondiffusion":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advectiondiffusion.AdvectionDiffusionEM":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advectiondiffusion.AdvectionDiffusionM1":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advectiondiffusion.AdvectionRK4DiffusionEM":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advectiondiffusion.AdvectionRK4DiffusionM1":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advectiondiffusion.DiffusionUniformKh":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advectiondiffusion.__all__":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.kernels.advectiondiffusion.rng":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.kernels.diffusion":{
@@ -16141,7 +17078,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.lastID":{
@@ -16157,7 +17095,8 @@
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.logger":{
@@ -16166,7 +17105,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.parse_particletime":{
@@ -16175,7 +17115,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle":{
@@ -16184,7 +17125,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle.ErrorCode":{
@@ -16193,7 +17135,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle.Field":{
@@ -16202,7 +17145,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle.JITParticle":{
@@ -16211,7 +17155,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle.ParticleType":{
@@ -16220,7 +17165,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle.ScipyParticle":{
@@ -16229,7 +17175,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle.Variable":{
@@ -16238,7 +17185,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle._Particle":{
@@ -16247,7 +17195,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle.__all__":{
@@ -16256,7 +17205,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.particle.indicators_64bit":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particle.lastID":{
@@ -16273,7 +17229,8 @@
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
-   "parcels-2.0.0beta-py36_1000"
+   "parcels-2.0.0beta-py36_1000",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particlefile":{
@@ -16282,14 +17239,22 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particlefile.ErrorCode":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.particlefile.MPI":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particlefile.ParticleFile":{
@@ -16298,7 +17263,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particlefile.__all__":{
@@ -16307,7 +17273,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particlefile._is_particle_started_yet":{
@@ -16317,13 +17284,32 @@
    "parcels-2.0.0beta2-py27_0"
   ]
  },
+ "parcels.particlefile._set_calendar":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.particlefile._to_write_particles":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.particlefile.getuid":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
  "parcels.particlefile.logger":{
   "__set__":true,
   "elements":[
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particlefile.version":{
@@ -16332,7 +17318,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset":{
@@ -16341,7 +17328,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.AdvectionRK4":{
@@ -16350,7 +17338,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.particleset.ErrorCode":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.particleset.Field":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.GNUCompiler":{
@@ -16359,7 +17360,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.GridCode":{
@@ -16368,7 +17370,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.JITParticle":{
@@ -16377,7 +17380,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.Kernel":{
@@ -16386,13 +17390,27 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.particleset.MPI":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.NestedField":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.particleset.ParticleAccessor":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.ParticleFile":{
@@ -16401,7 +17419,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.ParticleSet":{
@@ -16410,13 +17429,15 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.SummedField":{
   "__set__":true,
   "elements":[
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.__all__":{
@@ -16425,7 +17446,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.particleset.logger":{
@@ -16434,35 +17456,40 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.phi1D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.phi1D_quad":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.phi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.phi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotTrajectoriesFile":{
@@ -16471,7 +17498,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting":{
@@ -16480,7 +17508,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.CurvilinearGrid":{
@@ -16489,7 +17518,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.Field":{
@@ -16498,7 +17528,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.GridCode":{
@@ -16507,7 +17538,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.TimeExtrapolationError":{
@@ -16515,7 +17547,8 @@
   "elements":[
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.VectorField":{
@@ -16524,7 +17557,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.cartopy_colorbar":{
@@ -16533,7 +17567,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.create_parcelsfig_axis":{
@@ -16542,7 +17577,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.logger":{
@@ -16551,7 +17587,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.parsedomain":{
@@ -16560,7 +17597,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.parsetimestr":{
@@ -16569,7 +17607,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.plotfield":{
@@ -16578,7 +17617,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.plotting.plotparticles":{
@@ -16587,7 +17627,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.random":{
@@ -16596,7 +17637,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.re_indent":{
@@ -16605,7 +17647,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.recovery_kernel_error":{
@@ -16614,7 +17657,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.recovery_kernel_interpolation":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.recovery_kernel_out_of_bounds":{
@@ -16623,7 +17673,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.recovery_kernel_through_surface":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.recovery_kernel_time_extrapolation":{
@@ -16632,7 +17689,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.recovery_map":{
@@ -16641,7 +17699,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng":{
@@ -16650,7 +17709,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.GNUCompiler":{
@@ -16659,7 +17719,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.Random":{
@@ -16668,7 +17729,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.__all__":{
@@ -16677,7 +17739,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.expovariate":{
@@ -16686,7 +17749,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.get_cache_dir":{
@@ -16695,7 +17759,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.logger":{
@@ -16704,7 +17769,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.normalvariate":{
@@ -16713,7 +17779,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.parcels_random":{
@@ -16722,7 +17789,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.randint":{
@@ -16731,7 +17799,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.random":{
@@ -16740,7 +17809,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.seed":{
@@ -16749,7 +17819,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.rng.uniform":{
@@ -16758,7 +17829,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.rng.vonmisesvariate":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts":{
@@ -16767,7 +17845,32 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.scripts.convert_npydir_to_netcdf":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.scripts.convert_npydir_to_netcdf.ParticleFile":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.scripts.convert_npydir_to_netcdf.convert_npydir_to_netcdf":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.scripts.convert_npydir_to_netcdf.main":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples":{
@@ -16776,7 +17879,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples._maybe_create_dir":{
@@ -16785,7 +17889,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples._still_to_download":{
@@ -16794,7 +17899,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples.copy_data_and_examples_from_package_to":{
@@ -16803,7 +17909,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples.download_files":{
@@ -16812,7 +17919,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples.example_data_files":{
@@ -16821,7 +17929,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples.example_data_url":{
@@ -16830,7 +17939,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples.main":{
@@ -16839,7 +17949,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.get_examples.set_jupyter_kernel_to_python_version":{
@@ -16857,7 +17968,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile":{
@@ -16866,7 +17978,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile.Field":{
@@ -16875,7 +17988,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile.anim":{
@@ -16884,7 +17998,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile.args":{
@@ -16893,7 +18008,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile.cartopy_colorbar":{
@@ -16902,7 +18018,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile.create_parcelsfig_axis":{
@@ -16911,7 +18028,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile.p":{
@@ -16920,7 +18038,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile.plotTrajectoriesFile":{
@@ -16929,7 +18048,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.scripts.plottrajectoriesfile.plotfield":{
@@ -16938,7 +18058,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.timer":{
@@ -16947,7 +18068,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools":{
@@ -16956,7 +18078,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.DuplicateFilter":{
@@ -16965,7 +18088,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.ErrorCode":{
@@ -16974,7 +18098,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.FieldOutOfBoundError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.FieldOutOfBoundSurfaceError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.FieldSamplingError":{
@@ -16983,7 +18120,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.Geographic":{
@@ -16992,7 +18130,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.InterpolationError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.KernelError":{
@@ -17001,7 +18146,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.MPI":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.OutOfBoundsError":{
@@ -17010,7 +18162,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.OutOfTimeError":{
@@ -17019,7 +18172,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.ThroughSurfaceError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.TimeConverter":{
@@ -17027,7 +18187,8 @@
   "elements":[
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.TimeExtrapolationError":{
@@ -17036,7 +18197,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.Timer":{
@@ -17045,7 +18207,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.UnitConverter":{
@@ -17054,7 +18217,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.__all__":{
@@ -17063,7 +18227,26 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools._get_cftime_calendars":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools._get_cftime_datetimes":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.convert_xarray_time_units":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.converters":{
@@ -17072,7 +18255,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.converters.Geographic":{
@@ -17081,7 +18265,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.converters.TimeConverter":{
@@ -17089,7 +18274,8 @@
   "elements":[
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.converters.UnitConverter":{
@@ -17098,7 +18284,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.converters.__all__":{
@@ -17107,7 +18294,26 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.converters._get_cftime_calendars":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.converters._get_cftime_datetimes":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.converters.convert_xarray_time_units":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.converters.unitconverters_map":{
@@ -17116,21 +18322,24 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.dphidxsi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.dphidxsi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.dup_filter":{
@@ -17139,21 +18348,24 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.dxdxsi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.dxdxsi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error":{
@@ -17162,7 +18374,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.ErrorCode":{
@@ -17171,7 +18384,20 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.error.FieldOutOfBoundError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.error.FieldOutOfBoundSurfaceError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.FieldSamplingError":{
@@ -17180,7 +18406,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.error.InterpolationError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.KernelError":{
@@ -17189,7 +18422,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.OutOfBoundsError":{
@@ -17198,7 +18432,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.OutOfTimeError":{
@@ -17207,7 +18442,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.error.ThroughSurfaceError":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.TimeExtrapolationError":{
@@ -17216,7 +18458,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.__all__":{
@@ -17225,7 +18468,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.parse_particletime":{
@@ -17234,7 +18478,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.recovery_kernel_error":{
@@ -17243,7 +18488,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.error.recovery_kernel_interpolation":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.recovery_kernel_out_of_bounds":{
@@ -17252,7 +18504,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.error.recovery_kernel_through_surface":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.recovery_kernel_time_extrapolation":{
@@ -17261,7 +18520,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.error.recovery_map":{
@@ -17270,7 +18530,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.handler":{
@@ -17279,126 +18540,150 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.info_once":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolate":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.dphidxsi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.dphidxsi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.dxdxsi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.dxdxsi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.interpolate":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.jacobian2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.jacobian3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.length2d_lin_edge":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.phi1D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.phi1D_quad":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.phi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.interpolation_utils.phi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.jacobian2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.jacobian3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.length2d_lin_edge":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.logger":{
@@ -17407,7 +18692,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.loggers":{
@@ -17416,7 +18702,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.loggers.DuplicateFilter":{
@@ -17425,7 +18712,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.loggers.__all__":{
@@ -17434,7 +18722,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.loggers.dup_filter":{
@@ -17443,7 +18732,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.loggers.handler":{
@@ -17452,7 +18742,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.loggers.info_once":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.loggers.logger":{
@@ -17461,7 +18758,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.loggers.warning_once":{
@@ -17470,7 +18768,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.parse_particletime":{
@@ -17479,35 +18778,40 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.phi1D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.phi1D_quad":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.phi2D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.phi3D_lin":{
   "__set__":true,
   "elements":[
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.recovery_kernel_error":{
@@ -17516,7 +18820,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.recovery_kernel_interpolation":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.recovery_kernel_out_of_bounds":{
@@ -17525,7 +18836,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.recovery_kernel_through_surface":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.recovery_kernel_time_extrapolation":{
@@ -17534,7 +18852,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.recovery_map":{
@@ -17543,7 +18862,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.timer":{
@@ -17552,7 +18872,14 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
+  ]
+ },
+ "parcels.tools.timer.MPI":{
+  "__set__":true,
+  "elements":[
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.timer.Timer":{
@@ -17561,7 +18888,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.unitconverters_map":{
@@ -17570,7 +18898,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.tools.warning_once":{
@@ -17579,7 +18908,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.unitconverters_map":{
@@ -17588,7 +18918,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.version":{
@@ -17597,7 +18928,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parcels.warning_once":{
@@ -17606,7 +18938,8 @@
    "parcels-1.1.0-py35_2",
    "parcels-1.1.1-py27_1",
    "parcels-2.0.0beta-py36_1000",
-   "parcels-2.0.0beta2-py27_0"
+   "parcels-2.0.0beta2-py27_0",
+   "parcels-2.2.0-py38h32f6830_0"
   ]
  },
  "parse_type.Cardinality":{
