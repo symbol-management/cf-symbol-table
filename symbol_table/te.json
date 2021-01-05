@@ -14607,6 +14607,30 @@
    "forest-0.6.0-py38_0"
   ]
  },
+ "test.test_deviation":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.2-py27_0"
+  ]
+ },
+ "test.test_deviation.TestModel":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.2-py27_0"
+  ]
+ },
+ "test.test_deviation.dict_platform":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.2-py27_0"
+  ]
+ },
+ "test.test_deviation.key_platform":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.2-py27_0"
+  ]
+ },
  "test.test_differential_ops.TestDop":{
   "__set__":true,
   "elements":[
@@ -17214,6 +17238,30 @@
   "elements":[
    "forest-0.13.2-py36h9f0ad1d_0",
    "forest-0.15.7-py36h9f0ad1d_0"
+  ]
+ },
+ "test.test_pyfmi":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.2-py27_0"
+  ]
+ },
+ "test.test_pyfmi.TestPyfmi":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.2-py27_0"
+  ]
+ },
+ "test.test_pyfmi.dict_platform":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.2-py27_0"
+  ]
+ },
+ "test.test_pyfmi.key_platform":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.2-py27_0"
   ]
  },
  "test.test_rdt":{
@@ -25689,13 +25737,15 @@
  "tests.test_1st_system":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_1st_system.TestCodegen":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_CreateEdges.TestCreateEdges":{
@@ -26343,13 +26393,15 @@
  "tests.test_block":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_block.TestGates":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_bucket":{
@@ -26557,43 +26609,50 @@
  "tests.test_case":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_case.Test5Bus":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_case.TestCOI":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_case.TestKundur2AreaEIG":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_case.TestKundur2AreaPSSE":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_case.TestNPCCRAW":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_cli":{
   "__set__":true,
   "elements":[
    "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0",
    "quilt3-3.1.5-py37_0",
    "saws-0.4.3-py37_0"
   ]
@@ -26619,7 +26678,8 @@
  "tests.test_cli.TestCLI":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_cli.create_parser":{
@@ -27063,25 +27123,29 @@
  "tests.test_discrete":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_discrete.TestDelay":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_discrete.TestDerivative":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_discrete.TestDiscrete":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_document_store":{
@@ -27987,19 +28051,22 @@
  "tests.test_known_good":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_known_good.TestKnownResults":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_known_good.compare_results":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_lists":{
@@ -28906,25 +28973,29 @@
  "tests.test_paths":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_paths.TestPaths":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_pflow_matpower":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_pflow_matpower.TestMATPOWER":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_relational":{
@@ -29310,7 +29381,14 @@
  "tests.test_services":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
+  ]
+ },
+ "tests.test_services.TestFlagCondition":{
+  "__set__":true,
+  "elements":[
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_services.TestFlagNotNone":{
@@ -29319,10 +29397,17 @@
    "andes-1.0.5-py36h9f0ad1d_0"
   ]
  },
+ "tests.test_services.TestFlagValue":{
+  "__set__":true,
+  "elements":[
+   "andes-1.1.3-py37hc8dfbb8_0"
+  ]
+ },
  "tests.test_services.TestParamCalc":{
   "__set__":true,
   "elements":[
-   "andes-1.0.5-py36h9f0ad1d_0"
+   "andes-1.0.5-py36h9f0ad1d_0",
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_session":{
@@ -29757,6 +29842,18 @@
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
    "suds-jurko-0.6-py36_0"
+  ]
+ },
+ "tests.test_tds_resume":{
+  "__set__":true,
+  "elements":[
+   "andes-1.1.3-py37hc8dfbb8_0"
+  ]
+ },
+ "tests.test_tds_resume.TestTDSResume":{
+  "__set__":true,
+  "elements":[
+   "andes-1.1.3-py37hc8dfbb8_0"
   ]
  },
  "tests.test_timezone":{
