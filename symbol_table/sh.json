@@ -1,10 +1,17 @@
 {
+ "shap.BruteForceExplainer":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
  "shap.DeepExplainer":{
   "__set__":true,
   "elements":[
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -14,6 +21,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -23,6 +31,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -32,7 +41,14 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
+  ]
+ },
+ "shap.PartitionExplainer":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.SamplingExplainer":{
@@ -41,6 +57,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -50,19 +67,22 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.__version__":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.approximate_interactions":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark":{
@@ -71,6 +91,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -93,7 +114,8 @@
  "shap.benchmark.experiments.run_remote_experiments":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.keep_negative":{
@@ -115,103 +137,120 @@
  "shap.benchmark.measures._keep_cache":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures._remove_cache":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.batch_keep_retrain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.batch_remove_retrain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.const_rand":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.const_shuffle":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.keep_impute":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.keep_mask":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.keep_resample":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.keep_retrain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.local_accuracy":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.remove_impute":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.remove_mask":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.remove_resample":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.remove_retrain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.strip_list":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.measures.to_array":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods":{
@@ -225,31 +264,42 @@
  "shap.benchmark.methods.coef":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.deep_shap":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.expected_gradients":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.kernel_shap_1000_meanref":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.benchmark.methods.lime_tabular_classification_1000":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.lime_tabular_regression_1000":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.linear":{
@@ -263,19 +313,28 @@
  "shap.benchmark.methods.linear_shap_corr":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.linear_shap_ind":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.benchmark.methods.maple":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.mean_abs_tree_shap":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.method_dict":{
@@ -289,19 +348,22 @@
  "shap.benchmark.methods.random":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.saabas":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.sampling_shap_1000":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.tree":{
@@ -315,19 +377,28 @@
  "shap.benchmark.methods.tree_gain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.benchmark.methods.tree_maple":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.tree_shap_independent_200":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.methods.tree_shap_tree_path_dependent":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics":{
@@ -341,121 +412,141 @@
  "shap.benchmark.metrics.__cache0":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__cache1":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__cache_X0":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__cache_X1":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__cache_f0":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__cache_f1":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__check_cache":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__intlogspace":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__mean_pred":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__run_batch_abs_metric":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__run_measure":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__score_method":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__strip_list":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.__toarray":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics._attribution_cache":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics._fit_human":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics._human_and":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics._human_or":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics._human_sum":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics._human_xor":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.batch_keep":{
@@ -469,13 +560,15 @@
  "shap.benchmark.metrics.batch_keep_absolute_retrain__r2":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.batch_keep_absolute_retrain__roc_auc":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.batch_remove":{
@@ -489,19 +582,22 @@
  "shap.benchmark.metrics.batch_remove_absolute_retrain__r2":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.batch_remove_absolute_retrain__roc_auc":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.consistency_guarantees":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.const_rand":{
@@ -515,73 +611,85 @@
  "shap.benchmark.metrics.human_and_00":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_and_01":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_and_11":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_or_00":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_or_01":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_or_11":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_sum_00":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_sum_01":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_sum_11":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_xor_00":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_xor_01":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.human_xor_11":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep":{
@@ -595,91 +703,106 @@
  "shap.benchmark.metrics.keep_absolute_impute__r2":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_absolute_impute__roc_auc":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_absolute_mask__r2":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_absolute_mask__roc_auc":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_absolute_resample__r2":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_absolute_resample__roc_auc":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_negative_impute":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_negative_mask":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_negative_resample":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_negative_retrain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_positive_impute":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_positive_mask":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_positive_resample":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.keep_positive_retrain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.local_accuracy":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove":{
@@ -693,91 +816,106 @@
  "shap.benchmark.metrics.remove_absolute_impute__r2":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_absolute_impute__roc_auc":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_absolute_mask__r2":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_absolute_mask__roc_auc":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_absolute_resample__r2":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_absolute_resample__roc_auc":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_negative_impute":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_negative_mask":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_negative_resample":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_negative_retrain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_positive_impute":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_positive_mask":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_positive_resample":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.remove_positive_retrain":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.runtime":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.metrics.to_array":{
@@ -791,121 +929,141 @@
  "shap.benchmark.models.KerasWrap":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.corrgroups60__decision_tree":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.corrgroups60__ffnn":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.corrgroups60__gbm":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.corrgroups60__lasso":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.corrgroups60__random_forest":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.corrgroups60__ridge":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.cric__decision_tree":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.cric__ffnn":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.cric__gbm":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.cric__lasso":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.cric__random_forest":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.cric__ridge":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.human__decision_tree":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.independentlinear60__decision_tree":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.independentlinear60__ffnn":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.independentlinear60__gbm":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.independentlinear60__lasso":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.independentlinear60__random_forest":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.models.independentlinear60__ridge":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.plot_curve":{
@@ -967,7 +1125,8 @@
  "shap.benchmark.run_remote_experiments":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.benchmark.scorers":{
@@ -1128,6 +1287,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1195,6 +1355,12 @@
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
+ "shap.common.convert_name":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
  "shap.common.convert_to_data":{
   "__set__":true,
   "elements":[
@@ -1249,6 +1415,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1258,6 +1425,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1267,6 +1435,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1276,6 +1445,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1285,6 +1455,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1294,6 +1465,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1303,13 +1475,15 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.datasets.cric":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.datasets.diabetes":{
@@ -1318,6 +1492,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1327,6 +1502,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1336,19 +1512,22 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.datasets.imdb":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.datasets.independentlinear60":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.datasets.iris":{
@@ -1357,7 +1536,14 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
+  ]
+ },
+ "shap.datasets.linnerud":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.datasets.nhanesi":{
@@ -1366,13 +1552,21 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.datasets.rank":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.decision_plot":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.dependence_plot":{
@@ -1381,13 +1575,15 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.embedding_plot":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers":{
@@ -1396,7 +1592,32 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
+  ]
+ },
+ "shap.explainers.bruteforce":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.explainers.bruteforce.BruteForceExplainer":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.explainers.bruteforce.log":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.explainers.bruteforce.powerset":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep":{
@@ -1405,6 +1626,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1414,25 +1636,29 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.explainers.deep.Explainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.PyTorchDeepExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.TFDeepExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.backward_walk_ops":{
@@ -1454,211 +1680,246 @@
  "shap.explainers.deep.deep_pytorch":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.Explainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.PyTorchDeepExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.add_interim_values":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.complex_module_gradients":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.deeplift_grad":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.deeplift_tensor_grad":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.failure_case_modules":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.get_target_input":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.linear_1d":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.maxpool":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.nonlinear_1d":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.op_handler":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.passthrough":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_pytorch.torch":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.Explainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.TFDeepExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.backward_walk_ops":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.break_dependence":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.forward_walk_ops":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.gather":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.keras":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.linearity_1d":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.linearity_with_excluded":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.maxpool":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.nonlinearity_1d":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.nonlinearity_2d_handler":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.op_handlers":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.passthrough":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.softmax":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.tensors_blocked_by_false":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.tf":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.tf_gradients_impl":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.deep_tf.tf_ops":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.deep.forward_walk_ops":{
@@ -1779,6 +2040,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1788,6 +2050,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1797,6 +2060,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1806,19 +2070,22 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.explainers.gradient._PyTorchGradientExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.gradient._TFGradientExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.gradient.keras":{
@@ -1827,6 +2094,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1836,13 +2104,15 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.explainers.gradient.torch":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.kernel":{
@@ -1851,6 +2121,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1860,6 +2131,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1869,6 +2141,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1878,6 +2151,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1887,19 +2161,22 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.explainers.linear.LinearExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.linear.duplicate_components":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.linear.duplicate_components.proj":{
@@ -1924,6 +2201,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1933,6 +2211,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1942,6 +2221,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -1964,7 +2244,8 @@
  "shap.explainers.other.TreeGainExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.other.coefficent":{
@@ -1981,13 +2262,39 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.explainers.other.lime.LimeTabularExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.explainers.other.maple.Explainer":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.explainers.other.maple.MAPLE":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.explainers.other.maple.MapleExplainer":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.explainers.other.maple.TreeMapleExplainer":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.other.random":{
@@ -2004,13 +2311,21 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.explainers.other.treegain.TreeGainExplainer":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.explainers.partition":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.pytree":{
@@ -2019,6 +2334,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2028,6 +2344,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2037,6 +2354,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2046,6 +2364,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2055,6 +2374,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2064,6 +2384,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2073,6 +2394,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2082,6 +2404,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2091,6 +2414,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2100,6 +2424,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2109,13 +2434,15 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.explainers.tree.CatBoostTreeModelLoader":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.tree.Tree":{
@@ -2124,31 +2451,36 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.explainers.tree.XGBTreeModelLoader":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.tree.e":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.tree.feature_dependence_codes":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.tree.get_xgboost_json":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.explainers.tree.have_cext":{
@@ -2162,7 +2494,8 @@
  "shap.explainers.tree.output_transform_codes":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.force_plot":{
@@ -2171,13 +2504,21 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
+  ]
+ },
+ "shap.have_matplotlib":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.hclust_ordering":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.image_plot":{
@@ -2186,6 +2527,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2195,6 +2537,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2204,13 +2547,21 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.monitoring_plot":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.multioutput_decision_plot":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.other":{
@@ -2219,7 +2570,14 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
+  ]
+ },
+ "shap.partial_dependence_plot":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots":{
@@ -2228,7 +2586,14 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
+  ]
+ },
+ "shap.plots.colorconv":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors":{
@@ -2237,19 +2602,22 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.plots.colors.alphas":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.blue_lch":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.blue_rgb":{
@@ -2258,6 +2626,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2272,19 +2641,22 @@
  "shap.plots.colors.blues":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.c":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.c_vals":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.colors":{
@@ -2293,6 +2665,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2315,31 +2688,36 @@
  "shap.plots.colors.gray_lch":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.gray_rgb":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.greens":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.h":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.h_vals":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.i":{
@@ -2356,55 +2734,64 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.plots.colors.l_mid":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.l_vals":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.lch":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.lch2rgb":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.nsteps":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.old_blue_rgb":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.old_red_rgb":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.pos":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.red_blue":{
@@ -2413,19 +2800,22 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.plots.colors.red_blue_circle":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.red_blue_no_bounds":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.red_blue_solid":{
@@ -2436,10 +2826,17 @@
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
+ "shap.plots.colors.red_blue_transparent":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
  "shap.plots.colors.red_lch":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.red_rgb":{
@@ -2448,6 +2845,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2457,19 +2855,22 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.plots.colors.reds":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.rgb":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.tmp":{
@@ -2483,13 +2884,51 @@
  "shap.plots.colors.transparent_blue":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.colors.transparent_red":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.decision":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.decision.DecisionPlotResult":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.decision.__change_shap_base_value":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.decision.__decision_plot_matplotlib":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.decision.decision_plot":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.decision.multioutput_decision_plot":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.dependence":{
@@ -2498,6 +2937,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2515,13 +2955,15 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.plots.embedding":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force":{
@@ -2530,6 +2972,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2539,6 +2982,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2548,6 +2992,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2557,6 +3002,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2566,6 +3012,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2575,6 +3022,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2584,6 +3032,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2593,6 +3042,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2602,7 +3052,14 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
+  ]
+ },
+ "shap.plots.force.have_ipython":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force.id_generator":{
@@ -2611,6 +3068,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2620,6 +3078,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2629,6 +3088,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2638,13 +3098,15 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.plots.force.save_html":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force.svg_formatter":{
@@ -2653,6 +3115,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2662,6 +3125,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2671,6 +3135,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2680,61 +3145,71 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.plots.force_matplotlib":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force_matplotlib.draw_additive_plot":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force_matplotlib.draw_bars":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force_matplotlib.draw_base_element":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force_matplotlib.draw_higher_lower_element":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force_matplotlib.draw_labels":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force_matplotlib.draw_output_element":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force_matplotlib.format_data":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.force_matplotlib.update_axis_limits":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.image":{
@@ -2743,6 +3218,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2752,6 +3228,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2761,13 +3238,39 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.plots.monitoring":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.partial_dependence":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.partial_dependence.compute_bounds":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.partial_dependence.convert_name":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
+  ]
+ },
+ "shap.plots.partial_dependence.partial_dependence_plot":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.plots.summary":{
@@ -2776,6 +3279,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2785,6 +3289,7 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
@@ -2794,13 +3299,15 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
   ]
  },
  "shap.save_html":{
   "__set__":true,
   "elements":[
-   "shap-0.29.3-py36h86efe34_0"
+   "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shap.summary_plot":{
@@ -2809,7 +3316,14 @@
    "shap-0.23.1-py36h7eb728f_0",
    "shap-0.24.0-py36h452e1ab_0",
    "shap-0.29.3-py36h86efe34_0",
+   "shap-0.31.0-py36h4f17bb1_0",
    "shap-v0.23.0-py36h7eb728f_0"
+  ]
+ },
+ "shap.unsupported":{
+  "__set__":true,
+  "elements":[
+   "shap-0.31.0-py36h4f17bb1_0"
   ]
  },
  "shape_msgs.msg":{
