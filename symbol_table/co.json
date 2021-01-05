@@ -49714,6 +49714,12 @@
    "copulae-0.5.1-py37h516909a_0"
   ]
  },
+ "cornac.Experiment":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.Dataset":{
   "__set__":true,
   "elements":[
@@ -49734,6 +49740,12 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.FeatureModule":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.GraphModality":{
   "__set__":true,
   "elements":[
@@ -49742,6 +49754,12 @@
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.data.GraphModule":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.data.ImageModality":{
@@ -49754,6 +49772,18 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.ImageModule":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.MatrixTrainSet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.Modality":{
   "__set__":true,
   "elements":[
@@ -49764,9 +49794,22 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.MultimodalTestSet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.MultimodalTrainSet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.Reader":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -49791,6 +49834,12 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.TestSet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.TextModality":{
   "__set__":true,
   "elements":[
@@ -49801,9 +49850,22 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.TextModule":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.TrainSet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.__all__":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -49834,6 +49896,7 @@
  "cornac.data.graph":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -49851,9 +49914,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.graph.GraphModule":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.graph.feature_dim":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -49864,6 +49934,7 @@
  "cornac.data.image":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -49941,9 +50012,40 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.module":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.module.FeatureModule":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.module.FeatureModule.feature_dim":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.module.Module":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.module.fallback_feature":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.reader":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -49954,6 +50056,7 @@
  "cornac.data.reader.PARSERS":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -49964,6 +50067,7 @@
  "cornac.data.reader.Reader":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -49974,6 +50078,7 @@
  "cornac.data.reader.read_text":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50001,6 +50106,7 @@
  "cornac.data.reader.ui_parser":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50011,6 +50117,7 @@
  "cornac.data.reader.uir_parser":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50047,9 +50154,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.testset":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.text":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50060,6 +50174,7 @@
  "cornac.data.text.BOS":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50070,6 +50185,7 @@
  "cornac.data.text.BaseTokenizer":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50080,6 +50196,7 @@
  "cornac.data.text.CountVectorizer":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50090,6 +50207,7 @@
  "cornac.data.text.DEFAULT_PRE_RULES":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50100,6 +50218,7 @@
  "cornac.data.text.ENGLISH_STOPWORDS":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50110,6 +50229,7 @@
  "cornac.data.text.EOS":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50120,6 +50240,7 @@
  "cornac.data.text.PAD":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50137,6 +50258,7 @@
  "cornac.data.text.SPECIAL_TOKENS":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50154,6 +50276,12 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.data.text.TextModule":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.data.text.TfidfVectorizer":{
   "__set__":true,
   "elements":[
@@ -50167,6 +50295,7 @@
  "cornac.data.text.Tokenizer":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50177,6 +50306,7 @@
  "cornac.data.text.UNK":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50187,6 +50317,7 @@
  "cornac.data.text.Vocabulary":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50197,6 +50328,7 @@
  "cornac.data.text.__all__":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50207,6 +50339,7 @@
  "cornac.data.text._validate_stopwords":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50217,6 +50350,7 @@
  "cornac.data.text.feature_dim":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50227,6 +50361,7 @@
  "cornac.data.text.rm_dup_spaces":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50237,6 +50372,7 @@
  "cornac.data.text.rm_numeric":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50247,6 +50383,7 @@
  "cornac.data.text.rm_punctuation":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50257,11 +50394,36 @@
  "cornac.data.text.rm_tags":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.data.trainset":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.trainset.MatrixTrainSet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.trainset.MultimodalTrainSet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.data.trainset.TrainSet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.datasets.amazon_clothing.load_context":{
@@ -50317,6 +50479,7 @@
  "cornac.datasets.amazon_office.load_context":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
@@ -50341,6 +50504,7 @@
  "cornac.datasets.amazon_office.load_rating":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
@@ -50369,9 +50533,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.datasets.citeulike":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.datasets.citeulike.load_data":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
@@ -50387,6 +50558,7 @@
  "cornac.datasets.citeulike.load_text":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50397,6 +50569,7 @@
  "cornac.datasets.epinions._get_cache_dir":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50407,6 +50580,7 @@
  "cornac.datasets.epinions.load_data":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
@@ -50422,6 +50596,7 @@
  "cornac.datasets.epinions.load_trust":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50477,6 +50652,7 @@
  "cornac.datasets.movielens.VALID_DATA_FORMATS":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50487,12 +50663,14 @@
  "cornac.datasets.movielens.load_100k":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
  "cornac.datasets.movielens.load_1m":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
@@ -50508,6 +50686,7 @@
  "cornac.datasets.movielens.load_plot":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50527,6 +50706,7 @@
  "cornac.datasets.netflix.VALID_DATA_FORMATS":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50546,6 +50726,7 @@
  "cornac.datasets.netflix._load":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50556,6 +50737,7 @@
  "cornac.datasets.netflix.load_data":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
@@ -50581,12 +50763,14 @@
  "cornac.datasets.tradesy.load_data":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
  "cornac.datasets.tradesy.load_feature":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50606,6 +50790,7 @@
  "cornac.eval_methods.BaseMethod":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50616,6 +50801,7 @@
  "cornac.eval_methods.CrossValidation":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50626,6 +50812,7 @@
  "cornac.eval_methods.RatioSplit":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50636,6 +50823,7 @@
  "cornac.eval_methods.__all__":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50646,6 +50834,7 @@
  "cornac.eval_methods.base_method":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50656,6 +50845,7 @@
  "cornac.eval_methods.base_method.BaseMethod":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50666,6 +50856,7 @@
  "cornac.eval_methods.base_method.BaseMethod.total_items":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50676,11 +50867,18 @@
  "cornac.eval_methods.base_method.BaseMethod.total_users":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.eval_methods.base_method.VALID_DATA_FORMATS":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.eval_methods.base_method.ranking_eval":{
@@ -50706,6 +50904,7 @@
  "cornac.eval_methods.cross_validation":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50716,6 +50915,7 @@
  "cornac.eval_methods.cross_validation.CrossValidation":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50726,12 +50926,14 @@
  "cornac.eval_methods.cross_validation.total_items":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
  "cornac.eval_methods.cross_validation.total_users":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0"
   ]
  },
@@ -50758,6 +50960,7 @@
  "cornac.eval_methods.ratio_split":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50795,6 +50998,12 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.experiment":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.experiment.CVExperimentResult":{
   "__set__":true,
   "elements":[
@@ -50818,6 +51027,7 @@
  "cornac.experiment.Experiment":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50838,6 +51048,7 @@
  "cornac.experiment.__all__":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50848,6 +51059,7 @@
  "cornac.experiment.experiment":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50865,6 +51077,7 @@
  "cornac.experiment.result":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50875,6 +51088,7 @@
  "cornac.experiment.result.CVExperimentResult":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50885,6 +51099,7 @@
  "cornac.experiment.result.CVResult":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50895,6 +51110,7 @@
  "cornac.experiment.result.ExperimentResult":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50905,6 +51121,7 @@
  "cornac.experiment.result.NUM_FMT":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50915,6 +51132,7 @@
  "cornac.experiment.result.Result":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50925,6 +51143,7 @@
  "cornac.experiment.result._table_format":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -50998,6 +51217,7 @@
  "cornac.metrics.AUC":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51008,6 +51228,7 @@
  "cornac.metrics.FMeasure":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51018,6 +51239,7 @@
  "cornac.metrics.MAE":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51035,6 +51257,7 @@
  "cornac.metrics.MRR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51045,6 +51268,7 @@
  "cornac.metrics.MSE":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51055,6 +51279,7 @@
  "cornac.metrics.NCRR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51065,6 +51290,7 @@
  "cornac.metrics.NDCG":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51075,6 +51301,7 @@
  "cornac.metrics.Precision":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51085,6 +51312,7 @@
  "cornac.metrics.RMSE":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51115,6 +51343,7 @@
  "cornac.metrics.Recall":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51125,6 +51354,7 @@
  "cornac.metrics.ranking":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51135,6 +51365,7 @@
  "cornac.metrics.ranking.AUC":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51145,6 +51376,7 @@
  "cornac.metrics.ranking.FMeasure":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51162,6 +51394,7 @@
  "cornac.metrics.ranking.MRR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51172,6 +51405,7 @@
  "cornac.metrics.ranking.MeasureAtK":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51182,6 +51416,7 @@
  "cornac.metrics.ranking.NCRR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51192,6 +51427,7 @@
  "cornac.metrics.ranking.NDCG":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51202,6 +51438,7 @@
  "cornac.metrics.ranking.Precision":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51212,6 +51449,7 @@
  "cornac.metrics.ranking.RankingMetric":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51222,6 +51460,7 @@
  "cornac.metrics.ranking.Recall":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51232,6 +51471,7 @@
  "cornac.metrics.rating":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51242,6 +51482,7 @@
  "cornac.metrics.rating.MAE":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51252,6 +51493,7 @@
  "cornac.metrics.rating.MSE":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51262,6 +51504,7 @@
  "cornac.metrics.rating.RMSE":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51272,11 +51515,120 @@
  "cornac.metrics.rating.RatingMetric":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.BPR":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.C2PF":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.CDL":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.CDR":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.COE":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.ConvMF":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.HPF":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.IBPR":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.MCF":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.MF":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.OnlineIBPR":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.PCRL":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.PMF":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.SBPR":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.SKMeans":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.SoRec":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.VBPR":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.VMF":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.WMF":{
@@ -51289,9 +51641,22 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.bpr":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.c2pf":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.c2pf.C2PF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51302,6 +51667,7 @@
  "cornac.models.c2pf.c2pf":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51312,6 +51678,7 @@
  "cornac.models.c2pf.recom_c2pf.C2PF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51322,6 +51689,7 @@
  "cornac.models.c2pf.recom_c2pf.c2pf":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51329,9 +51697,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.cdl":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.cdl.CDL":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51342,6 +51717,7 @@
  "cornac.models.cdl.cdl.Model":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51352,6 +51728,7 @@
  "cornac.models.cdl.cdl.act_functions":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51362,6 +51739,7 @@
  "cornac.models.cdl.cdl.sdae":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51372,6 +51750,7 @@
  "cornac.models.cdl.recom_cdl.CDL":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51379,9 +51758,28 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.cdl.recom_cdl.CDL.score.user_pred":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.cdl.recom_cdl.user_pred":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.cdr":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.cdr.CDR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51402,16 +51800,24 @@
  "cornac.models.cdr.recom_cdr.CDR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.coe":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.coe.COE":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51419,9 +51825,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.coe.coe":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.coe.coe.coe":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51432,16 +51845,24 @@
  "cornac.models.coe.coe.sample_triplet":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.coe.coe.torch":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.coe.recom_coe.COE":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51449,9 +51870,34 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.coe.recom_coe.coe":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.coe.recom_coe.sample_triplet":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.coe.recom_coe.torch":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.conv_mf":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.conv_mf.ConvMF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51462,6 +51908,7 @@
  "cornac.models.conv_mf.convmf.CNN_module":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51472,6 +51919,7 @@
  "cornac.models.conv_mf.convmf.conv_layer":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51482,6 +51930,7 @@
  "cornac.models.conv_mf.convmf.fc_layer":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51492,6 +51941,7 @@
  "cornac.models.conv_mf.convmf.flatten_layer":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51502,6 +51952,7 @@
  "cornac.models.conv_mf.recom_convmf.ConvMF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51731,9 +52182,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.hpf":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.hpf.HPF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51744,6 +52202,7 @@
  "cornac.models.hpf.hpf":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51754,11 +52213,18 @@
  "cornac.models.hpf.recom_hpf.HPF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.hpf.recom_hpf.HPF.score.user_pred":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.hpf.recom_hpf.hpf":{
@@ -51771,19 +52237,39 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.hpf.recom_hpf.user_pred":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.ibpr":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.ibpr.IBPR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.ibpr.ibpr":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.ibpr.ibpr.ibpr":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51791,14 +52277,39 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.ibpr.ibpr.sample_data":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.ibpr.ibpr.torch":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.ibpr.recom_ibpr.IBPR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.ibpr.recom_ibpr.IBPR.score.user_pred":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.ibpr.recom_ibpr.user_pred":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.knn.UserKNN":{
@@ -51881,9 +52392,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.mcf":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.mcf.MCF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -51894,11 +52412,18 @@
  "cornac.models.mcf.recom_mcf.MCF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.mf":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.most_pop.MostPop":{
@@ -52175,9 +52700,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.online_ibpr":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.online_ibpr.OnlineIBPR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52188,16 +52720,24 @@
  "cornac.models.online_ibpr.online_ibpr.online_ibpr":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.online_ibpr.online_ibpr.torch":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.online_ibpr.recom_online_ibpr.OnlineIBPR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52205,9 +52745,28 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.online_ibpr.recom_online_ibpr.online_ibpr":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.online_ibpr.recom_online_ibpr.torch":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.pcrl":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.pcrl.PCRL":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52218,16 +52777,24 @@
  "cornac.models.pcrl.pcrl.PCRL_":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.pcrl.pcrl.tf":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.pcrl.recom_pcrl.PCRL":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52235,9 +52802,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.pmf":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.pmf.PMF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52248,16 +52822,24 @@
  "cornac.models.pmf.recom_pmf.PMF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.recommender":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.recommender.Recommender":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52265,9 +52847,22 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.sbpr":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.skm":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.skm.SKMeans":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52278,16 +52873,30 @@
  "cornac.models.skm.recom_skmeans.SKMeans":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
    "cornac-1.7.0-py38he6e81aa_0",
    "cornac-1.7.1-py36h830a2c2_0"
+  ]
+ },
+ "cornac.models.skm.recom_skmeans.skmeans":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.models.skm.skmeans":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
   ]
  },
  "cornac.models.skm.skmeans.skmeans":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52295,9 +52904,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.sorec":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.sorec.SoRec":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52308,6 +52924,7 @@
  "cornac.models.sorec.recom_sorec.SoRec":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52393,9 +53010,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.vbpr":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.vbpr.VBPR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52406,6 +53030,7 @@
  "cornac.models.vbpr.recom_vbpr.VBPR":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52413,9 +53038,16 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.models.vmf":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.models.vmf.VMF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52426,6 +53058,7 @@
  "cornac.models.vmf.recom_vmf.VMF":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52436,6 +53069,7 @@
  "cornac.models.vmf.vmf._l2_loss":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52446,6 +53080,7 @@
  "cornac.models.vmf.vmf._load_or_randn":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52456,6 +53091,7 @@
  "cornac.models.vmf.vmf.vmf":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52516,6 +53152,7 @@
  "cornac.utils.__all__":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52526,6 +53163,7 @@
  "cornac.utils.cache":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52536,6 +53174,7 @@
  "cornac.utils.common":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52556,6 +53195,7 @@
  "cornac.utils.common.clip":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52566,6 +53206,7 @@
  "cornac.utils.common.estimate_batches":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52576,6 +53217,7 @@
  "cornac.utils.common.excepts":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52586,6 +53228,7 @@
  "cornac.utils.common.get_rng":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52596,6 +53239,7 @@
  "cornac.utils.common.intersects":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52616,6 +53260,7 @@
  "cornac.utils.common.safe_indexing":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52626,6 +53271,7 @@
  "cornac.utils.common.scale":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52636,6 +53282,7 @@
  "cornac.utils.common.sigmoid":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52646,6 +53293,7 @@
  "cornac.utils.common.validate_format":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52653,9 +53301,22 @@
    "cornac-1.7.1-py36h830a2c2_0"
   ]
  },
+ "cornac.utils.data_utils":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
+ "cornac.utils.data_utils.Dataset":{
+  "__set__":true,
+  "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000"
+  ]
+ },
  "cornac.utils.download":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52666,6 +53327,7 @@
  "cornac.utils.download._extract_archive":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52676,6 +53338,7 @@
  "cornac.utils.download._urlretrieve":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52686,6 +53349,7 @@
  "cornac.utils.download.cache":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52696,6 +53360,7 @@
  "cornac.utils.download.get_cache_path":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52706,6 +53371,7 @@
  "cornac.utils.estimate_batches":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52716,6 +53382,7 @@
  "cornac.utils.fast_dot":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52726,6 +53393,7 @@
  "cornac.utils.get_rng":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52736,6 +53404,7 @@
  "cornac.utils.init_utils":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52746,6 +53415,7 @@
  "cornac.utils.init_utils.constant":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52756,6 +53426,7 @@
  "cornac.utils.init_utils.normal":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52766,6 +53437,7 @@
  "cornac.utils.init_utils.ones":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52776,6 +53448,7 @@
  "cornac.utils.init_utils.uniform":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52786,6 +53459,7 @@
  "cornac.utils.init_utils.xavier_normal":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52796,6 +53470,7 @@
  "cornac.utils.init_utils.xavier_uniform":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52806,6 +53481,7 @@
  "cornac.utils.init_utils.zeros":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",
@@ -52826,6 +53502,7 @@
  "cornac.utils.validate_format":{
   "__set__":true,
   "elements":[
+   "cornac-0.2.0-py36h051e8ed_1000",
    "cornac-1.2.0-py37he350917_0",
    "cornac-1.3.1-py36h4f17bb1_0",
    "cornac-1.5.1-py37h3bbf574_0",

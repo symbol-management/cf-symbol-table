@@ -261,6 +261,7 @@
  "dbt.adapters":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -268,13 +269,21 @@
  "dbt.adapters.bigquery":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.adapters.bigquery.BigQueryAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.adapters.bigquery.BigQueryRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.adapters.bigquery.GLOBAL_LOGGER":{
@@ -289,10 +298,124 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.adapters.bigquery.__all__":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.adapters.bigquery.flags":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.BigQueryAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.BigQueryRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.Column":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.Connection":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.DEFAULT_TCP_KEEPALIVE":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.PostgresAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.Relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.context_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.flags":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.profile_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.raw_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.impl.requires":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.relation.BigQueryRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.relation.DefaultRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.bigquery.relation.filter_null_values":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.adapters.bigquery.requires":{
@@ -328,6 +451,7 @@
  "dbt.adapters.default":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -340,6 +464,7 @@
  "dbt.adapters.default.DefaultAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -349,10 +474,22 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.adapters.default.DefaultRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.adapters.default.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.adapters.default.__all__":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.adapters.default.connections_available":{
@@ -367,10 +504,142 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.adapters.default.impl":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.Column":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.Connection":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.DefaultAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.DefaultAdapter.Column":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.DefaultAdapter.Relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.DefaultAdapter.context_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.DefaultAdapter.profile_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.DefaultAdapter.raw_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.DefaultAdapter.requires":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.DefaultRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.connections_available":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.connections_in_use":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.filter_null_values":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.impl.lock":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.adapters.default.lock":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.adapters.default.relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.relation.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.relation.DEFAULTS":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.relation.DefaultRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.relation.SCHEMA":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.default.relation.filter_null_values":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.adapters.default.validate_connection":{
@@ -382,6 +651,7 @@
  "dbt.adapters.factory":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -389,18 +659,21 @@
  "dbt.adapters.factory.BigQueryAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.adapters.factory.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.adapters.factory.PostgresAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -408,6 +681,7 @@
  "dbt.adapters.factory.RedshiftAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -415,6 +689,7 @@
  "dbt.adapters.factory.SnowflakeAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -422,12 +697,14 @@
  "dbt.adapters.factory.adapters":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.adapters.factory.get_adapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -435,6 +712,7 @@
  "dbt.adapters.postgres":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -455,6 +733,7 @@
  "dbt.adapters.postgres.PostgresAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -477,6 +756,12 @@
    "dbt-0.7.0-py34_0"
   ]
  },
+ "dbt.adapters.postgres.__all__":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.adapters.postgres.connection_cache":{
   "__set__":true,
   "elements":[
@@ -495,6 +780,78 @@
    "dbt-0.7.0-py34_0"
   ]
  },
+ "dbt.adapters.postgres.impl":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.Column":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.GET_CATALOG_OPERATION_NAME":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.GET_CATALOG_RESULT_KEY":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.PostgresAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.PostgresAdapter.DEFAULT_TCP_KEEPALIVE":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.Relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.context_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.profile_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.raw_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.postgres.impl.requires":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.adapters.postgres.requires":{
   "__set__":true,
   "elements":[
@@ -510,6 +867,7 @@
  "dbt.adapters.redshift":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -531,8 +889,15 @@
  "dbt.adapters.redshift.RedshiftAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.adapters.redshift.__all__":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.adapters.redshift.basestring":{
@@ -553,6 +918,78 @@
    "dbt-0.7.0-py34_0"
   ]
  },
+ "dbt.adapters.redshift.impl":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.Column":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.DEFAULT_TCP_KEEPALIVE":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.PostgresAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.RedshiftAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.Relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.context_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.drop_lock":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.profile_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.raw_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.redshift.impl.requires":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.adapters.redshift.requires":{
   "__set__":true,
   "elements":[
@@ -568,6 +1005,7 @@
  "dbt.adapters.snowflake":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -589,8 +1027,21 @@
  "dbt.adapters.snowflake.SnowflakeAdapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.adapters.snowflake.SnowflakeRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.__all__":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.adapters.snowflake.connection_cache":{
@@ -612,6 +1063,102 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.adapters.snowflake.impl":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.Column":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.DEFAULT_TCP_KEEPALIVE":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.PostgresAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.Relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.SnowflakeAdapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.SnowflakeRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.context_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.filter_null_values":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.profile_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.raw_functions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.impl.requires":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.relation.DefaultRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.adapters.snowflake.relation.SnowflakeRelation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.adapters.snowflake.requires":{
   "__set__":true,
   "elements":[
@@ -623,6 +1170,60 @@
   "elements":[
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.api":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.api.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.api.__all__":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.api.object":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.api.object.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.api.object.APIObject.DEFAULTS":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.api.object.APIObject.SCHEMA":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.api.object.ValidationException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.api.object.deep_merge":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.archival":{
@@ -646,121 +1247,207 @@
  "dbt.clients":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.agate_helper":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.agate_helper.DEFAULT_TYPE_TESTER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.agate_helper.as_matrix":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.agate_helper.empty_table":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.agate_helper.from_csv":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.agate_helper.table_from_data":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.gcloud":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.gcloud.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.gcloud.NOT_INSTALLED_MSG":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.gcloud.gcloud_installed":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.gcloud.run_cmd":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.gcloud.setup_default_credentials":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git.checkout":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git.clone":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git.get_current_sha":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git.list_tags":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git.remove_remote":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git.rmdir":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.git.run_cmd":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.jinja":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.jinja.AttrDict":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.jinja.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.jinja.MacroFuzzEnvironment":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.jinja.MacroFuzzParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.jinja.MaterializationExtension":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.jinja.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.jinja.OperationExtension":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.jinja.create_macro_capture_env":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -779,30 +1466,95 @@
  "dbt.clients.jinja.get_rendered":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.jinja.get_template":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.jinja.macro_generator":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.jinja.render_template":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.jinja.undefined_error":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.registry":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.registry.DEFAULT_REGISTRY_BASE_URL":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.registry.RegistryException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.registry._get":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.registry._wrap_exceptions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.registry.get_available_versions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.registry.index":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.registry.memoized":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.registry.package":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.system":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -810,12 +1562,26 @@
  "dbt.clients.system.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.system._windows_rmdir_readonly":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.system.download":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.system.find_matching":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -823,6 +1589,7 @@
  "dbt.clients.system.load_file_contents":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -830,108 +1597,186 @@
  "dbt.clients.system.make_directory":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.system.make_file":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.system.make_symlink":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.system.open_dir_cmd":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.system.path_exists":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.system.path_is_symlink":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.system.remove_file":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.system.rename":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.system.resolve_path_from_base":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.system.rmdir":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.system.run_cmd":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.clients.system.supports_symlinks":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.system.untar_package":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.clients.system.write_file":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.clients.yaml_helper":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.yaml_helper.YAML_ERROR_MESSAGE":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.yaml_helper.contextualized_yaml_error":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.yaml_helper.line_no":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.yaml_helper.load_yaml_text":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.clients.yaml_helper.prefix_with_line_numbers":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compat":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compat.WHICH_PYTHON":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compat.basestring":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.compat.bigint":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.compat.to_string":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compat.to_unicode":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compat.write_file":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compilation":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -946,6 +1791,7 @@
  "dbt.compilation.Compiler":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -953,6 +1799,7 @@
  "dbt.compilation.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -960,6 +1807,7 @@
  "dbt.compilation.Linker":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -967,6 +1815,7 @@
  "dbt.compilation.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -1030,42 +1879,55 @@
  "dbt.compilation.get_materialization":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compilation.graph_file_name":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compilation.inject_ctes_into_sql":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compilation.is_type":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.compilation.manifest_file_name":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.compilation.prepend_ctes":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compilation.print_compile_stats":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.compilation.recursively_prepend_ctes":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -1079,6 +1941,12 @@
   "__set__":true,
   "elements":[
    "dbt-0.7.0-py34_0"
+  ]
+ },
+ "dbt.compilation.write_file":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.compiled_model":{
@@ -1132,6 +2000,7 @@
  "dbt.config":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1139,18 +2008,21 @@
  "dbt.config.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.config.INVALID_PROFILE_MESSAGE":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.config.colorize_output":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -1163,6 +2035,7 @@
  "dbt.config.read_config":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1170,19 +2043,268 @@
  "dbt.config.read_profile":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.config.send_anonymous_usage_stats":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.context":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.DatabaseWrapper":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.NodeType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.ParsedMacro":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.ParsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.Var":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common._add_macros":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common._add_sql_handlers":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common._add_tracking":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common._add_validation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common._env_var":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common._load_result":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common._return":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common._store_result":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.basestring":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.create_adapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.create_relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.fromjson":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.generate":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.get_adapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.get_this_relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.log":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.render":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.tojson":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.try_or_compiler_error":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.common.write":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.parser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.parser.Config":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.parser.execute":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.parser.generate":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.parser.ref":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.runtime":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.runtime.Config":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.runtime.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.runtime.add_ephemeral_model_prefix":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.runtime.execute":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.runtime.generate":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.runtime.get_materialization":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.context.runtime.ref":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1214,15 +2336,89 @@
  "dbt.contracts.connection":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.connection.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.BIGQUERY_CREDENTIALS_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.BigQueryCredentials":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.CONNECTION_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.CREDENTIALS_MAPPING":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.Connection":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.connection.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.connection.POSTGRES_CREDENTIALS_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.PostgresCredentials":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.REDSHIFT_CREDENTIALS_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.RedshiftCredentials":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.SNOWFLAKE_CREDENTIALS_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.connection.SnowflakeCredentials":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.connection.ValidationException":{
@@ -1299,19 +2495,88 @@
  "dbt.contracts.graph":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.contracts.graph.compiled":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.COMPILED_GRAPH_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.COMPILED_MACROS_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.COMPILED_MACRO_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.COMPILED_NODES_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.COMPILED_NODE_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.CompiledGraph":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.CompiledNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.DEFAULTS":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.compiled.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.PARSED_MACRO_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.compiled.PARSED_NODE_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.compiled.ValidationException":{
@@ -1356,6 +2621,12 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.contracts.graph.compiled.deep_merge":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.contracts.graph.compiled.parsed_macro_contract":{
   "__set__":true,
   "elements":[
@@ -1383,19 +2654,106 @@
  "dbt.contracts.graph.parsed":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.CONFIG_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.parsed.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.HOOK_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.Hook":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.parsed.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.PARSED_MACROS_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.PARSED_MACRO_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.PARSED_MANIFEST_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.PARSED_NODES_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.PARSED_NODE_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.ParsedMacro":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.ParsedManifest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.ParsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.UNPARSED_MACRO_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.UNPARSED_NODE_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.parsed.basestring":{
@@ -1404,10 +2762,22 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.contracts.graph.parsed.build_edges":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.contracts.graph.parsed.config_contract":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.parsed.deep_merge":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.parsed.get_materialization":{
@@ -1473,19 +2843,69 @@
  "dbt.contracts.graph.unparsed":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.unparsed.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.unparsed.DEFAULTS":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.unparsed.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.unparsed.UNPARSED_BASE_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.unparsed.UNPARSED_MACRO_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.unparsed.UNPARSED_NODE_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.unparsed.UnparsedMacro":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.graph.unparsed.UnparsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.unparsed.basestring":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.graph.unparsed.deep_merge":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.graph.unparsed.unparsed_base_contract":{
@@ -1521,13 +2941,39 @@
  "dbt.contracts.project":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.project.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.project.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.contracts.project.PROJECTS_LIST_PROJECT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.project.PROJECT_CONTRACT":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.contracts.project.ProjectList":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.contracts.project.project_contract":{
@@ -1557,6 +3003,7 @@
  "dbt.deprecations":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1564,20 +3011,35 @@
  "dbt.deprecations.DBTDeprecation":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.deprecations.DBTRepositoriesDeprecation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.deprecations.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.deprecations.SeedDropExistingDeprecation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.deprecations.active_deprecations":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1585,6 +3047,7 @@
  "dbt.deprecations.deprecations":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1592,6 +3055,7 @@
  "dbt.deprecations.deprecations_list":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1599,6 +3063,7 @@
  "dbt.deprecations.reset_deprecations":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1606,6 +3071,7 @@
  "dbt.deprecations.warn":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1613,6 +3079,7 @@
  "dbt.exceptions":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1620,12 +3087,26 @@
  "dbt.exceptions.CompilationException":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.DatabaseException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.DependencyException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.Exception":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1633,21 +3114,42 @@
  "dbt.exceptions.FailedToConnectException":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.InternalException":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.MacroReturn":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.NotImplementedException":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.ParsingException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.ProgrammingException":{
@@ -1657,41 +3159,119 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.exceptions.RegistryException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.exceptions.RuntimeException":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.SemverException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.ValidationException":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.VersionsNotCompatibleException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.approximate_relation_match":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.bad_package_spec":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.exceptions.basestring":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.exceptions.dependency_not_found":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.get_materialization":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.get_relation_returned_multiple_results":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.get_target_not_found_msg":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.invalid_materialization_argument":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.macro_not_found":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.materialization_not_available":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.missing_config":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.missing_materialization":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.missing_relation":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.missing_sql_where":{
@@ -1700,39 +3280,105 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.exceptions.multiple_matching_relations":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.package_not_found":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.package_version_not_found":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.raise_ambiguous_alias":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.exceptions.raise_compiler_error":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.raise_database_error":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.raise_dep_not_found":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.raise_dependency_error":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.raise_duplicate_resource_name":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.exceptions.ref_bad_context":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.exceptions.ref_disabled_dependency":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.exceptions.ref_invalid_args":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.exceptions.ref_target_not_found":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.exceptions.relation_wrong_type":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.exceptions.system_error":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.flags":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1756,154 +3402,227 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.flags.reset":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.graph":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.FlatNodeSelector":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.NodeSelector":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.SELECTOR_CHILDREN":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.SELECTOR_GLOB":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.SELECTOR_PARENTS":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.coalesce":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.get_materialization":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.get_nodes_by_qualified_name":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.get_nodes_from_spec":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.get_package_names":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.is_enabled":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.is_selected_node":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.parse_spec":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.select_nodes":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.split_specs":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.graph.selector.warn_if_useless_spec":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.hooks":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.hooks.ModelHookType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.hooks._parse_hook_to_dict":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.hooks.get_hook_dict":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.hooks.get_hooks":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.hooks.to_string":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.include":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.include.GLOBAL_DBT_MODULES_PATH":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.include.GLOBAL_PROJECT_NAME":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.linker":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.linker.GRAPH_SERIALIZE_BLACKLIST":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.linker.Linker":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1911,78 +3630,121 @@
  "dbt.linker.from_file":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.links":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.links.SnowflakeQuotingDocs":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.loader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.AnalysisLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.ArchiveLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.DataTestLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.GraphLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.MacroLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.ModelLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.loader.OperationLoader":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.loader.ParsedManifest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.loader.ResourceLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.RunHookLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.loader.SchemaTestLoader":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.loader.SeedLoader":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.logger":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -1990,12 +3752,14 @@
  "dbt.logger.ColorFilter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.logger.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2003,18 +3767,21 @@
  "dbt.logger.colorama_stdout":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.logger.colorama_wrap":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.logger.initialize_logger":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2022,6 +3789,7 @@
  "dbt.logger.initialized":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2029,6 +3797,7 @@
  "dbt.logger.logger":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2036,6 +3805,7 @@
  "dbt.logger.make_log_dir_if_missing":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2043,6 +3813,7 @@
  "dbt.logger.stdout_handler":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2050,6 +3821,7 @@
  "dbt.main":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2057,12 +3829,14 @@
  "dbt.main.ExitCodes":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.main.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2070,12 +3844,14 @@
  "dbt.main.PROFILES_HELP_MESSAGE":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.main.archive":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2089,6 +3865,7 @@
  "dbt.main.clean":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2096,6 +3873,7 @@
  "dbt.main.compile":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2103,6 +3881,7 @@
  "dbt.main.config":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2110,6 +3889,7 @@
  "dbt.main.debug":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2117,6 +3897,7 @@
  "dbt.main.deps":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2124,13 +3905,21 @@
  "dbt.main.flags":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.main.generate":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.main.get_nearest_project_dir":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2138,6 +3927,7 @@
  "dbt.main.handle":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2145,6 +3935,7 @@
  "dbt.main.init":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2152,6 +3943,7 @@
  "dbt.main.initialize_logger":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2159,6 +3951,7 @@
  "dbt.main.invoke_dbt":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2166,6 +3959,7 @@
  "dbt.main.main":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2173,6 +3967,7 @@
  "dbt.main.parse_args":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2180,6 +3975,7 @@
  "dbt.main.project":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2187,6 +3983,7 @@
  "dbt.main.run":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2194,6 +3991,7 @@
  "dbt.main.run_from_args":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2201,12 +3999,14 @@
  "dbt.main.run_from_task":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.main.seed":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2214,6 +4014,7 @@
  "dbt.main.test":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2269,6 +4070,7 @@
  "dbt.model":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2301,6 +4103,7 @@
  "dbt.model.Csv":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2308,6 +4111,7 @@
  "dbt.model.DBTConfigKeys":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2315,6 +4119,7 @@
  "dbt.model.DBTSource":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2342,6 +4147,7 @@
  "dbt.model.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -2372,6 +4178,7 @@
  "dbt.model.SourceConfig":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2385,6 +4192,7 @@
  "dbt.model.basestring":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -2404,6 +4212,7 @@
  "dbt.model.deep_merge":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2417,6 +4226,7 @@
  "dbt.model.split_path":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2424,109 +4234,163 @@
  "dbt.node_runners":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.ArchiveRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.BaseRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.CompileRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.INTERNAL_ERROR_STRING":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.ModelRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.NotImplementedException":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.RunHookType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.RunModelResult":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.node_runners.RunOperationResult":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.node_runners.SeedRunner":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.node_runners.TestRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.node_runners.get_adapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.node_runners.get_nodes_by_tags":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_runners.track_model_run":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_types":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_types.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.node_types.RunHookType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.parser":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.parser.AnalysisParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.ArchiveParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.DataTestParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.parser.GLOBAL_LOGGER":{
@@ -2535,10 +4399,34 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.parser.HookParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.MacroParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.ModelParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.parser.NodeType":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.parser.ParserUtils":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.parser.RunHookType":{
@@ -2547,10 +4435,28 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.parser.SchemaParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.SeedParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.parser.Var":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.parser.__all__":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.parser.__config":{
@@ -2565,16 +4471,136 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.parser.analysis":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.analysis.AnalysisParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.analysis.BaseSqlParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.archives":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.archives.ArchiveParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.archives.BaseParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.archives.NodeType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.archives.UnparsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.parser.as_kwarg":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.parser.base":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.base.BaseParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.base.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.base.ParsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.base.coalesce":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.base_sql":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.base_sql.BaseParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.base_sql.BaseSqlParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.base_sql.UnparsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.parser.basestring":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.parser.data_test":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.data_test.BaseSqlParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.data_test.DataTestParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.parser.get_fqn":{
@@ -2619,6 +4645,36 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.parser.hooks":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.hooks.BaseSqlParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.hooks.HookParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.hooks.NodeType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.hooks.RunHookType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.parser.load_and_parse_macros":{
   "__set__":true,
   "elements":[
@@ -2647,6 +4703,66 @@
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.parser.macros":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.macros.BaseParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.macros.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.macros.MacroParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.macros.NodeType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.macros.ParsedMacro":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.macros.UnparsedMacro":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.models":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.models.BaseSqlParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.models.ModelParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.parser.parse_archives_from_project":{
@@ -2691,28 +4807,151 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.parser.schemas":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.BaseParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.NodeType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.SchemaParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.UnparsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.as_kwarg":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.basestring":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.get_nice_schema_test_name":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.get_pseudo_test_path":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.schemas.to_string":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.seeds":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.seeds.BaseParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.seeds.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.seeds.NodeType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.seeds.SeedParser":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.seeds.UnparsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.parser.to_string":{
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.parser.util":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.parser.util.ParserUtils":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.project":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.project.APIObject":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.project.DbtProfileError":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.project.DbtProjectError":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2720,6 +4959,7 @@
  "dbt.project.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2727,19 +4967,28 @@
  "dbt.project.NO_SUPPLIED_PROFILE_ERROR":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.project.Project":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.project.deep_merge":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.project.default_profiles":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2747,6 +4996,7 @@
  "dbt.project.default_profiles_dir":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2754,13 +5004,21 @@
  "dbt.project.default_project_cfg":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.project.read_packages":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.project.read_profiles":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2768,6 +5026,7 @@
  "dbt.project.read_project":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2775,6 +5034,7 @@
  "dbt.runner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2806,6 +5066,7 @@
  "dbt.runner.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2825,6 +5086,7 @@
  "dbt.runner.RunManager":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2874,6 +5136,7 @@
  "dbt.runner.get_adapter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2920,13 +5183,21 @@
  "dbt.schema":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.schema.BigQueryColumn":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.schema.Column":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -2934,6 +5205,7 @@
  "dbt.schema.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3049,9 +5321,118 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.semver":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.Matchers":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.UnboundedVersionSpecifier":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.VersionRange":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.VersionSpecifier":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.VersionsNotCompatibleException":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver._ALPHA":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver._ALPHA_NO_LEADING_ZEROS":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver._BASE_VERSION_REGEX":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver._MATCHERS":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver._NUM_NO_LEADING_ZEROS":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver._VERSION_EXTRA_REGEX":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver._VERSION_REGEX":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.find_possible_versions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.logger":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.reduce_versions":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.resolve_to_specific_version":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.semver.versions_compatible":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.source":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3071,6 +5452,7 @@
  "dbt.source.Csv":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3104,6 +5486,7 @@
  "dbt.source.Source":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3111,6 +5494,7 @@
  "dbt.ssh_forward":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3118,6 +5502,7 @@
  "dbt.ssh_forward.get_or_create_tunnel":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3125,6 +5510,7 @@
  "dbt.ssh_forward.server":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3195,6 +5581,7 @@
  "dbt.task":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3202,6 +5589,7 @@
  "dbt.task.archive":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3215,12 +5603,14 @@
  "dbt.task.archive.ArchiveRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.archive.ArchiveTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3234,6 +5624,7 @@
  "dbt.task.archive.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3241,12 +5632,14 @@
  "dbt.task.archive.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.archive.RunManager":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3254,30 +5647,35 @@
  "dbt.task.archive.RunnableTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.base_task":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.base_task.BaseTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.base_task.RunnableTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.clean":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3285,12 +5683,14 @@
  "dbt.task.clean.BaseTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.clean.CleanTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3298,6 +5698,7 @@
  "dbt.task.compile":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3317,12 +5718,14 @@
  "dbt.task.compile.CompileRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.compile.CompileTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3336,6 +5739,7 @@
  "dbt.task.compile.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3343,24 +5747,28 @@
  "dbt.task.compile.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.compile.RunManager":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.compile.RunnableTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.debug":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3368,12 +5776,14 @@
  "dbt.task.debug.BaseTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.debug.DebugTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3381,6 +5791,7 @@
  "dbt.task.debug.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3388,25 +5799,41 @@
  "dbt.task.debug.PROFILE_DIR_MESSAGE":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.deps":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.task.deps.AttrDict":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.task.deps.BaseTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.task.deps.DOWNLOADS_PATH":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.task.deps.DepsTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3414,13 +5841,75 @@
  "dbt.task.deps.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.task.deps.GitPackage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps.LocalPackage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps.Package":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps.RegistryPackage":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps.UnboundedVersionSpecifier":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps.VersionSpecifier":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps._convert_repo":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps._parse_package":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps._read_packages":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.deps._split_at_branch":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.task.deps.basestring":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -3438,9 +5927,88 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.task.deps.registry":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.BaseTask":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.CATALOG_FILENAME":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.GenerateTask":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.ParsedMacro":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.ParsedManifest":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.ParsedNode":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.bigint":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.get_adapter":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.get_stripped_prefix":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.unflatten":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.generate.write_file":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.task.init":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3448,12 +6016,14 @@
  "dbt.task.init.BaseTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.init.DOCS_URL":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -3466,12 +6036,14 @@
  "dbt.task.init.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.init.InitTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3479,6 +6051,7 @@
  "dbt.task.init.ON_COMPLETE_MESSAGE":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -3491,24 +6064,28 @@
  "dbt.task.init.SAMPLE_PROFILES_YML_FILE":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.init.STARTER_PROFILE":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.init.STARTER_REPO":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.run":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3534,6 +6111,7 @@
  "dbt.task.run.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3541,18 +6119,21 @@
  "dbt.task.run.ModelRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.run.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.run.RunManager":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3560,6 +6141,7 @@
  "dbt.task.run.RunTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3567,6 +6149,7 @@
  "dbt.task.run.RunnableTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -3579,6 +6162,7 @@
  "dbt.task.seed":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3589,9 +6173,40 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.task.seed.GLOBAL_LOGGER":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.seed.NodeType":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.seed.RunManager":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.seed.RunnableTask":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.task.seed.SeedRunner":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.task.seed.SeedTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3606,6 +6221,7 @@
  "dbt.task.test":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3631,6 +6247,7 @@
  "dbt.task.test.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3638,12 +6255,14 @@
  "dbt.task.test.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.test.RunManager":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3651,18 +6270,21 @@
  "dbt.task.test.RunnableTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.test.TestRunner":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.task.test.TestTask":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3670,6 +6292,7 @@
  "dbt.templates":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3698,6 +6321,7 @@
  "dbt.tracking":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3712,6 +6336,7 @@
  "dbt.tracking.COLLECTOR_PROTOCOL":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3719,6 +6344,7 @@
  "dbt.tracking.COLLECTOR_URL":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3726,6 +6352,7 @@
  "dbt.tracking.COOKIE_PATH":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3733,6 +6360,7 @@
  "dbt.tracking.DBT_INVOCATION_ENV":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3740,6 +6368,7 @@
  "dbt.tracking.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3747,6 +6376,7 @@
  "dbt.tracking.INVOCATION_ENV_SPEC":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3754,13 +6384,21 @@
  "dbt.tracking.INVOCATION_SPEC":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.tracking.PACKAGE_INSTALL_SPEC":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.tracking.PLATFORM_SPEC":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3768,6 +6406,7 @@
  "dbt.tracking.RUN_MODEL_SPEC":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3775,6 +6414,7 @@
  "dbt.tracking.User":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3782,6 +6422,7 @@
  "dbt.tracking.do_not_track":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3789,6 +6430,7 @@
  "dbt.tracking.emitter":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3796,6 +6438,7 @@
  "dbt.tracking.flush":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3803,6 +6446,7 @@
  "dbt.tracking.get_dbt_env_context":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3810,6 +6454,7 @@
  "dbt.tracking.get_invocation_context":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3817,6 +6462,7 @@
  "dbt.tracking.get_invocation_end_context":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3824,6 +6470,7 @@
  "dbt.tracking.get_invocation_invalid_context":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3831,6 +6478,7 @@
  "dbt.tracking.get_invocation_start_context":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3845,6 +6493,7 @@
  "dbt.tracking.get_platform_context":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3852,6 +6501,7 @@
  "dbt.tracking.get_run_type":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3859,6 +6509,7 @@
  "dbt.tracking.initialize_tracking":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3866,6 +6517,7 @@
  "dbt.tracking.track":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3873,6 +6525,7 @@
  "dbt.tracking.version":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -3880,211 +6533,258 @@
  "dbt.ui":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.colors":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.colors.COLORS":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.COLOR_FG_GREEN":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.COLOR_FG_RED":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.COLOR_FG_YELLOW":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.COLOR_RESET_ALL":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.USE_COLORS":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.color":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.get_counts":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.get_materialization":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.get_printable_result":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.get_timestamp":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.green":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.interpret_run_result":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_archive_result_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_cancel_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_end_of_run_summary":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_fancy_output_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_model_result_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_run_end_messages":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_run_result_error":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_run_status_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.ui.printer.print_seed_result_line":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.ui.printer.print_skip_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_start_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_test_result_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.print_timestamped_line":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.red":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.use_colors":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.ui.printer.yellow":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.AttrDict":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.DBTConfigKeys":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -4092,26 +6792,42 @@
  "dbt.utils.ExitCodes":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils.GLOBAL_DBT_MODULES_PATH":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils.GLOBAL_LOGGER":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.MACRO_PREFIX":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.NodeType":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.OPERATION_PREFIX":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.This":{
@@ -4128,10 +6844,41 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.utils._deep_merge":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils._merge":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils.add_ephemeral_model_prefix":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.utils.basestring":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.chunks":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils.coalesce":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.compiler_error":{
@@ -4144,6 +6891,7 @@
  "dbt.utils.compiler_warning":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -4151,26 +6899,48 @@
  "dbt.utils.deep_merge":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.dependencies_for_path":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.dependency_projects":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.filter_null_values":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.find_by_name":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.find_in_subgraph_by_name":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.find_macro_by_name":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
@@ -4188,64 +6958,140 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.utils.find_operation_by_name":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils.find_refable_by_name":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.utils.flatten_nodes":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.get_dbt_macro_name":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils.get_dbt_operation_name":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.get_hash":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils.get_materialization":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils.get_model_name_or_none":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils.get_nodes_by_tags":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.get_operation_macro":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils.get_profile_from_project":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.get_pseudo_hook_path":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils.get_pseudo_test_path":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.invalid_ref_fail_unless_test":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.is_blocking_dependency":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils.is_enabled":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
   ]
  },
  "dbt.utils.is_type":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.load_project_with_profile":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils.md5":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils.memoized":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.utils.merge":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.model_cte_name":{
@@ -4257,12 +7103,20 @@
  "dbt.utils.model_immediate_name":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.parse_cli_vars":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.utils.split_path":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -4270,6 +7124,7 @@
  "dbt.utils.to_string":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -4277,13 +7132,21 @@
  "dbt.utils.to_unicode":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.utils.yaml_helper":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.version":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -4291,6 +7154,7 @@
  "dbt.version.REMOTE_VERSION_FILE":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -4305,15 +7169,29 @@
  "dbt.version.__version__":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.version.get_installed_version":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.version.get_latest_version":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.version.get_remote_version_file_contents":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  },
  "dbt.version.get_version":{
@@ -4323,9 +7201,22 @@
    "dbt-0.8.3-py27_0"
   ]
  },
+ "dbt.version.get_version_information":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.version.get_version_string_from_text":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
  "dbt.version.installed":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -4340,6 +7231,7 @@
  "dbt.version.latest":{
   "__set__":true,
   "elements":[
+   "dbt-0.10.2-py_0",
    "dbt-0.7.0-py34_0",
    "dbt-0.8.3-py27_0"
   ]
@@ -4451,6 +7343,18 @@
   "__set__":true,
   "elements":[
    "dbt-0.8.3-py27_0"
+  ]
+ },
+ "dbt.writer":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
+  ]
+ },
+ "dbt.writer.write_node":{
+  "__set__":true,
+  "elements":[
+   "dbt-0.10.2-py_0"
   ]
  }
 }
