@@ -1166,37 +1166,54 @@
  "smif.__author__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.__copyright__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.__license__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.__version__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.CSVDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.DatafileInterface":{
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.cli.FileMetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.INTERVALS":{
@@ -1214,7 +1231,8 @@
  "smif.cli.LOGGER":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.LOGGING_CONFIG":{
@@ -1229,10 +1247,22 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.cli.ModelRunScheduler":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.cli.Narrative":{
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.cli.ParquetDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.REGIONS":{
@@ -1265,28 +1295,61 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.cli.Store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.USE_WIN32":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.cli.VERBOSITY":{
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.cli.YamlConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.cli.__author__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.__copyright__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.__license__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli._get_store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli._run_server":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.arg":{
@@ -1304,7 +1367,20 @@
  "smif.cli.confirm":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.copy_project_folder":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.create_app":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.dump":{
@@ -1316,7 +1392,8 @@
  "smif.cli.execute_model_run":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.get_model_run_definition":{
@@ -1340,7 +1417,8 @@
  "smif.cli.list_model_runs":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.load_interval_sets":{
@@ -1355,16 +1433,78 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.cli.log":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.log.LOGGER":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.log.LOGGING_CONFIG":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.log.VERBOSITY":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.log.arg":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.log.profiling_start":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.log.profiling_stop":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.log.summary":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.cli.main":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.parse_arguments":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.run_app":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.cli.run_model_runs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.cli.setup_configuration":{
@@ -1376,13 +1516,291 @@
  "smif.cli.setup_project_folder":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.ModelRunScheduler":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.ModelRunner":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.__all__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.LOGGER":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.ModelLoader":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.ModelRunBuilder":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.ScenarioModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.SosModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.build_model_run":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.get_model_run_definition":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.get_scenario_models":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.build.get_sector_models":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.copy_project_folder":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.execute":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.execute.LOGGER":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.execute.SmifModelRunError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.execute.build_model_run":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.execute.execute_model_run":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.execute.get_model_run_definition":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.execute_model_run":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.DecisionManager":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.JobScheduler":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.ModelOperation":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.ModelRun":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.ModelRunBuilder":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.ModelRunner":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.RelativeTimestep":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.ScenarioModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.SmifModelRunError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.modelrun.SmifTimestepResolutionError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.scheduler":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.scheduler.DataHandle":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.scheduler.JobScheduler":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.scheduler.ModelOperation":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.scheduler.ModelRunScheduler":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.setup":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.setup.LOGGER":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.setup._recursive_overwrite":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.controller.setup.copy_project_folder":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.Adaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.IntervalAdaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.RegionAdaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.SpaceTimeConvertor":{
@@ -1391,22 +1809,79 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.convert.UnitAdaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.__all__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.convert.__author__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.__copyright__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.__license__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.adaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.adaptor.Adaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.adaptor.Model":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.adaptor.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.adaptor.inputs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.adaptor.outputs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.adaptor.parameters":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.area":{
@@ -1490,25 +1965,46 @@
  "smif.convert.interval":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.interval.Adaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.interval.BASE_YEAR":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.interval.Interval":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.interval.IntervalAdaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.interval.IntervalSet":{
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.convert.interval.NDimensionalRegister":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.interval.Register":{
@@ -1520,7 +2016,8 @@
  "smif.convert.interval.ResolutionSet":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.interval.TimeIntervalRegister":{
@@ -1538,19 +2035,22 @@
  "smif.convert.interval.__author__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.interval.__copyright__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.interval.__license__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.interval.get_register":{
@@ -1559,28 +2059,110 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.convert.region":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.Adaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.NDimensionalRegister":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.NamedShape":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.RegionAdaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.RegionSet":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.ResolutionSet":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.__author__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.__copyright__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.region.__license__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.convert.register":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.register.LogMixin":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.register.NDimensionalRegister":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.register.Register":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.register.ResolutionSet":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.unit":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.unit.Adaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.convert.unit.LOGGER":{
@@ -1595,6 +2177,30 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.convert.unit.UnitAdaptor":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.unit.inputs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.unit.outputs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.convert.unit.parameters":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.convert.unit.parse_unit":{
   "__set__":true,
   "elements":[
@@ -1604,7 +2210,14 @@
  "smif.data_layer":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.DataHandle":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.DataInterface":{
@@ -1625,10 +2238,484 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.data_layer.Store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.__all__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.abstract_config_store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.abstract_config_store.ConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.abstract_data_store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.abstract_data_store.DataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.abstract_metadata_store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.abstract_metadata_store.MetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array.DataArray":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array.INSTALL_WARNING":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array.SmifDataError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array.SmifDataMismatchError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array.Spec":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array._array_equal_nan":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_array._reindex_xr_data_array":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_handle":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_handle.DataArray":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_handle.DataHandle":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_handle.RelativeTimestep":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_handle.ResultsHandle":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.data_handle.SmifDataError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database.setup_database.DB_NAME":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database.setup_database.down_migrations":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database.setup_database.main":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database.setup_database.run_migrations":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database.setup_database.up_migrations":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database_interface":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database_interface.ConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database_interface.DataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database_interface.DbConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database_interface.DbDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database_interface.DbMetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database_interface.MetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.database_interface.initiate_db_connection":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.data_layer.dump":{
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.data_layer.file":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.CSVDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.FileMetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.ParquetDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.YamlConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.__all__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store.ConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store.SmifDataExistsError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store.SmifDataMismatchError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store.YamlConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._assert_file_exists":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._assert_file_not_exists":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._file_exists":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._idx_in_list":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._pick_from_list":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._read_filenames_in_dir":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._read_yaml_file":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._skip_coords":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store._write_yaml_file":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store.validate_sos_model_config":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_config_store.validate_sos_model_format":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store.CSVDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store.DataArray":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store.DataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store.FileDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store.ParquetDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store.SmifDataMismatchError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store._nest_keys":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_data_store._unnest_keys":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store.FileMetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store.MetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store.SmifDataReadError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store._df_to_records":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store._read_filenames_in_dir":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store._read_yaml_file":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.file.file_metadata_store._write_yaml_file":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.load":{
@@ -1647,6 +2734,102 @@
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.data_layer.memory_interface":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.ConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.DataArray":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.DataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.MemoryConfigStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.MemoryDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.MemoryMetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.MetadataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.SmifDataExistsError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.SmifDataMismatchError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface._skip_coords":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface._variant_dict_to_list":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.memory_interface._variant_list_to_dict":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.model_loader":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.model_loader.ModelLoader":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.sector_model_config":{
@@ -1673,16 +2856,90 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.data_layer.store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.store.CSVDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.store.ParquetDataStore":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.store.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.store.Spec":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.store.Store":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.store._pick_from_list":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.store.validate_sos_model_config":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.store.validate_sos_model_format":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.data_layer.validate":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate.SmifDataError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate.SmifDataInputError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate.SmifValidationError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.VALIDATION_ERRORS":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.ValidationError":{
@@ -1691,88 +2948,156 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.data_layer.validate._pick_sector_model":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate._validate_dependencies":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate._validate_dependency":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate._validate_description":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate._validate_sos_model_deps":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate._validate_sos_model_models":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate._validate_sos_model_narratives":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate._validate_sos_model_scenarios":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.data_layer.validate.validate_dependency":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_initial_condition":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_interval_sets_config":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_interventions":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_path_to_timesteps":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_planning_config":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_region_sets_config":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_scenario":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_sector_model_initial_config":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_sector_models_initial_config":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_sos_model_config":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.data_layer.validate.validate_sos_model_format":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_time_interval":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.data_layer.validate.validate_timesteps":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.decision":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.decision.Planning":{
@@ -1797,6 +3122,366 @@
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.decision.decision":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.DecisionManager":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.DecisionModule":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.DecisionModule.interventions":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.ModelLoader":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.PreSpecified":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.ResultsHandle":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.RuleBased":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.__author__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.__copyright__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.decision.decision.__license__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifDataError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifDataExistsError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifDataInputError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifDataMismatchError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifDataReadError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifException":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifModelRunError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifTimestepResolutionError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.exception.SmifValidationError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.__all__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.app":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.app.create_app":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.app.register_api_endpoints":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.app.register_error_handlers":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.app.register_routes":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.create_app":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.DimensionAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.ModelRunAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.ScenarioAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.SectorModelAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.SmifAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.SmifDataError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.SmifDataInputError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.SmifException":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.SmifValidationError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.SosModelAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud._parse_exception":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.check_timestamp":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.crud.parse_exceptions":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.DimensionAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.ModelRunAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.ScenarioAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.SectorModelAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.SmifAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.SmifDataExistsError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.SmifDataMismatchError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.SmifDataNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.SosModelAPI":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.register_api":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.register_api_endpoints":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.register_error_handlers":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.http_api.register.register_routes":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.intervention":{
@@ -1850,7 +3535,14 @@
  "smif.metadata":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.Coordinates":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.metadata.Metadata":{
@@ -1863,6 +3555,24 @@
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.metadata.RelativeTimestep":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.Spec":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.__all__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.metadata.__author__":{
@@ -1883,16 +3593,77 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.metadata.coordinates":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.coordinates.Coordinates":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.metadata.parse_unit":{
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.metadata.spec":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.spec.Coordinates":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.spec.Spec":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.spec._is_sequence":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.timestep":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.timestep.RelativeTimestep":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.timestep.SmifTimestepResolutionError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.metadata.timestep.element_before":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.model":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.CompositeModel":{
@@ -1916,7 +3687,8 @@
  "smif.model.Model":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.Model.model_inputs":{
@@ -1931,22 +3703,60 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.model.ModelOperation":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.model.ParameterList":{
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.model.ScenarioModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.SectorModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.SosModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.__all__":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.model.dependency":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.dependency.Dependency":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.dependency.RelativeTimestep":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.dependency.SpaceTimeConvertor":{
@@ -1971,6 +3781,48 @@
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.model.model":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.model.Model":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.model.Model.inputs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.model.Model.outputs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.model.Model.parameters":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.model.ScenarioModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.model.Spec":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.model_set":{
@@ -2042,19 +3894,22 @@
  "smif.model.sector_model":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sector_model.Model":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sector_model.SectorModel":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sector_model.SectorModelBuilder":{
@@ -2072,19 +3927,22 @@
  "smif.model.sector_model.__author__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sector_model.__copyright__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sector_model.__license__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sector_model.get_register":{
@@ -2096,13 +3954,20 @@
  "smif.model.sos_model":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.CompositeModel":{
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.model.sos_model.Dependency":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.InterventionRegister":{
@@ -2114,7 +3979,8 @@
  "smif.model.sos_model.Model":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.ModelSet":{
@@ -2129,22 +3995,43 @@
    "smif-0.5.0-py36_0"
   ]
  },
+ "smif.model.sos_model.RelativeTimestep":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
  "smif.model.sos_model.ScenarioModel":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.SectorModel":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.sos_model.SmifDataMismatchError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.model.sos_model.SmifValidationError":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.SosModel":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.SosModelBuilder":{
@@ -2156,19 +4043,22 @@
  "smif.model.sos_model.__author__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.__copyright__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.__license__":{
   "__set__":true,
   "elements":[
-   "smif-0.5.0-py36_0"
+   "smif-0.5.0-py36_0",
+   "smif-1.0.2-py_0"
   ]
  },
  "smif.model.sos_model.element_after":{
@@ -2259,6 +4149,84 @@
   "__set__":true,
   "elements":[
    "smif-0.5.0-py36_0"
+  ]
+ },
+ "smif.sample_project":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.energy_demand.EDMWrapper":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.energy_demand.SectorModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.energy_demand.inputs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.energy_demand.outputs":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.energy_demand.parameters":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.water_supply.CORE_MODEL":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.water_supply.ExampleWaterSupplySimulationModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.water_supply.SectorModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.models.water_supply.WaterSupplySectorModel":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.planning.energyagent.EnergyAgent":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.planning.energyagent.RuleBased":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
+  ]
+ },
+ "smif.sample_project.planning.energyagent.interventions":{
+  "__set__":true,
+  "elements":[
+   "smif-1.0.2-py_0"
   ]
  },
  "smokesignal.__all__":{
