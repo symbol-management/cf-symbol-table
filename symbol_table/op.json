@@ -7771,253 +7771,979 @@
  "opentracing.Format":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.InvalidCarrierException":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.Reference":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.Scope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.Span":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.SpanContextCorruptedException":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.Tracer":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.UnsupportedFormatException":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing._reset_global_tracer":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.child_of":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.COMPONENT":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.DATABASE_INSTANCE":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.DATABASE_STATEMENT":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.DATABASE_TYPE":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.DATABASE_USER":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.ERROR":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.HTTP_METHOD":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.HTTP_STATUS_CODE":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.HTTP_URL":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.MESSAGE_BUS_DESTINATION":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.PEER_ADDRESS":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.PEER_HOSTNAME":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.PEER_HOST_IPV4":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.PEER_HOST_IPV6":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.PEER_PORT":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.PEER_SERVICE":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.SAMPLING_PRIORITY":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.ext.tags.SERVICE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.SPAN_KIND":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.ext.tags.SPAN_KIND_CONSUMER":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.ext.tags.SPAN_KIND_PRODUCER":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.SPAN_KIND_RPC_CLIENT":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.ext.tags.SPAN_KIND_RPC_SERVER":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.follows_from":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.global_tracer":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.harness":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.harness.api_check":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.harness.api_check.APICompatibilityCheckMixin":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.harness.api_check.Format":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.harness.scope_check":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.harness.scope_check.ScopeCompatibilityCheckMixin":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.harness.scope_check.Span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.is_global_tracer_registered":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.logs":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.logs.ERROR_KIND":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.logs.ERROR_OBJECT":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.logs.EVENT":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.logs.MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.logs.STACK":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.MockTracer":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.Propagator":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.binary_propagator":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.binary_propagator.BinaryPropagator":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.binary_propagator.InvalidCarrierException":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.binary_propagator.SpanContextCorruptedException":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.context":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.context.EMPTY_BAGGAGE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.context.SpanContext":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.context.baggage":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.propagator":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.propagator.Propagator":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.span.LogData":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.span.MockSpan":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.span.Span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.text_propagator":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.text_propagator.SpanContextCorruptedException":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.text_propagator.TextPropagator":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.text_propagator.field_count":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.text_propagator.field_name_span_id":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.text_propagator.field_name_trace_id":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.text_propagator.prefix_baggage":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.text_propagator.prefix_tracer_state":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer.Format":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer.MockTracer":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer.ThreadLocalScopeManager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer.Tracer":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer.UnsupportedFormatException":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer._supported_formats":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer.active_span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.mocktracer.tracer.scope_manager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.propagation":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.propagation.Format":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.propagation.InvalidCarrierException":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.propagation.SpanContextCorruptedException":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.propagation.UnsupportedFormatException":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope.Scope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope.Scope.manager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope.Scope.span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_manager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_manager.ScopeManager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.Scope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.ThreadLocalScopeManager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers._ThreadLocalScope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.asyncio":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.asyncio.AsyncioScopeManager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.asyncio.Scope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.asyncio.ThreadLocalScopeManager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.asyncio._AsyncioScope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.asyncio.manager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.asyncio.span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.constants":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.constants.ACTIVE_ATTR":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.gevent":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.gevent.GeventScopeManager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.gevent.Scope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.gevent._GeventScope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.gevent.manager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.gevent.span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.manager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.tornado":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.tornado.Scope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.tornado.ThreadLocalScopeManager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.tornado.ThreadSafeStackContext":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.tornado.TornadoScopeManager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.tornado._TornadoScope":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.tornado._TracerRequestContext":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.scope_managers.tornado.tracer_stack_context":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.set_global_tracer":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.span":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.span.Span":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.span.SpanContext.EMPTY_BAGGAGE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.span.SpanContext.baggage":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.span.tags":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.start_child_span":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.COMPONENT":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.DATABASE_INSTANCE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.DATABASE_STATEMENT":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.DATABASE_TYPE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.DATABASE_USER":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.ERROR":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.HTTP_METHOD":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.HTTP_STATUS_CODE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.HTTP_URL":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.MESSAGE_BUS_DESTINATION":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.PEER_ADDRESS":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.PEER_HOSTNAME":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.PEER_HOST_IPV4":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.PEER_HOST_IPV6":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.PEER_PORT":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.PEER_SERVICE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.SAMPLING_PRIORITY":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.SERVICE":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.SPAN_KIND":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.SPAN_KIND_CONSUMER":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.SPAN_KIND_PRODUCER":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.SPAN_KIND_RPC_CLIENT":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tags.SPAN_KIND_RPC_SERVER":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.tracer":{
@@ -8029,31 +8755,54 @@
  "opentracing.tracer.Reference":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.tracer.Tracer":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tracer.Tracer._supported_formats":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tracer.Tracer.active_span":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
+  ]
+ },
+ "opentracing.tracer.Tracer.scope_manager":{
+  "__set__":true,
+  "elements":[
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.tracer.child_of":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.tracer.follows_from":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing.tracer.start_child_span":{
   "__set__":true,
   "elements":[
-   "opentracing-1.3.0-py35_0"
+   "opentracing-1.3.0-py35_0",
+   "opentracing-2.1.0-py27_0"
   ]
  },
  "opentracing_instrumentation.client_hooks":{
