@@ -8571,7 +8571,8 @@
  "secretstorage.Collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.DBUS_ACCESS_DENIED":{
@@ -8601,67 +8602,96 @@
  "secretstorage.Item":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.ItemNotFoundException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.LockedException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.PromptDismissedException":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.SecretServiceNotAvailableException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.SecretStorageException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.__version__":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.__version_tuple__":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.add_match_rules":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.COLLECTION_IFACE":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.Collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.collection.DBusAddressWrapper":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.DEFAULT_COLLECTION":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.InterfaceWrapper":{
@@ -8673,43 +8703,62 @@
  "secretstorage.collection.Item":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.ItemNotFoundException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.LockedException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.collection.PromptDismissedException":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.SERVICE_IFACE":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.SESSION_COLLECTION":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.SS_PATH":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.SS_PREFIX":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.collection.Session":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.bus_get_object":{
@@ -8721,7 +8770,14 @@
  "secretstorage.collection.create_collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.collection.exec_prompt":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.exec_prompt_glib":{
@@ -8733,43 +8789,50 @@
  "secretstorage.collection.format_secret":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.get_all_collections":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.get_any_collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.get_collection_by_alias":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.get_default_collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.open_session":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.search_items":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.collection.to_unicode":{
@@ -8781,187 +8844,230 @@
  "secretstorage.collection.unlock_objects":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.create_collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.dbus_init":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.ALGORITHM_DH":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.ALGORITHM_PLAIN":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.DBUS_ACCESS_DENIED":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.DBUS_EXEC_FAILED":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.DBUS_NOT_SUPPORTED":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.DBUS_NO_REPLY":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.DBUS_NO_SUCH_OBJECT":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.DBUS_SERVICE_UNKNOWN":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.DBUS_UNKNOWN_METHOD":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.SS_PATH":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.defines.SS_PREFIX":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.dhcrypto":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.dhcrypto.DH_PRIME_1024":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.dhcrypto.DH_PRIME_1024_BYTES":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.dhcrypto.Session":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.dhcrypto.int_to_bytes":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.exceptions":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.exceptions.ItemNotFoundException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.exceptions.LockedException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.exceptions.PromptDismissedException":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.exceptions.SecretServiceNotAvailableException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.exceptions.SecretStorageException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.get_all_collections":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.get_any_collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.get_collection_by_alias":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.get_default_collection":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.item":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.item.DBusAddressWrapper":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.item.ITEM_IFACE":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.item.InterfaceWrapper":{
@@ -8973,19 +9079,34 @@
  "secretstorage.item.Item":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.item.LockedException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.item.PromptDismissedException":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.item.SS_PREFIX":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.item.Session":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.item.bus_get_object":{
@@ -8994,16 +9115,24 @@
    "secretstorage-2.3.1-py27_0"
   ]
  },
+ "secretstorage.item.exec_prompt":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
  "secretstorage.item.format_secret":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.item.open_session":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.item.to_unicode":{
@@ -9015,73 +9144,91 @@
  "secretstorage.item.unlock_objects":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.search_items":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.ALGORITHM_DH":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.ALGORITHM_PLAIN":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.BUS_NAME":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.DBUS_EXEC_FAILED":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.DBUS_NOT_SUPPORTED":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.DBUS_NO_REPLY":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.DBUS_NO_SUCH_OBJECT":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.DBUS_SERVICE_UNKNOWN":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.DBUS_UNKNOWN_METHOD":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.util.DBusAddressWrapper":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.InterfaceWrapper":{
@@ -9093,37 +9240,55 @@
  "secretstorage.util.ItemNotFoundException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.util.PROMPT_IFACE":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.SERVICE_IFACE":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.SS_PATH":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.SS_PREFIX":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.SecretServiceNotAvailableException":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.Session":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
+  ]
+ },
+ "secretstorage.util.add_match_rules":{
+  "__set__":true,
+  "elements":[
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.bus_get_object":{
@@ -9135,7 +9300,8 @@
  "secretstorage.util.exec_prompt":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.exec_prompt_glib":{
@@ -9147,19 +9313,22 @@
  "secretstorage.util.format_secret":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.int_to_bytes":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.open_session":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "secretstorage.util.to_unicode":{
@@ -9171,7 +9340,8 @@
  "secretstorage.util.unlock_objects":{
   "__set__":true,
   "elements":[
-   "secretstorage-2.3.1-py27_0"
+   "secretstorage-2.3.1-py27_0",
+   "secretstorage-3.1.1-py36_0"
   ]
  },
  "selenium.__version__":{
@@ -17805,55 +17975,63 @@
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.Serializer":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.__all__":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.__version__":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent._bytes_types":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent._repr_types":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent._reset_special_classes_registry":{
   "__set__":true,
   "elements":[
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent._ser_DictView":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent._ser_Enum":{
@@ -17866,63 +18044,72 @@
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent._special_classes_registry":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent._translate_types":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.can_use_set_literals":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.dump":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.load":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.register_class":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.tobytes":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serpent.unregister_class":{
   "__set__":true,
   "elements":[
    "serpent-1.19-py36_0",
-   "serpent-1.24-py35_0"
+   "serpent-1.24-py35_0",
+   "serpent-1.25-py36_0"
   ]
  },
  "serverfiles.FileNotFoundError":{
@@ -19029,6 +19216,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19046,6 +19234,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19063,6 +19252,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19080,6 +19270,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19097,6 +19288,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19111,6 +19303,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19141,6 +19334,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19158,6 +19352,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19188,6 +19383,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19205,6 +19401,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19235,6 +19432,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -19278,6 +19476,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24591,6 +24790,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24608,6 +24808,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24625,6 +24826,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24642,6 +24844,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24659,6 +24862,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24676,6 +24880,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24693,6 +24898,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24710,6 +24916,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24727,6 +24934,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24744,6 +24952,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -24992,6 +25201,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25009,6 +25219,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25026,6 +25237,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25043,6 +25255,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25060,6 +25273,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25077,6 +25291,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25094,6 +25309,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25111,6 +25327,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25128,6 +25345,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25145,6 +25363,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25162,6 +25381,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25179,6 +25399,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25196,6 +25417,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25213,6 +25435,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25230,6 +25453,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25256,6 +25480,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25273,6 +25498,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25290,6 +25516,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25307,6 +25534,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25324,6 +25552,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25341,6 +25570,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25358,6 +25588,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25375,6 +25606,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25392,6 +25624,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25422,6 +25655,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25439,6 +25673,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25456,6 +25691,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25473,6 +25709,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25490,6 +25727,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25507,6 +25745,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25524,6 +25763,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25548,6 +25788,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25604,6 +25845,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25621,6 +25863,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25638,6 +25881,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25655,6 +25899,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25678,6 +25923,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25695,6 +25941,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25712,6 +25959,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25729,6 +25977,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25746,6 +25995,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25763,6 +26013,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25780,6 +26031,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25797,6 +26049,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25814,6 +26067,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25831,6 +26085,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25848,6 +26103,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25865,6 +26121,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25882,6 +26139,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25899,6 +26157,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25916,6 +26175,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25940,6 +26200,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25957,6 +26218,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25974,6 +26236,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -25991,6 +26254,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26021,6 +26285,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26038,6 +26303,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26069,6 +26335,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26112,6 +26379,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26129,6 +26397,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26146,6 +26415,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26176,6 +26446,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26193,6 +26464,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26210,6 +26482,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26227,6 +26500,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26257,6 +26531,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26287,6 +26562,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26304,6 +26580,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26321,6 +26598,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26338,6 +26616,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26368,6 +26647,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26385,6 +26665,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26402,6 +26683,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26419,6 +26701,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26436,6 +26719,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26466,6 +26750,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26483,6 +26768,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26500,6 +26786,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -26522,6 +26809,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26539,6 +26827,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26556,6 +26845,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26573,6 +26863,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26590,6 +26881,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26607,6 +26899,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26624,6 +26917,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26641,6 +26935,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26658,6 +26953,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26675,6 +26971,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26692,6 +26989,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26709,6 +27007,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26726,6 +27025,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -26735,6 +27035,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26752,6 +27053,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -26761,6 +27063,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26778,6 +27081,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26795,6 +27099,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26812,6 +27117,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26829,6 +27135,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26846,6 +27153,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26863,6 +27171,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26880,6 +27189,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26897,6 +27207,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26914,6 +27225,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26931,6 +27243,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26948,6 +27261,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26965,6 +27279,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -26982,6 +27297,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27013,6 +27329,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27030,6 +27347,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27047,6 +27365,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27064,6 +27383,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27081,6 +27401,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27098,6 +27419,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27115,6 +27437,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27132,6 +27455,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27149,6 +27473,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27179,6 +27504,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27222,6 +27548,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27239,6 +27566,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27256,6 +27584,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27273,6 +27602,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27290,6 +27620,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27305,6 +27636,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27322,6 +27654,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27339,6 +27672,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27356,6 +27690,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27386,6 +27721,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27403,6 +27739,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27418,6 +27755,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27435,6 +27773,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27452,6 +27791,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27469,6 +27809,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27486,6 +27827,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27503,6 +27845,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27520,6 +27863,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27537,6 +27881,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27554,6 +27899,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27571,6 +27917,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27588,6 +27935,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27605,6 +27953,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27622,6 +27971,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27639,6 +27989,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27656,6 +28007,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27673,6 +28025,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27687,6 +28040,7 @@
  "setuptools.command.install_egg_info._nspkg_tmpl":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27701,6 +28055,7 @@
  "setuptools.command.install_egg_info._nspkg_tmpl_multi":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27718,6 +28073,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27740,6 +28096,7 @@
  "setuptools.command.install_egg_info.namespaces":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27754,6 +28111,7 @@
  "setuptools.command.install_egg_info.nspkg_ext":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27771,6 +28129,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27788,6 +28147,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27805,6 +28165,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27822,6 +28183,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27839,6 +28201,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27856,6 +28219,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27873,6 +28237,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27888,6 +28253,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27903,6 +28269,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27918,6 +28285,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27935,6 +28303,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27962,6 +28331,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27979,6 +28349,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -27996,6 +28367,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28013,6 +28385,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28030,6 +28403,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28047,6 +28421,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28064,6 +28439,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28081,6 +28457,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28098,6 +28475,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28115,6 +28493,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28132,6 +28511,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28156,6 +28536,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28190,6 +28571,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28207,6 +28589,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28224,6 +28607,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28241,6 +28625,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28258,6 +28643,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28275,6 +28661,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28292,6 +28679,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28309,6 +28697,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28326,6 +28715,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28343,6 +28733,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28360,6 +28751,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28377,6 +28769,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28394,6 +28787,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28411,6 +28805,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28428,6 +28823,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28457,6 +28853,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28474,6 +28871,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28491,6 +28889,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28508,6 +28907,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28525,6 +28925,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -28534,6 +28935,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28577,6 +28979,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28610,6 +29013,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28627,6 +29031,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28644,6 +29049,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28661,6 +29067,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28678,6 +29085,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28695,6 +29103,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28946,6 +29355,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28963,6 +29373,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28980,6 +29391,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -28997,6 +29409,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -29006,6 +29419,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29023,6 +29437,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29040,6 +29455,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29052,6 +29468,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29079,6 +29496,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -29088,6 +29506,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29118,6 +29537,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29135,6 +29555,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29149,6 +29570,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29163,6 +29585,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29180,6 +29603,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29210,6 +29634,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29239,6 +29664,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29256,6 +29682,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29273,6 +29700,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29290,6 +29718,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29307,6 +29736,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29324,6 +29754,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29341,6 +29772,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29358,6 +29790,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29375,6 +29808,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29392,6 +29826,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29409,6 +29844,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29464,6 +29900,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29481,6 +29918,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29555,6 +29993,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29572,6 +30011,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29589,6 +30029,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29605,6 +30046,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29621,6 +30063,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -29650,6 +30093,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29667,6 +30111,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29684,6 +30129,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29701,6 +30147,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29718,6 +30165,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29735,6 +30183,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29752,6 +30201,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29769,6 +30219,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -29799,6 +30250,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30082,6 +30534,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30110,6 +30563,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -30119,6 +30573,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30136,6 +30591,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30153,6 +30609,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30170,6 +30627,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30200,6 +30658,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30217,6 +30676,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30234,6 +30694,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30309,6 +30770,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30326,6 +30788,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -30348,6 +30811,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30365,6 +30829,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30420,6 +30885,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30435,6 +30901,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30450,6 +30917,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30465,6 +30933,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30480,6 +30949,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30495,6 +30965,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -30502,6 +30973,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30517,6 +30989,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30532,6 +31005,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30547,6 +31021,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30562,6 +31037,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30577,6 +31053,7 @@
   "__set__":true,
   "elements":[
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30680,6 +31157,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30697,6 +31175,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30714,6 +31193,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30731,6 +31211,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30748,6 +31229,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30765,6 +31247,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30782,6 +31265,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30798,6 +31282,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30814,6 +31299,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30856,6 +31342,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -30864,6 +31351,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -30872,6 +31360,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30888,6 +31377,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30904,6 +31394,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30920,6 +31411,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30936,6 +31428,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30953,6 +31446,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -30970,6 +31464,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31009,6 +31504,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31026,6 +31522,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31043,6 +31540,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31060,6 +31558,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31136,6 +31635,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31153,6 +31653,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31170,6 +31671,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31187,6 +31689,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31204,6 +31707,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31227,6 +31731,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31245,6 +31750,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31259,6 +31765,7 @@
  "setuptools.namespaces":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31273,6 +31780,7 @@
  "setuptools.namespaces.DevelopInstaller":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31287,6 +31795,7 @@
  "setuptools.namespaces.Installer":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31301,6 +31810,7 @@
  "setuptools.namespaces.Installer._nspkg_tmpl":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31315,6 +31825,7 @@
  "setuptools.namespaces.Installer._nspkg_tmpl_multi":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31329,6 +31840,7 @@
  "setuptools.namespaces.Installer.nspkg_ext":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31343,6 +31855,7 @@
  "setuptools.namespaces.flatten":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31357,6 +31870,7 @@
  "setuptools.namespaces.map":{
   "__set__":true,
   "elements":[
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31380,6 +31894,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31397,6 +31912,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31414,6 +31930,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31431,6 +31948,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31448,6 +31966,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31465,6 +31984,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31482,6 +32002,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31499,6 +32020,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31516,6 +32038,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31533,6 +32056,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31550,6 +32074,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31567,6 +32092,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31597,6 +32123,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31614,6 +32141,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31644,6 +32172,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31674,6 +32203,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31691,6 +32221,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31708,6 +32239,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31725,6 +32257,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31742,6 +32275,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31759,6 +32293,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31776,6 +32311,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31793,6 +32329,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31810,6 +32347,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31827,6 +32365,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31844,6 +32383,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31861,6 +32401,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31878,6 +32419,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31895,6 +32437,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31912,6 +32455,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31929,6 +32473,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31946,6 +32491,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31963,6 +32509,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31979,6 +32526,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -31996,6 +32544,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32013,6 +32562,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32030,6 +32580,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32047,6 +32598,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32056,6 +32608,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32078,6 +32631,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32095,6 +32649,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32112,6 +32667,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32129,6 +32685,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32258,6 +32815,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32266,6 +32824,7 @@
   "elements":[
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32275,6 +32834,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32284,6 +32844,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32311,6 +32872,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32389,6 +32951,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32406,6 +32969,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32423,6 +32987,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32432,6 +32997,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32462,6 +33028,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32471,6 +33038,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32480,6 +33048,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -32638,6 +33207,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32655,6 +33225,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32672,6 +33243,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32689,6 +33261,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32706,6 +33279,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32723,6 +33297,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32740,6 +33315,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32757,6 +33333,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32774,6 +33351,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32791,6 +33369,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32808,6 +33387,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32825,6 +33405,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32842,6 +33423,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32859,6 +33441,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32876,6 +33459,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32893,6 +33477,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32910,6 +33495,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32927,6 +33513,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32944,6 +33531,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32961,6 +33549,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32978,6 +33567,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -32995,6 +33585,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33012,6 +33603,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33029,6 +33621,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33046,6 +33639,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33063,6 +33657,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33080,6 +33675,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33097,6 +33693,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33114,6 +33711,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33138,6 +33736,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33155,6 +33754,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33172,6 +33772,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33189,6 +33790,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33206,6 +33808,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33223,6 +33826,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33240,6 +33844,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33257,6 +33862,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33287,6 +33893,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33304,6 +33911,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0"
   ]
  },
@@ -33313,6 +33921,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33343,6 +33952,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33360,6 +33970,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33377,6 +33988,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33394,6 +34006,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33411,6 +34024,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33428,6 +34042,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33458,6 +34073,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33475,6 +34091,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33492,6 +34109,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33522,6 +34140,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33546,6 +34165,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33570,6 +34190,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33587,6 +34208,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33604,6 +34226,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33635,6 +34258,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33652,6 +34276,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33810,6 +34435,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33827,6 +34453,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
@@ -33844,6 +34471,7 @@
    "setuptools-27.0.0-py35_0",
    "setuptools-28.3.0-py27_0",
    "setuptools-28.5.0-py35_0",
+   "setuptools-28.7.0-py35_0",
    "setuptools-32.3.0-py27_0",
    "setuptools-40.8.0-py37_0",
    "setuptools-40.9.0-py37_0",
