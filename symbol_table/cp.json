@@ -2595,43 +2595,122 @@
  "cpuinfo.CPUID":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.CPUINFO_VERSION":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.CopyNewFields":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.DataSource":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.PY2":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.__main__":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo._check_arch":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_cat_var_run_dmesg_boot":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_cpufreq_info":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo._get_cpu_info_from_cpuid":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_dmesg":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_ibm_pa_features":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_kstat":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_lscpu":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_proc_cpuinfo":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_registry":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_sysctl":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._get_cpu_info_from_sysinfo":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo._get_field":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo._get_hz_string_from_beagle_bone":{
@@ -2643,7 +2722,8 @@
  "cpuinfo._get_hz_string_from_brand":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo._get_hz_string_from_lscpu":{
@@ -2652,46 +2732,149 @@
    "py-cpuinfo-0.2.3-py36_1"
   ]
  },
+ "cpuinfo._parse_cpu_string":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo._parse_dmesg_output":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.actual_get_cpu_info_from_cpuid":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.b64_to_obj":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
  "cpuinfo.cpuinfo":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.CPUID":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo.CPUINFO_VERSION":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo.CopyNewFields":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.DataSource":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.PY2":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo._check_arch":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_cat_var_run_dmesg_boot":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_cpufreq_info":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo._get_cpu_info_from_cpuid":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_dmesg":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_ibm_pa_features":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_kstat":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_lscpu":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_proc_cpuinfo":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_registry":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_sysctl":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._get_cpu_info_from_sysinfo":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo._get_field":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo._get_hz_string_from_beagle_bone":{
@@ -2703,7 +2886,8 @@
  "cpuinfo.cpuinfo._get_hz_string_from_brand":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo._get_hz_string_from_lscpu":{
@@ -2712,124 +2896,180 @@
    "py-cpuinfo-0.2.3-py36_1"
   ]
  },
+ "cpuinfo.cpuinfo._parse_cpu_string":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo._parse_dmesg_output":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo.actual_get_cpu_info_from_cpuid":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo.b64_to_obj":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
  "cpuinfo.cpuinfo.err":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.get_cpu_info":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.is_bit_set":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.main":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.cpuinfo.obj_to_b64":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.parse_arch":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.program_paths":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.run_and_get_stdout":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.to_friendly_hz":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.to_hz_string":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.cpuinfo.to_raw_hz":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.err":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.get_cpu_info":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.is_bit_set":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.main":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
+  ]
+ },
+ "cpuinfo.obj_to_b64":{
+  "__set__":true,
+  "elements":[
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.parse_arch":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.program_paths":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.run_and_get_stdout":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.to_friendly_hz":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.to_hz_string":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  },
  "cpuinfo.to_raw_hz":{
   "__set__":true,
   "elements":[
-   "py-cpuinfo-0.2.3-py36_1"
+   "py-cpuinfo-0.2.3-py36_1",
+   "py-cpuinfo-3.3.0-py36_0"
   ]
  }
 }
