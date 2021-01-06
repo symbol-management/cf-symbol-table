@@ -335,52 +335,78 @@
    "bibtexparser-0.6.2-py35_0"
   ]
  },
+ "bidict.BidictBase":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
  "bidict.BidictException":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.BidirectionalMapping":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.DuplicationBehavior":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.DuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict.FrozenBidictBase":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.IGNORE":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.KeyAndValueDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.KeyDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.OVERWRITE":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict.OrderedBidictBase":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.OrderedBidirectionalMapping":{
@@ -392,31 +418,36 @@
  "bidict.RAISE":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.ValueDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.__all__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.__version__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._bidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._bidict.__copy__":{
@@ -464,7 +495,8 @@
  "bidict._bidict.bidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._bidict.itervalues":{
@@ -500,19 +532,100 @@
  "bidict._common":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase.__getitem__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase.__len__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase._fwd_class":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase._inv_class":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase._on_dup_key":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase._on_dup_kv":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase._on_dup_val":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase.inv":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase.values":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase.viewitems":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase.viewkeys":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._common.BidictBase.viewvalues":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.BidictException":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.BidirectionalMapping":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.BidirectionalMapping.__copy__":{
@@ -539,6 +652,12 @@
    "bidict-0.12.0-py27_0"
   ]
  },
+ "bidict._common.BidirectionalMapping.__slots__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
  "bidict._common.BidirectionalMapping._on_dup_key":{
   "__set__":true,
   "elements":[
@@ -555,6 +674,12 @@
   "__set__":true,
   "elements":[
    "bidict-0.12.0-py27_0"
+  ]
+ },
+ "bidict._common.BidirectionalMapping._subclsattrs":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.BidirectionalMapping.itervalues":{
@@ -590,127 +715,196 @@
  "bidict._common.DuplicationBehavior":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.DuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.IGNORE":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.KeyAndValueDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.KeyDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.ON_DUP_VAL":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.OVERWRITE":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.RAISE":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common.ValueDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common._marker":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common._missing":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._common._proxied":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen.FrozenBidictBase":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen.__copy__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen.__getitem__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen.__iter__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen.__len__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen.__reversed__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen.__slots__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen._fwd_class":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen._inv_class":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen._on_dup_key":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen._on_dup_kv":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen._on_dup_val":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen._subclsattrs":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen.frozenbidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen.frozenorderedbidict":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen.inv":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen.itervalues":{
@@ -722,55 +916,118 @@
  "bidict._frozen.values":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._frozen.viewitems":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen.viewkeys":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._frozen.viewvalues":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.__copy__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.__getitem__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.__iter__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.__len__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose.__reversed__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose.__slots__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose._fwd_class":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose._inv_class":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose._on_dup_key":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose._on_dup_kv":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose._on_dup_val":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose._subclsattrs":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose.inv":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.itervalues":{
@@ -782,67 +1039,108 @@
  "bidict._loose.loosebidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._loose.looseorderedbidict":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.values":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.viewitems":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.viewkeys":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._loose.viewvalues":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._named":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._named._LEGALNAMEPAT":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._named._LEGALNAMERE":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._named._make_empty":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._named.namedbidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._ordered.OrderedBidictBase":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._ordered.OrderedBidictBase.__copy__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._ordered.OrderedBidictBase.__iter__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._ordered.OrderedBidictBase.__reversed__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.OrderedBidirectionalMapping":{
@@ -854,61 +1152,100 @@
  "bidict._ordered._END":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered._NXT":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered._PRV":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.__getitem__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.__len__":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._ordered.__slots__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._ordered._fwd_class":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._ordered._inv_class":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered._make_iter":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered._on_dup_key":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered._on_dup_kv":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered._on_dup_val":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict._ordered._subclsattrs":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.frozenorderedbidict":{
   "__set__":true,
   "elements":[
    "bidict-0.12.0-py27_0"
+  ]
+ },
+ "bidict._ordered.inv":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.itervalues":{
@@ -926,55 +1263,70 @@
  "bidict._ordered.orderedbidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.values":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.viewitems":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.viewkeys":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict._ordered.viewvalues":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.bidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat.PY2":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
+  ]
+ },
+ "bidict.compat.PYPY":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat._compose":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat.ifilter":{
@@ -992,127 +1344,148 @@
  "bidict.compat.iteritems":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat.iterkeys":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat.itervalues":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat.izip":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat.viewitems":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat.viewkeys":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.compat.viewvalues":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.e":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.frozenbidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.frozenorderedbidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.inverted":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.loosebidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.looseorderedbidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.namedbidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.orderedbidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.pairs":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.util":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.util._arg0":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.util._inverted":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.util.inverted":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "bidict.util.pairs":{
   "__set__":true,
   "elements":[
-   "bidict-0.12.0-py27_0"
+   "bidict-0.12.0-py27_0",
+   "bidict-0.13.1-py36_0"
   ]
  },
  "biggus.AllThreadedEngine":{

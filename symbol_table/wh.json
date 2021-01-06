@@ -3,6 +3,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -12,6 +13,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -21,6 +23,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -29,13 +32,15 @@
  "wheel.archive":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.archive.archive_wheelfile":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.archive.log":{
@@ -47,13 +52,15 @@
  "wheel.archive.make_wheelfile_inner":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.bdist_wheel":{
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -62,6 +69,7 @@
  "wheel.bdist_wheel.PY_LIMITED_API_PATTERN":{
   "__set__":true,
   "elements":[
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -71,6 +79,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -86,6 +95,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -95,6 +105,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -104,6 +115,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -113,6 +125,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -329,37 +342,55 @@
  "wheel.egg2wheel":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
+  ]
+ },
+ "wheel.egg2wheel.WheelError":{
+  "__set__":true,
+  "elements":[
+   "wheel-0.31.1-py37_1"
+  ]
+ },
+ "wheel.egg2wheel._bdist_wheel_tag":{
+  "__set__":true,
+  "elements":[
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.egg2wheel.egg2wheel":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.egg2wheel.egg_info_re":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.egg2wheel.main":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install.BadWheelFile":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install.HashingFile":{
@@ -371,31 +402,36 @@
  "wheel.install.VERSION_TOO_HIGH":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install.VerifyingZipFile":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install.WHEEL_INFO_RE":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install.WheelFile":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install._big_number":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install.binary":{
@@ -425,7 +461,8 @@
  "wheel.install.parse_version":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install.read_pkg_info_bytes":{
@@ -437,7 +474,8 @@
  "wheel.install.reify":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.install.signatures":{
@@ -624,6 +662,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -639,6 +678,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -659,7 +699,8 @@
  "wheel.metadata.MayRequiresKey":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.metadata.OrderedDict":{
@@ -690,6 +731,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -699,6 +741,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -707,6 +750,7 @@
  "wheel.metadata.generate_requirements":{
   "__set__":true,
   "elements":[
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -728,6 +772,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -737,6 +782,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -746,6 +792,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -760,25 +807,29 @@
  "wheel.paths":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.paths.get_install_command":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.paths.get_install_paths":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.pep425tags":{
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -794,6 +845,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -803,6 +855,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -819,6 +872,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -828,6 +882,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -837,6 +892,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -846,6 +902,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -855,6 +912,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -864,6 +922,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -873,6 +932,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -882,6 +942,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -897,6 +958,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -905,325 +967,379 @@
  "wheel.signatures":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ALG":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.__all__":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.assertTrue":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.A":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.B":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.Bx":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.By":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.H":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.I":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.P":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.PY3":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.add":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.asbytes":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.b":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.bit":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.checkvalid":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.curve25519":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.d":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.decodeint":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.decodepoint":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.dh_test":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.double":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.dsa_test":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.encodeint":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.encodepoint":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.expmod":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.genkey":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.inv":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.isoncurve":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.joinbytes":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.l":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.pt_unxform":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.pt_xform":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.publickey":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.q":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.scalarmult":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.signature":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.xpt_add":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.xpt_double":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.xpt_mult":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.djbec.xrecover":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ed25519ll":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ed25519py":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ed25519py.Keypair":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ed25519py.PUBLICKEYBYTES":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ed25519py.SECRETKEYBYTES":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ed25519py.SIGNATUREBYTES":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ed25519py.__all__":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.ed25519py.crypto_sign":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.get_ed25519ll":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.keys":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.keys.WheelKeys":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.keys.load_config_paths":{
@@ -1247,19 +1363,22 @@
  "wheel.signatures.sign":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.test":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.signatures.verify":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.test":{
@@ -1739,85 +1858,105 @@
  "wheel.tool":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.WheelError":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.convert":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.get_keyring":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.install":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.keygen":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.main":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.parser":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.require_pkgresources":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.sign":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.unpack":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.unsign":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.tool.verify":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
+  ]
+ },
+ "wheel.tool.warn_signatures":{
+  "__set__":true,
+  "elements":[
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util":{
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -1826,7 +1965,8 @@
  "wheel.util.HashingFile":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.OrderedDefaultDict":{
@@ -1852,7 +1992,8 @@
  "wheel.util.__all__":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.as_bytes":{
@@ -1874,43 +2015,50 @@
  "wheel.util.binary":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.csidl":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.from_json":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.get_path":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.load_config_paths":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.matches_requirement":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.native":{
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -1919,18 +2067,21 @@
  "wheel.util.open_for_csv":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.save_config_path":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.text_type":{
   "__set__":true,
   "elements":[
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -1939,13 +2090,15 @@
  "wheel.util.to_json":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.util.urlsafe_b64decode":{
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -1955,6 +2108,7 @@
   "__set__":true,
   "elements":[
    "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1",
    "wheel-0.33.2-py36_0",
    "wheel-0.33.6-py27_0",
    "wheel-0.34.1-py37_0"
@@ -1963,7 +2117,8 @@
  "wheel.util.utf8":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.wheelfile":{
@@ -2057,37 +2212,49 @@
  "wheel.wininst2wheel":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
+  ]
+ },
+ "wheel.wininst2wheel._bdist_wheel_tag":{
+  "__set__":true,
+  "elements":[
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.wininst2wheel.archive_wheelfile":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.wininst2wheel.bdist_wininst2wheel":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.wininst2wheel.egg_info_re":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.wininst2wheel.main":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  },
  "wheel.wininst2wheel.parse_info":{
   "__set__":true,
   "elements":[
-   "wheel-0.29.0-py36_0"
+   "wheel-0.29.0-py36_0",
+   "wheel-0.31.1-py37_1"
   ]
  }
 }
