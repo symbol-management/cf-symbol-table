@@ -1,4 +1,10 @@
 {
+ "RAPIDpy.RAPID":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
  "RAPIDpy.RAPIDDataset":{
   "__set__":true,
   "elements":[
@@ -6,25 +12,46 @@
    "rapidpy-2.5.2-py36_1"
   ]
  },
+ "RAPIDpy.dataset":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
  "RAPIDpy.dataset.RAPIDDataset":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.dataset.compare_qout_files":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.gis":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.centroid":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.gis.centroid.FlowlineToPoint":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.merge":{
@@ -38,129 +65,154 @@
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.muskingum.CreateConstMuskingumXFile":{
   "__set__":true,
   "elements":[
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.muskingum.CreateMuskingumKFile":{
   "__set__":true,
   "elements":[
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.muskingum.CreateMuskingumKfacFile":{
   "__set__":true,
   "elements":[
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.muskingum.CreateMuskingumXFileFromDranageLine":{
   "__set__":true,
   "elements":[
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.network":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.network.CreateNetworkConnectivity":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.network.CreateSubsetFile":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.network.StreamIDNextDownIDToConnectivity":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.gis.open_shapefile":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.taudem":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.taudem.TauDEM":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.voronoi":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.voronoi._get_voronoi_centroid_array":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.voronoi._get_voronoi_poly_points":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.voronoi.pointsToVoronoiGridArray":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.voronoi.pointsToVoronoiGridShapefile":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.weight":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.weight.CreateWeightTableECMWF":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.weight.CreateWeightTableLDAS":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.weight.RTreeCreateWeightTable":{
@@ -174,91 +226,266 @@
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.weight.find_nearest":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.weight.get_poly_area_geo":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.gis.weight.rtree_create_weight_table":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.gis.workflow":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.gis.workflow.CreateAllStaticECMWFFiles":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.gis.workflow.CreateAllStaticECMWFRAPIDFiles":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.gis.workflow.CreateAllStaticRAPIDFiles":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.helper_functions":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.helper_functions.add_latlon_metadata":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.helper_functions.compare_csv_decimal_files":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.helper_functions.compare_csv_timeseries_files":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.helper_functions.csv_to_list":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.helper_functions.log":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.helper_functions.open_csv":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.helper_functions.remove_files":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromERAInterimRunoff":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.inflow.CreateInflowFileFromERAInterimRunoff.CreateInflowFileFromERAInterimRunoff":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromERAInterimRunoff.header_wt":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromERAInterimRunoff.land_surface_model_name":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromERAInterimRunoff.runoff_vars":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromGriddedRunoff":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromGriddedRunoff.CreateInflowFileFromGriddedRunoff":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromGriddedRunoff.CreateInflowFileFromGriddedRunoff.header_wt":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromGriddedRunoff.CreateInflowFileFromGriddedRunoff.land_surface_model_name":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromGriddedRunoff.CreateInflowFileFromGriddedRunoff.runoff_vars":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromLDASRunoff":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.inflow.CreateInflowFileFromLDASRunoff.CreateInflowFileFromLDASRunoff":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromLDASRunoff.CreateInflowFileFromLDASRunoff.land_surface_model_name":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromLDASRunoff.header_wt":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromLDASRunoff.land_surface_model_name":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromLDASRunoff.runoff_vars":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromWRFHydroRunoff":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.inflow.CreateInflowFileFromWRFHydroRunoff.CreateInflowFileFromWRFHydroRunoff":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromWRFHydroRunoff.header_wt":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromWRFHydroRunoff.land_surface_model_name":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.CreateInflowFileFromWRFHydroRunoff.runoff_vars":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.lsm_rapid_process":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.lsm_rapid_process.DEFAULT_LSM_INPUTS":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.inflow.lsm_rapid_process.all_output_file_information":{
@@ -267,17 +494,31 @@
    "rapidpy-2.5.2-py36_1"
   ]
  },
+ "RAPIDpy.inflow.lsm_rapid_process.determine_start_end_timestep":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
  "RAPIDpy.inflow.lsm_rapid_process.generate_inflows_from_runoff":{
   "__set__":true,
   "elements":[
-   "rapidpy-2.4.2-py36_0"
+   "rapidpy-2.4.2-py36_0",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.inflow.lsm_rapid_process.identify_lsm_grid":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.inflow.lsm_rapid_process.run_lsm_rapid_process":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.inflow.lsm_rapid_process.run_lsm_rapid_process.all_output_file_information":{
@@ -290,70 +531,170 @@
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.ConvertRAPIDOutputToCF":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.find_goodness_of_fit":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.generate_return_periods":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.generate_return_periods.generate_return_periods":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.generate_return_periods.generate_single_return_period":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.generate_seasonal_averages":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.generate_seasonal_averages.generate_seasonal_averages":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.generate_seasonal_averages.generate_single_seasonal_average":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.goodness_of_fit":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.KGE":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.L":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.NS":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.apb":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.bias":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.correlation":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.filter_nan":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.find_goodness_of_fit":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.index_agreement":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.mae":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.pc_bias":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.postprocess.goodness_of_fit.rmse":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.merge":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.merge.ConvertRAPIDOutputToCF":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.postprocess.merge.xrange":{
@@ -363,17 +704,37 @@
    "rapidpy-2.5.2-py36_1"
   ]
  },
+ "RAPIDpy.rapid":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.rapid.RAPID":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
+ "RAPIDpy.utilities":{
+  "__set__":true,
+  "elements":[
+   "rapidpy-2.6.0-py35_0"
+  ]
+ },
  "RAPIDpy.utilities.case_insensitive_file_search":{
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.utilities.get_valid_directory_list":{
   "__set__":true,
   "elements":[
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "RAPIDpy.utilities.get_valid_watershed_list":{
@@ -392,7 +753,8 @@
   "__set__":true,
   "elements":[
    "rapidpy-2.4.2-py36_0",
-   "rapidpy-2.5.2-py36_1"
+   "rapidpy-2.5.2-py36_1",
+   "rapidpy-2.6.0-py35_0"
   ]
  },
  "radical.analytics.Experiment":{
