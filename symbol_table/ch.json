@@ -8915,13 +8915,32 @@
  "chemfiles.Atom":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.BondOrder":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.CellShape":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.CellType":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
+  ]
+ },
+ "chemfiles.ChemfilesError":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.ChemfilesException":{
@@ -8939,37 +8958,55 @@
  "chemfiles.Frame":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.Property":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.Residue":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.Selection":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.Topology":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.Trajectory":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.UnitCell":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.__version__":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles._version":{
@@ -8984,16 +9021,24 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.add_configuration":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.atom":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.atom.Atom":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.atom.CHFL_ATOM_TYPES":{
@@ -9008,22 +9053,47 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.atom.ffi":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.atom.get_c_library":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.atom.mut_ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.atom.ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.cell":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.cell.CHFL_CELL_TYPES":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
+  ]
+ },
+ "chemfiles.cell.CellShape":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.cell.CellType":{
@@ -9035,7 +9105,8 @@
  "chemfiles.cell.UnitCell":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.cell._check_handle":{
@@ -9044,10 +9115,64 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.cell.ffi":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.cell.get_c_library":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
+  ]
+ },
+ "chemfiles.cell.mut_ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.cell.ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.clib":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.clib.EXTERNAL_CHEMFILES":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.clib.FindChemfilesLibrary":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.clib._check_dll":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.clib._get_c_library":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.clib._lib_path":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.errors":{
@@ -9104,16 +9229,30 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.external":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.external.EXTERNAL_CHEMFILES":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.ffi":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.ffi.CHFL_ATOM":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.ffi.CHFL_ATOM_TYPES":{
@@ -9125,7 +9264,8 @@
  "chemfiles.ffi.CHFL_CELL":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.ffi.CHFL_CELL_TYPES":{
@@ -9137,7 +9277,8 @@
  "chemfiles.ffi.CHFL_FRAME":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.ffi.CHFL_LOG_LEVEL":{
@@ -9146,22 +9287,49 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.ffi.CHFL_PROPERTY":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.ffi.CHFL_RESIDUE":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.ffi.CHFL_SELECTION":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.ffi.CHFL_TOPOLOGY":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.ffi.CHFL_TRAJECTORY":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.ffi.chfl_bond_order":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.ffi.chfl_cellshape":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.ffi.chfl_logging_callback_t":{
@@ -9170,16 +9338,47 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.ffi.chfl_match":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.ffi.chfl_match_t":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.ffi.chfl_property_kind":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.ffi.chfl_status":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.ffi.chfl_vector3d":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.ffi.chfl_warning_callback":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.ffi.set_interface":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.find_chemfiles":{
@@ -9215,7 +9414,8 @@
  "chemfiles.frame":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.frame.Atom":{
@@ -9233,7 +9433,8 @@
  "chemfiles.frame.Frame":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.frame.Topology":{
@@ -9254,10 +9455,28 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.frame.ffi":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.frame.get_c_library":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
+  ]
+ },
+ "chemfiles.frame.mut_ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.frame.ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.get_c_library":{
@@ -9350,16 +9569,120 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.misc":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.misc.ChemfilesError":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.misc.ChemfilesWarning":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.misc._CURRENT_CALLBACK":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.misc._clear_errors":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.misc._last_error":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.misc._set_default_warning_callback":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.misc.add_configuration":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.misc.set_warnings_callback":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.property":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.property.Property":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.property._is_vector3d":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.residue":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.residue.Residue":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.residue.ffi":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.residue.mut_ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.residue.ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.selection":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.selection.Selection":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.selection._check_handle":{
@@ -9374,22 +9697,53 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.selection.ffi":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.selection.get_c_library":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.selection.mut_ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.selection.ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.set_warnings_callback":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.topology":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.topology.Atom":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
+  ]
+ },
+ "chemfiles.topology.BondOrder":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.topology.ChemfilesException":{
@@ -9401,7 +9755,8 @@
  "chemfiles.topology.Topology":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.topology._check_handle":{
@@ -9410,16 +9765,35 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.topology.ffi":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.topology.get_c_library":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.topology.mut_ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.topology.ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.trajectory":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.trajectory.Frame":{
@@ -9431,7 +9805,8 @@
  "chemfiles.trajectory.Trajectory":{
   "__set__":true,
   "elements":[
-   "chemfiles-python-0.6.0-py34_1"
+   "chemfiles-python-0.6.0-py34_1",
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "chemfiles.trajectory._check_handle":{
@@ -9440,10 +9815,82 @@
    "chemfiles-python-0.6.0-py34_1"
   ]
  },
+ "chemfiles.trajectory.ffi":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
  "chemfiles.trajectory.get_c_library":{
   "__set__":true,
   "elements":[
    "chemfiles-python-0.6.0-py34_1"
+  ]
+ },
+ "chemfiles.trajectory.mut_ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.trajectory.ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils.CxxPointer":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils.CxxPointer.ffi":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils.CxxPointer.mut_ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils.CxxPointer.ptr":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils._call_with_growing_buffer":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils._check_handle":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils._check_return_code":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
+  ]
+ },
+ "chemfiles.utils.string_type":{
+  "__set__":true,
+  "elements":[
+   "chemfiles-python-0.9.3-py38h1cdfbd6_1"
   ]
  },
  "cheroot.__main__":{
@@ -22221,6 +22668,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22230,6 +22678,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22239,6 +22688,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22248,6 +22698,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22256,6 +22707,7 @@
   "elements":[
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22265,6 +22717,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22274,6 +22727,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22283,6 +22737,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22292,6 +22747,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22301,6 +22757,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
@@ -22310,6 +22767,7 @@
    "python-chromedriver-binary-2.39.0-py36_0",
    "python-chromedriver-binary-77.0.3865.10.0-py36_0",
    "python-chromedriver-binary-77.0.3865.40.0-py27_0",
+   "python-chromedriver-binary-77.0.3865.40.0-py36_0",
    "python-chromedriver-binary-80.0.3987.16.0-py27_0"
   ]
  },
