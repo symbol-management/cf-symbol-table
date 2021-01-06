@@ -9165,52 +9165,90 @@
    "spectral-0.18-py35_0"
   ]
  },
+ "specutils.SpectralRegion":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.Spectrum1D":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.SpectrumCollection":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.UnsupportedPythonError":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.__all__":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.__doctest_skip__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.__githash__":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.__minimum_python_version__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.__version__":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init.__all__":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init.__githash__":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init.__version__":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init._get_test_runner":{
@@ -9222,37 +9260,306 @@
  "specutils._astropy_init.config_dir":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init.config_template":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init.orig_error":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init.test":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._astropy_init.wmsg":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils._get_test_runner":{
   "__set__":true,
   "elements":[
    "specutils-0.2.2-py36_0"
+  ]
+ },
+ "specutils._load_user_io":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis._centroid_single_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis._compute_equivalent_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis._compute_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis._compute_gaussian_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis._compute_gaussian_sigma_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis._compute_line_flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis._compute_single_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis._snr_single_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.centroid":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.equivalent_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.flux.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.flux._compute_equivalent_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.flux._compute_line_flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.flux.equivalent_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.flux.line_flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.gaussian_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.gaussian_sigma_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.line_flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.location":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.location.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.location._centroid_single_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.location.centroid":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.snr":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.uncertainty":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.uncertainty.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.uncertainty._snr_single_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.uncertainty.snr":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.utils":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.utils.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.utils.computation_wrapper":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width._compute_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width._compute_gaussian_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width._compute_gaussian_sigma_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width._compute_single_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width.fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width.gaussian_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.analysis.width.gaussian_sigma_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.cextinction":{
@@ -9264,19 +9571,46 @@
  "specutils.config_dir":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.config_template":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.conftest":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.conftest.PYTEST_HEADER_MODULES":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.conftest.TESTED_VERSIONS":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.conftest.packagename":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.conftest.version":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.core":{
@@ -9453,10 +9787,131 @@
    "specutils-0.2.2-py36_0"
   ]
  },
+ "specutils.fitting":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting._add_units_to_model":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting._combine_postfix":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting._fit_lines":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting._strip_units_from_model":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.continuum":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.continuum.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.continuum.fit_continuum":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.continuum.fit_generic_continuum":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fit_continuum":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fit_generic_continuum":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fit_lines":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fitmodels":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fitmodels.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fitmodels._add_units_to_model":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fitmodels._combine_postfix":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fitmodels._fit_lines":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fitmodels._strip_units_from_model":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.fitting.fitmodels.fit_lines":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.io":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.io.IUE":{
@@ -9487,6 +9942,156 @@
   "__set__":true,
   "elements":[
    "specutils-0.2.2-py36_0"
+  ]
+ },
+ "specutils.io.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io._load_user_io":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.custom_writer":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.data_loader":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.cube_reader":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.cube_reader.Spectrum1D":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.cube_reader.data_loader":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.cube_reader.generic_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.cube_reader.identify_generic_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.modules":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.muscles_sed_reader":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.muscles_sed_reader.identify_muscles_sed_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.muscles_sed_reader.muscles_sed_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.tabular_fits_reader":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.tabular_fits_reader.identify_tabular_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.tabular_fits_reader.tabular_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.tabular_fits_writer":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.tabular_fits_writer.tabular_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.wcs_fits_reader":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.wcs_fits_reader.identify_wcs1d_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.wcs_fits_reader.wcs1d_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.wcs_fits_writer":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.default_loaders.wcs_fits_writer.tabular_fits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.io.fits":{
@@ -9747,6 +10352,36 @@
    "specutils-0.2.2-py36_0"
   ]
  },
+ "specutils.io.registers":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.registers.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.registers._load_user_io":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.registers.custom_writer":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.io.registers.data_loader":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.io.registry":{
   "__set__":true,
   "elements":[
@@ -9993,6 +10628,174 @@
    "specutils-0.2.2-py36_0"
   ]
  },
+ "specutils.manipulation":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.box_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.convolution_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.estimate_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.estimate_uncertainty.Spectrum1D":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.estimate_uncertainty.noise_region_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.extract_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.extract_spectral_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.extract_spectral_region.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.extract_spectral_region.extract_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.extract_spectral_region.to_pixel":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.gaussian_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.median_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.noise_region_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.smoothing":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.smoothing.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.smoothing.box_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.smoothing.convolution_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.smoothing.gaussian_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.smoothing.median_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.smoothing.trapezoid_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.to_pixel":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.trapezoid_smooth":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.utils":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.utils.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.utils.excise_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.manipulation.utils.linear_exciser":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.models":{
   "__set__":true,
   "elements":[
@@ -10143,16 +10946,251 @@
    "specutils-0.2.2-py36_0"
   ]
  },
+ "specutils.modules":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.orig_error":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.setup_package":{
   "__set__":true,
   "elements":[
    "specutils-0.2.2-py36_0"
+  ]
+ },
+ "specutils.spectra":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.SpectralRegion":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.Spectrum1D":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.SpectrumCollection":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.__doctest_skip__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectral_region":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectral_region.SpectralRegion":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d.Spectrum1D":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d.__doctest_skip__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d._data_with_spectral_axis_first":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d._data_with_spectral_axis_last":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d._spectral_axis_len":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d._spectral_axis_numpy_index":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d.flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d.spectral_axis_unit":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d.spectral_wcs":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d.velocity":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum1d.velocity_convention":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_collection":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_collection.SpectrumCollection":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_collection.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.DOPPLER_CONVENTIONS":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.InplaceModificationMixin":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin._data_with_spectral_axis_first":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin._data_with_spectral_axis_last":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin._spectral_axis_len":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin._spectral_axis_numpy_index":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin.flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin.spectral_axis_unit":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin.spectral_wcs":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin.velocity":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.OneDSpectrumMixin.velocity_convention":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.spectra.spectrum_mixin.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.spectrum1d":{
@@ -10194,25 +11232,287 @@
  "specutils.test":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.tests":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.tests.setup_package":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.tests.setup_package.get_package_data":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.air_vac":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_air_to_vac":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_byhand_awav2vel":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_byhand_awav2wav":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_byhand_f2v":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_byhand_f2w":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_byhand_vopt":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_byhand_vrad":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_change_rest_frequency":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_ctype_determinator":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_cube_wcs_freqtovel":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_cube_wcs_freqtovopt":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_greisen2006":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_nir_sinfoni_base":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_vconv_determinator":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_cube_test_spectral_axis.test_vopt_to_freq":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_examples":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_examples.SpectraExamples":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_examples.Spectrum1D":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.spectral_examples.simulated_spectra":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis.test_centroid":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis.test_equivalent_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis.test_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis.test_gaussian_fwhm":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis.test_gaussian_sigma_width":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis.test_inverted_centroid":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis.test_line_flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_analysis.test_snr":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_arithmetic":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_arithmetic.test_add_basic_spectra":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_arithmetic.test_add_diff_flux_prefix":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_arithmetic.test_add_diff_spectral_axis":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_arithmetic.test_divide_basic_spectra":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_arithmetic.test_multiplication_basic_spectra":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_arithmetic.test_spectral_axes":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_arithmetic.test_subtract_basic_spectra":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_continuum":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_continuum.Spectrum1D":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_continuum.fit_generic_continuum":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_continuum.single_peak_continuum":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_continuum.test_continuum_fit":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.tests.test_extinction":{
@@ -10221,16 +11521,323 @@
    "specutils-0.2.2-py36_0"
   ]
  },
+ "specutils.tests.test_fitting":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_fitting.SpectralRegion":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_fitting.Spectrum1D":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_fitting.double_peak":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_fitting.fit_lines":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_fitting.simulated_spectra":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_fitting.single_peak":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_fitting.test_double_peak_fit":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_fitting.test_single_peak_fit":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_loaders":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_loaders.test_specific_spec_axis_unit":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_loaders.test_spectrum1d_GMOSfits":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_region_extract":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_region_extract.test_region_empty":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_region_extract.test_region_ghz":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_region_extract.test_region_simple":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_region_extract.test_region_two_sub":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions.test_adding_spectral_regions":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions.test_bounds":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions.test_delitem":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions.test_getitem":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions.test_invert":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions.test_iterate":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions.test_lower_upper":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_regions.test_slicing":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_slicing":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_slicing.test_slicing":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_slicing.test_spectral_axes":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.compare_flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_box_bad":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_box_good":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_custom_kernel":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_gaussian_bad":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_gaussian_good":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_median_bad":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_median_good":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_trapezoid_bad":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_smoothing.test_smooth_trapezoid_good":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.tests.test_spectrum1d":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.tests.test_spectrum1d.Spectrum1D":{
   "__set__":true,
   "elements":[
    "specutils-0.2.2-py36_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_create_explicit_fitswcs":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_create_from_arrays":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_create_from_multidimensional_arrays":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_create_from_quantities":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_create_implicit_wcs":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_create_with_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_energy_photon_flux":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_flux_unit_conversion":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_read_linear_solution":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_repr":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_spectral_axis_conversions":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.tests.test_spectrum1d.test_spectrum1d_flux1":{
@@ -10251,130 +11858,324 @@
    "specutils-0.2.2-py36_0"
   ]
  },
+ "specutils.tests.test_spectrum1d.test_str":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum1d.test_wcs_transformations":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.tests.test_spectrum1dref":{
   "__set__":true,
   "elements":[
    "specutils-0.2.2-py36_0"
   ]
  },
+ "specutils.tests.test_spectrum_collection":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum_collection.spectrum_collection":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum_collection.test_create_collection_from_spectrum1D":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum_collection.test_create_spectrum_collection":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.tests.test_spectrum_collection.test_spectrum_collection_slicing":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.utils":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.ALL_CTYPES":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.CTYPE_CHAR_TO_PHYSICALTYPE":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.CTYPE_TO_PHYSICALTYPE":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.LINEAR_CTYPES":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.LINEAR_CTYPE_CHARS":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.LINEAR_CUNIT_DICT":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.PHYSICAL_TYPE_TO_CHAR":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.PHYSICAL_TYPE_TO_CTYPE":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.PHYS_UNIT_DICT":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.WCS_UNIT_DICT":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils._parse_velocity_convention":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.air_to_vac":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.cdelt_derivative":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.convert_spectral_axis":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.determine_ctype_from_vconv":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.determine_vconv_from_ctype":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.get_rest_value_from_wcs":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.unit_from_header":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.vac_to_air":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.utils.wcs_utils.wcs_unit_scale":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version._decode_stdio":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version._get_repo_path":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version._last_generated_version":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version._last_githash":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version._packagename":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.version.astropy_helpers_version":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.bugfix":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.compiler":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.cython_version":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.debug":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.get_git_devstr":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.githash":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.major":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.minor":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.release":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.timestamp":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.update_git_devstr":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.version.version":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.wcs":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.wcs.BaseSpectrum1DWCS":{
@@ -10405,6 +12206,48 @@
   "__set__":true,
   "elements":[
    "specutils-0.2.2-py36_0"
+  ]
+ },
+ "specutils.wcs.WCSAdapter":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.adapters.fitswcs_adapter.FITSWCSAdapter":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.adapters.fitswcs_adapter.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.adapters.fitswcs_adapter.wcs":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.adapters.gwcs_adapter.GWCSAdapter":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.adapters.gwcs_adapter.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.adapters.gwcs_adapter.wcs":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
   ]
  },
  "specutils.wcs.specwcs":{
@@ -10521,10 +12364,53 @@
    "specutils-0.2.2-py36_0"
   ]
  },
+ "specutils.wcs.wcs_adapter.WCSAdapter":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.wcs_adapter.WCSAdapter.wcs":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.wcs_adapter.WCSAxes":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.wcs_wrapper.FITSWCSAdapter":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.wcs_wrapper.GWCSAdapter":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.wcs_wrapper.WCSWrapper":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
+ "specutils.wcs.wcs_wrapper.__all__":{
+  "__set__":true,
+  "elements":[
+   "specutils-0.4b2-py35_0"
+  ]
+ },
  "specutils.wmsg":{
   "__set__":true,
   "elements":[
-   "specutils-0.2.2-py36_0"
+   "specutils-0.2.2-py36_0",
+   "specutils-0.4b2-py35_0"
   ]
  },
  "speech_recognition.AudioData":{
