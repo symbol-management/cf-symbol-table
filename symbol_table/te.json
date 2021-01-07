@@ -27886,6 +27886,7 @@
  "test_regex.BytesSubclass":{
   "__set__":true,
   "elements":[
+   "regex-2016.11.18-py34_0",
    "regex-2017.04.05-py36_0",
    "regex-2017.06.20-py36_0",
    "regex-2017.07.28-py36h14c3975_1",
@@ -27899,6 +27900,7 @@
   "elements":[
    "regex-2016.09.22-py27_0",
    "regex-2016.10.22-py27_0",
+   "regex-2016.11.18-py34_0",
    "regex-2017.04.05-py36_0",
    "regex-2017.06.20-py36_0",
    "regex-2017.07.28-py36h14c3975_1",
@@ -27912,6 +27914,7 @@
  "test_regex.StrSubclass":{
   "__set__":true,
   "elements":[
+   "regex-2016.11.18-py34_0",
    "regex-2017.04.05-py36_0",
    "regex-2017.06.20-py36_0",
    "regex-2017.07.28-py36h14c3975_1",
@@ -27934,6 +27937,7 @@
   "elements":[
    "regex-2016.09.22-py27_0",
    "regex-2016.10.22-py27_0",
+   "regex-2016.11.18-py34_0",
    "regex-2017.04.05-py36_0",
    "regex-2017.06.20-py36_0",
    "regex-2017.07.28-py36h14c3975_1",
@@ -38684,6 +38688,18 @@
    "jaws-0.8.2-py36_0"
   ]
  },
+ "tests.test-confluence-attach":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test-confluence-attach.TestConfluenceAttach":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
  "tests.test.TestAAWS":{
   "__set__":true,
   "elements":[
@@ -39891,13 +39907,80 @@
  "tests.test_base":{
   "__set__":true,
   "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0",
    "crystals-0.6.3-py_1"
+  ]
+ },
+ "tests.test_base.ATLASSIAN_PASSWORD":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.ATLASSIAN_USER":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.BAMBOO_URL":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.CONFLUENCE_URL":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.CROWD_APPLICATION":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.CROWD_APPLICATION_PASSWORD":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.CROWD_URL":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.JIRA_URL":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.SERVICE_DESK_URL":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_base.STASH_URL":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
   ]
  },
  "tests.test_base.TestAtomicStructure":{
   "__set__":true,
   "elements":[
    "crystals-0.6.3-py_1"
+  ]
+ },
+ "tests.test_base.TestBasic":{
+  "__set__":true,
+  "elements":[
+   "atlassian-python-api-1.16.0-pyh9f0ad1d_0"
   ]
  },
  "tests.test_base_recipe":{
