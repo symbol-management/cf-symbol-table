@@ -4397,6 +4397,7 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4409,6 +4410,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4569,55 +4571,88 @@
  "adaptive_scheduler._scheduler":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._scheduler.DEFAULT":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._scheduler.__all__":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler._scheduler.cancel":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._scheduler.ext":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._scheduler.get_job_id":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._scheduler.make_job_script":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler._scheduler.module":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler._scheduler.name":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler._scheduler.names":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._scheduler.queue":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._scheduler.scheduler_system":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._scheduler.submit_cmd":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler._static_version":{
@@ -4625,6 +4660,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4637,6 +4673,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4649,6 +4686,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4661,6 +4699,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4673,6 +4712,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4685,6 +4725,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4697,6 +4738,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4709,6 +4751,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4731,6 +4774,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4743,6 +4787,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4755,6 +4800,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4767,6 +4813,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4779,6 +4826,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4791,6 +4839,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4803,6 +4852,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4815,6 +4865,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4827,6 +4878,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4839,6 +4891,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4846,11 +4899,18 @@
    "adaptive-scheduler-0.9.7-py38h32f6830_0"
   ]
  },
+ "adaptive_scheduler.cancel":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
  "adaptive_scheduler.client_support":{
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4913,6 +4973,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4924,7 +4985,8 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.client_support.get_learner":{
@@ -4932,6 +4994,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4944,6 +5007,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4965,6 +5029,7 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -4997,6 +5062,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5007,37 +5073,67 @@
  "adaptive_scheduler.pbs":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.pbs._cancel_function":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.pbs._fix_line_cuts":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.pbs._split_by_job":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.pbs.cancel":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.pbs.ext":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.pbs.get_job_id":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.pbs.make_job_script":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.pbs.queue":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.pbs.submit_cmd":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.scheduler":{
@@ -5141,6 +5237,7 @@
  "adaptive_scheduler.sequence_learner":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5151,6 +5248,7 @@
  "adaptive_scheduler.sequence_learner.SequenceLearner":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5171,6 +5269,7 @@
  "adaptive_scheduler.sequence_learner.ensure_hashable":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5181,6 +5280,7 @@
  "adaptive_scheduler.sequence_learner.inf":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5193,6 +5293,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5244,6 +5345,7 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5254,6 +5356,7 @@
  "adaptive_scheduler.server_support.RunManager":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5274,19 +5377,22 @@
  "adaptive_scheduler.server_support._DATABASE_MANAGER_DOC":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support._JOB_MANAGER_DOC":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support._choose_fname":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support._delete_old_ipython_profiles":{
@@ -5312,13 +5418,15 @@
  "adaptive_scheduler.server_support._dispatch":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support._done_with_learner":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support._get_all_files":{
@@ -5344,12 +5452,14 @@
  "adaptive_scheduler.server_support._get_n_jobs_done":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support._make_default_run_script":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5390,13 +5500,21 @@
  "adaptive_scheduler.server_support._start_job":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support._update_db":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.server_support.cancel":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.check_running":{
@@ -5425,7 +5543,8 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.ctx":{
@@ -5433,6 +5552,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5455,7 +5575,8 @@
  "adaptive_scheduler.server_support.ext":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.get_allowed_url":{
@@ -5463,6 +5584,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5474,7 +5596,8 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.get_n_jobs_done":{
@@ -5493,6 +5616,12 @@
    "adaptive-scheduler-0.9.7-py38h32f6830_0"
   ]
  },
+ "adaptive_scheduler.server_support.kill_failed":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
  "adaptive_scheduler.server_support.load_parallel":{
   "__set__":true,
   "elements":[
@@ -5508,6 +5637,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5520,6 +5650,7 @@
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5540,7 +5671,8 @@
  "adaptive_scheduler.server_support.make_job_script":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.make_sbatch":{
@@ -5553,14 +5685,16 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.manage_jobs":{
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.maybe_lst":{
@@ -5596,13 +5730,15 @@
  "adaptive_scheduler.server_support.queue":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.start_database_manager":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.start_job":{
@@ -5614,13 +5750,21 @@
  "adaptive_scheduler.server_support.start_job_manager":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.server_support.start_kill_manager":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.submit_cmd":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.server_support.update_db":{
@@ -5633,7 +5777,20 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.slurm._cancel_function":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.slurm.cancel":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.slurm.check_running":{
@@ -5642,17 +5799,25 @@
    "adaptive-scheduler-0.1.3-py37_0"
   ]
  },
+ "adaptive_scheduler.slurm.ext":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
  "adaptive_scheduler.slurm.get_job_id":{
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.3-py37_0",
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.slurm.make_job_script":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.slurm.make_sbatch":{
@@ -5664,13 +5829,21 @@
  "adaptive_scheduler.slurm.queue":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.slurm.submit_cmd":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.utils":{
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5689,6 +5862,7 @@
  "adaptive_scheduler.utils.MAX_LINE_LENGTH":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5712,6 +5886,12 @@
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.9.2-py37hc8dfbb8_0",
    "adaptive-scheduler-0.9.7-py38h32f6830_0"
+  ]
+ },
+ "adaptive_scheduler.utils._cancel_function":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.utils._deserialize":{
@@ -5744,9 +5924,22 @@
    "adaptive-scheduler-0.9.7-py38h32f6830_0"
   ]
  },
+ "adaptive_scheduler.utils._get_status_prints":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
+ "adaptive_scheduler.utils._is_string_inside_file":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
  "adaptive_scheduler.utils._print_same_line":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5757,6 +5950,7 @@
  "adaptive_scheduler.utils._progress":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5767,6 +5961,7 @@
  "adaptive_scheduler.utils._remove_or_move_files":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5788,6 +5983,7 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5798,6 +5994,7 @@
  "adaptive_scheduler.utils._wait_for_successful_ipyparallel_client_start":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5813,6 +6010,12 @@
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.9.2-py37hc8dfbb8_0",
    "adaptive-scheduler-0.9.7-py38h32f6830_0"
+  ]
+ },
+ "adaptive_scheduler.utils.cleanup_files":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.utils.combine_sequence_learners":{
@@ -5838,6 +6041,7 @@
  "adaptive_scheduler.utils.combo_to_fname":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5848,6 +6052,7 @@
  "adaptive_scheduler.utils.connect_to_ipyparallel":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5878,6 +6083,7 @@
  "adaptive_scheduler.utils.load_parallel":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5893,6 +6099,12 @@
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.9.2-py37hc8dfbb8_0",
    "adaptive-scheduler-0.9.7-py38h32f6830_0"
+  ]
+ },
+ "adaptive_scheduler.utils.logs_with_string":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.utils.maybe_lst":{
@@ -5915,6 +6127,12 @@
    "adaptive-scheduler-0.9.7-py38h32f6830_0"
   ]
  },
+ "adaptive_scheduler.utils.parse_log_files":{
+  "__set__":true,
+  "elements":[
+   "adaptive-scheduler-0.2.5-py37_0"
+  ]
+ },
  "adaptive_scheduler.utils.round_sigfigs":{
   "__set__":true,
   "elements":[
@@ -5928,6 +6146,7 @@
  "adaptive_scheduler.utils.save_parallel":{
   "__set__":true,
   "elements":[
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5947,6 +6166,7 @@
   "__set__":true,
   "elements":[
    "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0",
    "adaptive-scheduler-0.8.0-py37hc8dfbb8_0",
    "adaptive-scheduler-0.8.1-py38h32f6830_0",
    "adaptive-scheduler-0.9.0-py37hc8dfbb8_0",
@@ -5967,7 +6187,8 @@
  "adaptive_scheduler.utils.split_in_balancing_learners":{
   "__set__":true,
   "elements":[
-   "adaptive-scheduler-0.1.8-py37_0"
+   "adaptive-scheduler-0.1.8-py37_0",
+   "adaptive-scheduler-0.2.5-py37_0"
   ]
  },
  "adaptive_scheduler.widgets":{
