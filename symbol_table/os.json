@@ -1,4 +1,2068 @@
 {
+ "osc_lib.__all__":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.__version__":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.api":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.api.BaseAPI":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.api._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.api.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.OPTIONS_LIST":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.PLUGIN_LIST":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.build_auth_plugins_option_parser":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.check_valid_authentication_options":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.check_valid_authorization_options":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.get_keystone2keystone_auth":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.get_options_list":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.get_plugin_list":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.auth.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.api.utils.simple_filter":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.client_config":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.client_config.LOG":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.client_config.OSC_Config":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.format_columns":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.format_columns.DictColumn":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.format_columns.DictListColumn":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.format_columns.ListColumn":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.format_columns.ListDictColumn":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.format_columns.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.identity":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.identity._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.identity.add_project_owner_option_to_parser":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.identity.find_project":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.parseractions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.parseractions.KeyValueAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.parseractions.KeyValueAppendAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.parseractions.MultiKeyValueAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.parseractions.MultiKeyValueCommaAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.parseractions.NonNegativeAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.parseractions.RangeAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.cli.parseractions._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.clientmanager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.clientmanager.ClientCache":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.clientmanager.ClientManager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.clientmanager.LOG":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.clientmanager.PLUGIN_MODULES":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.clientmanager.auth":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.clientmanager.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.command":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.command.Command":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.command.Lister":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.command.ShowOne":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.command._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.command.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.commandmanager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.commandmanager.CommandManager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.timing":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.timing.Timing":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.command.timing.command":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.AuthorizationFailure":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.BadRequest":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.ClientException":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.CommandError":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.Conflict":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.EndpointNotFound":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.Forbidden":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.HTTPNotImplemented":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.InvalidValue":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.NoTokenLookupException":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.NotFound":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.OverLimit":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.PluginAttributeError":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.Unauthorized":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions.UnsupportedVersion":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.exceptions._code_map":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.i18n":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.i18n._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.i18n._translators":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.logs":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.logs.LogConfigurator":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.logs._FileFormatter":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.logs.get_loggers":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.logs.log_level_from_config":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.logs.log_level_from_options":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.logs.log_level_from_string":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.logs.set_warning_filter":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.DEFAULT_DOMAIN":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.DEFAULT_INTERFACE":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.OpenStackShell":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.client_config":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.clientmanager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.logs":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.main":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.osprofiler_profiler":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.prompt_for_password":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.timing":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.shell.version":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes.LIST_BODY":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes.LIST_RESP":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes.RESP_ITEM_1":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes.RESP_ITEM_2":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes.RESP_ITEM_3":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes.TestSession":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes.TestSession.BASE_URL":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.fakes.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.BASE_URL":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.TestBaseAPIArgs":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.TestBaseAPICreate":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.TestBaseAPIDefault":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.TestBaseAPIEndpointArg":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.TestBaseAPIFind":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.TestBaseAPIList":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.api":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_api.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_utils.BASE_URL":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_utils.TestBaseAPIFilter":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_utils.api":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_utils.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.api.test_utils.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_client_config":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_client_config.TestOSCConfig":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_client_config.client_config":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_client_config.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_format_columns":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_format_columns.TestDictColumn":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_format_columns.TestDictListColumn":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_format_columns.TestListColumn":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_format_columns.TestListDictColumn":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_format_columns.format_columns":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_format_columns.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_identity":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_identity.IdentityUtilsTestCase":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_identity.identity":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_identity.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_parseractions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_parseractions.TestKeyValueAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_parseractions.TestKeyValueAppendAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_parseractions.TestMultiKeyValueAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_parseractions.TestMultiKeyValueCommaAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_parseractions.TestNonNegativeAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_parseractions.parseractions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.cli.test_parseractions.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_command":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_command.FakeCommand":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_command.TestCommand":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_command.command":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_command.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_command.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_command.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing.FakeGenericClient":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing.TestTiming":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing.timing":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing.timing_elapsed":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing.timing_method":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing.timing_url":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.command.test_timing.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.AUTH_TOKEN":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.AUTH_URL":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.FakeApp":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.FakeClientManager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.FakeLog":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.FakeModule":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.FakeOptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.FakeResource":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.FakeStdout":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.INTERFACE":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.PASSWORD":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.PROJECT_ID":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.PROJECT_NAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.REGION_NAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.SERVICE_PROVIDER_ID":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.TEST_RESPONSE_DICT":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.TEST_RESPONSE_DICT_V3":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.TEST_VERSIONS":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.USERNAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.USER_ID":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes._s":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.fakes.to_unicode_dict":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.AUTH_DICT":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.AUTH_REF":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.Container":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.SERVICE_CATALOG":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.TestClientCache":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.TestClientManager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.auth":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.clientmanager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.default_password_auth":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.default_token_auth":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_clientmanager.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_logs":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_logs.TestContext":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_logs.TestFileFormatter":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_logs.TestLogConfigurator":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_logs.logs":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_logs.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.CLOUD_1":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.CLOUD_2":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_AUTH_PLUGIN":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_AUTH_URL":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_CLOUD":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_COMPUTE_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_DOMAIN_ID":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_DOMAIN_NAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_IDENTITY_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_IMAGE_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_INTERFACE":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_NETWORK_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_PASSWORD":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_PROJECT_DOMAIN_ID":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_PROJECT_DOMAIN_NAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_PROJECT_ID":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_PROJECT_NAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_REGION_NAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_SERVICE_URL":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_TOKEN":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_USERNAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_USER_DOMAIN_ID":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_USER_DOMAIN_NAME":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.DEFAULT_VOLUME_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.LIB_COMPUTE_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.LIB_IDENTITY_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.LIB_IMAGE_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.LIB_NETWORK_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.LIB_VOLUME_API_VERSION":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.PUBLIC_1":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.TestShellArgV":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.TestShellCli":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.TestShellHelp":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.TestShellOptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.global_options":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.shell":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.shell_class_name":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.test_shell.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.EnvFixture":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.ParserException":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.TestCase":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.TestClientManager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.TestClientManager.default_password_auth":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.TestClientManager.default_token_auth":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.TestCommand":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.TestShell":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.TestShell.shell_class_name":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.clientmanager":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.fake_execute":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.make_shell":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.opt2attr":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.opt2env":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.shell":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_columns":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_columns.TestColumnUtils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_columns.columns":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_columns.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_tags":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_tags.TestTagHelps":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_tags.TestTags":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_tags.help_enhancer":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_tags.tags":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_tags.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.DROWSSAP":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.FakeOddballResource":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.NoUniqueMatch":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.PASSWORD":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.TestAssertItemEqual":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.TestFindResource":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.TestSDKUtils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.TestUtils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.WASSPORD":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.fakes":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.format_columns":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.tests.utils.test_utils.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.LOG":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.backward_compat_col_lister":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.backward_compat_col_showone":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.build_kwargs_dict":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.calculate_header_and_attrs":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.columns":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.columns.LIST_BOTH":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.columns.LIST_LONG_ONLY":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.columns.LIST_SHORT_ONLY":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.columns.get_column_definitions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.columns.get_columns":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.env":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.exceptions":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.find_min_match":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.find_resource":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.format_dict":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.format_list":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.format_size":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.get_client_class":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.get_dict_properties":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.get_effective_log_level":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.get_field":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.get_item_properties":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.get_osc_show_columns_for_sdk_resource":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.get_password":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.is_ascii":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.read_blob_file_contents":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.sort_items":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags._":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags._CommaListAction":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags.add_tag_filtering_option_to_parser":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags.add_tag_option_to_parser_for_create":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags.add_tag_option_to_parser_for_set":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags.add_tag_option_to_parser_for_unset":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags.get_tag_filtering_args":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags.update_tags_for_set":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.tags.update_tags_for_unset":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.wait_for_delete":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.utils.wait_for_status":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.version":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.version.__all__":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.version.version_info":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
+ "osc_lib.version.version_string":{
+  "__set__":true,
+  "elements":[
+   "osc-lib-2.2.0-py_1"
+  ]
+ },
  "osgeo.__version__":{
   "__set__":true,
   "elements":[
@@ -28017,7 +30081,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.ALL_MBOARDS":{
@@ -28027,7 +30092,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr._SwigNonDynamicMeta":{
@@ -28037,7 +30103,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.__eq__":{
@@ -28047,7 +30114,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.__lt__":{
@@ -28057,7 +30125,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr._swig_add_metaclass":{
@@ -28067,7 +30136,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr._swig_repr":{
@@ -28077,7 +30147,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr._swig_setattr_nondynamic_class_variable":{
@@ -28087,7 +30158,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr._swig_setattr_nondynamic_instance_variable":{
@@ -28097,7 +30169,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.cvar":{
@@ -28107,7 +30180,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.device":{
@@ -28117,7 +30191,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.high_res_timer_epoch":{
@@ -28127,7 +30202,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.high_res_timer_now":{
@@ -28137,7 +30213,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.high_res_timer_tps":{
@@ -28147,7 +30224,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.meta_range_t":{
@@ -28157,7 +30235,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base":{
@@ -28167,7 +30246,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.AMPLITUDE_KEY":{
@@ -28177,7 +30257,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.AMPL_RANGE_KEY":{
@@ -28187,7 +30268,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.BWIDTH_KEY":{
@@ -28197,7 +30279,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.BWIDTH_RANGE_KEY":{
@@ -28207,7 +30290,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.DC_OFFSET_IMAG":{
@@ -28217,7 +30301,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.DC_OFFSET_REAL":{
@@ -28227,7 +30312,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.FREQ_CORR_KEY":{
@@ -28237,7 +30323,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.FREQ_RANGE_KEY":{
@@ -28247,7 +30334,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.GAIN_KEY":{
@@ -28257,7 +30345,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.GAIN_RANGE_KEY":{
@@ -28267,7 +30356,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.IQ_BALANCE_MAG":{
@@ -28277,7 +30367,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.IQ_BALANCE_PHA":{
@@ -28287,7 +30378,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.SAMP_RATE_KEY":{
@@ -28297,7 +30389,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.TX_FREQ_KEY":{
@@ -28307,7 +30400,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.TYPE_KEY":{
@@ -28317,7 +30411,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.WAVEFORM2_FREQ_KEY":{
@@ -28327,7 +30422,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.WAVEFORM_FREQ_KEY":{
@@ -28337,7 +30433,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.WAVEFORM_OFFSET_KEY":{
@@ -28347,7 +30444,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.get_options":{
@@ -28357,7 +30455,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.gsm_source_c":{
@@ -28367,7 +30466,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.n2s":{
@@ -28377,7 +30477,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.setter":{
@@ -28387,7 +30488,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.test_main":{
@@ -28397,7 +30499,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.top_block":{
@@ -28407,7 +30510,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmocom_siggen_base.waveforms":{
@@ -28417,7 +30521,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig":{
@@ -28427,7 +30532,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.ALL_CHANS":{
@@ -28437,7 +30543,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.ALL_MBOARDS":{
@@ -28447,7 +30554,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig._SwigNonDynamicMeta":{
@@ -28457,7 +30565,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.__eq__":{
@@ -28467,7 +30576,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.__lt__":{
@@ -28477,7 +30587,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig._swig_add_metaclass":{
@@ -28487,7 +30598,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig._swig_repr":{
@@ -28497,7 +30609,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig._swig_setattr_nondynamic_class_variable":{
@@ -28507,7 +30620,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig._swig_setattr_nondynamic_instance_variable":{
@@ -28517,7 +30631,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.cvar":{
@@ -28527,7 +30642,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.device":{
@@ -28537,7 +30653,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.high_res_timer_epoch":{
@@ -28547,7 +30664,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.high_res_timer_now":{
@@ -28557,7 +30675,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.high_res_timer_tps":{
@@ -28567,7 +30686,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.meta_range_t":{
@@ -28577,7 +30697,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.range_t":{
@@ -28587,7 +30708,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.range_vector_t":{
@@ -28597,7 +30719,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.sink":{
@@ -28607,7 +30730,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.sink_make":{
@@ -28617,7 +30741,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.sink_sptr":{
@@ -28627,7 +30752,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.source":{
@@ -28637,7 +30763,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.source_make":{
@@ -28647,7 +30774,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.source_sptr":{
@@ -28657,7 +30785,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.string_string_dict_t":{
@@ -28667,7 +30796,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.string_vector_t":{
@@ -28677,7 +30807,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.osmosdr_swig.time_spec_t":{
@@ -28687,7 +30818,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.range_t":{
@@ -28697,7 +30829,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.range_vector_t":{
@@ -28707,7 +30840,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.sink":{
@@ -28717,7 +30851,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.sink_make":{
@@ -28727,7 +30862,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.sink_sptr":{
@@ -28737,7 +30873,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.source":{
@@ -28747,7 +30884,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.source_make":{
@@ -28757,7 +30895,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.source_sptr":{
@@ -28767,7 +30906,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.string_string_dict_t":{
@@ -28777,7 +30917,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.string_vector_t":{
@@ -28787,7 +30928,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osmosdr.time_spec_t":{
@@ -28797,7 +30939,8 @@
    "gnuradio-osmosdr-0.2.0-py38h56ab25f_1",
    "gnuradio-osmosdr-0.2.2-py36hda3e6f4_2",
    "gnuradio-osmosdr-0.2.2-py37h09e71a7_0",
-   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1"
+   "gnuradio-osmosdr-0.2.2-py38he16b1ec_1",
+   "gnuradio-osmosdr-0.2.3-py39h99756b8_1"
   ]
  },
  "osqp.OSQP":{
