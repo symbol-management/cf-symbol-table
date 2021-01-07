@@ -28309,7 +28309,8 @@
  "discretize.CurvilinearMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.CurvilinearMesh.CurviView":{
@@ -28597,7 +28598,8 @@
  "discretize.CylMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.CylMesh.CylMesh":{
@@ -29284,6 +29286,12 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.CylindricalMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.DiffOperators":{
   "__set__":true,
   "elements":[
@@ -29797,7 +29805,8 @@
  "discretize.TensorMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.TensorMesh.TensorMesh":{
@@ -30505,13 +30514,15 @@
  "discretize.Tests":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.CurvilinearMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.CylMesh":{
@@ -30520,22 +30531,31 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.Tests.CylindricalMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.Tests.OrderTest":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.Rosenbrock":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.TensorMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.Tree":{
@@ -30547,55 +30567,100 @@
  "discretize.Tests.checkDerivative":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.Tests.check_derivative":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.Tests.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.Tests.deprecate_module":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.e":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.Tests.example_curvilinear_grid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.getQuadratic":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.Tests.get_quadratic":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.happiness":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.matplotlib":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.mkvc":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.name":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.requires":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.Tests.rosenbrock":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.sadness":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.sdiag":{
@@ -30607,7 +30672,14 @@
  "discretize.Tests.setupMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.Tests.setup_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.Tests.utils":{
@@ -30619,7 +30691,8 @@
  "discretize.TreeMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.TreeMesh.TreeMesh":{
@@ -30913,7 +30986,8 @@
  "discretize.View":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.View.CurviView":{
@@ -30931,13 +31005,20 @@
  "discretize.View.Slicer":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.View.TensorView":{
   "__set__":true,
   "elements":[
    "discretize-0.4.10-py27h44f515a_0"
+  ]
+ },
+ "discretize.View.deprecate_module":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.View.matplotlib":{
@@ -30967,97 +31048,167 @@
  "discretize.__author__":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.__copyright__":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.__license__":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.__version__":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize._extensions":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize._extensions.interputils_cython":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize._extensions.setup":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize._extensions.setup.base_path":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize._extensions.setup.configuration":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize._extensions.tree_ext.TreeCell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize._extensions.tree_ext._TreeMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.BaseMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.BaseRectangularMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.BaseTensorMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh._REGISTRY":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh._n":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.axis_u":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.axis_v":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.axis_w":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.dim":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.edge_tangents":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.face_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.nC":{
@@ -31120,34 +31271,129 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.base.base_mesh.BaseMesh.n_cells":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_edges":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_edges_per_direction":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_edges_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_faces":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_faces_per_direction":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.n_nodes":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.base.base_mesh.BaseMesh.normals":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.origin":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.projectEdgeVector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseMesh.projectFaceVector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.reference_is_rotated":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.reference_system":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.rotation_matrix":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.tangents":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseMesh.vnE":{
@@ -31171,7 +31417,8 @@
  "discretize.base.base_mesh.BaseRectangularMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseRectangularMesh.nC":{
@@ -31183,19 +31430,22 @@
  "discretize.base.base_mesh.BaseRectangularMesh.nCx":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseRectangularMesh.nCy":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseRectangularMesh.nCz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseRectangularMesh.nEx":{
@@ -31243,19 +31493,76 @@
  "discretize.base.base_mesh.BaseRectangularMesh.nNx":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseRectangularMesh.nNy":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseRectangularMesh.nNz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.r":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.shape_cells":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.shape_edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.shape_edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.shape_edges_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.shape_faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.shape_faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.shape_faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.BaseRectangularMesh.shape_nodes":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_mesh.BaseRectangularMesh.vnC":{
@@ -31306,16 +31613,66 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.base.base_mesh.InterfaceMixins":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.plotGrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.plotImage":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_mesh.plotSlice":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.base.base_tensor_mesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh._meshType":{
@@ -31327,7 +31684,80 @@
  "discretize.base.base_tensor_mesh.BaseTensorMesh._unitDimensions":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.cell_centers":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.cell_centers_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.cell_centers_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.cell_centers_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.edges_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.getInterpolationMat":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.getTensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.gridCC":{
@@ -31381,67 +31811,114 @@
  "discretize.base.base_tensor_mesh.BaseTensorMesh.h":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.h_gridded":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.hx":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.hy":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.hz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.isInside":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.nodes":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.nodes_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.nodes_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.BaseTensorMesh.nodes_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.vectorCCx":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.vectorCCy":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.vectorCCz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.vectorNx":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.vectorNy":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.BaseTensorMesh.vectorNz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.TensorType":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh._REGISTRY":{
@@ -31454,6 +31931,12 @@
   "__set__":true,
   "elements":[
    "discretize-0.4.10-py27h44f515a_0"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.as_array_n_by_dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.axis_u":{
@@ -31474,10 +31957,40 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.base.base_tensor_mesh.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.base.base_tensor_mesh.dim":{
   "__set__":true,
   "elements":[
    "discretize-0.4.10-py27h44f515a_0"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.interpolation_matrix":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.is_scalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.nC":{
@@ -31540,10 +32053,34 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.base.base_tensor_mesh.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.base.base_tensor_mesh.normals":{
   "__set__":true,
   "elements":[
    "discretize-0.4.10-py27h44f515a_0"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.plotGrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.plotImage":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.plotSlice":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.reference_is_rotated":{
@@ -31564,10 +32101,34 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.base.base_tensor_mesh.sdiag":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.sdinv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.spzeros":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.base.base_tensor_mesh.tangents":{
   "__set__":true,
   "elements":[
    "discretize-0.4.10-py27h44f515a_0"
+  ]
+ },
+ "discretize.base.base_tensor_mesh.unpack_widths":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.base.base_tensor_mesh.vnE":{
@@ -31588,64 +32149,1064 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.base.mesh_io":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.mesh_io.BaseMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.mesh_io.InterfaceTensorread_vtk":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.mesh_io.TensorMeshIO":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.mesh_io.TreeMeshIO":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.mesh_io.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.mesh_io.load_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.base.mesh_io.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.BaseRectangularMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.CurvilinearMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.DiffOperators":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.InnerProducts":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh._length2D":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh._length3D":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh._normalize2D":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh._normalize3D":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.face_info":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.index_cube":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.curvilinear_mesh.volume_tetrahedron":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.BaseRectangularMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.BaseTensorMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.CylMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.CylindricalMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.DiffOperators":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.InnerProducts":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._REGISTRY":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._average_node_to_edge_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._average_node_to_edge_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._average_node_to_edge_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._average_node_to_face_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._average_node_to_face_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._average_node_to_face_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._cellGradBC_list":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._cellGradxStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._edgeCurlStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._edgeCurlStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._edgeCurlStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._edgeCurlStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._faceDivStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._faceDivStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._faceDivStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._faceDivStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._n":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalGradStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalGradStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalGradStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalGradStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalLaplacianStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalLaplacianStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalLaplacianStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalLaplacianx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalLaplaciany":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh._nodalLaplacianz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.av":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.average_cell_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.average_cell_vector_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.average_node_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.average_node_to_edge":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.average_node_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.axis_u":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.axis_v":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.axis_w":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cellGrad":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cellGradBC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cellGradx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cellGrady":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cellGradz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cell_centers":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cell_centers_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cell_gradient_BC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cell_gradient_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cell_gradient_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.cyl2cart":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.ddx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.deprecate_class":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.edgeCurl":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.edge_tangents":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.faceDiv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.faceDivx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.faceDivy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.faceDivz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.face_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.getBCProjWF":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.getBCProjWF_simple":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.getEdgeInnerProduct":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.getEdgeInnerProductDeriv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.getFaceInnerProduct":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.getFaceInnerProductDeriv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.getInterpolationMat":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.getTensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.h":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.h_gridded":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.hx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.hy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.hz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.interpolation_matrix":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.isInside":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.kron3":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nCx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nCy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nCz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nNx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nNy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nNz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_cells":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_edges":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_edges_per_direction":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_faces":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_faces_per_direction":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.n_faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nodalGrad":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nodalLaplacian":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.nodes_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.origin":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.plotGrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.plotImage":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.plotSlice":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.projectEdgeVector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.projectFaceVector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.r":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.reference_is_rotated":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.reference_system":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.rotation_matrix":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.sdiag":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.setCellGradBC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.shape_cells":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.shape_edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.shape_faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.shape_faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.speye":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.spzeros":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.tangents":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.vectorCCx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.vectorCCy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.vectorCCz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.vectorNx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.vectorNy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.cylindrical_mesh.vectorNz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.err":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.file_test":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.load_mesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.mixins":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.mixins.AVAILABLE_MIXIN_CLASSES":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.InterfaceMPL":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.mixins.InterfaceMixins":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.mixins.InterfaceOMF":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.mixins.InterfaceTensorread_vtk":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.mixins.InterfaceVTK":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.Slicer":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.mixins.err":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod.InterfaceMPL":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod.InterfaceMPL.plotGrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod.InterfaceMPL.plotImage":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod.InterfaceMPL.plotSlice":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod.Slicer":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.mpl_mod.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.mixins.omfModule":{
@@ -31672,6 +33233,48 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.mixins.omf_mod":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.omf_mod.InterfaceOMF":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.omf_mod.ravel_data_array":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.omf_mod.unravel_data_array":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.plotGrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.plotImage":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.plotSlice":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.mixins.vtkModule":{
   "__set__":true,
   "elements":[
@@ -31696,10 +33299,659 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.mixins.vtk_mod":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.vtk_mod.InterfaceTensorread_vtk":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.vtk_mod.InterfaceVTK":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.mixins.vtk_mod.assign_cell_data":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.DiffOperators":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.InnerProducts":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._average_node_to_edge_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._average_node_to_edge_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._average_node_to_edge_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._average_node_to_face_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._average_node_to_face_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._average_node_to_face_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._cellGradBC_list":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._cellGradStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._cellGradxStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._cellGradyStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._cellGradzStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._edgeCurlStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._edgeCurlStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._edgeCurlStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._edgeCurlStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._faceDivStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._faceDivStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._faceDivStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._faceDivStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalGradStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalGradStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalGradStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalGradStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalLaplacianStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalLaplacianStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalLaplacianStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalLaplacianx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalLaplaciany":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators._nodalLaplacianz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_cell_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_cell_vector_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_edge_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_edge_to_cell_vector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_edge_x_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_edge_y_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_edge_z_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_face_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_face_to_cell_vector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_face_x_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_face_y_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_face_z_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_node_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_node_to_edge":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.average_node_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cellGrad":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cellGradBC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cellGradx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cellGrady":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cellGradz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cell_gradient":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cell_gradient_BC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cell_gradient_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cell_gradient_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.cell_gradient_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.edgeCurl":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.edge_curl":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.faceDiv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.faceDivx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.faceDivy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.faceDivz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.face_divergence":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.face_x_divergence":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.face_y_divergence":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.face_z_divergence":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.getBCProjWF":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.getBCProjWF_simple":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.nodalGrad":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.nodalLaplacian":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.nodal_gradient":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.nodal_laplacian":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.DiffOperators.setCellGradBC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators._ddxCellGrad":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators._validate_BC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.av":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.ddx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.kron3":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.sdiag":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.speye":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.differential_operators.spzeros":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.InnerProducts":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.InnerProducts.getEdgeInnerProduct":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.InnerProducts.getEdgeInnerProductDeriv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.InnerProducts.getFaceInnerProduct":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.InnerProducts.getFaceInnerProductDeriv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.TensorType":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.get_subarray":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.inverse_2x2_block_diagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.inverse_3x3_block_diagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.inverse_property_tensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.make_property_tensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.sdiag":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.sdinv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.spzeros":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.operators.inner_products.sub2ind":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.setup":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.setup.base_path":{
@@ -31711,85 +33963,1773 @@
  "discretize.setup.configuration":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.BaseRectangularMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.BaseTensorMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.DiffOperators":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.InnerProducts":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.TensorMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.TensorMeshIO":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._REGISTRY":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._average_node_to_edge_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._average_node_to_edge_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._average_node_to_edge_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._average_node_to_face_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._average_node_to_face_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._average_node_to_face_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._cellGradBC_list":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._cellGradStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._cellGradxStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._cellGradyStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._cellGradzStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._edgeCurlStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._edgeCurlStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._edgeCurlStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._edgeCurlStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._faceDivStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._faceDivStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._faceDivStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._faceDivStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._n":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalGradStencil":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalGradStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalGradStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalGradStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalLaplacianStencilx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalLaplacianStencily":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalLaplacianStencilz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalLaplacianx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalLaplaciany":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._nodalLaplacianz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh._unitDimensions":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_cell_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_cell_vector_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_edge_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_edge_to_cell_vector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_edge_x_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_edge_y_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_edge_z_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_face_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_face_to_cell_vector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_face_x_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_face_y_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_face_z_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_node_to_cell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_node_to_edge":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.average_node_to_face":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.axis_u":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.axis_v":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.axis_w":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cellGrad":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cellGradBC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cellGradx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cellGrady":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cellGradz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_centers":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_centers_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_centers_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_centers_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_gradient":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_gradient_BC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_gradient_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_gradient_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.cell_gradient_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.edgeCurl":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.edge_curl":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.edge_tangents":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.edges_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.faceDiv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.faceDivx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.faceDivy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.faceDivz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.face_divergence":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.face_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.face_x_divergence":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.face_y_divergence":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.face_z_divergence":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.getBCProjWF":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.getBCProjWF_simple":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.getEdgeInnerProduct":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.getEdgeInnerProductDeriv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.getFaceInnerProduct":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.getFaceInnerProductDeriv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.getInterpolationMat":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.getTensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.h":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.h_gridded":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.hx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.hy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.hz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.isInside":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nCx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nCy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nCz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nNx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nNy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nNz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_cells":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_edges":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_edges_per_direction":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_edges_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_faces":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_faces_per_direction":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.n_nodes":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nodalGrad":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nodalLaplacian":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nodal_gradient":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nodal_laplacian":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nodes":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nodes_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nodes_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.nodes_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.origin":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.plotGrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.plotImage":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.plotSlice":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.projectEdgeVector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.projectFaceVector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.r":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.reference_is_rotated":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.reference_system":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.rotation_matrix":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.setCellGradBC":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.shape_cells":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.shape_edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.shape_edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.shape_edges_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.shape_faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.shape_faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.shape_faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.shape_nodes":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.tangents":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.vectorCCx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.vectorCCy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.vectorCCz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.vectorNx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.vectorNy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tensor_mesh.vectorNz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.CurvilinearMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.CylindricalMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.OrderTest":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.Rosenbrock":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.TensorMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.checkDerivative":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.check_derivative":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.e":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.example_curvilinear_grid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.getQuadratic":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.get_quadratic":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.happiness":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.matplotlib":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.name":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.requires":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.rosenbrock":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.sadness":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.setupMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tests.setup_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.BaseTensorMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.DiffOperators":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.InnerProducts":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.TreeCell":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.TreeMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.TreeMeshIO":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh._REGISTRY":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh._TreeMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh._n":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh._unitDimensions":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.as_array_n_by_dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.axis_u":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.axis_v":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.axis_w":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.cell_centers":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.cell_centers_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.cell_centers_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.cell_centers_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.edge_tangents":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.edges_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.face_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.getEdgeInnerProduct":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.getEdgeInnerProductDeriv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.getFaceInnerProduct":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.getFaceInnerProductDeriv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.getInterpolationMat":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.getTensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.h":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.h_gridded":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.hx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.hy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.hz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.isInside":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_cells":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_edges":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_edges_per_direction":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_edges_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_edges_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_edges_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_faces":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_faces_per_direction":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_faces_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_faces_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_faces_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.n_nodes":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.nodes":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.nodes_x":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.nodes_y":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.nodes_z":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.origin":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.plotGrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.plotImage":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.plotSlice":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.projectEdgeVector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.projectFaceVector":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.reference_is_rotated":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.reference_system":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.rotation_matrix":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.tangents":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.vectorCCx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.vectorCCy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.vectorCCz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.vectorNx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.vectorNy":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.tree_mesh.vectorNz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.ExtractCoreMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.Identity":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.TensorType":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.Zero":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.active_from_xyz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.asArray_N_x_Dim":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.as_array_n_by_dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.av":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.cart2cyl":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.cartesian_to_cylindrical":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.closestPoints":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.closest_points_index":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.SCALARTYPES":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.asArray_N_x_Dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.as_array_n_by_dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.deprecate_class":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.deprecate_module":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.isScalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.is_scalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.code_utils.requires":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.codeutils":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.codeutils.SCALARTYPES":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.codeutils.asArray_N_x_Dim":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.codeutils.as_array_n_by_dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.codeutils.deprecate_class":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.codeutils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.codeutils.deprecate_method":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.codeutils.deprecate_module":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.codeutils.deprecate_property":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.codeutils.isScalar":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.codeutils.is_scalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.codeutils.requires":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.codeutils.scalarTypes":{
@@ -31798,214 +35738,663 @@
    "discretize-0.4.10-py27h44f515a_0"
   ]
  },
+ "discretize.utils.coordinate_utils":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.cart2cyl":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.cartesian_to_cylindrical":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.cyl2cart":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.cylindrical_to_cartesian":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.rotatePointsFromNormals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.rotate_points_from_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.rotationMatrixFromNormals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordinate_utils.rotation_matrix_from_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
  "discretize.utils.coordutils":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.coordutils.cart2cyl":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordutils.cartesian_to_cylindrical":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.coordutils.cyl2cart":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordutils.cylindrical_to_cartesian":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordutils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordutils.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.coordutils.rotatePointsFromNormals":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordutils.rotate_points_from_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.coordutils.rotationMatrixFromNormals":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.coordutils.rotation_matrix_from_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.faceInfo":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.face_info":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.indexCube":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.index_cube":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.sub2ind":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.volTetra":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvilinear_utils.volume_tetrahedron":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.curvutils":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvutils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.curvutils.faceInfo":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvutils.face_info":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.curvutils.indexCube":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvutils.index_cube":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvutils.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvutils.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvutils.sub2ind":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.curvutils.volTetra":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.curvutils.volume_tetrahedron":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.cyl2cart":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.cylindrical_to_cartesian":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.ddx":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.download":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.exampleLrmGrid":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.example_curvilinear_grid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.extract_core_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.faceInfo":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.face_info":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.getSubArray":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.get_subarray":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.ind2sub":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.indexCube":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.index_cube":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interpmat":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_matrix":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils._interpCython":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils._interp_point_1D":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils._interpmat1D":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils._interpmat2D":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils._interpmat3D":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils._vol_interp":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.err":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.file_test":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.interpmat":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.interpolation_matrix":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.interputils_cython":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.sub2ind":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interpolation_utils.volume_average":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils._interpCython":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils._interp_point_1D":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils._interpmat1D":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils._interpmat2D":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils._interpmat3D":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interputils._vol_interp":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interputils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils.err":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils.file_test":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.interputils.interpmat":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interputils.interpolation_matrix":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interputils.interputils_cython":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interputils.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interputils.sub2ind":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.interputils.volume_average":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.inv2X2BlockDiagonal":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.inv3X3BlockDiagonal":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.invPropertyTensor":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.inverse_2x2_block_diagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.inverse_3x3_block_diagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.inverse_property_tensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.download":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.downloadpath":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.f":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.io_utils.download.file_names":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.filenames":{
@@ -32017,31 +36406,36 @@
  "discretize.utils.io_utils.download.folder":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.i":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.rename_path":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.u":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.urllist":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.download.urlretrieve":{
@@ -32053,13 +36447,21 @@
  "discretize.utils.io_utils.downloadpath":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.f":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.io_utils.file_names":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.filenames":{
@@ -32071,31 +36473,36 @@
  "discretize.utils.io_utils.folder":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.i":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.rename_path":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.u":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.urllist":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.io_utils.urlretrieve":{
@@ -32107,253 +36514,721 @@
  "discretize.utils.isScalar":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.is_scalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.kron3":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.makePropertyTensor":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.make_property_tensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.Identity":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.TensorType":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.Zero":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils._inftup":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.av":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.ddx":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.getSubArray":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.get_subarray":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.ind2sub":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.inv2X2BlockDiagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.inv3X3BlockDiagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.invPropertyTensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.inverse_2x2_block_diagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.inverse_3x3_block_diagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.inverse_property_tensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.is_scalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.kron3":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.makePropertyTensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.make_property_tensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.mkvc":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.sdInv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.sdiag":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.sdinv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.speye":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.spzeros":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matrix_utils.sub2ind":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.Identity":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.TensorType":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.Zero":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils._inftup":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.av":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.ddx":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.getSubArray":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils.get_subarray":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.ind2sub":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.inv2X2BlockDiagonal":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.inv3X3BlockDiagonal":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.invPropertyTensor":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils.inverse_2x2_block_diagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils.inverse_3x3_block_diagonal":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils.inverse_property_tensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils.is_scalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.kron3":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.makePropertyTensor":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils.make_property_tensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.mkvc":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.ndgrid":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.sdInv":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.sdiag":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.matutils.sdinv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.speye":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.spzeros":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.matutils.sub2ind":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshTensor":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.mesh_builder_xyz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.ExtractCoreMesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.active_from_xyz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.as_array_n_by_dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.closestPoints":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.closest_points_index":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.exampleLrmGrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.example_curvilinear_grid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.extract_core_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.is_scalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.meshTensor":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.mesh_builder_xyz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.num_types":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.random_model":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.refine_tree_xyz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.mesh_utils.unpack_widths":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils.ExtractCoreMesh":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.active_from_xyz":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.as_array_n_by_dim":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils.closestPoints":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.closest_points_index":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.deprecate_function":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils.exampleLrmGrid":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.example_curvilinear_grid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.extract_core_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.is_scalar":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils.meshTensor":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils.mesh_builder_xyz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.ndgrid":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils.num_types":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils.random_model":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.meshutils.refine_tree_xyz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.meshutils.unpack_widths":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.mkvc":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.ndgrid":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.random_model":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.refine_tree_xyz":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.requires":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.rotatePointsFromNormals":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.rotate_points_from_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.rotationMatrixFromNormals":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.rotation_matrix_from_normals":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.sdInv":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.sdiag":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.sdinv":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.setup":{
@@ -32377,25 +37252,47 @@
  "discretize.utils.speye":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.spzeros":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.sub2ind":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.unpack_widths":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "discretize.utils.volTetra":{
   "__set__":true,
   "elements":[
-   "discretize-0.4.10-py27h44f515a_0"
+   "discretize-0.4.10-py27h44f515a_0",
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.volume_average":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
+  ]
+ },
+ "discretize.utils.volume_tetrahedron":{
+  "__set__":true,
+  "elements":[
+   "discretize-0.6.0-py36h25f8f20_1"
   ]
  },
  "diskcache.Cache":{
