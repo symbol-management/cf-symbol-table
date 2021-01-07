@@ -3527,12 +3527,14 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.BasePlugin":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3551,6 +3553,7 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3576,6 +3579,7 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3584,7 +3588,8 @@
   "elements":[
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.compat.PY2":{
@@ -3593,7 +3598,14 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
+  ]
+ },
+ "apispec.compat.RegexType":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.compat.basestring":{
@@ -3601,7 +3613,8 @@
   "elements":[
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.compat.binary_type":{
@@ -3618,7 +3631,8 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.compat.iterkeys":{
@@ -3627,7 +3641,8 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.compat.itervalues":{
@@ -3635,7 +3650,8 @@
   "elements":[
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.compat.string_types":{
@@ -3660,7 +3676,8 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.core":{
@@ -3669,6 +3686,7 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3679,12 +3697,14 @@
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.core.Components":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3732,18 +3752,21 @@
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.core.VALID_METHODS_OPENAPI_V2":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.core.VALID_METHODS_OPENAPI_V3":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3761,7 +3784,14 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
+  ]
+ },
+ "apispec.core.iteritems":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.core.iterkeys":{
@@ -3770,7 +3800,8 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
-   "apispec-0.37.0-py27_0"
+   "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.core.unicode":{
@@ -3795,6 +3826,7 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3805,12 +3837,14 @@
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.exceptions.DuplicateComponentNameError":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3829,6 +3863,7 @@
  "apispec.exceptions.OpenAPIError":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3843,6 +3878,7 @@
  "apispec.exceptions.PluginMethodNotImplementedError":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -3860,6 +3896,7 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4040,18 +4077,21 @@
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.BasePlugin":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.MarshmallowPlugin":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4067,6 +4107,7 @@
  "apispec.ext.marshmallow.OpenAPIConverter":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4088,60 +4129,70 @@
  "apispec.ext.marshmallow.common":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.MODIFIERS":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.SchemaKey":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.filter_excluded_fields":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.get_fields":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.get_unique_schema_name":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.make_schema_key":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.resolve_schema_cls":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.resolve_schema_instance":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.common.warn_if_fields_defined_in_meta":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4229,48 +4280,80 @@
  "apispec.ext.marshmallow.make_schema_key":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.openapi":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.openapi.APISpecError":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
+  ]
+ },
+ "apispec.ext.marshmallow.openapi.DEFAULT_FIELD_MAPPING":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.ext.marshmallow.openapi.MARSHMALLOW_VERSION_INFO":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.openapi.OpenAPIConverter":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.openapi.OpenAPIVersion":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
+  ]
+ },
+ "apispec.ext.marshmallow.openapi.RegexType":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
+  ]
+ },
+ "apispec.ext.marshmallow.openapi._VALID_PREFIX":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
+  ]
+ },
+ "apispec.ext.marshmallow.openapi._VALID_PROPERTIES":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.ext.marshmallow.openapi.__location_map__":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.openapi.build_reference":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4328,12 +4411,14 @@
  "apispec.ext.marshmallow.resolve_schema_instance":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.ext.marshmallow.resolver":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4709,12 +4794,14 @@
  "apispec.plugin":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.plugin.BasePlugin":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4725,18 +4812,21 @@
    "apispec-0.33.0-py27_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.utils.COMPONENT_SUBSECTIONS":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.utils.OpenAPIVersion":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4751,6 +4841,7 @@
  "apispec.utils.build_reference":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4760,12 +4851,14 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.utils.deepupdate":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4775,6 +4868,7 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4809,12 +4903,14 @@
    "apispec-0.19.0-py35_0",
    "apispec-0.36.0-py35_0",
    "apispec-0.37.0-py27_0",
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.utils.validate_spec":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
@@ -4829,49 +4925,75 @@
  "apispec.yaml_utils":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.yaml_utils.PATH_KEYS":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
+  ]
+ },
+ "apispec.yaml_utils.PY2":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.yaml_utils.YAMLDumper":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.yaml_utils.dedent":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.yaml_utils.dict_to_yaml":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
+  ]
+ },
+ "apispec.yaml_utils.iteritems":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec.yaml_utils.load_operations_from_docstring":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.yaml_utils.load_yaml_from_docstring":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
   ]
  },
  "apispec.yaml_utils.trim_docstring":{
   "__set__":true,
   "elements":[
+   "apispec-1.1.2-py_0",
    "apispec-3.2.0-py_0"
+  ]
+ },
+ "apispec.yaml_utils.unicode":{
+  "__set__":true,
+  "elements":[
+   "apispec-1.1.2-py_0"
   ]
  },
  "apispec_webframeworks.__version__":{
