@@ -254,19 +254,28 @@
  "nb_conda_kernels.CondaKernelSpecManager":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.__main__":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.__version__":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels._version":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels._version.__version__":{
@@ -275,46 +284,130 @@
    "nb_conda_kernels-2.1.1-py27_1"
   ]
  },
+ "nb_conda_kernels._version.get_versions":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
  "nb_conda_kernels._version.version_info":{
   "__set__":true,
   "elements":[
    "nb_conda_kernels-2.1.1-py27_1"
   ]
  },
+ "nb_conda_kernels._version.version_json":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.discovery":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.discovery.CondaKernelProvider":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.discovery.KernelProviderBase":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
  "nb_conda_kernels.install":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.install.CKSM":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.install.ENDIS":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.install.JCKP":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.install.JNC":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.install.JNCJ":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.install.KSMC":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.install.NBA":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.install.NCKDCKP":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.install.group":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.install.group2":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.install.install":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.install.log":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.install.parser":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.install.pretty":{
@@ -326,25 +419,47 @@
  "nb_conda_kernels.manager":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.manager.CACHE_TIMEOUT":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.manager.CONDA_EXE":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.manager.CondaKernelSpecManager":{
   "__set__":true,
   "elements":[
-   "nb_conda_kernels-2.1.1-py27_1"
+   "nb_conda_kernels-2.1.1-py27_1",
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.manager.RUNNER_COMMAND":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.runner":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
+  ]
+ },
+ "nb_conda_kernels.runner.exec_in_env":{
+  "__set__":true,
+  "elements":[
+   "nb_conda_kernels-2.3.0-py39hde42818_2"
   ]
  },
  "nb_conda_kernels.tests":{
