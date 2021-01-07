@@ -3011,7 +3011,8 @@
  "refnx._lib.TemporaryDirectory":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx._lib.__all__":{
@@ -3788,6 +3789,12 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.AnalyticalReflectivityFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.BaseObjective":{
   "__set__":true,
   "elements":[
@@ -3803,7 +3810,20 @@
  "refnx.analysis.CurveFitter":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.FitFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.GlobalFitter":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.GlobalObjective":{
@@ -3848,22 +3868,79 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.ReflectivityFitFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.Transform":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.__all__":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis._creflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis._reflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis._reflect.a":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis._reflect.abeles":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis._reflect.b":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis._reflect.i":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis._reflect.loop":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.abeles":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.bounds":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.bounds.Bounds":{
@@ -3884,16 +3961,48 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.clear_bounds":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.curvefitter":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.curvefitter.CurveFitter":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.Data1D":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.FitFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.GlobalFitter":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.HAS_EMCEE":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.curvefitter.Interval":{
@@ -3920,6 +4029,12 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.curvefitter.ReflectDataset":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.curvefitter.State":{
   "__set__":true,
   "elements":[
@@ -3930,6 +4045,12 @@
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
+  ]
+ },
+ "refnx.analysis.curvefitter._MACHEPS":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.curvefitter._function_1d":{
@@ -3962,10 +4083,40 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.curvefitter._parallel_global_fitfunc":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter._parallel_likelihood_calculator":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter._parallel_residuals_calculator":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.bounds":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.curvefitter.bounds_list":{
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.clear_bounds":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.curvefitter.emcee":{
@@ -3974,10 +4125,34 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.curvefitter.exprs":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.f":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.fitfunc":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.curvefitter.flatten":{
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.gauss":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.curvefitter.getargspec":{
@@ -3998,6 +4173,24 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.curvefitter.names":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.p0":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.pars":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.curvefitter.possibly_create_pool":{
   "__set__":true,
   "elements":[
@@ -4016,6 +4209,18 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.curvefitter.temp_pars":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.to_parameters":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.curvefitter.uncertainty_from_chain":{
   "__set__":true,
   "elements":[
@@ -4028,10 +4233,41 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.curvefitter.values":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.varys":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.xdata":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.curvefitter.ydata":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.exprs":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.fitfunc":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.is_parameter":{
@@ -4074,6 +4310,12 @@
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
+  ]
+ },
+ "refnx.analysis.names":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.objective":{
@@ -4280,118 +4522,293 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.reflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.AnalyticalReflectivityFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.ErrorProp":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.FitFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.ReflectivityFitFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.Transform":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._FWHM":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._INTLIMIT":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._loop":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._memoize_gl":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._reflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._smeared_abeles_adaptive":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._smeared_abeles_constant":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._smeared_abeles_fixed":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect._smearkernel":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.a":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.abeles":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.b":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.coefs_to_layer":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.gauss_legendre":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.is_proper_abeles_input":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.layer_to_coefs":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.reflectivity":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.sld_profile":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflect.t":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.reflectivity":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.test":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Bennett5":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.BoxBOD":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Chwirut":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.CurveFitter":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.DanWood":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.ENSO":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Eckerle4":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Gauss":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Hahn1":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Kirby":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Lanczos":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.MGH09":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.MGH10":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.MGH17":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Misra1a":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Misra1b":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Misra1c":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Misra1d":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Model":{
@@ -4400,10 +4817,17 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.test.NISTModels.Models":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.test.NISTModels.NIST_DIR":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.NIST_Models":{
@@ -4415,13 +4839,15 @@
  "refnx.analysis.test.NISTModels.NIST_runner":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Nelson":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Objective":{
@@ -4439,55 +4865,94 @@
  "refnx.analysis.test.NISTModels.Rat42":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Rat43":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.ReadNistData":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Roszman1":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.Thurber":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.ndig":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.read_params":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.thisdir":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.NISTModels.thisfile":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.NISTModels.values":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.gsmear.res.smeared_output":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.gsmear.smeared_output":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.smearingprecision.reflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.smearingprecision.smearing_precision_comparison":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_bounds.Interval":{
@@ -4517,13 +4982,26 @@
  "refnx.analysis.test.test_curvefitter.CurveFitter":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_curvefitter.Data1D":{
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
+  ]
+ },
+ "refnx.analysis.test.test_curvefitter.FitFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_curvefitter.HAS_EMCEE":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_curvefitter.Model":{
@@ -4544,10 +5022,22 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.test.test_curvefitter.SEED":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.test.test_curvefitter.TestCurveFitter":{
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
+  ]
+ },
+ "refnx.analysis.test.test_curvefitter.TestFitter":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_curvefitter.TestFitterGauss":{
@@ -4562,6 +5052,18 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.test.test_curvefitter._parallel_likelihood_calculator":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_curvefitter.curvefitter":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.test.test_curvefitter.emcee":{
   "__set__":true,
   "elements":[
@@ -4571,7 +5073,8 @@
  "refnx.analysis.test.test_curvefitter.gauss":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_curvefitter.line":{
@@ -4586,16 +5089,47 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.test.test_curvefitter.path":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.test.test_curvefitter.process_chain":{
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.test.test_curvefitter.values":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_curvefitter.within_sigma":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_globalfitting.CURDIR":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.analysis.test.test_globalfitting.CurveFitter":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_globalfitting.GlobalFitter":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_globalfitting.GlobalObjective":{
@@ -4625,7 +5159,8 @@
  "refnx.analysis.test.test_globalfitting.SEED":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_globalfitting.SLD":{
@@ -4643,13 +5178,38 @@
  "refnx.analysis.test.test_globalfitting.TestGlobalFitting":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_globalfitting.Transform":{
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
+  ]
+ },
+ "refnx.analysis.test.test_globalfitting.curvefitter":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_globalfitting.reflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_globalfitting.reflect_fitfunc":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_globalfitting.values":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.analysis.test.test_model.Model":{
@@ -4784,6 +5344,96 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.analysis.test.test_reflect.AnalyticTestFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.AnalyticalReflectivityFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.CurveFitter":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.HAVE_CREFLECT":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.ReflectivityFitFunction":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.TestAnalyticalProfile":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.TestReflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect._creflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect._reflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.curvefitter":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.path":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.test.test_reflect.reflect":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.to_parameters":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.values":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.analysis.varys":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.dataset":{
   "__set__":true,
   "elements":[
@@ -4793,37 +5443,49 @@
  "refnx.dataset.Data1D":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.ReflectDataset":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.__all__":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.data1d":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.data1d.Data1D":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.data1d.Data1D.finite_data":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.dataset.data1d.Data1D.npoints":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.data1d.get_scaling_in_overlap":{
@@ -4841,19 +5503,22 @@
  "refnx.dataset.reflectdataset":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.reflectdataset.Data1D":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.reflectdataset.ReflectDataset":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.reflectdataset._template_ref_xml":{
@@ -4865,7 +5530,14 @@
  "refnx.dataset.reflectdataset.finite_data":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.dataset.reflectdataset.npoints":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.reflectdataset.possibly_open_file":{
@@ -4877,7 +5549,8 @@
  "refnx.dataset.test":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.dataset.test.test_reflectdataset.Data1D":{
@@ -4907,19 +5580,22 @@
  "refnx.reduce.BatchReducer":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.Catalogue":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.PlatypusNexus":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.PlatypusReduce":{
@@ -4928,16 +5604,24 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.reduce.ReducePlatypus":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.reduce.Y_PIXEL_SPACING":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.__all__":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce._cevent":{
@@ -4949,13 +5633,15 @@
  "refnx.reduce._cevent._cevents":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.accumulate_HDF_files":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.basename_datafile":{
@@ -4967,103 +5653,120 @@
  "refnx.reduce.batchreduction":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.batchreduction.BatchReducer":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.batchreduction.ReductionCache":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.batchreduction.ReductionEntry":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.batchreduction._have_ipython":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.batchreduction.reduce_stitch":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.batchreduction.run_list":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.bounded_splines":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.bounded_splines.BoundedRectBivariateSpline":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.bounded_splines.BoundedUnivariateSpline":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.catalogue":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.datafile_number":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.event":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.event.HAVE_CEVENTS":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.event._cevents":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.event._events":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.event.events":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.event.framebins_to_frames":{
@@ -5081,7 +5784,8 @@
  "refnx.reduce.event.process_event_stream":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.manual_beam_finder":{
@@ -5147,13 +5851,15 @@
  "refnx.reduce.number_datafile":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.parabolic_motion":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.parabolic_motion.arc_length":{
@@ -5165,19 +5871,22 @@
  "refnx.reduce.parabolic_motion.elevation":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.parabolic_motion.find_trajectory":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.parabolic_motion.parabola":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.parabolic_motion.parabola_line_intersection_point":{
@@ -5189,127 +5898,148 @@
  "refnx.reduce.parabolic_motion.y_deflection":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.peak_utils":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.peak_utils.centroid":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.peak_utils.gauss":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.peak_utils.median":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.peak_utils.peak_finder":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.Catalogue":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.DISCRADIUS":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.EXTENT_MULT":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.ErrorProp":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.O_C1":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.O_C1d":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.O_C2":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.O_C2d":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.O_C3":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.O_C3d":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.O_C4":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.O_C4d":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.PIXEL_OFFSET":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.PlatypusNexus":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.ReflectNexus":{
@@ -5321,13 +6051,15 @@
  "refnx.reduce.platypusnexus.Y_PIXEL_SPACING":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus._check_HDF_file":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus._dict_compare":{
@@ -5345,25 +6077,29 @@
  "refnx.reduce.platypusnexus.a":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.accumulate_HDF_files":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.args":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.background_subtract":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.basename_datafile":{
@@ -5375,13 +6111,15 @@
  "refnx.reduce.platypusnexus.calculate_wavelength_bins":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.catalogue":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.centroid":{
@@ -5393,25 +6131,29 @@
  "refnx.reduce.platypusnexus.correct_for_gravity":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.create_detector_norm":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.datafile_number":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.disc_openings":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.events":{
@@ -5423,13 +6165,15 @@
  "refnx.reduce.platypusnexus.file":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.find_specular_ridge":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.find_trajectory":{
@@ -5441,7 +6185,8 @@
  "refnx.reduce.platypusnexus.fname":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.fore_back_region":{
@@ -5459,25 +6204,29 @@
  "refnx.reduce.platypusnexus.general":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.integrate":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.number_datafile":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.out_fname":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.parabola":{
@@ -5489,13 +6238,15 @@
  "refnx.reduce.platypusnexus.parser":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.path":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.platypusnexus.peak_finder":{
@@ -5543,31 +6294,36 @@
  "refnx.reduce.rebin":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.rebin.rebin":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce.ErrorProp":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce.PlatypusNexus":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce.PlatypusReduce":{
@@ -5576,10 +6332,17 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.reduce.reduce.ReducePlatypus":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.reduce.reduce.ReflectDataset":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce.ReflectNexus":{
@@ -5597,7 +6360,8 @@
  "refnx.reduce.reduce.Y_PIXEL_SPACING":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce._template_ref_xml":{
@@ -5609,7 +6373,8 @@
  "refnx.reduce.reduce.a":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce.basename_datafile":{
@@ -5627,13 +6392,15 @@
  "refnx.reduce.reduce.general":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce.number_datafile":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce.parabola_line_intersection_point":{
@@ -5651,43 +6418,56 @@
  "refnx.reduce.reduce.reduce_stitch":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce_stitch":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.reduce_xrdml":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_batch_reduce.BatchReducer":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.reduce.test.test_batch_reduce.TemporaryDirectory":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_batch_reduce.TestReduce":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_batch_reduce.TestReductionCache":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_event.HAVE_CEVENTS":{
@@ -5741,13 +6521,21 @@
  "refnx.reduce.test.test_peak_utils.TestPeakUtils":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.reduce.test.test_peak_utils.__author__":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_peak_utils.peak_utils":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_platypusnexus.EXTENT_MULT":{
@@ -5765,7 +6553,8 @@
  "refnx.reduce.test.test_platypusnexus.PlatypusNexus":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_platypusnexus.PlatypusReduce":{
@@ -5774,10 +6563,23 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.reduce.test.test_platypusnexus.ReducePlatypus":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
+ "refnx.reduce.test.test_platypusnexus.TemporaryDirectory":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.reduce.test.test_platypusnexus.TestPlatypusNexus":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_platypusnexus.basename_datafile":{
@@ -5801,13 +6603,15 @@
  "refnx.reduce.test.test_platypusnexus.gauss":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_platypusnexus.platypusnexus":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.test.test_rebin.TestRebin":{
@@ -5855,7 +6659,8 @@
  "refnx.reduce.xray":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reduce.xray.ErrorProp":{
@@ -5870,6 +6675,12 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.reduce.xray.d":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.reduce.xray.general":{
   "__set__":true,
   "elements":[
@@ -5882,6 +6693,12 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.reduce.xray.parse_xrdml_file.d":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.reduce.xray.process_offspec":{
   "__set__":true,
   "elements":[
@@ -5891,7 +6708,8 @@
  "refnx.reduce.xray.reduce_xrdml":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.reflect":{
@@ -6707,133 +7525,155 @@
  "refnx.util.EPadd":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPcos":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPdiv":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPexp":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPlog":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPmul":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPpow":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPsin":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPsub":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.EPtan":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPadd":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPcos":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPdiv":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPexp":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPlog":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPmul":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPpow":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPsin":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPsub":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.ErrorProp.EPtan":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.__all__":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util._resolution_kernel":{
@@ -6887,49 +7727,57 @@
  "refnx.util.actual_footprint":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.angle":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.beamfrac":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.div":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.double_chopper_frequency":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.energy_wavelength":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.K":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general._dict_compare":{
@@ -6941,157 +7789,183 @@
  "refnx.util.general.actual_footprint":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.angle":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.beamfrac":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.div":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.double_chopper_frequency":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.energy_wavelength":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.height_of_beam_after_dx":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.penetration_depth":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.q":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.resolution_double_chopper":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.resolution_single_chopper":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.slit_optimiser":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.tauC":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.transmission_double_chopper":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.transmission_single_chopper":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.velocity_wavelength":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.wavelength":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.xray_energy":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.general.xray_wavelength":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.get_scaling_in_overlap":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.height_of_beam_after_dx":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.nsplice":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.nsplice.get_scaling_in_overlap":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.penetration_depth":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.q":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.quickplot":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.quickplot.ReflectDataset":{
@@ -7100,40 +7974,57 @@
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.util.quickplot.fig":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.util.quickplot.ref_plot":{
   "__set__":true,
   "elements":[
    "refnx-0.0.17-py27hf8a1672_0"
   ]
  },
+ "refnx.util.quickplot.ref_plot.fig":{
+  "__set__":true,
+  "elements":[
+   "refnx-0.0.6-np111py34_0"
+  ]
+ },
  "refnx.util.resolution_double_chopper":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.resolution_single_chopper":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.slit_optimiser":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.tauC":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.test":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.test.test_ErrorProp.ErrorProp":{
@@ -7151,19 +8042,22 @@
  "refnx.util.test.test_general.TestGeneral":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.test.test_general.general":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.test.test_general.test_version":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.test.test_nsplice.TestNSplice":{
@@ -7187,37 +8081,43 @@
  "refnx.util.transmission_double_chopper":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.transmission_single_chopper":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.velocity_wavelength":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.wavelength":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.xray_energy":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.util.xray_wavelength":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.version":{
@@ -7229,31 +8129,36 @@
  "refnx.version.full_version":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.version.git_revision":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.version.release":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.version.short_version":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "refnx.version.version":{
   "__set__":true,
   "elements":[
-   "refnx-0.0.17-py27hf8a1672_0"
+   "refnx-0.0.17-py27hf8a1672_0",
+   "refnx-0.0.6-np111py34_0"
   ]
  },
  "regex.A":{

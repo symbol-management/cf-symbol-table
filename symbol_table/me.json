@@ -539,22 +539,277 @@
    "mechanicalsoup-0.6.0-py36_0"
   ]
  },
+ "mechanize.AbstractBasicAuthHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.AbstractDigestAuthHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.AmbiguityError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.BaseHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
  "mechanize.Browser":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.CacheFTPHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.CheckboxControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.ContentTooShortError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.Control":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.Cookie":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.DefaultCookiePolicy":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.FTPHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.Factory":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.FileControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.FileCookieJar":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.FileHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize.FormNotFoundError":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTMLForm":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPBasicAuthHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPCookieProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPDefaultErrorHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPDigestAuthHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPEquivProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPErrorProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPGzipProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPPasswordMgr":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPProxyPasswordMgr":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPRedirectDebugProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPRedirectHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPRefererProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPRefreshProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPResponseDebugProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPRobotRulesProcessor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPSClientCertMgr":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HTTPSHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.HiddenControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize.History":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.IgnoreControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.ImageControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.Item":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.LWPCookieJar":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.Label":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.Link":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize.LinkNotFoundError":{
@@ -563,34 +818,195 @@
    "mechanize-0.2.5-py27_0"
   ]
  },
+ "mechanize.ListControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.LoadError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.LocateError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.Missing":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.MozillaCookieJar":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.OpenerDirector":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.OpenerFactory":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.PasswordControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.ProxyBasicAuthHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.ProxyDigestAuthHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.ProxyHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.RadioControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.Request":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.RobotExclusionError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.ScalarControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.SeekableResponseOpener":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.SelectControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.SubmitButtonControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.SubmitControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.TextControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.TextareaControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.URLError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
  "mechanize.USE_BARE_EXCEPT":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.UnknownHandler":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.UserAgent":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.XHTMLCompatibleHeadParser":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize.__all__":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.__version__":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._auth":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._auth.HTTPProxyPasswordMgr":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._auth.HTTPSClientCertMgr":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._beautifulsoup":{
@@ -740,7 +1156,8 @@
  "mechanize._clientcookie":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._clientcookie.Absent":{
@@ -752,7 +1169,8 @@
  "mechanize._clientcookie.Cookie":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._clientcookie.DEFAULT_HTTP_PORT":{
@@ -809,6 +1227,18 @@
    "mechanize-0.2.5-py27_0"
   ]
  },
+ "mechanize._clientcookie.MozillaCookieJar":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._clientcookie.__all__":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
  "mechanize._clientcookie._threading":{
   "__set__":true,
   "elements":[
@@ -819,6 +1249,12 @@
   "__set__":true,
   "elements":[
    "mechanize-0.2.5-py27_0"
+  ]
+ },
+ "mechanize._clientcookie.cookies_equal":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._clientcookie.cut_port_re":{
@@ -848,7 +1284,8 @@
  "mechanize._clientcookie.effective_request_host":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._clientcookie.escape_path":{
@@ -890,7 +1327,8 @@
  "mechanize._clientcookie.request_is_unverifiable":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._clientcookie.request_path":{
@@ -932,19 +1370,28 @@
  "mechanize._debug":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._debug.HTTPRedirectDebugProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._debug.HTTPResponseDebugProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._debug.handler_order":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._firefox3cookiejar":{
@@ -968,7 +1415,8 @@
  "mechanize._form":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._form.AmbiguityError":{
@@ -1145,6 +1593,12 @@
    "mechanize-0.2.5-py27_0"
   ]
  },
+ "mechanize._form.SkipControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
  "mechanize._form.SubmitButtonControl":{
   "__set__":true,
   "elements":[
@@ -1289,10 +1743,59 @@
    "mechanize-0.2.5-py27_0"
   ]
  },
+ "mechanize._form.label_text":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
  "mechanize._form.normalize_line_endings":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form.parse_button":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form.parse_control":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form.parse_forms":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form.parse_input":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form.parse_option":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form.parse_select":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form.parse_textarea":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._form.unescape":{
@@ -1301,10 +1804,197 @@
    "mechanize-0.2.5-py27_0"
   ]
  },
+ "mechanize._form_controls":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.AmbiguityError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.CheckboxControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.Control":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.FileControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.HTMLForm":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.HiddenControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.IgnoreControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.ImageControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.Item":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.Label":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.ListControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.LocateError":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.MimeWriter":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.Missing":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.PasswordControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.RadioControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.ScalarControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.SelectControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.SubmitButtonControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.SubmitControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.TextControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.TextareaControl":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls._compress_re":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls._get_label":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.choose_boundary":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.compress_whitespace":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.deprecation":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.disambiguate":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.is_listcontrol":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._form_controls.isstringlike":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
  "mechanize._gzip":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._gzip.GzipConsumer":{
@@ -1316,7 +2006,38 @@
  "mechanize._gzip.HTTPGzipProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._gzip.UnzipWrapper":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._gzip.compress_readable_output":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._gzip.create_gzip_decompressor":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._gzip.gzip_prefix":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._gzip.read_amt":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._gzip.stupid_gzip_consumer":{
@@ -1334,91 +2055,118 @@
  "mechanize._headersutil":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.STRING_TYPES":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil._test":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.escape_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.is_html":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.join_escape_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.join_header_words":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._headersutil.normalize_header_name":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.parse_ns_headers":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.quoted_value_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.split_header_words":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.strip_quotes":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.token_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.unmatched":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._headersutil.uppercase_headers":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._headersutil.value_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._html":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._html.Args":{
@@ -1442,7 +2190,8 @@
  "mechanize._html.DEFAULT_ENCODING":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._html.DefaultFactory":{
@@ -1454,13 +2203,15 @@
  "mechanize._html.EncodingFinder":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._html.Factory":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._html.FormsFactory":{
@@ -1472,7 +2223,8 @@
  "mechanize._html.Link":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._html.MechanizeBs":{
@@ -1484,7 +2236,8 @@
  "mechanize._html.ResponseTypeFinder":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._html.RobustFactory":{
@@ -1517,10 +2270,52 @@
    "mechanize-0.2.5-py27_0"
   ]
  },
+ "mechanize._html.compress_whitespace":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._html.content_parser":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._html.elem_text":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
  "mechanize._html.form_parser_args":{
   "__set__":true,
   "elements":[
    "mechanize-0.2.5-py27_0"
+  ]
+ },
+ "mechanize._html.get_encoding_from_response":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._html.get_title":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._html.iterlinks":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._html.lazy":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._html.unescape":{
@@ -1532,19 +2327,22 @@
  "mechanize._http":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.AbstractHeadParser":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.CHUNK":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.DEFAULT_ENCODING":{
@@ -1556,31 +2354,36 @@
  "mechanize._http.EndOfHeadError":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.HTTPEquivProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.HTTPRefererProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.HTTPRefreshProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.HTTPRobotRulesProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.HeadParser":{
@@ -1592,49 +2395,57 @@
  "mechanize._http.MechanizeRobotFileParser":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.RobotExclusionError":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.XHTMLCompatibleHeadParser":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.clean_refresh_url":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.debug":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.debug_robots":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.parse_head":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._http.parse_refresh_header":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._lwpcookiejar":{
@@ -1706,7 +2517,8 @@
  "mechanize._mechanize":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._mozillacookiejar":{
@@ -1784,61 +2596,77 @@
  "mechanize._opener":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.ContentTooShortError":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.OpenerDirector":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.OpenerFactory":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.ResponseProcessingOpener":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.SeekableResponseOpener":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.build_opener":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._opener.get_thread_local_opener":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.install_opener":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.isclass":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.open_file":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.set":{
@@ -1850,25 +2678,35 @@
  "mechanize._opener.set_request_attr":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._opener.thread_local":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.urlopen":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.urlretrieve":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._opener.wrapped_open":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._pullparser":{
@@ -1922,163 +2760,202 @@
  "mechanize._request":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._request.Request":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._request.add_data":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._request.as_utf8":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._request.warn":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.closeable_response":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.eoffile":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.eofresponse":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.get_seek_wrapper_class":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.len_of_seekable":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.make_headers":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.make_response":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.response_seek_wrapper":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.seek_wrapped_response":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.seek_wrapper":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.test_html_response":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.test_response":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._response.upgrade_response":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.BAD_URI_CHARS_RE":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.SPLIT_MATCH":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.clean_url":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.is_clean_uri":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.merge":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.remove_dot_segments":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.urljoin":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.urlsplit":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._rfc3986.urlunsplit":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._sgmllib_copy":{
@@ -2186,25 +3063,29 @@
  "mechanize._sockettimeout":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._sockettimeout._GLOBAL_DEFAULT_TIMEOUT":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._testcase":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._testcase.FixtureFactory":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._testcase.GoldenTestCase":{
@@ -2216,127 +3097,166 @@
  "mechanize._testcase.MonkeyPatcher":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._testcase.SetupStack":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._testcase.TearDownConvenience":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._testcase.TempDirMaker":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._testcase.TestCase":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._urllib2":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._urllib2.__all__":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.AbstractBasicAuthHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.AbstractDigestAuthHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.AbstractHTTPHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.BaseHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._urllib2_fork.BaseHandler.handler_order":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.CacheFTPHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.FTPHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.FileHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPBasicAuthHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPCookieProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPDefaultErrorHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPDigestAuthHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPErrorProcessor":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPPasswordMgr":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPRedirectHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.HTTPSConnectionFactory":{
@@ -2348,55 +3268,70 @@
  "mechanize._urllib2_fork.HTTPSHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.OpenerDirector":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.ProxyBasicAuthHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.ProxyDigestAuthHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.ProxyHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.Request":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._urllib2_fork.Request.add_data":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.UnknownHandler":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.__version__":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork._cut_port_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork._hostprog":{
@@ -2408,271 +3343,394 @@
  "mechanize._urllib2_fork._opener":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork._parse_proxy":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.build_opener":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.create_readline_wrapper":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.install_opener":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.md5_digest":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.parse_http_list":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.parse_keqv_list":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.randombytes":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.request_host":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.sha1_digest":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.splithost":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._urllib2_fork.urlopen":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._useragent":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.EPOCH":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.ExperimentalWarning":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.UTC_ZONES":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util._str2time":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.days":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.deprecation":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.experimental":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.get1":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.hide_deprecations":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.hide_experimental_warnings":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.http2time":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.iso2time":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.iso_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.isstringlike":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.loose_http_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.month":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.months":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.months_lower":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.my_timegm":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.offset_from_tz_string":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize._util.read_file":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.reset_deprecations":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.reset_experimental_warnings":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.strict_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.time2isoz":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.time2netscape":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.timezone_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.wkday_re":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._util.write_file":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._version":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "mechanize._version.__version__":{
   "__set__":true,
   "elements":[
-   "mechanize-0.2.5-py27_0"
+   "mechanize-0.2.5-py27_0",
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.build_opener":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.effective_request_host":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.install_opener":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.lwp_cookie_str":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.make_response":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.request_host":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.response_seek_wrapper":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.seek_wrapped_response":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.str2time":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.urljoin":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.urlopen":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
+  ]
+ },
+ "mechanize.urlretrieve":{
+  "__set__":true,
+  "elements":[
+   "mechanize-0.3.1-py27_0"
   ]
  },
  "med.H5F_LIBVER_18":{
