@@ -15430,6 +15430,18 @@
    "tatsu-5.0.0-py_0"
   ]
  },
+ "test.helpers":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.helpers.FakeExtension":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
  "test.input":{
   "__set__":true,
   "elements":[
@@ -17587,6 +17599,48 @@
    "forest-0.6.0-py38_0"
   ]
  },
+ "test.test_client":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_client._make_connection_request":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_client._make_handshake":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_client.test_broken_handshake":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_client.test_connection_request":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_client.test_handshake":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_client.test_protocol_error":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
  "test.test_color_spec":{
   "__set__":true,
   "elements":[
@@ -18070,6 +18124,72 @@
    "forest-0.13.5-py36h9f0ad1d_0",
    "forest-0.15.7-py36h9f0ad1d_0",
    "forest-0.6.0-py38_0"
+  ]
+ },
+ "test.test_connection":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_abnormal_closure":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_close_whilst_closing":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_closure":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_data":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_frame_protocol_gets_fed_garbage":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_ping_pong":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_receive_data_when_closed":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_send_invalid_event":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_send_message":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_connection.test_unsolicited_pong":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
   ]
  },
  "test.test_data":{
@@ -20090,6 +20210,96 @@
    "forest-0.6.0-py38_0"
   ]
  },
+ "test.test_events":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_events.SimpleEvent":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_events.test_event_construction":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_events.test_event_defaults":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_events.test_event_equality":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_events.test_event_repr":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_extensions":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_extensions.TestExtension":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_frame_protocol":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_frame_protocol.FakeValidator":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_frame_protocol.TestBuffer":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_frame_protocol.TestFrameDecoder":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_frame_protocol.TestFrameProtocolReceive":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_frame_protocol.TestFrameProtocolSend":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_frame_protocol.TestMessageDecoder":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
  "test.test_func":{
   "__set__":true,
   "elements":[
@@ -20482,6 +20692,36 @@
   "__set__":true,
   "elements":[
    "forest-0.13.1-py37hc8dfbb8_0"
+  ]
+ },
+ "test.test_handshake":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_handshake.test_initiate_upgrade_as_client":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_handshake.test_rejected_handshake":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_handshake.test_send_invalid_event":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_handshake.test_successful_handshake":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
   ]
  },
  "test.test_image_controls":{
@@ -21633,6 +21873,18 @@
    "forest-0.6.0-py38_0"
   ]
  },
+ "test.test_permessage_deflate":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_permessage_deflate.TestPerMessageDeflate":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
  "test.test_plane_hole":{
   "__set__":true,
   "elements":[
@@ -22630,6 +22882,48 @@
    "forest-0.15.7-py36h9f0ad1d_0",
    "forest-0.4.4-py38_0",
    "forest-0.6.0-py38_0"
+  ]
+ },
+ "test.test_server":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_server._make_connection_request":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_server._make_handshake":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_server.test_connection_request":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_server.test_handshake":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_server.test_protocol_error":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "test.test_server.test_upgrade_request":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
   ]
  },
  "test.test_state":{
@@ -27200,6 +27494,7 @@
    "regex-2017.06.20-py36_0",
    "regex-2017.07.28-py36h14c3975_1",
    "regex-2017.07.28-py36h1de35cc_1",
+   "regex-2017.12.05-py27_0",
    "regex-2018.07.11-py36h470a237_0"
   ]
  },
@@ -27216,7 +27511,8 @@
   "__set__":true,
   "elements":[
    "regex-2016.09.22-py27_0",
-   "regex-2016.10.22-py27_0"
+   "regex-2016.10.22-py27_0",
+   "regex-2017.12.05-py27_0"
   ]
  },
  "test_regex.test_main":{
@@ -27227,6 +27523,7 @@
    "regex-2017.06.20-py36_0",
    "regex-2017.07.28-py36h14c3975_1",
    "regex-2017.07.28-py36h1de35cc_1",
+   "regex-2017.12.05-py27_0",
    "regex-2018.07.11-py36h470a237_0"
   ]
  },
@@ -35589,13 +35886,15 @@
  "tests.test_crawler":{
   "__set__":true,
   "elements":[
-   "thredds_crawler-1.4.0-py27_0"
+   "thredds_crawler-1.4.0-py27_0",
+   "thredds_crawler-1.5.0-py34_0"
   ]
  },
  "tests.test_crawler.CrawlerTest":{
   "__set__":true,
   "elements":[
-   "thredds_crawler-1.4.0-py27_0"
+   "thredds_crawler-1.4.0-py27_0",
+   "thredds_crawler-1.5.0-py34_0"
   ]
  },
  "tests.test_cursor":{

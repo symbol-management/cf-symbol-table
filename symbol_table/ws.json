@@ -1223,6 +1223,12 @@
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
+ "wsproto.ConnectionType":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
  "wsproto.Event":{
   "__set__":true,
   "elements":[
@@ -1232,6 +1238,7 @@
  "wsproto.H11Handshake":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
@@ -1244,108 +1251,150 @@
  "wsproto.WSConnection":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.__all__":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.__version__":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
+  ]
+ },
+ "wsproto.compat":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.compat.PY2":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.compat.PY3":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.compat.unicode":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
   ]
  },
  "wsproto.connection":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.connection.CLIENT":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.connection.Connection":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.connection.SERVER":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.AcceptConnection":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.BytesMessage":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.CloseConnection":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.Event":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.Message":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.Ping":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.Pong":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.RejectConnection":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.RejectData":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.events.Request":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
@@ -1358,234 +1407,285 @@
  "wsproto.events.TextMessage":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.extensions":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.extensions.Extension":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.extensions.PerMessageDeflate":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.extensions.SUPPORTED_EXTENSIONS":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.Buffer":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.CloseReason":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.FIN_MASK":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.Frame":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
+  ]
+ },
+ "wsproto.frame_protocol.FrameDecoder":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.frame_protocol.FrameProtocol":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
   ]
  },
  "wsproto.frame_protocol.Header":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.LOCAL_ONLY_CLOSE_REASONS":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MASK_MASK":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MAX_CLOSE_REASON":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MAX_FRAME_PAYLOAD":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MAX_LIBRARY_CLOSE_REASON":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MAX_PAYLOAD_EIGHT_BYTE":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MAX_PAYLOAD_NORMAL":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MAX_PAYLOAD_TWO_BYTE":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MAX_PRIVATE_CLOSE_REASON":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MAX_PROTOCOL_CLOSE_REASON":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MIN_CLOSE_REASON":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MIN_LIBRARY_CLOSE_REASON":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MIN_PRIVATE_CLOSE_REASON":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MIN_PROTOCOL_CLOSE_REASON":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.MessageDecoder":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.NULL_MASK":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.OPCODE_MASK":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.Opcode":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.PAYLOAD_LENGTH_EIGHT_BYTE":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.PAYLOAD_LENGTH_TWO_BYTE":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.PAYLOAD_LEN_MASK":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.ParseFailed":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.RSV1_MASK":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.RSV2_MASK":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.RSV3_MASK":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.RsvBits":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.XorMaskerNull":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.frame_protocol.XorMaskerSimple":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
@@ -1598,24 +1698,28 @@
  "wsproto.frame_protocol._truncate_utf8":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.handshake":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.handshake.H11Handshake":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.handshake.WEBSOCKET_VERSION":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
@@ -1623,6 +1727,12 @@
   "__set__":true,
   "elements":[
    "wsproto-1.0.0-py39hf3d152e_0"
+  ]
+ },
+ "wsproto.handshake.handshake_extensions":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
   ]
  },
  "wsproto.handshake.server_extensions_handshake":{
@@ -1643,57 +1753,108 @@
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
+ "wsproto.utf8validator":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.utf8validator.UTF8VALIDATOR_DFA":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.utf8validator.UTF8VALIDATOR_DFA_S":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.utf8validator.UTF8_ACCEPT":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.utf8validator.UTF8_REJECT":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.utf8validator.Utf8Validator":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
+ "wsproto.utf8validator.__all__":{
+  "__set__":true,
+  "elements":[
+   "wsproto-0.13.0-py38_1"
+  ]
+ },
  "wsproto.utilities":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.utilities.ACCEPT_GUID":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.utilities.LocalProtocolError":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.utilities.ProtocolError":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.utilities.RemoteProtocolError":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.utilities.generate_accept_token":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.utilities.generate_nonce":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.utilities.normed_header_dict":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  },
  "wsproto.utilities.split_comma_header":{
   "__set__":true,
   "elements":[
+   "wsproto-0.13.0-py38_1",
    "wsproto-1.0.0-py39hf3d152e_0"
   ]
  }
