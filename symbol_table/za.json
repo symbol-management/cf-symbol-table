@@ -6669,6 +6669,7 @@
  "zarr.Array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -6718,6 +6719,7 @@
  "zarr.DirectoryStore":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -6753,6 +6755,7 @@
  "zarr.ProcessSynchronizer":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -6762,6 +6765,12 @@
   "elements":[
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.SynchronizedArray":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.TempStore":{
@@ -6774,6 +6783,7 @@
  "zarr.ThreadSynchronizer":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -6837,6 +6847,7 @@
  "zarr.array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -6844,6 +6855,7 @@
  "zarr.attrs":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -6851,6 +6863,7 @@
  "zarr.attrs.Attributes":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -6862,9 +6875,16 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.attrs.ReadOnlyError":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.attrs.text_type":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -6879,6 +6899,7 @@
  "zarr.blosc":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7054,6 +7075,7 @@
  "zarr.compat":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7061,6 +7083,7 @@
  "zarr.compat.PY2":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7068,6 +7091,7 @@
  "zarr.compat.binary_type":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7075,8 +7099,15 @@
  "zarr.compat.integer_types":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.compat.itervalues":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.compat.reduce":{
@@ -7089,13 +7120,81 @@
  "zarr.compat.text_type":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.compressors":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.BZ2Compressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.BloscCompressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.LZMACompressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.NoCompressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.ZlibCompressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.blosc":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.default_compression":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.get_compressor_cls":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.registry":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.compressors.text_type":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.core":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7103,6 +7202,7 @@
  "zarr.core.Array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7110,6 +7210,7 @@
  "zarr.core.Attributes":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7119,6 +7220,12 @@
   "elements":[
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.core.ReadOnlyError":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.core.array_meta_key":{
@@ -7142,11 +7249,23 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.core.decode_metadata":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.core.encode_array_metadata":{
   "__set__":true,
   "elements":[
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.core.encode_metadata":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.core.err_array_not_found":{
@@ -7166,6 +7285,7 @@
  "zarr.core.get_chunk_range":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7175,6 +7295,12 @@
   "elements":[
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.core.get_compressor_cls":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.core.getsize":{
@@ -7187,6 +7313,7 @@
  "zarr.core.human_readable_size":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7194,8 +7321,15 @@
  "zarr.core.is_total_slice":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.core.itervalues":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.core.listdir":{
@@ -7208,6 +7342,7 @@
  "zarr.core.normalize_array_selection":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7222,6 +7357,7 @@
  "zarr.core.normalize_resize_args":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7250,6 +7386,7 @@
  "zarr.create":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7257,6 +7394,7 @@
  "zarr.creation":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7264,6 +7402,7 @@
  "zarr.creation.Array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7271,8 +7410,15 @@
  "zarr.creation.DirectoryStore":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.creation.SynchronizedArray":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.creation._get_shape_chunks":{
@@ -7299,6 +7445,7 @@
  "zarr.creation._like_args":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7306,6 +7453,7 @@
  "zarr.creation.array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7334,6 +7482,7 @@
  "zarr.creation.create":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7348,6 +7497,7 @@
  "zarr.creation.empty":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7376,6 +7526,7 @@
  "zarr.creation.full":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7385,6 +7536,12 @@
   "elements":[
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.creation.init_store":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.creation.normalize_storage_path":{
@@ -7397,6 +7554,7 @@
  "zarr.creation.ones":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7404,6 +7562,7 @@
  "zarr.creation.open":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7425,6 +7584,7 @@
  "zarr.creation.zeros":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7432,6 +7592,7 @@
  "zarr.empty":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7439,6 +7600,7 @@
  "zarr.errors":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7446,6 +7608,7 @@
  "zarr.errors.MetadataError":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7462,6 +7625,12 @@
   "elements":[
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.errors.ReadOnlyError":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.errors.err_array_not_found":{
@@ -7523,6 +7692,7 @@
  "zarr.full":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7751,9 +7921,16 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.init_store":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.meta":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7768,6 +7945,7 @@
  "zarr.meta.MetadataError":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7775,6 +7953,7 @@
  "zarr.meta.PY2":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7789,6 +7968,7 @@
  "zarr.meta._decode_dtype_descr":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7810,6 +7990,7 @@
  "zarr.meta.decode_dtype":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7828,6 +8009,12 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.meta.decode_metadata":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.meta.encode_array_metadata":{
   "__set__":true,
   "elements":[
@@ -7838,6 +8025,7 @@
  "zarr.meta.encode_dtype":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7856,9 +8044,16 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.meta.encode_metadata":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.meta.text_type":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7929,6 +8124,7 @@
  "zarr.ncores":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7936,6 +8132,7 @@
  "zarr.ones":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7943,6 +8140,7 @@
  "zarr.open":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7957,6 +8155,7 @@
  "zarr.storage":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -7978,6 +8177,7 @@
  "zarr.storage.DirectoryStore":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8136,6 +8336,12 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.storage.encode_metadata":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.storage.ensure_bytes":{
   "__set__":true,
   "elements":[
@@ -8185,6 +8391,12 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.storage.get_compressor_cls":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.storage.getsize":{
   "__set__":true,
   "elements":[
@@ -8216,6 +8428,7 @@
  "zarr.storage.init_store":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8244,6 +8457,7 @@
  "zarr.storage.normalize_chunks":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8251,6 +8465,7 @@
  "zarr.storage.normalize_order":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8258,6 +8473,7 @@
  "zarr.storage.normalize_shape":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8279,20 +8495,47 @@
  "zarr.sync":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.sync.Array":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.sync.Attributes":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.sync.ProcessSynchronizer":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.sync.SynchronizedArray":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.sync.SynchronizedAttributes":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.sync.ThreadSynchronizer":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8300,6 +8543,7 @@
  "zarr.tests":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8307,6 +8551,7 @@
  "zarr.tests.test_attrs":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8314,6 +8559,7 @@
  "zarr.tests.test_attrs.Attributes":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8325,9 +8571,16 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_attrs.ReadOnlyError":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_attrs.TestAttributes":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8335,6 +8588,7 @@
  "zarr.tests.test_attrs.binary_type":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8342,6 +8596,7 @@
  "zarr.tests.test_attrs.text_type":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8472,9 +8727,70 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_compression":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.CompressorTests":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.TestBZ2Compressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.TestBloscCompressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.TestLZMACompressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.TestNoCompressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.TestZlibCompressor":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.blosc":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.get_compressor_cls":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_compression.test_get_compressor_cls":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_core":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8482,6 +8798,7 @@
  "zarr.tests.test_core.Array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8517,6 +8834,7 @@
  "zarr.tests.test_core.DirectoryStore":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8549,9 +8867,16 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_core.ReadOnlyError":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_core.TestArray":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8591,9 +8916,28 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_core.init_store":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_core.test_array_init":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_core.test_nbytes_stored":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_creation":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8601,6 +8945,7 @@
  "zarr.tests.test_creation.Array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8608,6 +8953,7 @@
  "zarr.tests.test_creation.DirectoryStore":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8633,9 +8979,16 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_creation.SynchronizedArray":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_creation.ThreadSynchronizer":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8650,6 +9003,7 @@
  "zarr.tests.test_creation.array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8657,6 +9011,7 @@
  "zarr.tests.test_creation.create":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8664,6 +9019,7 @@
  "zarr.tests.test_creation.empty":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8671,15 +9027,29 @@
  "zarr.tests.test_creation.full":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.tests.test_creation.init_store":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.tests.test_creation.ones":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.tests.test_creation.open":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.tests.test_creation.open_array":{
@@ -8706,6 +9076,7 @@
  "zarr.tests.test_creation.test_array":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8720,6 +9091,7 @@
  "zarr.tests.test_creation.test_create":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8727,6 +9099,7 @@
  "zarr.tests.test_creation.test_empty":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8734,6 +9107,7 @@
  "zarr.tests.test_creation.test_full":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8741,8 +9115,15 @@
  "zarr.tests.test_creation.test_ones":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.tests.test_creation.test_open":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.tests.test_creation.test_open_array":{
@@ -8762,6 +9143,7 @@
  "zarr.tests.test_creation.test_zeros":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -8769,6 +9151,7 @@
  "zarr.tests.test_creation.zeros":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9070,6 +9453,7 @@
  "zarr.tests.test_meta":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9091,6 +9475,7 @@
  "zarr.tests.test_meta.MetadataError":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9133,6 +9518,7 @@
  "zarr.tests.test_meta.decode_dtype":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9142,6 +9528,12 @@
   "elements":[
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.tests.test_meta.decode_metadata":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.tests.test_meta.encode_array_metadata":{
@@ -9154,8 +9546,15 @@
  "zarr.tests.test_meta.encode_dtype":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.tests.test_meta.test_decode":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.tests.test_meta.test_decode_array_missing_fields":{
@@ -9203,6 +9602,7 @@
  "zarr.tests.test_meta.test_encode_decode_dtype":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9217,6 +9617,7 @@
  "zarr.tests.test_storage":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9238,8 +9639,15 @@
  "zarr.tests.test_storage.DirectoryStore":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.tests.test_storage.MappingTests":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.tests.test_storage.PermissionError":{
@@ -9268,6 +9676,12 @@
   "elements":[
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.tests.test_storage.TestDirectoryMap":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.tests.test_storage.TestDirectoryStore":{
@@ -9347,6 +9761,12 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_storage.decode_metadata":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_storage.default_compressor":{
   "__set__":true,
   "elements":[
@@ -9396,6 +9816,12 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_storage.init_store":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_storage.meta_v1":{
   "__set__":true,
   "elements":[
@@ -9431,6 +9857,12 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_storage.test_init_store":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_storage.test_migrate_1to2":{
   "__set__":true,
   "elements":[
@@ -9441,6 +9873,7 @@
  "zarr.tests.test_storage.text_type":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9448,6 +9881,7 @@
  "zarr.tests.test_sync":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9504,13 +9938,27 @@
  "zarr.tests.test_sync.ProcessSynchronizer":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
+  ]
+ },
+ "zarr.tests.test_sync.SynchronizedArray":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_sync.SynchronizedAttributes":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
   ]
  },
  "zarr.tests.test_sync.TestArray":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9532,6 +9980,7 @@
  "zarr.tests.test_sync.TestAttributes":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9571,9 +10020,34 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_sync.TestProcessSynchronizedArray":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_sync.TestProcessSynchronizedAttributes":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_sync.TestThreadSynchronizedArray":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
+ "zarr.tests.test_sync.TestThreadSynchronizedAttributes":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_sync.ThreadSynchronizer":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9634,9 +10108,16 @@
    "zarr-2.1.4-py36_1"
   ]
  },
+ "zarr.tests.test_sync.init_store":{
+  "__set__":true,
+  "elements":[
+   "zarr-1.1.0-py34_1"
+  ]
+ },
  "zarr.tests.test_util":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9651,6 +10132,7 @@
  "zarr.tests.test_util.human_readable_size":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9658,6 +10140,7 @@
  "zarr.tests.test_util.is_total_slice":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9665,6 +10148,7 @@
  "zarr.tests.test_util.normalize_array_selection":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9672,6 +10156,7 @@
  "zarr.tests.test_util.normalize_axis_selection":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9679,6 +10164,7 @@
  "zarr.tests.test_util.normalize_chunks":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9686,6 +10172,7 @@
  "zarr.tests.test_util.normalize_order":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9693,6 +10180,7 @@
  "zarr.tests.test_util.normalize_resize_args":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9700,6 +10188,7 @@
  "zarr.tests.test_util.normalize_shape":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9714,6 +10203,7 @@
  "zarr.tests.test_util.test_human_readable_size":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9721,6 +10211,7 @@
  "zarr.tests.test_util.test_is_total_slice":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9728,6 +10219,7 @@
  "zarr.tests.test_util.test_normalize_array_selection":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9735,6 +10227,7 @@
  "zarr.tests.test_util.test_normalize_axis_selection":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9742,6 +10235,7 @@
  "zarr.tests.test_util.test_normalize_chunks":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9749,6 +10243,7 @@
  "zarr.tests.test_util.test_normalize_order":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9756,6 +10251,7 @@
  "zarr.tests.test_util.test_normalize_resize_args":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9763,6 +10259,7 @@
  "zarr.tests.test_util.test_normalize_shape":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9777,6 +10274,7 @@
  "zarr.util":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9826,6 +10324,7 @@
  "zarr.util.get_chunk_range":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9840,6 +10339,7 @@
  "zarr.util.human_readable_size":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9847,6 +10347,7 @@
  "zarr.util.integer_types":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9854,6 +10355,7 @@
  "zarr.util.is_total_slice":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9861,6 +10363,7 @@
  "zarr.util.normalize_array_selection":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9868,6 +10371,7 @@
  "zarr.util.normalize_axis_selection":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9875,6 +10379,7 @@
  "zarr.util.normalize_chunks":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9882,6 +10387,7 @@
  "zarr.util.normalize_order":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9889,6 +10395,7 @@
  "zarr.util.normalize_resize_args":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9896,6 +10403,7 @@
  "zarr.util.normalize_shape":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9917,6 +10425,7 @@
  "zarr.version":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9924,6 +10433,7 @@
  "zarr.version.version":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
@@ -9931,6 +10441,7 @@
  "zarr.zeros":{
   "__set__":true,
   "elements":[
+   "zarr-1.1.0-py34_1",
    "zarr-2.1.4-py36_0",
    "zarr-2.1.4-py36_1"
   ]
