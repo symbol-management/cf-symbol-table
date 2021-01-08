@@ -17020,21 +17020,24 @@
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_completion.DOC":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_completion.DOC_URI":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_completion.LOCATION":{
@@ -17042,6 +17045,12 @@
   "elements":[
    "python-language-server-0.22.0-py36_0",
    "python-language-server-0.25.0-py27_0"
+  ]
+ },
+ "test.plugins.test_completion.test_completion":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_completion.test_jedi_completion":{
@@ -17082,21 +17091,24 @@
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_definitions.DOC":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_definitions.DOC_URI":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_definitions.test_assignment":{
@@ -17117,7 +17129,50 @@
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_format":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_format.DOC":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_format.DOC_URI":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_format.GOOD_DOC":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_format.test_format":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_format.test_no_change":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_format.test_range_format":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_highlight":{
@@ -17166,28 +17221,86 @@
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_hover.DOC":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_hover.DOC_URI":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_hover.test_hover":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint.DOC":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint.DOC_SYNTAX_ERR":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint.DOC_URI":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint.test_mccabe":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint.test_pycodestyle":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint.test_pydocstyle":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint.test_pyflakes":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
+  ]
+ },
+ "test.plugins.test_lint.test_syntax_error_pyflakes":{
+  "__set__":true,
+  "elements":[
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_mccabe_lint":{
@@ -17428,63 +17541,72 @@
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_references.DOC1":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_references.DOC1_NAME":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_references.DOC2":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_references.DOC2_NAME":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_references.test_references":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_signature":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_signature.DOC":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_signature.DOC_URI":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_signature.MULTI_LINE_DOC":{
@@ -17510,42 +17632,48 @@
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_signature.test_signature":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_symbols":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_symbols.DOC":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_symbols.DOC_URI":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_symbols.test_symbols":{
   "__set__":true,
   "elements":[
    "python-language-server-0.22.0-py36_0",
-   "python-language-server-0.25.0-py27_0"
+   "python-language-server-0.25.0-py27_0",
+   "python-language-server-0.8.0-py35_0"
   ]
  },
  "test.plugins.test_yapf_format":{
@@ -32100,6 +32228,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -32108,6 +32237,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -32146,6 +32276,7 @@
    "quilt3-3.0.6-py37_1",
    "quilt3-3.1.5-py37_0",
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002",
    "tomlkit-0.5.11-py38_0",
@@ -32477,6 +32608,7 @@
   "elements":[
    "jupyter_server-1.1.1-py39hf3d152e_0",
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33167,6 +33299,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33175,6 +33308,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33183,6 +33317,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33191,6 +33326,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33199,6 +33335,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33207,6 +33344,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33215,6 +33353,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33223,6 +33362,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33231,6 +33371,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33239,6 +33380,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33247,6 +33389,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33255,6 +33398,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33262,6 +33406,7 @@
  "tests.external.axis1.e":{
   "__set__":true,
   "elements":[
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33270,6 +33415,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33278,6 +33424,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33285,6 +33432,7 @@
  "tests.external.axis1.f":{
   "__set__":true,
   "elements":[
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33293,6 +33441,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33301,6 +33450,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33309,6 +33459,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33317,6 +33468,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33325,6 +33477,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33333,6 +33486,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33341,6 +33495,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33349,6 +33504,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33357,6 +33513,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33365,6 +33522,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33373,6 +33531,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33381,6 +33540,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33389,6 +33549,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33397,6 +33558,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33405,6 +33567,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33413,6 +33576,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33421,6 +33585,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33429,6 +33594,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33437,6 +33603,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33445,6 +33612,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33453,6 +33621,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33461,6 +33630,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33469,6 +33639,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33477,6 +33648,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33484,6 +33656,7 @@
  "tests.external.axis2.e":{
   "__set__":true,
   "elements":[
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33492,6 +33665,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33500,6 +33674,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33508,6 +33683,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33516,6 +33692,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33524,6 +33701,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33532,6 +33710,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33540,6 +33719,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33548,6 +33728,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33556,6 +33737,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33564,6 +33746,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33572,6 +33755,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33580,6 +33764,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33588,6 +33773,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33596,6 +33782,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33604,6 +33791,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33612,6 +33800,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33620,6 +33809,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33627,6 +33817,7 @@
  "tests.external.jasper.e":{
   "__set__":true,
   "elements":[
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33635,6 +33826,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33642,6 +33834,7 @@
  "tests.external.jasper.f":{
   "__set__":true,
   "elements":[
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33650,6 +33843,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33658,6 +33852,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33666,6 +33861,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33674,6 +33870,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33682,6 +33879,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33690,6 +33888,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33698,6 +33897,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33706,6 +33906,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33714,6 +33915,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33722,6 +33924,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33729,6 +33932,7 @@
  "tests.external.public.e":{
   "__set__":true,
   "elements":[
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33737,6 +33941,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33745,6 +33950,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33752,6 +33958,7 @@
  "tests.external.public.f":{
   "__set__":true,
   "elements":[
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33760,6 +33967,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33768,6 +33976,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33776,6 +33985,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33784,6 +33994,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33792,6 +34003,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33800,6 +34012,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33808,6 +34021,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33816,6 +34030,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33824,6 +34039,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33832,6 +34048,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33840,6 +34057,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33848,6 +34066,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33856,6 +34075,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33864,6 +34084,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33872,6 +34093,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33880,6 +34102,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33888,6 +34111,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33896,6 +34120,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33904,6 +34129,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33912,6 +34138,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33920,6 +34147,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33928,6 +34156,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33936,6 +34165,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33944,6 +34174,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33952,6 +34183,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33960,6 +34192,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33968,6 +34201,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -33976,6 +34210,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -34826,6 +35061,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -34834,6 +35070,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -34842,6 +35079,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -34850,6 +35088,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -34858,6 +35097,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -38406,6 +38646,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40382,6 +40623,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40390,6 +40632,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40398,6 +40641,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40406,6 +40650,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40414,6 +40659,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40422,6 +40668,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40430,6 +40677,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40438,6 +40686,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40446,6 +40695,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40454,6 +40704,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40462,6 +40713,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -40470,6 +40722,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41018,6 +41271,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41026,6 +41280,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41034,6 +41289,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41042,6 +41298,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41050,6 +41307,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41058,6 +41316,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41066,6 +41325,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41074,6 +41334,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41082,6 +41343,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41090,6 +41352,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41098,6 +41361,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41106,6 +41370,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41114,6 +41379,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41122,6 +41388,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41130,6 +41397,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41138,6 +41406,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41146,6 +41415,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41154,6 +41424,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41313,6 +41584,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41321,6 +41593,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41329,6 +41602,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41337,6 +41611,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41850,6 +42125,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41858,6 +42134,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41866,6 +42143,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41874,6 +42152,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41882,6 +42161,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41890,6 +42170,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41898,6 +42179,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41906,6 +42188,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41988,6 +42271,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -41996,6 +42280,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -42004,6 +42289,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -42012,6 +42298,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -42020,6 +42307,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -42028,6 +42316,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -42036,6 +42325,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -42044,6 +42334,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -42986,6 +43277,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -42994,6 +43286,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43002,6 +43295,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43010,6 +43304,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43018,6 +43313,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43026,6 +43322,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43034,6 +43331,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43042,6 +43340,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43050,6 +43349,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43058,6 +43358,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43066,6 +43367,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43074,6 +43376,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43082,6 +43385,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43090,6 +43394,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43098,6 +43403,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43106,6 +43412,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43114,6 +43421,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43122,6 +43430,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43130,6 +43439,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -43138,6 +43448,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45455,6 +45766,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45463,6 +45775,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45471,6 +45784,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45479,6 +45793,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45487,6 +45802,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45495,6 +45811,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45503,6 +45820,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45511,6 +45829,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45519,6 +45838,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45527,6 +45847,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45535,6 +45856,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45543,6 +45865,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45551,6 +45874,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45559,6 +45883,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45567,6 +45892,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45575,6 +45901,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45583,6 +45910,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45591,6 +45919,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45599,6 +45928,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45607,6 +45937,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45615,6 +45946,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45623,6 +45955,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45631,6 +45964,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45639,6 +45973,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45647,6 +45982,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45655,6 +45991,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45663,6 +46000,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45671,6 +46009,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45679,6 +46018,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45687,6 +46027,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45695,6 +46036,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45703,6 +46045,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45711,6 +46054,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45719,6 +46063,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45727,6 +46072,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45735,6 +46081,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45743,6 +46090,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -45751,6 +46099,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46317,6 +46666,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46325,6 +46675,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46333,6 +46684,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46341,6 +46693,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46349,6 +46702,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46357,6 +46711,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46365,6 +46720,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46373,6 +46729,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46381,6 +46738,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46389,6 +46747,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46397,6 +46756,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46405,6 +46765,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46413,6 +46774,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46421,6 +46783,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46429,6 +46792,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46437,6 +46801,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46445,6 +46810,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46453,6 +46819,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46461,6 +46828,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46469,6 +46837,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46477,6 +46846,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46485,6 +46855,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46493,6 +46864,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46501,6 +46873,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46509,6 +46882,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46517,6 +46891,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46525,6 +46900,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46533,6 +46909,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46541,6 +46918,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46549,6 +46927,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46557,6 +46936,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46565,6 +46945,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46643,6 +47024,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46651,6 +47033,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -46659,6 +47042,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47059,6 +47443,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47067,6 +47452,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47075,6 +47461,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47083,6 +47470,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47091,6 +47479,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47099,6 +47488,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47107,6 +47497,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47115,6 +47506,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47123,6 +47515,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47131,6 +47524,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47139,6 +47533,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47147,6 +47542,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47155,6 +47551,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47163,6 +47560,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47171,6 +47569,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47179,6 +47578,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47187,6 +47587,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -47195,6 +47596,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -51704,6 +52106,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
@@ -51712,6 +52115,7 @@
   "__set__":true,
   "elements":[
    "suds-jurko-0.6-py27h8c360ce_1002",
+   "suds-jurko-0.6-py35_1",
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
