@@ -11627,9 +11627,16 @@
    "dagster-snowflake-0.9.9-pyh32f6830_1"
   ]
  },
+ "dagster_spark.SparkSolidDefinition":{
+  "__set__":true,
+  "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1"
+  ]
+ },
  "dagster_spark.SparkSolidError":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11637,6 +11644,7 @@
  "dagster_spark.__all__":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11644,6 +11652,7 @@
  "dagster_spark.__version__":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11651,6 +11660,7 @@
  "dagster_spark.configs":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11658,6 +11668,7 @@
  "dagster_spark.configs.define_spark_config":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11665,6 +11676,7 @@
  "dagster_spark.configs_spark":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11672,6 +11684,7 @@
  "dagster_spark.configs_spark.spark_config":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11679,6 +11692,7 @@
  "dagster_spark.construct_spark_shell_command":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11686,6 +11700,7 @@
  "dagster_spark.create_spark_solid":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11693,6 +11708,7 @@
  "dagster_spark.define_spark_config":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11700,6 +11716,7 @@
  "dagster_spark.resources":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11707,6 +11724,7 @@
  "dagster_spark.resources.SparkResource":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11714,6 +11732,7 @@
  "dagster_spark.resources.spark_resource":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11721,13 +11740,27 @@
  "dagster_spark.solids":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
+  ]
+ },
+ "dagster_spark.solids.SparkSolidDefinition":{
+  "__set__":true,
+  "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1"
+  ]
+ },
+ "dagster_spark.solids.create_spark_shell_cmd":{
+  "__set__":true,
+  "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1"
   ]
  },
  "dagster_spark.solids.create_spark_solid":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11735,6 +11768,7 @@
  "dagster_spark.spark_resource":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11742,6 +11776,7 @@
  "dagster_spark.types":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11749,6 +11784,7 @@
  "dagster_spark.types.SparkDeployMode":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11756,6 +11792,7 @@
  "dagster_spark.types.SparkDeployModeClient":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11763,6 +11800,7 @@
  "dagster_spark.types.SparkDeployModeCluster":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11770,6 +11808,7 @@
  "dagster_spark.types.SparkSolidError":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11777,6 +11816,7 @@
  "dagster_spark.utils":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11784,6 +11824,7 @@
  "dagster_spark.utils.construct_spark_shell_command":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11791,6 +11832,7 @@
  "dagster_spark.utils.flatten_dict":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11798,6 +11840,7 @@
  "dagster_spark.utils.format_for_cli":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11805,6 +11848,7 @@
  "dagster_spark.utils.parse_spark_config":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11812,6 +11856,7 @@
  "dagster_spark.version":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11832,6 +11877,7 @@
  "dagster_spark_tests.test_error":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11839,6 +11885,7 @@
  "dagster_spark_tests.test_error.CONFIG_FILE":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11853,6 +11900,7 @@
  "dagster_spark_tests.test_error.NO_SPARK_HOME_CONFIG_FILE":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11860,6 +11908,7 @@
  "dagster_spark_tests.test_error.test_jar_not_found":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11867,6 +11916,7 @@
  "dagster_spark_tests.test_error.test_no_spark_home":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11874,6 +11924,7 @@
  "dagster_spark_tests.test_solids":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11881,6 +11932,7 @@
  "dagster_spark_tests.test_solids.CONFIG":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11888,6 +11940,7 @@
  "dagster_spark_tests.test_solids.test_multiple_jobs":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11895,6 +11948,7 @@
  "dagster_spark_tests.test_utils":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11902,6 +11956,7 @@
  "dagster_spark_tests.test_utils.test_parse_spark_config":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11909,6 +11964,7 @@
  "dagster_spark_tests.test_version":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
@@ -11916,6 +11972,7 @@
  "dagster_spark_tests.test_version.test_version":{
   "__set__":true,
   "elements":[
+   "dagster-spark-0.7.13-pyh32f6830_1",
    "dagster-spark-0.8.1-pyh32f6830_1",
    "dagster-spark-0.9.18-pyhd8ed1ab_1"
   ]
