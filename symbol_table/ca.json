@@ -15278,6 +15278,7 @@
  "captcha._compat":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
@@ -15290,43 +15291,56 @@
  "captcha._compat.PY2":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha._compat.ProxyHandler":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha._compat.Request":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha._compat.build_opener":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha._compat.text_type":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha._compat.urlencode":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha._compat.urlopen":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
+  ]
+ },
+ "captcha._compat.want_bytes":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
   ]
  },
  "captcha.apps":{
@@ -15374,7 +15388,32 @@
  "captcha.client":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
+  ]
+ },
+ "captcha.client.API_SERVER":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
+ "captcha.client.API_SSL_SERVER":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
+ "captcha.client.DEFAULT_API_SERVER":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
+ "captcha.client.DEFAULT_API_SSL_SERVER":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
   ]
  },
  "captcha.client.DEFAULT_RECAPTCHA_DOMAIN":{
@@ -15383,39 +15422,75 @@
    "django-recaptcha-2.0.3-py_0"
   ]
  },
+ "captcha.client.DEFAULT_VERIFY_SERVER":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
+ "captcha.client.DEFAULT_WIDGET_TEMPLATE":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
+ "captcha.client.DEFAULT_WIDGET_TEMPLATE_AJAX":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
  "captcha.client.PY2":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha.client.ProxyHandler":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha.client.RECAPTCHA_SUPPORTED_LANUAGES":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha.client.RecaptchaResponse":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha.client.Request":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
+  ]
+ },
+ "captcha.client.VERIFY_SERVER":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
+ "captcha.client.WIDGET_TEMPLATE":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
   ]
  },
  "captcha.client.build_opener":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
@@ -15431,27 +15506,43 @@
    "django-recaptcha-2.0.3-py_0"
   ]
  },
+ "captcha.client.request":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
  "captcha.client.submit":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha.client.urlencode":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha.client.urlopen":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
+  ]
+ },
+ "captcha.client.want_bytes":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
   ]
  },
  "captcha.constants":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
@@ -15464,12 +15555,14 @@
  "captcha.constants.TEST_PRIVATE_KEY":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha.constants.TEST_PUBLIC_KEY":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
@@ -15494,6 +15587,7 @@
  "captcha.fields":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
@@ -15512,6 +15606,7 @@
  "captcha.fields.ReCaptchaField":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
@@ -15560,13 +15655,33 @@
  "captcha.models":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
  "captcha.tests":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
+  ]
+ },
+ "captcha.tests.TestCase":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
+ "captcha.tests.TestForm":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
+  ]
+ },
+ "captcha.tests.fields":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
   ]
  },
  "captcha.tests.settings":{
@@ -15722,6 +15837,7 @@
  "captcha.widgets":{
   "__set__":true,
   "elements":[
+   "django-recaptcha-1.4.0-py27_0",
    "django-recaptcha-2.0.3-py_0"
   ]
  },
@@ -15729,6 +15845,12 @@
   "__set__":true,
   "elements":[
    "django-recaptcha-2.0.3-py_0"
+  ]
+ },
+ "captcha.widgets.ReCaptcha":{
+  "__set__":true,
+  "elements":[
+   "django-recaptcha-1.4.0-py27_0"
   ]
  },
  "captcha.widgets.ReCaptchaBase":{

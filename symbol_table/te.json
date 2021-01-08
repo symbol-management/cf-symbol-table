@@ -31120,6 +31120,24 @@
    "clisops-0.3.1-py38h32f6830_0"
   ]
  },
+ "tests._testutils":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests._testutils.BaseTest":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests._testutils.run_until_complete":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
  "tests.aiotest":{
   "__set__":true,
   "elements":[
@@ -31722,6 +31740,24 @@
    "python-confluent-kafka-0.11.4-py36_0"
   ]
  },
+ "tests.base":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.base.AIOPyMySQLTestCase":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.base.BaseTest":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
  "tests.bibtex_parser_test":{
   "__set__":true,
   "elements":[
@@ -32093,6 +32129,7 @@
  "tests.conftest":{
   "__set__":true,
   "elements":[
+   "aiomysql-0.0.9-py35_0",
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py38h32f6830_0",
    "cloudpathlib-0.1.1-py36h9f0ad1d_0",
@@ -32148,6 +32185,12 @@
   "__set__":true,
   "elements":[
    "tomlkit-0.7.0-py36h79c6626_1"
+  ]
+ },
+ "tests.conftest.PY_35":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.conftest.S3_PREFIX":{
@@ -32215,6 +32258,12 @@
    "pyathena-1.5.0-py27_0"
   ]
  },
+ "tests.conftest._cursor_wrapper":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
  "tests.conftest._drop_database":{
   "__set__":true,
   "elements":[
@@ -32257,6 +32306,12 @@
   "__set__":true,
   "elements":[
    "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+  ]
+ },
+ "tests.conftest.connection_creator":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.conftest.create_task":{
@@ -32354,6 +32409,12 @@
    "trio_asyncio-0.8.0-py36_0"
   ]
  },
+ "tests.conftest.mysql_params":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
  "tests.conftest.ndq_series":{
   "__set__":true,
   "elements":[
@@ -32365,6 +32426,12 @@
   "__set__":true,
   "elements":[
    "grayskull-0.4.2-py_0"
+  ]
+ },
+ "tests.conftest.pool_creator":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.conftest.pr_ndseries":{
@@ -32391,11 +32458,18 @@
  "tests.conftest.pytest_generate_tests":{
   "__set__":true,
   "elements":[
+   "aiomysql-0.0.9-py35_0",
    "tomlkit-0.5.11-py38_0",
    "tomlkit-0.5.5-py37_0",
    "tomlkit-0.5.7-py36_0",
    "tomlkit-0.5.7-py37_0",
    "tomlkit-0.7.0-py36h79c6626_1"
+  ]
+ },
+ "tests.conftest.pytest_ignore_collect":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.conftest.pytest_plugins":{
@@ -32407,11 +32481,24 @@
    "suds-jurko-0.6-py36hc560c46_1002"
   ]
  },
+ "tests.conftest.pytest_pycollect_makeitem":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
  "tests.conftest.pytest_pyfunc_call":{
   "__set__":true,
   "elements":[
+   "aiomysql-0.0.9-py35_0",
    "trio_asyncio-0.11.0-py37hc8dfbb8_2",
    "trio_asyncio-0.8.0-py36_0"
+  ]
+ },
+ "tests.conftest.pytest_runtest_setup":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.conftest.pytest_sessionfinish":{
@@ -32489,6 +32576,12 @@
   "elements":[
    "quilt3-3.0.6-py37_1",
    "quilt3-3.1.5-py37_0"
+  ]
+ },
+ "tests.conftest.table_cleanup":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.conftest.tas_series":{
@@ -36152,6 +36245,120 @@
    "pybtex-0.23.0-py39hde42818_0"
   ]
  },
+ "tests.pep492":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_iter":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_iter.meta":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_iter.tbl":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_iter.test_async_cursor":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_iter.test_async_iter_over_sa_result":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.meta":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.tbl":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_connect_method":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_connection":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_create_engine":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_create_pool_deprecations":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_cursor":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_engine":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_pool":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_sa_connection":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_sa_transaction":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.pep492.test_async_with.test_transaction_context_manager":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
  "tests.perf_lists":{
   "__set__":true,
   "elements":[
@@ -38208,6 +38415,102 @@
   "elements":[
    "saws-0.4.3-py37_0",
    "saws-0.4.3-py38_1"
+  ]
+ },
+ "tests.sa":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_connection":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_connection.TestSAConnection":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_connection.meta":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_connection.tbl":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_distil":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_distil.DistillArgsTest":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_engine":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_engine.TestEngine":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_engine.meta":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_engine.tbl":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_transaction":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_transaction.TestTransaction":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_transaction.check_prepared_transactions":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_transaction.meta":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.sa.test_sa_transaction.tbl":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.services":{
@@ -40433,6 +40736,7 @@
  "tests.test_basic":{
   "__set__":true,
   "elements":[
+   "aiomysql-0.0.9-py35_0",
    "igl-0.1-py37h6dc7ae4_1",
    "igl-0.4.1-py36hd0167a9_0",
    "igl-2.2.1-py36h175514a_1"
@@ -40476,6 +40780,84 @@
    "igl-0.1-py37h6dc7ae4_1",
    "igl-0.4.1-py36hd0167a9_0",
    "igl-2.2.1-py36h175514a_1"
+  ]
+ },
+ "tests.test_basic.datatype_table":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.mysql_server_is":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_binary_data":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_datatypes":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_datetime_conversion":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_dict_escaping":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_get_transaction_status":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_integer":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_json":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_rollback":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_string":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_timedelta_conversion":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic.test_untyped_convertion_to_null_and_empty_string":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_block":{
@@ -40588,6 +40970,24 @@
    "tomlkit-0.5.7-py36_0",
    "tomlkit-0.5.7-py37_0",
    "tomlkit-0.7.0-py36h79c6626_1"
+  ]
+ },
+ "tests.test_bulk_inserts":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_bulk_inserts.test_bulk_insert":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_bulk_inserts.test_insert_on_duplicate_key_update":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_bytes_and_string_lists":{
@@ -41155,6 +41555,36 @@
    "jupyter_server-1.1.1-py39hf3d152e_0"
   ]
  },
+ "tests.test_connection":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_connection.AIOPyMySQLTestCase":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_connection.PY_341":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_connection.TestConnection":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_connection.run_until_complete":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
  "tests.test_conversion":{
   "__set__":true,
   "elements":[
@@ -41306,6 +41736,7 @@
  "tests.test_cursor":{
   "__set__":true,
   "elements":[
+   "aiomysql-0.0.9-py35_0",
    "pyathena-1.5.0-py27_0"
   ]
  },
@@ -41330,7 +41761,20 @@
  "tests.test_cursor.TestCursor":{
   "__set__":true,
   "elements":[
+   "aiomysql-0.0.9-py35_0",
    "pyathena-1.5.0-py27_0"
+  ]
+ },
+ "tests.test_cursor.base":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_cursor.run_until_complete":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_cursor.with_cursor":{
@@ -41482,6 +41926,30 @@
   "__set__":true,
   "elements":[
    "pyrobuf-0.9.0-py27hc56fc5f_0"
+  ]
+ },
+ "tests.test_dictcursor":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_dictcursor.TestDictCursor":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_dictcursor.base":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_dictcursor.run_until_complete":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_discrete":{
@@ -42743,7 +43211,32 @@
  "tests.test_issues":{
   "__set__":true,
   "elements":[
+   "aiomysql-0.0.9-py35_0",
    "moviepy-0.2.3.2-py27_0"
+  ]
+ },
+ "tests.test_issues.TestGitHubIssues":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_issues.TestNewIssues":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_issues.TestOldIssues":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_issues.base":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_issues.last_move":{
@@ -42756,6 +43249,12 @@
   "__set__":true,
   "elements":[
    "moviepy-0.2.3.2-py27_0"
+  ]
+ },
+ "tests.test_issues.run_until_complete":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_issues.test_download_media":{
@@ -43208,6 +43707,36 @@
   "__set__":true,
   "elements":[
    "pyrobuf-0.9.0-py27hc56fc5f_0"
+  ]
+ },
+ "tests.test_load_local":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_load_local.test_error_on_file_read":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_load_local.test_load_file":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_load_local.test_load_warnings":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_load_local.test_no_file":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_logger.TestLoggerMethods":{
@@ -44018,6 +44547,36 @@
    "pyrobuf-0.9.0-py27hc56fc5f_0"
   ]
  },
+ "tests.test_nextset":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_nextset.test_multi_cursorxx":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_nextset.test_nextset":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_nextset.test_ok_and_next":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_nextset.test_skip_nextset":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
  "tests.test_njobs":{
   "__set__":true,
   "elements":[
@@ -44422,6 +44981,150 @@
   "__set__":true,
   "elements":[
    "explainerdashboard-0.2.12.1-pyhd3deb0d_0"
+  ]
+ },
+ "tests.test_pool":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool._set_global_conn_timeout":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test__fill_free":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_acquire":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_bad_context_manager_usage":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_cancelled_connection":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_cannot_acquire_after_closing":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_clear":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_close_with_acquired_connections":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_concurrency":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_connect_from_acquire":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_context_manager":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_create_pool":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_default_event_loop":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_drop_connection_if_timedout":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_echo":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_initial_empty":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_invalid_minsize_and_maxsize":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_parallel_tasks":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_release":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_terminate_with_acquired_connections":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_true_parallel_tasks":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_wait_closed":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_pool.test_wait_closing_on_not_closed":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_pypi":{
@@ -45488,6 +46191,30 @@
   "__set__":true,
   "elements":[
    "pyathena-1.5.0-py27_0"
+  ]
+ },
+ "tests.test_sscursor":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_sscursor.TestSSCursor":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_sscursor.base":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_sscursor.run_until_complete":{
+  "__set__":true,
+  "elements":[
+   "aiomysql-0.0.9-py35_0"
   ]
  },
  "tests.test_statistics":{
