@@ -23392,34 +23392,99 @@
    "regex-2020.9.27-py37h8f50634_1"
   ]
  },
+ "regions.AnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.AsymmetricAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.AsymmetricAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.BoundingBox":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.CRTFParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.CRTFRegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.CircleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.CircleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.CirclePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.CircleSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.CompoundPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.CompoundSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.CoordinateParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.DS9Parser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.DS9RegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.DS9RegionParserError":{
@@ -23434,22 +23499,73 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.EllipseAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.EllipseAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.EllipsePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.EllipseSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.ExampleDataset":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.FITSRegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.FITSRegionParserError":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.FITSRegionParserWarning":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.FITSRegionRowParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.LinePixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.LineSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.Mask":{
@@ -23458,112 +23574,244 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.Meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.MetaRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.OneDPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.OneDSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.PixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.PointPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.PointSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.PolygonPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.PolygonSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.QuantityLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.RectangleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.RectangleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.RectanglePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.RectangleSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.Region":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.RegionAttr":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.RegionConversionError":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.RegionMask":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.RegionMeta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.RegionVisual":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.ScalarLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.ScalarPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.ScalarSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.Shape":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.SkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.TextPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.TextSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.VALID_MASK_MODES":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._DEFAULT_WCS_MODE":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._DEFAULT_WCS_ORIGIN":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.__githash__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.__version__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init.__githash__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init.__version__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init._get_test_runner":{
@@ -23575,43 +23823,50 @@
  "regions._astropy_init.config_dir":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init.config_template":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init.orig_error":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init.test":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._astropy_init.wmsg":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.rotate_polygon":{
@@ -23635,133 +23890,155 @@
  "regions._geometry.tests":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_circular_overlap_grid":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_circular_overlap_grid.arg_list":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_circular_overlap_grid.circ_sizes":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_circular_overlap_grid.grid_sizes":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_circular_overlap_grid.subsamples":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_circular_overlap_grid.test_circular_overlap_grid":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_elliptical_overlap_grid":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_elliptical_overlap_grid.angles":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_elliptical_overlap_grid.arg_list":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_elliptical_overlap_grid.grid_sizes":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_elliptical_overlap_grid.maj_sizes":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_elliptical_overlap_grid.min_sizes":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_elliptical_overlap_grid.subsamples":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_elliptical_overlap_grid.test_elliptical_overlap_grid":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_rectangular_overlap_grid":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_rectangular_overlap_grid.angles":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_rectangular_overlap_grid.arg_list":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_rectangular_overlap_grid.grid_sizes":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_rectangular_overlap_grid.rect_sizes":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_rectangular_overlap_grid.subsamples":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._geometry.tests.test_rectangular_overlap_grid.test_rectangular_overlap_grid":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._get_test_runner":{
@@ -23773,163 +24050,196 @@
  "regions._table_to_bintable":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions._to_io_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.assert_angle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.examples":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.examples.ExampleDataset":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.examples.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.examples._table_to_bintable":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.examples.dataset":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.examples.make_example_dataset":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.skycoord_to_pixel_mode":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.skycoord_to_pixel_scale_angle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.tests":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.tests.test_examples":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.tests.test_examples.TestExampleSimulatedDataset":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.wcs_helpers":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.wcs_helpers.assert_angle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.wcs_helpers.skycoord_to_pixel_mode":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions._utils.wcs_helpers.skycoord_to_pixel_scale_angle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.angle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.config_dir":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.config_template":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.conftest":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.conftest.PYTEST_HEADER_MODULES":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.conftest.TESTED_VERSIONS":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.conftest.packagename":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.conftest.version":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.coordinate":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.coordinate_systems":{
@@ -23944,6 +24254,12 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.coordsys_mapping":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.coordsys_name_mapping":{
   "__set__":true,
   "elements":[
@@ -23953,25 +24269,29 @@
  "regions.core":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.BoundingBox":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.CompoundPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.CompoundSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.Mask":{
@@ -23980,148 +24300,322 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.core.Meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.MetaRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.OneDPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.OneDSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.core.PixCoord":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.PixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.QuantityLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.Region":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.RegionAttr":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.RegionMask":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.ScalarLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.ScalarPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.ScalarSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.SkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.VALID_MASK_MODES":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core._DEFAULT_WCS_MODE":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core._DEFAULT_WCS_ORIGIN":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.CompoundRegionPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.CompoundRegionSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.Meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.OneDPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.OneDSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.QuantityLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.RegionAttr":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.RegionMeta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.RegionVisual":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.ScalarLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.ScalarPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.ScalarSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.attributes.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.bounding_box":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.bounding_box.BoundingBox":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.bounding_box.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.compound":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.compound.CompoundPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.compound.CompoundSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.compound.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.core":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.core.MetaRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.core.PixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.core.Region":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.core.SkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.core.VALID_MASK_MODES":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.core._DEFAULT_WCS_MODE":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.core._DEFAULT_WCS_ORIGIN":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.core.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.mask":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.mask.Mask":{
@@ -24130,46 +24624,65 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.core.mask.RegionMask":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.core.mask.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.pixcoord":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.pixcoord.PixCoord":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.pixcoord.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.HAS_MATPLOTLIB":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_bounding_box.test_bounding_box_as_artist":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.test_bounding_box_as_patch":{
@@ -24181,55 +24694,82 @@
  "regions.core.tests.test_bounding_box.test_bounding_box_eq":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.test_bounding_box_extent":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.test_bounding_box_from_float":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.test_bounding_box_init":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.test_bounding_box_inputs":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_bounding_box.test_bounding_box_intersect":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.test_bounding_box_repr":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.test_bounding_box_shape":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_bounding_box.test_bounding_box_slices":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_bounding_box.test_bounding_box_union":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_compound":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_compound.TestCompoundPixel":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_compound.test_compound":{
@@ -24238,10 +24778,77 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.core.tests.test_compound.test_compound_sky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.HAS_MATPLOTLIB":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.POSITIONS":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.test_mask_array":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.test_mask_cutout_copy":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.test_mask_cutout_no_overlap":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.test_mask_cutout_partial_overlap":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.test_mask_cutout_shape":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.test_mask_input_shapes":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_mask.test_mask_nan_in_bbox":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.core.tests.test_pixcoord":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.HAS_SHAPELY":{
@@ -24250,40 +24857,82 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.core.tests.test_pixcoord.test_equality":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_pixcoord.test_pixcoord_basic_dimension":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.core.tests.test_pixcoord.test_pixcoord_basics_array_1d":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.test_pixcoord_basics_array_2d":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.test_pixcoord_basics_scalar":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_pixcoord.test_pixcoord_copy_array":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_pixcoord.test_pixcoord_copy_scalar":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_pixcoord.test_pixcoord_rotate_array":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_pixcoord.test_pixcoord_rotate_scalar":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.test_pixcoord_separation_array_1d":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.test_pixcoord_separation_array_2d":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.test_pixcoord_separation_scalar":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.test_pixcoord_shapely_array":{
@@ -24301,49 +24950,69 @@
  "regions.core.tests.test_pixcoord.test_pixcoord_to_sky_array_1d":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.test_pixcoord_to_sky_array_2d":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.test_pixcoord_to_sky_scalar":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.core.tests.test_pixcoord.test_pixcoord_xy":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.core.tests.test_pixcoord.wcs":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.crtf_objects_to_string":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.cython_version":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.cython_version.cython_version":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.dataset":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.ds9_objects_to_string":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.ds9_region_list_to_objects":{
@@ -24364,6 +25033,12 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.fits_region_objects_to_table":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.global_parser":{
   "__set__":true,
   "elements":[
@@ -24373,7 +25048,8 @@
  "regions.height":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.hour_or_deg":{
@@ -24385,7 +25061,38 @@
  "regions.io":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.CRTFParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.CRTFRegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.CoordinateParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.DS9Parser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.DS9RegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.DS9RegionParserError":{
@@ -24400,22 +25107,67 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.io.FITSRegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.FITSRegionParserError":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.FITSRegionParserWarning":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.FITSRegionRowParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.RegionConversionError":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.Shape":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.io.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io._to_io_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.angle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.coordinate":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.coordinate_systems":{
@@ -24430,16 +25182,599 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.io.coordsys_mapping":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.io.coordsys_name_mapping":{
   "__set__":true,
   "elements":[
    "regions-0.2-py35_0"
   ]
  },
+ "regions.io.core":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.RegionConversionError":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.Shape":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core._to_io_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.coordsys_mapping":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.reg_mapping":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.regions_attributes":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.to_crtf_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.to_ds9_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.to_shape_list":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.core.valid_coordsys":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.core":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.core.CRTFRegionParserError":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.core.CRTFRegionParserWarning":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.core.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.core.valid_symbols":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.CRTFParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.CRTFRegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.CoordinateParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.read_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.regex_begin":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.regex_comment":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.regex_coordinate":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.regex_global":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.regex_length":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.regex_line":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.regex_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.read.regex_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.setup_package":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.setup_package.get_package_data":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language._ASTROPY_MINVERSION":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language._ASTROPY_VERSION":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language.implemented_region_types":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language.test_file_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language.test_global_parser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language.test_valid_crtf_line":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language.test_valid_global_meta_key":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language.test_valid_meta_key":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language.test_valid_region_syntax":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.tests.test_crtf_language.test_valid_region_type":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.write":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.write.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.write.crtf_objects_to_string":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf.write.write_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.crtf_objects_to_string":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.core":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.core.DS9RegionParserError":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.core.DS9RegionParserWarning":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.core.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.core.valid_symbols_ds9":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.CoordinateParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.DS9Parser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.DS9RegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.angle":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.coordinate":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.height":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.radius":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.read_ds9":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.regex_global":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.regex_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.regex_paren":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.regex_splitter":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.read.width":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.setup_package":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.setup_package.get_package_data":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language._ASTROPY_MINVERSION":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language._ASTROPY_VERSION":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.implemented_region_types":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_ds9_color":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_ds9_io":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_ds9_objects_to_str":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_ds9_string_to_objects":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_expicit_formatting_directives":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_file":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_global_parser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_issue134_regression":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_issue65_regression":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_missing_region_warns":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_pixel_angle":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_read":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.tests.test_ds9_language.test_text_metadata":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.write":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.write.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.write.ds9_objects_to_string":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.ds9.write.write_ds9":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.io.ds9_objects_to_string":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.ds9_region_list_to_objects":{
@@ -24460,6 +25795,156 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.io.fits":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.core":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.core.FITSRegionParserError":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.core.FITSRegionParserWarning":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.core.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.core.language_spec":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.read":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.read.FITSRegionParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.read.FITSRegionRowParser":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.read.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.read.read_fits_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.setup_package":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.setup_package.get_package_data":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.tests":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.tests.test_fits_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.tests.test_fits_region.implemented_region_types":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.tests.test_fits_region.test_file_fits":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.tests.test_fits_region.test_only_pixel_regions":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.tests.test_fits_region.test_valid_columns":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.tests.test_fits_region.test_valid_row":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.write":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.write.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.write.fits_region_objects_to_table":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits.write.write_fits_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.fits_region_objects_to_table":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.io.global_parser":{
   "__set__":true,
   "elements":[
@@ -24469,7 +25954,8 @@
  "regions.io.height":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.hour_or_deg":{
@@ -24481,7 +25967,8 @@
  "regions.io.language_spec":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.letter":{
@@ -24529,13 +26016,21 @@
  "regions.io.radius":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.read_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.read_ds9":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.read_ds9.DS9RegionParserError":{
@@ -24712,10 +26207,88 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.io.read_fits_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.reg_mapping":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_begin":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_comment":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_coordinate":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_global":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_length":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_line":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_paren":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.regex_splitter":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.io.region_type_or_coordsys_re":{
   "__set__":true,
   "elements":[
    "regions-0.2-py35_0"
+  ]
+ },
+ "regions.io.regions_attributes":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.setup_package":{
@@ -24739,7 +26312,8 @@
  "regions.io.tests":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.tests.test_ds9_language":{
@@ -24820,6 +26394,60 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.io.tests.test_shape_object":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.tests.test_shape_object.test_shape_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.tests.test_shape_object.test_shape_ds9":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.tests.test_shape_object.test_valid_ellipse_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.tests.test_shape_object.test_valid_ellipse_ds9":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.tests.test_shape_object.test_valid_shape":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.to_crtf_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.to_ds9_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.to_shape_list":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.io.type_parser":{
   "__set__":true,
   "elements":[
@@ -24832,16 +26460,30 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.io.valid_coordsys":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.io.width":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.io.write_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.write_ds9":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.io.write_ds9.__all__":{
@@ -24868,10 +26510,17 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.io.write_fits_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.language_spec":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.letter":{
@@ -24889,7 +26538,8 @@
  "regions.make_example_dataset":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.meta_parser":{
@@ -24907,7 +26557,8 @@
  "regions.orig_error":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.paren":{
@@ -24931,13 +26582,93 @@
  "regions.radius":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.read_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.read_ds9":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.read_fits_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.reg_mapping":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_begin":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_comment":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_coordinate":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_global":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_length":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_line":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_paren":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.regex_splitter":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.region_type_or_coordsys_re":{
@@ -24946,244 +26677,656 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.regions_attributes":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.shapes":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.AnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.AsymmetricAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.AsymmetricAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.CircleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.CircleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.CirclePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.CircleSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.CompoundPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.EllipseAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.EllipseAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.EllipsePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.EllipseSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.LinePixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.LineSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.PointPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.PointSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.PolygonPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.PolygonSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.RectangleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.RectangleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.RectanglePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.RectangleSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.TextPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.TextSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.AnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.AsymmetricAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.AsymmetricAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.CircleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.CircleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.CompoundPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.EllipseAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.EllipseAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.QuantityLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.RectangleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.RectangleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.RegionMeta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.RegionVisual":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.ScalarLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.ScalarPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.ScalarSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.annulus.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.circle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.circle.CirclePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.circle.CircleSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.circle.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.ellipse":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.ellipse.EllipsePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.ellipse.EllipseSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.ellipse.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.line":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.line.LinePixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.line.LineSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.line.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.point":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.point.PointPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.point.PointSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.point.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.polygon":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.polygon.PolygonPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.polygon.PolygonSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.polygon.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.rectangle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.rectangle.RectanglePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.rectangle.RectangleSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.rectangle.__all__":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.setup_package":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.setup_package.get_package_data":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.setup_package":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.setup_package.get_package_data":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.AnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.AsymmetricAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.AsymmetricAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.CircleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.CircleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.CompoundPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.EllipseAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.EllipseAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.QuantityLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.RectangleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.RectangleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.RegionMeta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.RegionVisual":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.ScalarLength":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.ScalarPix":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.ScalarSky":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.TestCircleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.TestCircleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.TestEllipseAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.TestEllipseAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.TestRectangleAnnulusPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.TestRectangleAnnulusSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_annulus.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.COMMON_WCS":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.MASK_MODES":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.PIXEL_REGIONS":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.SKYPIX_MODES":{
@@ -25195,31 +27338,48 @@
  "regions.shapes.tests.test_api.SKY_REGIONS":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.ids_func":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_api.test_attribute_validation_pixel_regions":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_api.test_attribute_validation_sky_regions":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.test_pix_area":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.test_pix_in":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.test_pix_to_mask":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.test_pix_to_shapely":{
@@ -25231,7 +27391,8 @@
  "regions.shapes.tests.test_api.test_pix_to_sky":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.test_sky_area":{
@@ -25243,139 +27404,234 @@
  "regions.shapes.tests.test_api.test_sky_in":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_api.test_sky_to_pix":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_circle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_circle.TestCirclePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_circle.TestCircleSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_common":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_common.BaseTestPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_common.BaseTestRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_common.BaseTestSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_ellipse":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_ellipse.TestEllipsePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_ellipse.TestEllipseSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_line":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_line.TestLinePixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_line.TestLineSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_masks":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_masks.MODES":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_masks.REGIONS":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_masks.label":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_masks.test_to_mask":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_point":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_point.TestPointPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_point.TestPointSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_polygon":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_polygon.TestPolygonPixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_polygon.TestPolygonSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_rectangle":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_rectangle.TestRectanglePixelRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.test_rectangle.TestRectangleSkyRegion":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_rectangle.test_corners":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_rectangle.test_rectangular_pixel_region_bbox":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_text":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_text.TestTextPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.tests.test_text.TestTextSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.utils":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.utils.ASTROPY_LT_13":{
@@ -25387,13 +27643,38 @@
  "regions.shapes.tests.utils.HAS_MATPLOTLIB":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.shapes.tests.utils.HAS_SHAPELY":{
   "__set__":true,
   "elements":[
    "regions-0.2-py35_0"
+  ]
+ },
+ "regions.shapes.text":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.text.TextPixelRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.text.TextSkyRegion":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.shapes.text.__all__":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.strip_paren":{
@@ -25405,25 +27686,59 @@
  "regions.test":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.tests":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.tests.helpers":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.tests.helpers.make_simple_wcs":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.tests.setup_package":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.tests.setup_package.get_package_data":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.to_crtf_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.to_ds9_meta":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.to_shape_list":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.type_parser":{
@@ -25438,130 +27753,175 @@
    "regions-0.2-py35_0"
   ]
  },
+ "regions.valid_coordsys":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
  "regions.version":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version._decode_stdio":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version._get_repo_path":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version._last_generated_version":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version._last_githash":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version._packagename":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.version.astropy_helpers_version":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.bugfix":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.compiler":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.cython_version":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.debug":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.get_git_devstr":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.githash":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.major":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.minor":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.release":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.timestamp":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.update_git_devstr":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.version.version":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.width":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.wmsg":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.write_crtf":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regions.write_ds9":{
   "__set__":true,
   "elements":[
-   "regions-0.2-py35_0"
+   "regions-0.2-py35_0",
+   "regions-0.4-py37hda49f71_1"
+  ]
+ },
+ "regions.write_fits_region":{
+  "__set__":true,
+  "elements":[
+   "regions-0.4-py37hda49f71_1"
   ]
  },
  "regrid2.BicubicRegridder":{
@@ -56621,6 +58981,7 @@
  "rever.__main__":{
   "__set__":true,
   "elements":[
+   "rever-0.2.9-py37_1000",
    "rever-0.3.1-py36_0",
    "rever-0.3.6-py36_0"
   ]
@@ -56628,6 +58989,7 @@
  "rever.__version__":{
   "__set__":true,
   "elements":[
+   "rever-0.2.9-py37_1000",
    "rever-0.3.1-py36_0",
    "rever-0.3.6-py36_0"
   ]
@@ -56635,6 +58997,7 @@
  "rever.activities":{
   "__set__":true,
   "elements":[
+   "rever-0.2.9-py37_1000",
    "rever-0.3.1-py36_0",
    "rever-0.3.6-py36_0"
   ]
@@ -56642,6 +59005,7 @@
  "rever.dag":{
   "__set__":true,
   "elements":[
+   "rever-0.2.9-py37_1000",
    "rever-0.3.1-py36_0",
    "rever-0.3.6-py36_0"
   ]
@@ -56649,6 +59013,7 @@
  "rever.dag.find_path":{
   "__set__":true,
   "elements":[
+   "rever-0.2.9-py37_1000",
    "rever-0.3.1-py36_0",
    "rever-0.3.6-py36_0"
   ]
