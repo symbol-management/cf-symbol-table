@@ -7290,39 +7290,86 @@
    "pomegranate-0.13.3-py37h8c56517_1"
   ]
  },
+ "pooch.Decompress":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.FTPDownloader":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.HTTPDownloader":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
  "pooch.Pooch":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.Untar":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.Unzip":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch._version":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch._version.get_versions":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch._version.version_json":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.check_version":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.core":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.core.KNOWN_DOWNLOADERS":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.core.PermissionError":{
@@ -7336,70 +7383,146 @@
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.core.create":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.create":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.downloaders":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.downloaders.FTPDownloader":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.downloaders.HTTPDownloader":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.downloaders.tqdm":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.file_hash":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.get_logger":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.make_registry":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.os_cache":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.processors":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.processors.Decompress":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.processors.ExtractorProcessor":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.processors.Untar":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.processors.Unzip":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.test":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.BASEURL":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.DATA_DIR":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_core.ON_TRAVIS":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.PermissionError":{
@@ -7413,208 +7536,352 @@
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.REGISTRY_CORRUPTED":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_check_availability":{
   "__set__":true,
   "elements":[
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_create_makedirs_permissionerror":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_create_newfile_permissionerror":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_core.test_downloader":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_core.test_ftp_downloader":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_pooch_corrupted":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_pooch_custom_url":{
   "__set__":true,
   "elements":[
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_core.test_pooch_download":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_pooch_file_not_in_registry":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_pooch_load_registry":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_pooch_local":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_core.test_pooch_logging_level":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_core.test_pooch_update":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_core.test_unsupported_protocol":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_core.tqdm":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_integration":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_integration.test_fetch":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_processors":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_processors.BASEURL":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_processors.REGISTRY":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_processors.test_decompress":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_processors.test_extractprocessor_fails":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_processors.test_processor_multiplefiles":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_processors.test_processors":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_utils":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_utils.DATA_DIR":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_utils.REGISTRY":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_utils.REGISTRY_RECURSIVE":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.test_utils.test_parse_url":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.test_utils.test_registry_builder":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.utils":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.utils.capture_log":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.tests.utils.check_large_data":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.utils.check_tiny_data":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.utils.pooch_test_registry":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.tests.utils.pooch_test_url":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.utils":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.utils.LOGGER":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.utils.check_version":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.utils.file_hash":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.utils.get_logger":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.utils.make_registry":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.utils.os_cache":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
+  ]
+ },
+ "pooch.utils.parse_url":{
+  "__set__":true,
+  "elements":[
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.version":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.version.full_version":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "pooch.version.git_revision":{
   "__set__":true,
   "elements":[
    "pooch-0.1.1-py36_0",
-   "pooch-0.3.0-py36_0"
+   "pooch-0.3.0-py36_0",
+   "pooch-1.0.0-py_0"
   ]
  },
  "porespy.__version__":{
