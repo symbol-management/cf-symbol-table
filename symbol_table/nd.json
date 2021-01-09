@@ -490,16 +490,30 @@
    "ndarray-listener-1.1.2-py35_0"
   ]
  },
+ "ndcube.NDCollection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
  "ndcube.NDCube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.UnsupportedPythonError":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.__githash__":{
@@ -508,22 +522,31 @@
    "ndcube-1.0.1-py35_0"
   ]
  },
+ "ndcube.__minimum_python_version__":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
  "ndcube.__version__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube._sunpy_init":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube._sunpy_init.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube._sunpy_init.__githash__":{
@@ -535,7 +558,8 @@
  "ndcube._sunpy_init.__version__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube._sunpy_init.config_dir":{
@@ -583,127 +607,346 @@
  "ndcube.mixins":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.NDCubePlotMixin":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.NDCubeSlicingMixin":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.ndslicing":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.ndslicing.NDCubeSlicingMixin":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.ndslicing.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.ndslicing.utils":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.plotting":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.plotting.INVALID_UNIT_SET_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.plotting.NDCubePlotMixin":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.mixins.plotting.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.plotting._get_extra_coord_edges":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.plotting._raise_101_API_deprecation_warning":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.plotting._raise_API_error":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.plotting._support_101_plot_API":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.plotting.sequence_plotting":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.plotting.utils":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.AXES_UNIT_ERRONESLY_SET_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.ImageAnimatorCubeLikeNDCubeSequence":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.ImageAnimatorNDCubeSequence":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.LineAnimatorCubeLikeNDCubeSequence":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.LineAnimatorNDCubeSequence":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.NDCubeSequencePlotMixin":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.NON_COMPATIBLE_UNIT_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.__all__":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting._derive_1D_coordinates_and_units":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting._determine_sequence_units":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting._get_extra_coord_edges":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting._get_non_common_axis_x_axis_coords":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting._make_1D_sequence_plot":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting._prep_axes_kwargs":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.mixins.sequence_plotting.utils":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcollection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcollection.NDCollection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcollection.NDCube":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcollection.__all__":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcollection.collection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcollection.convert_extra_coords_dict_to_input_format":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube.NDCube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube.NDCubePlotMixin":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcube.NDCubeSequence":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube.NDCubeSlicingMixin":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcube._get_dimension_for_pixel":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcube._pixel_centers_or_edges":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube.utils":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube.wcs_ivoa_mapping":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube_sequence":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube_sequence.NDCubeSequence":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.ndcube_sequence.NDCubeSequencePlotMixin":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube_sequence._IndexAsCubeSlicer":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube_sequence.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.ndcube_sequence.animation":{
@@ -715,7 +958,8 @@
  "ndcube.ndcube_sequence.utils":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.orig_error":{
@@ -733,55 +977,76 @@
  "ndcube.tests":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.helpers":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.helpers.NDCube":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.helpers.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.helpers.assert_collections_equal":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.helpers.assert_cubes_equal":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.helpers.assert_cubesequences_equal":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.helpers.assert_extra_coords_equal":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.helpers.assert_metas_equal":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.helpers.assert_wcs_are_equal":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.helpers.utils":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.setup_package":{
@@ -796,472 +1061,754 @@
    "ndcube-1.0.1-py35_0"
   ]
  },
+ "ndcube.tests.test_ndcollection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.NDCollection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.NDCube":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.aligned_axes":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.cube0":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.cube1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.cube2":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.cube_collection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.data0":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.data1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.data2":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.helpers":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.input_wcs":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.input_wcs1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.keys":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.seq_collection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.sequence02":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.sequence20":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.test_aligned_dimensions":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.test_collection_copy":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.test_collection_pop":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.test_collection_slicing":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.test_collection_update_collecton_input":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.test_collection_update_key_data_pair_input":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.test_del_collection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.test_slice_cube_from_collection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.wcs_input_dict":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcollection.wcs_input_dict1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
  "ndcube.tests.test_ndcube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.NDCube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcube.NDCubeSequence":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.WCS":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube._wcs_slicer":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.cube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.cube_disordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.cube_disordered_inputs":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.cube_ordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcube.cube_rotated":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.cubem":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.cubet":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.data":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.data_disordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.data_ordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcube.data_rotated":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.h_disordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.h_ordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcube.h_rotated":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.helpers":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.hm":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.ht":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.mask_cube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.mask_cubem":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.mask_disordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.mask_ordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_all_world_coords_with_input":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_axis_world_coords_without_input":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_crop_by_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_crop_by_extra_coord":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcube.test_explode_along_axis":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_ndcubeordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_pixel_to_world":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_slicing_error":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_slicing_first_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_slicing_second_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_slicing_third_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.test_world_to_pixel":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.uncertainty":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.uncertainty_disordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.uncertainty_ordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.uncertaintym":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.w_disordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.w_ordered":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcube.w_rotated":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.wm":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcube.wt":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.NDCube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.WCS":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube1":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube1_no_extra_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube1_time_common":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube2":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube2_no_no":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube2_time_common":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube3":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube3_diff_compatible_unit":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube3_diff_incompatible_unit":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube3_no_extra_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube3_no_time":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.cube4":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.data":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.data2":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.hm":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.ht":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.nan_extra_coord":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.nan_time_extra_coord":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.seq":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.seq1":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.seq2":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.seq3":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.seq4":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.seq_bad_common_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.seq_no_extra_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.seq_time_common":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_common_axis_extra_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_cube_like_dimensions":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_dimensions":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_explode_along_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_index_as_cube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_no_common_axis_extra_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_no_sequence_axis_extra_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_sequence_axis_extra_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.test_slice_first_index_sequence":{
@@ -1270,46 +1817,707 @@
    "ndcube-1.0.1-py35_0"
   ]
  },
+ "ndcube.tests.test_ndcubesequence.test_slice_first_index_sequence_dimensions":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_ndcubesequence.test_slice_first_index_sequence_type":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
  "ndcube.tests.test_ndcubesequence.wm":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_ndcubesequence.wt":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.NDCube":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.WCS":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_data":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_no_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_none_axis_ranges_axis2":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_none_axis_ranges_axis2_array":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_none_axis_ranges_axis2_bye":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_none_axis_ranges_axis2_s":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_spatial":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_unit":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cube_unit_no_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.cubem":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.data":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.hm":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.ht":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.mask_cube":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.plotting":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.spatial":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.test_cube_plot_1D":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.test_cube_plot_2D":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.test_cube_plot_ND_as_1DAnimation":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.test_cube_plot_ND_as_2DAnimation":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.test_support_101_plot_API":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.wm":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_plotting.wt":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.NDCube":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.WCS":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting._get_extra_coord_edges":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting._test_axis_ranges":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.common_axis":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube1_with_mask":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube1_with_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube1_with_unit":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube1_with_unit_and_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube3":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube3_with_mask":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube3_with_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube3_with_unit":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube3_with_unit_and_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cube_like_new_x_axis_coords2_shape":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cubelike_none_axis_ranges_axis0":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cubelike_none_axis_ranges_axis2":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cubelike_none_axis_ranges_axis2_s":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cubem1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.cubem3":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.data":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.data2":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.distance0_none_axis_ranges_axis0":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.distance0_none_axis_ranges_axis0_mm":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.hi2_none_axis_ranges_axis2":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.hm":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.ht":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.new_x_axis_coords3_shape":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.none_axis_ranges_axis0":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.none_axis_ranges_axis3":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.pix1_none_axis_ranges_axis1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_axis1_lim_arcsec":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_axis1_lim_deg":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_axis2_lim_m":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_concat":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_concat_km":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_data_concat":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_data_stack":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_mask_concat":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_mask_stack":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_no_common_axis":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_stack":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_stack_km":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_mask0":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_masks":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_some_masks":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_some_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_unit0":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_units":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_units_and_some_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seq_with_units_and_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.seqm":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_determine_sequence_units":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_prep_axes_kwargs":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_1D_plot":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_2D_image":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_ImageAnimator":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_LineAnimator":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_as_cube_1D_plot":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_as_cube_2D_image":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_as_cube_ImageAnimator":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_as_cube_LineAnimator":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.test_sequence_plot_as_cube_error":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.userrangequantity_none_axis_ranges_axis0":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.userrangequantity_none_axis_ranges_axis0_1e7":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.wm":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.wt":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.x_axis_coords1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_sequence_plotting.x_axis_coords3":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_utils_collection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_utils_collection.collection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_utils_collection.test_assert_aligned_axes_compatible":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.axes_length":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.extra_coords_dict":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.extra_coords_dict_wcs":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.extra_coords_input":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_utils_cube.missing_axes_0_2":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_utils_cube.missing_axes_1":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_utils_cube.missing_axes_none":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.missing_axis_0_2":{
@@ -1333,487 +2541,628 @@
  "ndcube.tests.test_utils_cube.test_convert_extra_coords_dict_to_input_format":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.test_data_axis_to_wcs_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.test_format_input_extra_coords_to_extra_coords_wcs_axis_value":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_utils_cube.test_get_dimension_for_pixel":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.tests.test_utils_cube.test_pixel_centers_or_edges":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.test_select_order":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.test_wcs_axis_to_data_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_cube.utils":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.n_cubes":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.test_convert_cube_like_index_to_sequence_slice":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.test_convert_cube_like_item_to_sequence_items":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.test_convert_cube_like_slice_to_sequence_slices":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.test_convert_item_to_sequence_items":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.test_convert_sequence_slice_to_sequence_item":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.test_convert_slice_nones_to_ints":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.tuple_item0":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.tuple_item1":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.tuple_item2":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.tuple_item3":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_sequence.utils":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.helpers":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.hm":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.hm_reindexed_102":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.ht":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.ht_with_celestial":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.test_all_slice":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.test_axis_correlation_matrix":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.test_get_dependent_data_axes":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.test_get_dependent_wcs_axes":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.test_reindex_wcs":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.test_slice_list":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.test_wcs_augment":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.test_wcs_needs_augmenting":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.utils":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.wm":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.wm_reindexed_102":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.tests.test_utils_wcs.wt":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.utils.collection":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.utils.collection._sanitize_aligned_axes":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.utils.collection._sanitize_user_aligned_axes":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.utils.collection._update_aligned_axes":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.utils.collection.assert_aligned_axes_compatible":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.cube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.cube.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.cube._format_input_extra_coords_to_extra_coords_wcs_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.utils.cube._get_dimension_for_pixel":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.utils.cube._get_extra_coord_edges":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
+  ]
+ },
+ "ndcube.utils.cube._pixel_centers_or_edges":{
+  "__set__":true,
+  "elements":[
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.cube.convert_extra_coords_dict_to_input_format":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.cube.data_axis_to_wcs_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.cube.get_axis_number_from_axis_name":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.cube.select_order":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.cube.wcs_axis_to_data_axis":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence.SequenceItem":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence.SequenceSlice":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._convert_cube_like_index_to_sequence_slice":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._convert_cube_like_slice_to_sequence_slices":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._convert_sequence_slice_to_sequence_item":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._get_axis_extra_coord_names_and_units":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._get_int_axis_extra_coords":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._get_sequence_items_from_int_item":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._get_sequence_items_from_slice_item":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._get_sequence_items_from_tuple_item":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence._index_sequence_as_cube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence.convert_cube_like_item_to_sequence_items":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence.convert_item_to_sequence_items":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence.convert_slice_nones_to_ints":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.sequence.slice_sequence":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.tests":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.TwoWayDict":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.WCS":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.__all__":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs._all_slice":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs._slice_list":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs._wcs_slicer":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.append_sequence_axis_to_wcs":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.axis_correlation_matrix":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.cube":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.get_dependent_data_axes":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.get_dependent_wcs_axes":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.key":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.reindex_wcs":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.wcs_ivoa_mapping":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.utils.wcs.wcs_to_ivoa":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.version":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.version._decode_stdio":{
@@ -1915,7 +3264,8 @@
  "ndcube.version.version":{
   "__set__":true,
   "elements":[
-   "ndcube-1.0.1-py35_0"
+   "ndcube-1.0.1-py35_0",
+   "ndcube-1.3.1-py_0"
   ]
  },
  "ndcube.visualization":{

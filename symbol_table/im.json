@@ -32080,6 +32080,7 @@
  "importnb.Notebook":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
@@ -32116,7 +32117,26 @@
  "importnb._version.__version__":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.capture.CapturedIO":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.capture.capture_output":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.capture.redirect_stderr":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.completer":{
@@ -32165,6 +32185,18 @@
   "__set__":true,
   "elements":[
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.decoder.LineNumberDecoder":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.decoder.loads":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.decoder.object_pairs_hook":{
@@ -32239,6 +32271,72 @@
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.execute.Execute":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.Interactive":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.__all__":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.exec_modes":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.f":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.loader_include_notebook":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.module":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.nb":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.new_display":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.new_error":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.execute.new_stream":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.finder":{
   "__set__":true,
   "elements":[
@@ -32279,6 +32377,24 @@
   "__set__":true,
   "elements":[
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.foobar._repr_markdown_":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.foobar.bar":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.foobar.foo":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.ipython_extension":{
@@ -32383,6 +32499,12 @@
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.loader.ImportNbException":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.loader.ModuleType":{
   "__set__":true,
   "elements":[
@@ -32392,6 +32514,7 @@
  "importnb.loader.Notebook":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
@@ -32410,6 +32533,7 @@
  "importnb.loader.__all__":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
@@ -32419,10 +32543,71 @@
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.loader.advanced_exec_module":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.loader.assign_line_numbers":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.loader.dedent":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.loader.export":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.loader.from_resource":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.loader.load_ipython_extension":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.loader.m":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.loader.markdown_string_expression":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.loader.module_from_spec":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.loader.unload_ipython_extension":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.notebooks.utils":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.parameterize":{
@@ -32431,16 +32616,53 @@
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.parameterize.AssignmentFinder":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.AssignmentIgnore":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.parameterize.FindReplace":{
   "__set__":true,
   "elements":[
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.parameterize.Main":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.parameterize.Parameterize":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.parameterize.__all__":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize._init_module_attrs":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.a_variable_to_parameterize":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.parameterize.copy_":{
@@ -32449,16 +32671,202 @@
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.parameterize.copy_module":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.export":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.f":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.literal_eval_or_string":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.m":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.main":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.module":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.parameterize.module_to_argparse":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.parameterize.parameterize":{
   "__set__":true,
   "elements":[
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.parameterize.vars_to_sig":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.path_hooks.FileFinder":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.path_hooks.PathHooksContext":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.path_hooks.add_path_hooks":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.path_hooks.change_dir":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.path_hooks.lazy_loader_cls":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.path_hooks.modify_file_finder_details":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.path_hooks.modify_sys_path":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.path_hooks.remove_one_path_hook":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.reload":{
   "__set__":true,
   "elements":[
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.remote.Remote":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.remote._REMOTE_IMPORT_CACHE":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.remote._init_module_attrs":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.remote.remote":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.remote.urlopen":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.shell.ShellMixin":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.shell.export":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.test.AUnitTestExample":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.test.DoctestModule":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.test.UnittestModule":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.test.__file__":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.test.attach_doctest":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.test.main":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.test.module":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.unload_ipython_extension":{
@@ -32476,24 +32884,34 @@
  "importnb.utils.export":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
  "importnb.utils.export.block_str":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.utils.export.dedent":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.utils.export.export":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
  "importnb.utils.export.format_str":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
@@ -32506,30 +32924,41 @@
  "importnb.utils.ipython.export":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
  "importnb.utils.ipython.get_config":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
  "importnb.utils.ipython.install":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
  "importnb.utils.ipython.load_config":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.utils.ipython.load_ipython_extension":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.utils.ipython.uninstall":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
@@ -32539,10 +32968,23 @@
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.utils.nbdoctest.Notebook":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.utils.nbdoctest._test":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.utils.nbdoctest.export":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "importnb.utils.pytest_importnb":{
@@ -32599,6 +33041,60 @@
    "importnb-0.6.1-py38h32f6830_2"
   ]
  },
+ "importnb.utils.pytest_plugin.Notebook":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.utils.pytest_plugin.PytestModule":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.utils.pytest_plugin.export":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.utils.pytest_plugin.loader":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.utils.pytest_plugin.pytest_collect_file":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.utils.relative.RelativeImport":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.utils.relative.export":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.utils.relative.load_ipython_extension":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
+ "importnb.utils.relative.unload_ipython_extension":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
+  ]
+ },
  "importnb.utils.setup":{
   "__set__":true,
   "elements":[
@@ -32608,7 +33104,14 @@
  "importnb.utils.setup.build_ipynb":{
   "__set__":true,
   "elements":[
+   "importnb-0.3.2-py_0",
    "importnb-0.6.1-py38h32f6830_2"
+  ]
+ },
+ "importnb.utils.setup.export":{
+  "__set__":true,
+  "elements":[
+   "importnb-0.3.2-py_0"
   ]
  },
  "imread.__version__":{
