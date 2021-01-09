@@ -525,17 +525,31 @@
    "cld2-cffi-0.1.4-py27hf484d3e_1000"
   ]
  },
+ "clease.ADDITIONAL":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.AngleFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.AtomsFilter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.AtomsManager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -544,6 +558,7 @@
  "clease.BayesianCompressiveSensing":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -552,6 +567,7 @@
  "clease.CEBulk":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -560,9 +576,16 @@
  "clease.CECrystal":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.CESlab":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.CLEASELogger":{
@@ -573,10 +596,34 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.CellFilter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.CellVectorDirectionFilter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.ClusterCoverageChecker":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.ClusterExpansionSetting":{
   "__set__":true,
   "elements":[
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.ClusterExtractor":{
@@ -603,30 +650,70 @@
  "clease.Concentration":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.ConstrainedRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.ConvexHull":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.CorrFuncEnergyDataManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.CorrFuncVolumeDataManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.CorrFunction":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.CorrelationFunctionGetter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.DEP_VERSION":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.DataManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.DistanceBetweenFacetsFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -635,6 +722,7 @@
  "clease.EquivalentCellsFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -643,22 +731,49 @@
  "clease.Evaluate":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.FinalStructEnergyGetter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.FinalVolumeGetter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.GAFit":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.GeneralizedRidgeRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.InconsistentDataError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.Lasso":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -667,6 +782,7 @@
  "clease.LinearRegression":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -680,39 +796,80 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.MSG":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.MultiprocessHandler":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.NewStructures":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.PhysicalRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.SVD":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.SequentialClusterRidge":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.SkewnessFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.StructureMapper":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.Tikhonov":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.TransformInfo":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.ValidConcentrationFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -721,6 +878,7 @@
  "clease.VolumeToSurfaceRatioFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -729,6 +887,7 @@
  "clease.__all__":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -737,7 +896,14 @@
  "clease.__version__":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease._grade":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease._logger":{
@@ -748,9 +914,28 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease._quality_indicator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease._template_exists":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.add_file_extension":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.atoms_manager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -759,9 +944,16 @@
  "clease.atoms_manager.AtomsManager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.atoms_manager.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.atoms_manager.wrap_and_sort_by_position":{
@@ -775,6 +967,7 @@
  "clease.basis_function":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -783,6 +976,7 @@
  "clease.basis_function.BasisFunction":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -791,14 +985,22 @@
  "clease.basis_function.BinaryLinear":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.basis_function.GramSchmidtMonimial":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.basis_function.Polynomial":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -807,9 +1009,22 @@
  "clease.basis_function.Trigonometric":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.basis_function.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.basis_function._kronecker":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.basis_function.kronecker":{
@@ -871,6 +1086,7 @@
  "clease.calculator":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -879,6 +1095,7 @@
  "clease.calculator.Clease":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -887,6 +1104,7 @@
  "clease.calculator.MovedIgnoredAtomError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -895,6 +1113,7 @@
  "clease.calculator.__all__":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -903,6 +1122,7 @@
  "clease.calculator.attach_calculator":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -911,6 +1131,7 @@
  "clease.calculator.clease":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -919,6 +1140,7 @@
  "clease.calculator.clease.Clease":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -932,25 +1154,100 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.calculator.clease.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.calculator.clease.CorrFunction":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.calculator.clease.KeepChanges":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.calculator.clease.MovedIgnoredAtomError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.calculator.clease.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.clease_vol_dep":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.clease_vol_dep.Clease":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.clease_vol_dep.CleaseVolDep":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.clease_vol_dep.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.clease_vol_dep.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.clease_vol_dep.eci_format_ok":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.clease_vol_dep.unique_eci_names_no_vol":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.clease_vol_dep.vol_coeff_format_ok":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.calculator.get_ce_energy":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.calculator.util":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -959,14 +1256,22 @@
  "clease.calculator.util.Clease":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.calculator.util.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.calculator.util.CorrFunction":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -975,9 +1280,16 @@
  "clease.calculator.util.attach_calculator":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.calculator.util.get_ce_energy":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.calculator.util.nested_list2str":{
@@ -994,6 +1306,12 @@
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.calculator.util.wrap_and_sort_by_position":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.cleaselogger":{
@@ -1023,24 +1341,28 @@
  "clease.cli":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.cli.clease":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.cli.clease.install_gui_dependencies":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.cli.clease.main":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
@@ -1050,17 +1372,61 @@
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
+ "clease.cli.db":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cli.db.db_cli":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cli.db.get_all_cf":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cli.db.get_cf_tables":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cli.db.show_cf":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.cluster":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.cluster.ADDITIONAL":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.AtomsNotContainedInLargeCellError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.cluster.Cluster":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1069,39 +1435,344 @@
  "clease.cluster.ClusterFingerprint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.cluster.ClusterGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.ClusterInfoMapper":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.ClusterList":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.ClusterManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.SitesWithinCutoff":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster.Cluster":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster.cname_lt":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster.equivalent_deco":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster.list2str":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster.nested_array2list":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_fingerprint":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_fingerprint.ClusterFingerprint":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_fingerprint.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_generator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_generator.ClusterGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_generator.SitesWithinCutoff":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_generator.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_info_mapper":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_info_mapper.AtomsNotContainedInLargeCellError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_info_mapper.ClusterInfoMapper":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_info_mapper.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_list":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_list.ClusterList":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_list.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_list.dec_string":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_list.flatten":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_list.list2str":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_list.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_manager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_manager.ClusterManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.cluster_manager.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.cluster.cname_lt":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.cluster.dec_string":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.cluster.equivalent_deco":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.cluster.flatten":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.cluster.list2str":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.cluster.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.cluster.nested_array2list":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.cluster.utils":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.utils.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.utils.diameter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.utils.get_first_match":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.utils.name_clusters":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster.utils.size":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster_coverage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster_coverage.ClusterCoverageChecker":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster_coverage.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster_coverage.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster_coverage._grade":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster_coverage._quality_indicator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.cluster_coverage._template_exists":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.cluster_extractor":{
@@ -1303,6 +1974,7 @@
  "clease.concentration":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1311,6 +1983,7 @@
  "clease.concentration.Concentration":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1338,6 +2011,12 @@
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.concentration.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.concentration.eq_jac":{
@@ -1420,9 +2099,22 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.concentration.settings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.concentration.trivial_bounds":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.convexhull":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1431,9 +2123,16 @@
  "clease.convexhull.ConvexHull":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.convexhull.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.corrFunc":{
@@ -1488,9 +2187,166 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.corr_func":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.corr_func.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.corr_func.ClusterNotTrackedError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.corr_func.CorrFunction":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.corr_func.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.corr_func.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.corr_func.wrap_and_sort_by_position":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.CorrFuncEnergyDataManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.CorrFuncVolumeDataManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.CorrelationFunctionGetter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.DataManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.FinalStructEnergyGetter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.FinalVolumeGetter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.InconsistentDataError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.add_file_extension":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.extract_num_atoms":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.get_ids":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_manager.sort_cf_names":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_normalizer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.data_normalizer.DataNormalizer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.db_util":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.db_util.get_all_cf":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.db_util.get_cf_tables":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.evaluate":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1510,26 +2366,58 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.evaluate.ClusterCoverageChecker":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.evaluate.ClusterExpansionSetting":{
   "__set__":true,
   "elements":[
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
+ "clease.evaluate.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.evaluate.CorrFuncEnergyDataManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.evaluate.Evaluate":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.evaluate.LinearRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.evaluate.MultiprocessHandler":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.evaluate.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.evaluate._logger":{
@@ -1538,9 +2426,28 @@
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
+ "clease.evaluate.add_file_extension":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.evaluate.get_attribute":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.evaluate.get_ids":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.evaluate.logger":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1549,9 +2456,22 @@
  "clease.evaluate.loocv_mp":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.evaluate.singlets2conc":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.extract_num_atoms":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.ga_fit":{
@@ -1616,83 +2536,132 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.get_attribute":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.get_ids":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gramSchmidthMonomials":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gramSchmidthMonomials.GramSchmidtMonimial":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.gui.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.backup_folder":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui.canonical_mc_page":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.CONC_PER_BASIS":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.CanonicalMCPage":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.HelpMessagePopup":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.LoadDialog":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.MCRunner":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.MC_MEAN_CURVE_COLOR":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.MC_TYPE_TO_PAGE":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.SYSTEMS_FROM_DB":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.parse_comma_sep_list_of_int":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.parse_concentration_list":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.canonical_mc_page.parse_temperature_list":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
@@ -1827,6 +2796,108 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.gui.clease_gui":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.CleaseGUI":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.ConcentrationPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.DbBrowser":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.Evaluate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.FitPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.JobExec":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.LoadDialog":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.MCHeader":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.MetaDynPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.NewStructPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.ReconfigDB":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.SaveDialog":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.SettingsPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.WindowFrame":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.has_flask":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.clease_gui.main_path":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui.concObsEditor":{
   "__set__":true,
   "elements":[
@@ -1843,6 +2914,30 @@
   "__set__":true,
   "elements":[
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.gui.conc_obs_editor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.conc_obs_editor.ConcObsEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.conc_obs_editor.__version__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.conc_obs_editor.backup_folder":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.gui.concentrationPage":{
@@ -1877,9 +2972,34 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.gui.concentration_page":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.concentration_page.ConcentrationPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.concentration_page.parse_elements":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.concentration_page.parse_grouped_basis_elements":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui.constants":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1888,6 +3008,7 @@
  "clease.gui.constants.BACKGROUND_COLOR":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1896,6 +3017,7 @@
  "clease.gui.constants.CONC_PER_BASIS":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1904,6 +3026,7 @@
  "clease.gui.constants.ECI_GRAPH_COLORS":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1912,6 +3035,7 @@
  "clease.gui.constants.FOREGROUND_TEXT_COLOR":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1920,6 +3044,7 @@
  "clease.gui.constants.INACTIVE_TEXT_COLOR":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1928,12 +3053,14 @@
  "clease.gui.constants.JOB_EXEC_MSG":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.constants.MC_MEAN_CURVE_COLOR":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1942,24 +3069,28 @@
  "clease.gui.constants.MC_TYPE_TO_PAGE":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.constants.META_DYN_MSG":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.constants.SCREEN_TRANSLATIONS":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.constants.SYSTEMS_FROM_DB":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -1968,13 +3099,33 @@
  "clease.gui.db_browser":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.db_browser.DbBrowser":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.gui.db_browser.MAX_ROWS":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.db_browser.SelectCond":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.db_browser.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.gui.db_browser.parse_select_cond":{
@@ -2129,6 +3280,120 @@
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
+ "clease.gui.fit_page":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.BCSEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.ECIOptimizer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.ECI_GRAPH_COLORS":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.Evaluate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.FOREGROUND_TEXT_COLOR":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.FitAlgEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.FitPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.GAClusterSelector":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.GAEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.GAFit":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.L2Editor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.LassoEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.Legend":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.LinearRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.LoadDialog":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.backup_folder":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.parse_max_cluster_dia":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fit_page.parse_select_cond":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui.fittingAlgorithmEditors":{
   "__set__":true,
   "elements":[
@@ -2177,9 +3442,58 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.gui.fitting_alg_editors":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fitting_alg_editors.BCSEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fitting_alg_editors.FitAlgEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fitting_alg_editors.GAEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fitting_alg_editors.HelpMessagePopup":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fitting_alg_editors.L2Editor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fitting_alg_editors.LassoEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.fitting_alg_editors.backup_folder":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui.help_message_popup":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2188,6 +3502,7 @@
  "clease.gui.help_message_popup.HelpMessagePopup":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2196,48 +3511,74 @@
  "clease.gui.job_exec":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.gui.job_exec.HelpMessagePopup":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.job_exec.JOB_EXEC_MSG":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.gui.job_exec.JobExec":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.gui.job_exec.LoadDialog":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.gui.legend":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.legend.Legend":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.legend.LegendItem":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.legend_item":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.legend_item.LegendItem":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.load_save_dialog":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2246,6 +3587,7 @@
  "clease.gui.load_save_dialog.LoadDialog":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2254,6 +3596,7 @@
  "clease.gui.load_save_dialog.SaveDialog":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2262,54 +3605,63 @@
  "clease.gui.mc_header":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.mc_header.CanonicalMCPage":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.mc_header.MCHeader":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.mc_header.MCMainPage":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.mc_header.SCREEN_TRANSLATIONS":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.mc_main_page":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.mc_main_page.HelpMessagePopup":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.mc_main_page.LoadDialog":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.mc_main_page.MCMainPage":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
@@ -2393,6 +3745,7 @@
  "clease.gui.mc_runner":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2409,6 +3762,7 @@
  "clease.gui.mc_runner.ConstrainSwapByBasis":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2417,6 +3771,7 @@
  "clease.gui.mc_runner.EnergyEvolution":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2425,6 +3780,7 @@
  "clease.gui.mc_runner.EnergyPlotUpdater":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2433,6 +3789,7 @@
  "clease.gui.mc_runner.MCRunner":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2441,6 +3798,7 @@
  "clease.gui.mc_runner.Montecarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2449,6 +3807,7 @@
  "clease.gui.mc_runner.SYSTEMS_FROM_DB":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2457,6 +3816,7 @@
  "clease.gui.mc_runner.attach_calculator":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2465,6 +3825,7 @@
  "clease.gui.mc_runner.wrap_and_sort_by_position":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2473,120 +3834,140 @@
  "clease.gui.meta_dyn_gui_updater":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_gui_updater.MetaDynGuiUpdater":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.BinnedBiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.ConcObsEditor":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.ConcentrationObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.FOREGROUND_TEXT_COLOR":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.HelpMessagePopup":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.META_DYN_MSG":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.MetaDynPage":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.MetaDynRunner":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.SGCEditor":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_page.species_chempot2eci":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_runner":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_runner.MetaDynGuiUpdater":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_runner.MetaDynRunner":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_runner.MetaDynamicsSampler":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_runner.SGCMonteCarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dyn_runner.attach_calculator":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.meta_dynamics_messages":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
@@ -2684,6 +4065,78 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.gui.new_struct_page":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.BaseGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.ExaustiveGSStructGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.FOREGROUND_TEXT_COLOR":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.GSStructGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.INACTIVE_TEXT_COLOR":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.InitialPoolGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.InsertStructureCB":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.LoadDialog":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.NewStructPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.ProbeStructureGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.new_struct_page.RandomStructureGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui.reconfigDB":{
   "__set__":true,
   "elements":[
@@ -2711,6 +4164,24 @@
   "elements":[
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.gui.reconfig_db":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.reconfig_db.CorrFunction":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.reconfig_db.ReconfigDB":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.gui.settingInitializer":{
@@ -2817,6 +4288,96 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.gui.settings_initializer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_initializer.CEBulk":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_initializer.CECrystal":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_initializer.SettingsInitializer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.Concentration":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.FOREGROUND_TEXT_COLOR":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.INACTIVE_TEXT_COLOR":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.LoadDialog":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.SettingsInitializer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.SettingsPage":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.parse_cell":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.parse_coordinate_basis":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.parse_max_cluster_dia":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.settings_page.parse_size":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui.sgcEditor":{
   "__set__":true,
   "elements":[
@@ -2835,9 +4396,34 @@
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
+ "clease.gui.sgc_editor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.sgc_editor.SGCEditor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.sgc_editor.__version__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.gui.sgc_editor.backup_folder":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.gui.util":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2846,6 +4432,7 @@
  "clease.gui.util.BasisSpecifiedInManyGroupsError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2854,6 +4441,7 @@
  "clease.gui.util.parse_cell":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2862,6 +4450,7 @@
  "clease.gui.util.parse_comma_sep_list_of_int":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2870,6 +4459,7 @@
  "clease.gui.util.parse_concentration_list":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2878,6 +4468,7 @@
  "clease.gui.util.parse_coordinate_basis":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2886,6 +4477,7 @@
  "clease.gui.util.parse_elements":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2894,6 +4486,7 @@
  "clease.gui.util.parse_grouped_basis_elements":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2902,6 +4495,7 @@
  "clease.gui.util.parse_max_cluster_dia":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2910,12 +4504,14 @@
  "clease.gui.util.parse_select_cond":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.gui.util.parse_size":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2924,6 +4520,7 @@
  "clease.gui.util.parse_temperature_list":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2932,6 +4529,7 @@
  "clease.interactive_plot":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2940,6 +4538,7 @@
  "clease.interactive_plot.InteractivePlot":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2948,22 +4547,67 @@
  "clease.interactive_plot.ShowStructureOnClick":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.loocv_mp":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.mc_trajectory_extractor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.mc_trajectory_extractor.MCTrajectoryExtractor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.mc_trajectory_extractor.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.ADDITIONAL":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.BarrierModel":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.BiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -2972,40 +4616,124 @@
  "clease.montecarlo.BinnedBiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.montecarlo.DEFAULT_MAX_ATTEMPTS":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.GaussianKernelBiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.montecarlo.KMCEventType":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.KineticMonteCarlo":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.MCConstraint":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.MCObserver":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.MetaDynamicsSampler":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.Montecarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.montecarlo.NeighbourSwap":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.RandomBiasWithMemory":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.RandomFlip":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.RandomSwap":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.SGCMonteCarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.SSTEBarrier":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.SwapMoveIndexTracker":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.TrialMoveGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.__all__":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3014,6 +4742,7 @@
  "clease.montecarlo.averager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3022,14 +4751,46 @@
  "clease.montecarlo.averager.Averager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.barrier_models":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.barrier_models.BarrierModel":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.barrier_models.SSTEBarrier":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.barrier_models.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.barrier_models.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.bias_potential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3038,6 +4799,7 @@
  "clease.montecarlo.bias_potential.BiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3046,6 +4808,7 @@
  "clease.montecarlo.bias_potential.CovarianceBiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3054,6 +4817,7 @@
  "clease.montecarlo.bias_potential.PseudoBinaryFreeEnergyBias":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3062,32 +4826,49 @@
  "clease.montecarlo.bias_potential.SampledBiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.bias_potential.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.binned_bias_potential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.binned_bias_potential.BiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.binned_bias_potential.BinnedBiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.montecarlo.binned_bias_potential.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.constraints":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3096,18 +4877,21 @@
  "clease.montecarlo.constraints.CollectiveVariableConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.ConstrainElementInserts":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.ConstrainSwapByBasis":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3116,14 +4900,22 @@
  "clease.montecarlo.constraints.FixedElement":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.constraints.FixedIndices":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.constraints.MCConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3132,42 +4924,55 @@
  "clease.montecarlo.constraints.PairConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.__all__":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.collective_variable_constraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.collective_variable_constraint.CollectiveVariableConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.collective_variable_constraint.MCConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.montecarlo.constraints.collective_variable_constraint.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.constraints.constrain_element_insert_by_basis":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.constrain_element_insert_by_basis.ConstrainElementInserts":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3176,20 +4981,29 @@
  "clease.montecarlo.constraints.constrain_element_insert_by_basis.MCConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.constraints.constrain_element_insert_by_basis.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.constraints.constrain_swap_by_basis":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.constrain_swap_by_basis.ConstrainSwapByBasis":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3198,20 +5012,29 @@
  "clease.montecarlo.constraints.constrain_swap_by_basis.MCConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.constraints.constrain_swap_by_basis.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.constraints.fixed_element":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.fixed_element.FixedElement":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3220,46 +5043,89 @@
  "clease.montecarlo.constraints.fixed_element.MCConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.constraints.fixed_element.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.constraints.fixed_indices":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.constraints.fixed_indices.FixedIndices":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.constraints.fixed_indices.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.constraints.mc_constraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.mc_constraint.MCConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.constraints.mc_constraint.MCConstraint.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.constraints.pair_constraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.pair_constraint.MCConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.constraints.pair_constraint.PairConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.montecarlo.constraints.pair_constraint.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.exponential_filter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3268,6 +5134,7 @@
  "clease.montecarlo.exponential_filter.ExponentialFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3276,48 +5143,140 @@
  "clease.montecarlo.gaussian_kernel_bias_potential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.gaussian_kernel_bias_potential.BiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.gaussian_kernel_bias_potential.GaussianKernelBiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.montecarlo.gaussian_kernel_bias_potential.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kinetic_monte_carlo":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kinetic_monte_carlo.BarrierModel":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kinetic_monte_carlo.KMCEventType":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kinetic_monte_carlo.KineticMonteCarlo":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kinetic_monte_carlo.MCObserver":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kinetic_monte_carlo.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kinetic_monte_carlo.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kinetic_monte_carlo.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kmc_events":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kmc_events.KMCEventType":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kmc_events.NeighbourSwap":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.kmc_events.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.metadynamics_sampler":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.metadynamics_sampler.CollectiveVariableConstraint":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.metadynamics_sampler.MetaDynamicsSampler":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.metadynamics_sampler.NoneNotAcceptedError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.metadynamics_sampler.PeakNotAcceptedError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
@@ -3327,9 +5286,16 @@
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
+ "clease.montecarlo.metadynamics_sampler.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.montecarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3338,6 +5304,7 @@
  "clease.montecarlo.montecarlo.Averager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3346,6 +5313,7 @@
  "clease.montecarlo.montecarlo.BiasPotential":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3354,6 +5322,7 @@
  "clease.montecarlo.montecarlo.CanNotFindLegalMoveError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3362,6 +5331,7 @@
  "clease.montecarlo.montecarlo.DidNotReachEquillibriumError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3370,14 +5340,22 @@
  "clease.montecarlo.montecarlo.ExponentialFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.montecarlo.MCObserver":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.montecarlo.Montecarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3386,9 +5364,16 @@
  "clease.montecarlo.montecarlo.Montecarlo.meta_info":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.montecarlo.montecarlo.RandomSwap":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.montecarlo.SwapMoveIndexTracker":{
@@ -3399,12 +5384,25 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.montecarlo.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.montecarlo.TooFewElementsError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.montecarlo.montecarlo.TrialMoveGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.montecarlo._logger":{
@@ -3415,23 +5413,44 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.montecarlo.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.ADDITIONAL":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.AcceptanceRate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.ConcentrationObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.observers.CorrelationFunctionObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3440,6 +5459,7 @@
  "clease.montecarlo.observers.DiffractionObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3448,6 +5468,7 @@
  "clease.montecarlo.observers.EnergyEvolution":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3456,14 +5477,22 @@
  "clease.montecarlo.observers.EnergyPlotUpdater":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.EntropyProductionRate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.LowestEnergyStructure":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3472,22 +5501,37 @@
  "clease.montecarlo.observers.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.montecarlo.observers.MultiStateSGCConcObserver":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.observers.SGCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.SGCState":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.SiteOrderParameter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3496,38 +5540,104 @@
  "clease.montecarlo.observers.Snapshot":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.__all__":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.montecarlo.observers.acceptance_rate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.acceptance_rate.AcceptanceRate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.acceptance_rate.MCObserver":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.acceptance_rate.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.acceptance_rate.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.buffered_array":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.buffered_array.BufferedArray":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.buffered_array.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.observers.concentration_observer":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.observers.concentration_observer.ConcentrationObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.montecarlo.observers.concentration_observer.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.montecarlo.observers.concentration_observer.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.montecarlo.observers.corr_func_observer":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3536,6 +5646,7 @@
  "clease.montecarlo.observers.corr_func_observer.CorrelationFunctionObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3544,14 +5655,22 @@
  "clease.montecarlo.observers.corr_func_observer.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.corr_func_observer.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.diffraction_observer":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3560,6 +5679,7 @@
  "clease.montecarlo.observers.diffraction_observer.DiffractionObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3568,6 +5688,7 @@
  "clease.montecarlo.observers.diffraction_observer.DiffractionUpdater":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3576,14 +5697,22 @@
  "clease.montecarlo.observers.diffraction_observer.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.diffraction_observer.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.energy_evolution_obs":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3592,6 +5721,7 @@
  "clease.montecarlo.observers.energy_evolution_obs.EnergyEvolution":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3600,14 +5730,34 @@
  "clease.montecarlo.observers.energy_evolution_obs.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.energy_evolution_obs.add_file_extension":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.energy_evolution_obs.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.energy_evolution_obs.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.energy_plot_updater":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3616,6 +5766,7 @@
  "clease.montecarlo.observers.energy_plot_updater.EnergyPlotUpdater":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3624,14 +5775,40 @@
  "clease.montecarlo.observers.energy_plot_updater.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.energy_plot_updater.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.entropy_prod_rate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.entropy_prod_rate.EntropyProductionRate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.entropy_prod_rate.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.lowest_energy_observer":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3640,6 +5817,7 @@
  "clease.montecarlo.observers.lowest_energy_observer.LowestEnergyStructure":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3648,6 +5826,7 @@
  "clease.montecarlo.observers.lowest_energy_observer.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3661,9 +5840,22 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.lowest_energy_observer.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.lowest_energy_observer.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.mc_observer":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3672,14 +5864,58 @@
  "clease.montecarlo.observers.mc_observer.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.mc_observer.MCObserver.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.multi_state_sgc_observer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.multi_state_sgc_observer.Clease":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.multi_state_sgc_observer.MCObserver":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.multi_state_sgc_observer.MultiStateSGCConcObserver":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.multi_state_sgc_observer.SGCState":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.multi_state_sgc_observer.sign_indicator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.sgc_observer":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3688,6 +5924,7 @@
  "clease.montecarlo.observers.sgc_observer.Averager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3696,6 +5933,7 @@
  "clease.montecarlo.observers.sgc_observer.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3704,14 +5942,22 @@
  "clease.montecarlo.observers.sgc_observer.SGCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.sgc_observer.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.site_order_parameter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3720,6 +5966,7 @@
  "clease.montecarlo.observers.site_order_parameter.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3728,14 +5975,22 @@
  "clease.montecarlo.observers.site_order_parameter.SiteOrderParameter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.site_order_parameter.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.observers.snapshot_observer":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3744,6 +5999,7 @@
  "clease.montecarlo.observers.snapshot_observer.MCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3752,14 +6008,46 @@
  "clease.montecarlo.observers.snapshot_observer.Snapshot":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.observers.snapshot_observer.add_file_extension":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.observers.snapshot_observer.name":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.random_bias_with_memory":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.random_bias_with_memory.BiasPotential":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.random_bias_with_memory.RandomBiasWithMemory":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.sgc_montecarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3768,6 +6056,7 @@
  "clease.montecarlo.sgc_montecarlo.InvalidChemicalPotentialError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3776,14 +6065,22 @@
  "clease.montecarlo.sgc_montecarlo.Montecarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.sgc_montecarlo.RandomFlip":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.sgc_montecarlo.SGCMonteCarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3792,14 +6089,22 @@
  "clease.montecarlo.sgc_montecarlo.SGCObserver":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.sgc_montecarlo.TrialMoveGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.montecarlo.sgc_montecarlo.meta_info":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3808,6 +6113,7 @@
  "clease.montecarlo.swap_move_index_tracker":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3816,14 +6122,70 @@
  "clease.montecarlo.swap_move_index_tracker.SwapMoveIndexTracker":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.montecarlo.trial_move_generator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.trial_move_generator.DEFAULT_MAX_ATTEMPTS":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.trial_move_generator.MCConstraint":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.trial_move_generator.RandomFlip":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.trial_move_generator.RandomSwap":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.trial_move_generator.SwapMoveIndexTracker":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.trial_move_generator.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.trial_move_generator.TrialMoveGenerator":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.montecarlo.trial_move_generator.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.mp_logger":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3832,6 +6194,7 @@
  "clease.mp_logger.MultiprocessHandler":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -3985,17 +6348,175 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.new_struct":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.CorrFunction":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.GSStructure":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.MaxAttemptReachedError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.MetropolisTrajectory":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.NewStructures":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.ProbeStructure":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.TooFewElementsError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.max_attempt":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.max_fail":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.nested_list2str":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.new_struct.wrap_and_sort_by_position":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.plot_post_process":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.plot_post_process.Evaluate":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.plot_post_process.plot_cv":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.plot_post_process.plot_eci":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.plot_post_process.plot_fit":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.regression":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.regression.BayesianCompressiveSensing":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ConstrainedRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.DataNormalizer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.EigenDecomposition":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.GAFit":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.GeneralizedRidgeRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.regression.Lasso":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4004,6 +6525,7 @@
  "clease.regression.LinearRegression":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4015,12 +6537,493 @@
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
+ "clease.regression.PhysicalRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.SaturatedPopulationError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.SequentialClusterRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.regression.Tikhonov":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.regression.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.aic":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.bayesian_compressive_sensing":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.bayesian_compressive_sensing.BayesianCompressiveSensing":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.bayesian_compressive_sensing.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.bayesian_compressive_sensing.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.bayesian_compressive_sensing.shape_parameter_equation":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.bic":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.constrained_ridge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.constrained_ridge.ConstrainedRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.constrained_ridge.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.constrained_ridge.support_fast_loocv":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.exponential_dia":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.exponential_size":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ga_fit":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ga_fit.GAFit":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ga_fit.SaturatedPopulationError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ga_fit.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ga_fit.aic":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ga_fit.bic":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ga_fit.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.ga_fit.workers":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.generalized_ridge_regression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.generalized_ridge_regression.EigenDecomposition":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.generalized_ridge_regression.GeneralizedRidgeRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.generalized_ridge_regression.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.generalized_ridge_regression.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.generalized_ridge_regression.support_fast_loocv":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.get_dia_decay":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.get_size_decay":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.linear_dia":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.linear_size":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.DataNormalizer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.PhysicalRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.exponential_dia":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.exponential_size":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.get_dia_decay":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.get_size_decay":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.linear_dia":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.linear_size":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.random_cv_hyper_opt":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.physical_ridge.split_dataset":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.random_cv_hyper_opt":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.regression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.regression.DataNormalizer":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.regression.Lasso":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.regression.LinearRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.regression.LinearRegression.support_fast_loocv":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.regression.Tikhonov":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.regression.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.sequential_cluster_ridge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.sequential_cluster_ridge.SequentialClusterRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.sequential_cluster_ridge.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.sequential_cluster_ridge.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.sequential_cluster_ridge.support_fast_loocv":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.shape_parameter_equation":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.split_dataset":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression.workers":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.BayesianCompressiveSensing":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.ConstrainedRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.DEP_VERSION":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.GAFit":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.GeneralizedRidgeRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.Lasso":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.LinearRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.MSG":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.PhysicalRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.SequentialClusterRidge":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.Tikhonov":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.regression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.regression_old.support_fast_loocv":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.sequential_cluster_ridge":{
@@ -4084,14 +7087,22 @@
  "clease.settings":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.settings.ADDITIONAL":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.settings.AtomsManager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4100,9 +7111,34 @@
  "clease.settings.BasisFunction":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.settings.BinaryLinear":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.CEBulk":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.CECrystal":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.CESlab":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.settings.Cluster":{
@@ -4118,6 +7154,12 @@
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.settings.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.settings.ClusterExtractor":{
@@ -4137,6 +7179,7 @@
  "clease.settings.ClusterList":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4145,15 +7188,35 @@
  "clease.settings.ClusterManager":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.settings.Concentration":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.settings.IntConversionNotConsistentError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.InvalidConcentrationError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.InvalidConstraintError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.settings.LogVerbosity":{
@@ -4163,9 +7226,16 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.settings.Polynomial":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.settings.TemplateAtoms":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4178,10 +7248,23 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.settings.Trigonometric":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.settings.ValidConcentrationFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.settings.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.settings._logger":{
@@ -4191,6 +7274,144 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.settings.add_vacuum_layers":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.basis_function":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.Concentration":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.Concentration.trivial_bounds":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.IntConversionNotConsistentError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.InvalidConcentrationError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.InvalidConstraintError":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.eq_jac":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.equality_constraint":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.ineq_jac":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.inequality_constraint":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.obj_jac_component_max":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.obj_jac_component_min":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.obj_jac_random":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.objective_component_max":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.objective_component_min":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.objective_random":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.remove_redundant_constraints":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.concentration.remove_redundant_equations":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.eq_jac":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.equality_constraint":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.settings.get_all_internal_distances":{
   "__set__":true,
   "elements":[
@@ -4198,11 +7419,29 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.settings.get_prim_slab_cell":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.settings.indices2tags":{
   "__set__":true,
   "elements":[
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.settings.ineq_jac":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.inequality_constraint":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.settings.name_clusters":{
@@ -4220,9 +7459,226 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.settings.obj_jac_component_max":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.obj_jac_component_min":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.obj_jac_random":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.objective_component_max":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.objective_component_min":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.objective_random":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.remove_redundant_constraints":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.remove_redundant_equations":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.remove_vacuum_layers":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.AtomsManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.BasisFunction":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.BinaryLinear":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.ClusterList":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.ClusterManager":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.Polynomial":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.TemplateAtoms":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.Trigonometric":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.ValidConcentrationFilter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.to_3x3_matrix":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings.wrap_and_sort_by_position":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settingsFromJSON":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_bulk":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_bulk.CEBulk":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_bulk.CECrystal":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_bulk.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_bulk.wrap_and_sort_by_position":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_from_json":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_slab":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_slab.CESlab":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_slab.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_slab.add_vacuum_layers":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_slab.get_prim_slab_cell":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.settings_slab.remove_vacuum_layers":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.settings.to_3x3_matrix":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4235,9 +7691,40 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.settings.utils":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.utils.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.utils.basis_function":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.utils.settingsFromJSON":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.settings.utils.settings_from_json":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.settings.wrap_and_sort_by_position":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4295,9 +7782,46 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.singlets2conc":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.sort_cf_names":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.sparsifier":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.sparsifier.LinearRegression":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.sparsifier.Sparsifier":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.sparsifier.aicc":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.structure_generator":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4320,6 +7844,7 @@
  "clease.structure_generator.Clease":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4331,15 +7856,23 @@
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
+ "clease.structure_generator.ClusterExpansionSettings":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.structure_generator.ConstrainSwapByBasis":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.structure_generator.CorrFunction":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4348,6 +7881,7 @@
  "clease.structure_generator.GSStructure":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4356,26 +7890,42 @@
  "clease.structure_generator.LowestEnergyStructure":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.structure_generator.MetropolisTrajectory":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.structure_generator.Montecarlo":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.structure_generator.ProbeStructure":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.structure_generator.Snapshot":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.structure_generator.StructureGenerator":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4384,6 +7934,7 @@
  "clease.structure_generator.TooFewElementsError":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
@@ -4395,9 +7946,16 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.structure_generator.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.structure_generator.mean_variance":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4406,6 +7964,7 @@
  "clease.structure_generator.precision_matrix":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4414,14 +7973,58 @@
  "clease.structure_generator.wrap_and_sort_by_position":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.structure_mapper":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.structure_mapper.StructureMapper":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.structure_mapper.TransformInfo":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.structure_mapper.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.svd":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.svd.SVD":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.svd.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.template_atoms":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4430,6 +8033,7 @@
  "clease.template_atoms.AtomsFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4438,6 +8042,7 @@
  "clease.template_atoms.CellFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4446,6 +8051,7 @@
  "clease.template_atoms.EquivalentCellsFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4454,6 +8060,7 @@
  "clease.template_atoms.SkewnessFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4462,9 +8069,16 @@
  "clease.template_atoms.TemplateAtoms":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.template_atoms.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.template_atoms._logger":{
@@ -4477,6 +8091,7 @@
  "clease.template_atoms.all_integer_transform_matrices":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4485,6 +8100,7 @@
  "clease.template_atoms.check_valid_conversion_matrix":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4500,6 +8116,7 @@
  "clease.template_atoms.is_3x3_matrix":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4515,6 +8132,7 @@
  "clease.template_filters":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4523,6 +8141,7 @@
  "clease.template_filters.AngleFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4531,6 +8150,7 @@
  "clease.template_filters.AtomsFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4539,14 +8159,22 @@
  "clease.template_filters.CellFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.template_filters.CellVectorDirectionFilter":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.template_filters.DistanceBetweenFacetsFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4555,6 +8183,7 @@
  "clease.template_filters.EquivalentCellsFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4563,6 +8192,7 @@
  "clease.template_filters.SkewnessFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4571,6 +8201,7 @@
  "clease.template_filters.ValidConcentrationFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4579,14 +8210,22 @@
  "clease.template_filters.VolumeToSurfaceRatioFilter":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.template_filters.__all__":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.tools":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4595,9 +8234,22 @@
  "clease.tools.ApproxEqualityList":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
+  ]
+ },
+ "clease.tools.SQLCursor":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.tools.SystemChange":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.tools._logger":{
@@ -4608,9 +8260,28 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.tools.add_file_extension":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.tools.aic":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.tools.aicc":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.tools.all_integer_transform_matrices":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4619,26 +8290,48 @@
  "clease.tools.bf2matrix":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.tools.bf2npyarray":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.tools.bic":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.tools.cname_lt":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
+  ]
+ },
+ "clease.tools.common_cf_names":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.tools.constraint_is_redundant":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
   ]
  },
  "clease.tools.count_atoms":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4647,6 +8340,7 @@
  "clease.tools.dec_string":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4655,6 +8349,7 @@
  "clease.tools.equivalent_deco":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4663,6 +8358,7 @@
  "clease.tools.exclude_ids":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4671,6 +8367,7 @@
  "clease.tools.exclude_information_entries":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4679,6 +8376,7 @@
  "clease.tools.factorize":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4687,6 +8385,7 @@
  "clease.tools.flatten":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4695,14 +8394,34 @@
  "clease.tools.get_all_internal_distances":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.tools.get_attribute":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.tools.get_extension":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.tools.get_ids":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.tools.index_by_position":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4711,6 +8430,7 @@
  "clease.tools.indices2tags":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4719,6 +8439,7 @@
  "clease.tools.list2str":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4731,9 +8452,16 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.tools.logger":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.tools.min_distance_from_facet":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4742,6 +8470,7 @@
  "clease.tools.ndarray2list":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4750,6 +8479,7 @@
  "clease.tools.nested_array2list":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4758,6 +8488,7 @@
  "clease.tools.nested_list2str":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4766,6 +8497,7 @@
  "clease.tools.random_validation_set":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4774,20 +8506,35 @@
  "clease.tools.rate_bf_subsets":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.tools.reconfigure":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.tools.remove_redundant_constraints":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
+ "clease.tools.remove_redundant_equations":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.tools.rotate_cells":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4796,6 +8543,7 @@
  "clease.tools.select_bf_subsets":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
@@ -4807,23 +8555,38 @@
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.tools.singlets2conc":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.tools.sort_by_position":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
   ]
  },
+ "clease.tools.sort_cf_names":{
+  "__set__":true,
+  "elements":[
+   "clease-0.10.0-py37h3b38789_0"
+  ]
+ },
  "clease.tools.species_chempot2eci":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0"
   ]
  },
  "clease.tools.split_dataset":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4832,6 +8595,7 @@
  "clease.tools.str2nested_list":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4840,6 +8604,7 @@
  "clease.tools.symbols2integer":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4848,6 +8613,7 @@
  "clease.tools.trans_matrix_index2tags":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4856,6 +8622,7 @@
  "clease.tools.update_db":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
@@ -4864,6 +8631,7 @@
  "clease.tools.wrap_and_sort_by_position":{
   "__set__":true,
   "elements":[
+   "clease-0.10.0-py37h3b38789_0",
    "clease-0.9.11-py38hbf1eeb5_0",
    "clease-0.9.5-py36h79cbd7a_0",
    "clease-0.9.5-py36h9de70de_0"
