@@ -3041,7 +3041,8 @@
   "__set__":true,
   "elements":[
    "backports.lzma-0.0.8-py35_0",
-   "backports.lzma-0.0.8-py36_0"
+   "backports.lzma-0.0.8-py36_0",
+   "ssl_match_hostname-3.5.0.1-py27_1001"
   ]
  },
  "backports._datetime_fromisoformat.FixedOffset":{
@@ -3480,7 +3481,8 @@
   "__set__":true,
   "elements":[
    "backports.lzma-0.0.8-py35_0",
-   "backports.lzma-0.0.8-py36_0"
+   "backports.lzma-0.0.8-py36_0",
+   "ssl_match_hostname-3.5.0.1-py27_1001"
   ]
  },
  "backports.functools_lru_cache._CacheInfo":{
@@ -3696,6 +3698,54 @@
   "elements":[
    "backports.os-0.1.1-py37_1001",
    "backports.os-0.1.1-py39hde42818_1003"
+  ]
+ },
+ "backports.ssl_match_hostname":{
+  "__set__":true,
+  "elements":[
+   "ssl_match_hostname-3.5.0.1-py27_1001"
+  ]
+ },
+ "backports.ssl_match_hostname.CertificateError":{
+  "__set__":true,
+  "elements":[
+   "ssl_match_hostname-3.5.0.1-py27_1001"
+  ]
+ },
+ "backports.ssl_match_hostname.__version__":{
+  "__set__":true,
+  "elements":[
+   "ssl_match_hostname-3.5.0.1-py27_1001"
+  ]
+ },
+ "backports.ssl_match_hostname._dnsname_match":{
+  "__set__":true,
+  "elements":[
+   "ssl_match_hostname-3.5.0.1-py27_1001"
+  ]
+ },
+ "backports.ssl_match_hostname._ipaddress_match":{
+  "__set__":true,
+  "elements":[
+   "ssl_match_hostname-3.5.0.1-py27_1001"
+  ]
+ },
+ "backports.ssl_match_hostname._to_unicode":{
+  "__set__":true,
+  "elements":[
+   "ssl_match_hostname-3.5.0.1-py27_1001"
+  ]
+ },
+ "backports.ssl_match_hostname.ipaddress":{
+  "__set__":true,
+  "elements":[
+   "ssl_match_hostname-3.5.0.1-py27_1001"
+  ]
+ },
+ "backports.ssl_match_hostname.match_hostname":{
+  "__set__":true,
+  "elements":[
+   "ssl_match_hostname-3.5.0.1-py27_1001"
   ]
  },
  "backports.test.support":{

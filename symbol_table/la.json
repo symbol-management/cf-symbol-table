@@ -3347,16 +3347,48 @@
    "labours-10.6.0-pyhab24e00_0"
   ]
  },
+ "lagranto.CartoFigure":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.LagrantoRun":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.Tra":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.formats":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
  "lagranto.formats.__all__":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats._get_netcdf_traj_dim":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.formats._netcdf_time":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats._netcdf_time_to_datetime":{
@@ -3365,88 +3397,108 @@
    "lagranto-0.1.6-py27_0"
   ]
  },
+ "lagranto.formats._return_subset_netcdf":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
  "lagranto.formats.add_times_to_netcdf":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.datetime_to_hours_since_start":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.from_ascii":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.from_netcdf":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.get_ascii_header_variables":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.get_ascii_timestep_period":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.get_netcdf_startdate":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.header_to_date":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.hhmm2frac":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.hhmm_to_hours":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.repeat_time":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.time_since_start_to_datetime":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.to_ascii":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.to_netcdf":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.formats.v_datetime_to_h_since_start":{
@@ -3455,22 +3507,43 @@
    "lagranto-0.1.6-py27_0"
   ]
  },
+ "lagranto.formats.vectorized_datetime_to_hours":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
  "lagranto.hhmm2frac":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.lagranto":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto.LagrantoRun":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto.Tra":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.lagranto.__all__":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto._all__":{
@@ -3482,73 +3555,103 @@
  "lagranto.lagranto.caltra":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto.create_startf":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto.density":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto.intmpdir":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto.link_files":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto.select":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.lagranto.trace":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.plot_trajs":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.plotting":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.plotting.CartoFigure":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.plotting._get_segments":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.plotting.plot_trajs":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
+  ]
+ },
+ "lagranto.tools":{
+  "__set__":true,
+  "elements":[
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.tools.LagrantoException":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lagranto.tools.run_cmd":{
   "__set__":true,
   "elements":[
-   "lagranto-0.1.6-py27_0"
+   "lagranto-0.1.6-py27_0",
+   "lagranto-0.1.7-py27_1002"
   ]
  },
  "lal.CachedDetectors":{
