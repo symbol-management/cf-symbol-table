@@ -87853,19 +87853,22 @@
  "ligo.gracedb.__all__":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.__version__":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.cli":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.cli.Client":{
@@ -87898,10 +87901,1174 @@
    "ligo-gracedb-2.0.1-py_1"
   ]
  },
+ "ligo.gracedb.cli.client":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.CommandBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.CommandLineClient":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.CommandLineInterface":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.DEFAULT_SERVICE_URL":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.GraceDb":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.HTTPError":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.VERSION_STRING":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.__version__":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.command_registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.client.main":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
  "ligo.gracedb.cli.code":{
   "__set__":true,
   "elements":[
    "ligo-gracedb-2.0.1-py_1"
+  ]
+ },
+ "ligo.gracedb.cli.commands":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.AddCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.ConfirmAsGwCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.CreateCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.CredentialsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.DeleteCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.ExposeCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.GetCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.HideCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.ListCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.PingCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.RemoveCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.SearchCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.ShowCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.UpdateCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.__all__":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.add":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.add.AddChildBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.add.AddCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.add.AddEventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.add.AddLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.add.AddTagCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.add.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.add.registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.base":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.base.CommandBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.base.RegisteredCommandBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.base.RegisteredCommandMeta":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.base.RegisteredSubCommandBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.base.SubCommandBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.base.SubCommandBase.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.base.command_registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.command_registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.CreateChildBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.CreateCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.CreateEmobservationCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.CreateEventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.CreateLogCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.CreateSignoffCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.CreateSupereventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.CreateVoeventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.create.registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.delete":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.delete.DeleteChildBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.delete.DeleteCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.delete.DeleteSignoffCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.delete.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.delete.registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetChildBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetEmobservationCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetEventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetFileCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetLogCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetSignoffCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetSupereventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.GetVoeventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.get.registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListChildBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListEmobservationsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListFilesCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListLabelsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListLogsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListSignoffsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListTagsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.ListVoeventsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.list.registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.remove":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.remove.RemoveChildBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.remove.RemoveCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.remove.RemoveEventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.remove.RemoveLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.remove.RemoveTagCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.remove.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.remove.registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.search":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.search.SearchChildBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.search.SearchCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.search.SearchEventsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.search.SearchSupereventsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.search.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.search.registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.subcommands":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.subcommands.ConfirmAsGwCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.subcommands.CredentialsCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.subcommands.ExposeCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.subcommands.HideCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.subcommands.PingCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.subcommands.ShowCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.subcommands.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_add":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_add.TAG_DISPLAY_NAMES":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_add.test_add_event_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_add.test_add_label_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_add.test_add_tag_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.EMO_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.EVENT_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.LOG_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.SIGNOFF_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.SUPEREVENT_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.VOEVENT_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.VOEVENT_TEST_DICT":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.test_create_emobservation_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.test_create_event_legacy_usage":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.test_create_event_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.test_create_log_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.test_create_signoff_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.test_create_superevent_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_create.test_create_voevent_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_delete":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_delete.SIGNOFF_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_delete.test_delete_signoff_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.FILE_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.SIGNOFF_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.test_get_emobservation_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.test_get_event_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.test_get_file_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.test_get_label_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.test_get_log_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.test_get_signoff_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.test_get_superevent_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_get.test_get_voevent_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_commands":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_commands.COMMANDS_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_commands.test_bad_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_commands.test_command_help":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_commands.test_subcommands":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.SUBCOMMANDS_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.ShowCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.test_confirm_as_gw_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.test_credentials_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.test_expose_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.test_hide_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.test_ping_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.test_show_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level1_subcommands.test_subcommand_help":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level2_subcommands_help":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level2_subcommands_help.SUBCOMMANDS_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_level2_subcommands_help.test_subcommand_help":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_list":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_list.TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_list.test_list_subcommands":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_list.test_list_tags_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_remove":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_remove.test_remove_event_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_remove.test_remove_label_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_remove.test_remove_tag_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_search":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_search.CMD_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_search.test_search_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_update":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_update.SIGNOFF_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_update.SUPEREVENT_TEST_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_update.test_update_event_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_update.test_update_signoff_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.tests.test_update.test_update_superevent_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.update":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.update.UpdateChildBase":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.update.UpdateCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.update.UpdateEventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.update.UpdateSignoffCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.update.UpdateSupereventCommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.update.parent_parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.update.registry":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.utils":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.commands.utils.parse_delimited_string":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.conftest":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.conftest.CLI":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.conftest.CommandLineInterface":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.conftest.expected_subcommands":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.conftest.main":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.conftest.main_tester":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.cli.defaultAccess":{
@@ -87934,6 +89101,150 @@
    "ligo-gracedb-2.0.1-py_1"
   ]
  },
+ "ligo.gracedb.cli.parsers":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.parsers.CustomHelpArgumentParser":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.parsers.comment_parser":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.parsers.graceid_parser":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.parsers.label_parser":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.parsers.object_id_parser":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.parsers.superevent_id_parser":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.parsers.tag_parser":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_cli":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_cli.test_cli_bad_subcommand":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_cli.test_cli_client_setup":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_cli.test_cli_help":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_cli.test_cli_subcommands_content":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.EXCEPTION_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.HTTPError":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.MSG_DATA":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.test_main_with_bad_response":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.test_main_with_exception_in_CLI_call":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.test_main_with_exception_in_response_json":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.test_main_with_ok_response":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.test_main_with_str_response":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.cli.tests.test_main.test_main_with_unexpected_response_type":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
  "ligo.gracedb.cli.typeCodeMap":{
   "__set__":true,
   "elements":[
@@ -87955,49 +89266,135 @@
  "ligo.gracedb.exceptions":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.exceptions.HTTPError":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.DEFAULT_COLUMNS":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.DEFAULT_SERVICE_URL":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.GraceDb":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.GraceDbClient":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.code":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.defaultAccess":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.error":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.main":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.output":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.typeCodeMap":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.validTypes":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.legacy_cli.warning":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.logging":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.logging.GraceDbLogHandler":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.logging._END_OF_STREAM":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.logging._GraceDbLogFormatter":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.logging._GraceDbLogStream":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.logging.__all__":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.rest":{
@@ -88005,6 +89402,7 @@
   "elements":[
    "ligo-followup-advocate-1.0.1-py_0",
    "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0",
    "ligo.skymap-0.1.11-py37h2c3e1fe_0",
    "ligo.skymap-0.1.13-py37h644b542_0",
    "ligo.skymap-0.2.0-py36h8fd5ab0_0",
@@ -88024,6 +89422,7 @@
   "__set__":true,
   "elements":[
    "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0",
    "ligo-raven-1.15-py36_0"
   ]
  },
@@ -88031,13 +89430,15 @@
   "__set__":true,
   "elements":[
    "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0",
    "ligo-raven-1.15-py36_0"
   ]
  },
  "ligo.gracedb.rest.GsiRest":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.rest.KNOWN_TEST_HOSTS":{
@@ -88049,19 +89450,22 @@
  "ligo.gracedb.rest.ProxyHTTPConnection":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.rest.ProxyHTTPSConnection":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.rest.encode_multipart_formdata":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.rest.findUserCredentials":{
@@ -88073,25 +89477,347 @@
  "ligo.gracedb.rest.get_content_type":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.rest.wrap_socket_orig":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.rest.wrap_socket_patched":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.test":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.IntegrationTestSuite":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.TestEvents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.TestLabels":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.TestSuperevents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.VOEventTestSuite":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.base":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.base.GraceDb":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.base.TestGraceDb":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.loader":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.suite":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_class":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_classes":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.CLI":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.CMDS":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.CommandLineInterface":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.TEST_DATA_DIR":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.TEST_SERVICE":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.run_CLI_test":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_add_event_to_superevent":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_confirm_as_gw":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_create_event":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_create_superevent":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_emobservations":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_get_event":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_get_superevent":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_labels":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_logs_files":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_permissions":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_ping":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_remove_event_from_superevent":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_search_events":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_search_superevents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_show":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_signoffs":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_tags":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_update_event":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_update_superevent":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_cli.test_voevents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_events":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_events.GraceDb":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_events.TestEvents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_labels":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_labels.TestLabels":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_suites":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_superevents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_superevents.GraceDb":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_superevents.HTTPError":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_superevents.TestSuperevents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_voevents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_voevents.TestVOEvents":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.integration.test_voevents.VOEventTestSuite":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.test.test":{
@@ -88146,6 +89872,24 @@
   "__set__":true,
   "elements":[
    "ligo-gracedb-2.0.1-py_1"
+  ]
+ },
+ "ligo.gracedb.test.test_client":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.test_client.GraceDb":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
+  ]
+ },
+ "ligo.gracedb.test.test_client.TestClientSetup":{
+  "__set__":true,
+  "elements":[
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.test.test_labels":{
@@ -88211,67 +89955,78 @@
  "ligo.gracedb.utils":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.utils.EVENT_PREFIXES":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.utils.cleanListInput":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.utils.event_or_superevent":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.utils.event_prefix_regex":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.utils.get_dt_from_openssl_output":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.utils.handle_str_or_list_arg":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.utils.is_expired":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.utils.safe_netrc":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.version":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.gracedb.version.__version__":{
   "__set__":true,
   "elements":[
-   "ligo-gracedb-2.0.1-py_1"
+   "ligo-gracedb-2.0.1-py_1",
+   "ligo-gracedb-2.2.0-py_0"
   ]
  },
  "ligo.lvalert.DEFAULT_SERVER":{
