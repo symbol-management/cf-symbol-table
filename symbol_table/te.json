@@ -34399,6 +34399,7 @@
    "portalocker-1.4.0-py36_1",
    "pyathena-1.5.0-py27_0",
    "pykafka-2.6.0-py35_0",
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0",
    "pyrobuf-0.8.6-py37hf484d3e_0",
    "pyrobuf-0.9.0-py27hc56fc5f_0",
@@ -34497,12 +34498,14 @@
  "tests.conftest.TestProcessedProperties":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.conftest.TestProcessedProperties.TestProcessedProperties":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -42870,6 +42873,7 @@
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
    "jaws-0.7.1-py27_0",
+   "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.8.2-py36_0"
   ]
@@ -42896,6 +42900,7 @@
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
    "jaws-0.7.1-py27_0",
+   "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.8.2-py36_0"
   ]
@@ -42910,6 +42915,7 @@
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
    "jaws-0.7.1-py27_0",
+   "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.8.2-py36_0"
   ]
@@ -42924,6 +42930,7 @@
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
    "jaws-0.7.1-py27_0",
+   "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.8.2-py36_0"
   ]
@@ -42938,6 +42945,7 @@
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
    "jaws-0.7.1-py27_0",
+   "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.8.2-py36_0"
   ]
@@ -42952,6 +42960,7 @@
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
    "jaws-0.7.1-py27_0",
+   "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.8.2-py36_0"
   ]
@@ -42966,6 +42975,7 @@
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
    "jaws-0.7.1-py27_0",
+   "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.8.2-py36_0"
   ]
@@ -42980,6 +42990,7 @@
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
    "jaws-0.7.1-py27_0",
+   "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.8.2-py36_0"
   ]
@@ -44557,6 +44568,72 @@
   "__set__":true,
   "elements":[
    "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_basic_regression":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.DEFAULT_ARGS":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.MAX_ERR_DECIMALS":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.PDB_DIR":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.RESULTS_DIR":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.TEST_DIR":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression._LOGGER":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.compare_output":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.get_test_dirs":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.run_propka":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_basic_regression.test_regression":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
   ]
  },
  "tests.test_block":{
@@ -47101,6 +47178,18 @@
   "__set__":true,
   "elements":[
    "hickle-3.4.5-py_0"
+  ]
+ },
+ "tests.test_hybrid36":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_hybrid36.Hybrid36Test":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
   ]
  },
  "tests.test_imported_enums":{
@@ -50301,6 +50390,36 @@
    "pyathena-1.5.0-py27_0"
   ]
  },
+ "tests.test_run":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_run._LOGGER":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_run.test_single_extra_files_logwarn":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_run.test_single_file":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_run.test_single_nopka":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
  "tests.test_s3_specific":{
   "__set__":true,
   "elements":[
@@ -50864,6 +50983,54 @@
   "__set__":true,
   "elements":[
    "esmlab-0.0.1-py_0"
+  ]
+ },
+ "tests.test_streamio":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_streamio._LOGGER":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_streamio.get_paths":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_streamio.run_propka_stream":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_streamio.test_stringio_filestream":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_streamio.test_textio_filestream":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_streamio.test_valuerror_nofiletype":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
+  ]
+ },
+ "tests.test_streamio.test_valuerror_notpdb":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
   ]
  },
  "tests.test_substitute":{
@@ -52615,7 +52782,8 @@
   "elements":[
    "jupyter_server-1.0.4-py39hde42818_1",
    "jupyter_server-1.0.6-py38h578d9bd_0",
-   "jupyter_server-1.1.1-py39hf3d152e_0"
+   "jupyter_server-1.1.1-py39hf3d152e_0",
+   "propka-3.4.0-py36he2ddec3_0"
   ]
  },
  "tests.test_version.pep440re":{
@@ -52656,6 +52824,12 @@
    "jupyter_server-1.0.4-py39hde42818_1",
    "jupyter_server-1.0.6-py38h578d9bd_0",
    "jupyter_server-1.1.1-py39hf3d152e_0"
+  ]
+ },
+ "tests.test_version.test_version":{
+  "__set__":true,
+  "elements":[
+   "propka-3.4.0-py36he2ddec3_0"
   ]
  },
  "tests.test_wrapper":{
@@ -52866,6 +53040,7 @@
  "tests.unit":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53106,12 +53281,14 @@
  "tests.unit.processed_property":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_cast":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53124,108 +53301,126 @@
  "tests.unit.processed_property.test_compare":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.FIXTURE_LOWER_BOUND":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.FIXTURE_UPPER_BOUND":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.compare_equal_float_fixture":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.compare_exclusive_float_fixture":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.compare_exclusive_int_fixture":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.compare_fixture":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.compare_inclusive_float_fixture":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.compare_inclusive_int_fixture":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.make_fixture":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.test_invalid_equal_float_comparison_raises_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.test_invalid_equal_int_comparison_raises_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.test_invalid_exclusive_float_comparison_raises_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.test_invalid_exclusive_int_comparison_raises_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.test_invalid_inclusive_float_comparison_raises_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.test_invalid_inclusive_int_comparison_raises_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.test_valid_init_values_do_not_raise_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_compare.test_valid_setter_values_do_not_raise_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53256,138 +53451,161 @@
  "tests.unit.processed_property.test_general":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_boolean_type_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_bound_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_cast_to_string":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_error_message_for_options":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_float_type_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_integer_type_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_iterable_allowed_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_iterable_type_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_length_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_max_value_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_max_value_excl_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_min_value_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_min_value_excl_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_optimisable_arg_passing":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_optimisable_error_handling":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_optimisable_error_messaging_for_non_64_bit_bounds":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_optional_default_object_return":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_optional_return":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_options_settable":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_string_type_checking":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_general.test_type_checking_correct_when_property_updated":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_iterable":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53406,6 +53624,7 @@
  "tests.unit.processed_property.test_optimisable":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53436,90 +53655,105 @@
  "tests.unit.processed_property.test_option":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.ClassWithOptionProperties":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.OPTION_1_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.OPTION_2_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.OPTION_3_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.OPTION_4_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.OPTION_5_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.test_correct_initialisation_class_with_option_properties":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.test_fixture":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.test_instantiation_class_with_option_properties":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.test_missing_option_kwarg_with_unsupported_option":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.test_multiple_option_all_are_unsupported_option":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.test_no_option_with_unsupported_option":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.test_option_creation_from_dict_keys":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_option.test_raises_value_error_with_invalid_option":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53532,18 +53766,21 @@
  "tests.unit.processed_property.test_option.test_single_option_all_unsupported_option":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_parse_kwargs":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_post_method":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53598,162 +53835,189 @@
  "tests.unit.processed_property.test_str_format":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_1":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_1_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_2":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_2_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_3":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_3_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_4":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_4_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_5":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.EXAMPLE_STR_5_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.HYPHEN_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.LOWER_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.PASCAL_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.SNAKE_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.START_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.TITLE_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.UPPER_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_str_format.test_formatted_string_expected_result":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_type_repr_error_msg":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_type_repr_error_msg.ClassWithOptionsProperty":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_type_repr_error_msg.OPTIONS":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_type_repr_error_msg.UNSUPPORTED_OPTIONS":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_type_repr_error_msg.supported_options":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_type_repr_error_msg.test_invalid_options_raise_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_type_repr_error_msg.test_unsupported_options_raise_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.processed_property.test_type_repr_error_msg.test_valid_options_set_correctly":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53772,42 +54036,49 @@
  "tests.unit.test_named_iterable":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_named_iterable.TestNamedIterable":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_named_iterable.test_invalid_identifiers":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_named_iterable.test_make_named_iterable_not_iterable":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_named_iterable.test_named_iterable_creation_as_mapping":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_named_iterable.test_named_iterable_creation_data_object":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_named_iterable.test_named_iterable_creation_keyword_raises_error":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
@@ -53832,138 +54103,161 @@
  "tests.unit.test_str_format_function":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_1":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_1_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_2":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_2_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_3":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_3_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_4":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_4_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_5":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.EXAMPLE_STR_5_FORMATTED":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.HYPHEN_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.LOWER_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.PASCAL_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.SNAKE_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.START_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.TITLE_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.UPPER_KEYWORD":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_str_format_function.test_formatted_string_method_expected_result_with_processing":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_utils":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_utils.ClassWithProcessedProperties":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_utils.test_generate_name_description_error_message_min_max_prop":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
  "tests.unit.test_utils.test_generate_name_description_error_message_options_prop":{
   "__set__":true,
   "elements":[
+   "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
   ]
  },
