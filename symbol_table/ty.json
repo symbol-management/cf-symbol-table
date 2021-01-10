@@ -1689,14 +1689,16 @@
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Any":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.AnyMeta":{
@@ -1709,60 +1711,87 @@
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing.AsyncContextManager":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing.AsyncGenerator":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.AsyncIterable":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.AsyncIterator":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Awaitable":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.BinaryIO":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.ByteString":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.CT_co":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Callable":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing.ChainMap":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.ClassVar":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.ClassVarMeta":{
@@ -1774,185 +1803,224 @@
  "typing.Collection":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Container":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.ContextManager":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Coroutine":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Counter":{
   "__set__":true,
   "elements":[
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.DefaultDict":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Deque":{
   "__set__":true,
   "elements":[
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Dict":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.FrozenSet":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Generator":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Generic":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Hashable":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.IO":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.ItemsView":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Iterable":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Iterator":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.KT":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.KeysView":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.List":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Mapping":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Match":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing.MethodDescriptorType":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing.MethodWrapperType":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.MutableMapping":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.MutableSequence":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.MutableSet":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.NamedTuple":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.NewType":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.NoReturn":{
   "__set__":true,
   "elements":[
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.NoReturnMeta":{
@@ -1965,7 +2033,8 @@
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.OptionalMeta":{
@@ -1978,145 +2047,166 @@
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Reversible":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Sequence":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Set":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Sized":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.SupportsAbs":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.SupportsBytes":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.SupportsComplex":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.SupportsFloat":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.SupportsInt":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.SupportsRound":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.T":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.TYPE_CHECKING":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.T_co":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.T_contra":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Text":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.TextIO":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Tuple":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Type":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.TypingMeta":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.Union":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.UnionMeta":{
@@ -2129,145 +2219,178 @@
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.VT_co":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.V_co":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.ValuesView":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing.WrapperDescriptorType":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._Any":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._ClassVar":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._FinalTypingBase":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._ForwardRef":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._G_base":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._NoReturn":{
   "__set__":true,
   "elements":[
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._Optional":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._PY36":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._Protocol":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._TypeAlias":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._TypingBase":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._TypingEllipsis":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._TypingEmpty":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._Union":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.__all__":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing._allowed_types":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._check_generic":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._cleanups":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._copy_generic":{
@@ -2280,14 +2403,16 @@
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._generic_new":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._geqv":{
@@ -2300,14 +2425,16 @@
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._get_type_vars":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._gorg":{
@@ -2319,97 +2446,123 @@
  "typing._make_nmtuple":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._make_subclasshook":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._next_in_mro":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._no_slots_copy":{
   "__set__":true,
   "elements":[
-   "typing-3.5.3.0-py36_0"
+   "typing-3.5.3.0-py36_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._overload_dummy":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing._prohibited":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._qualname":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._remove_dups_flatten":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._replace_arg":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
+  ]
+ },
+ "typing._special":{
+  "__set__":true,
+  "elements":[
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._subs_tree":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._tp_cache":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._trim_name":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._type_check":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._type_repr":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._type_vars":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing._valid_for_check":{
@@ -2422,42 +2575,48 @@
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.get_type_hints":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.io":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.no_type_check":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.overload":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing.re":{
   "__set__":true,
   "elements":[
    "typing-3.5.3.0-py36_0",
-   "typing-3.6.6-py27_0"
+   "typing-3.6.6-py27_0",
+   "typing-3.6.6-py35_0"
   ]
  },
  "typing_extensions.Annotated":{
