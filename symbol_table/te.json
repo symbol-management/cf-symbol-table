@@ -30958,6 +30958,7 @@
    "regex-2018.07.11-py36h470a237_0",
    "regex-2018.08.29-py37hfa6e2cd_0",
    "regex-2018.11.03-py37h1de35cc_1000",
+   "regex-2018.11.07-py27h470a237_0",
    "regex-2018.11.07-py37h470a237_0",
    "regex-2019.02.06-py27h14c3975_0"
   ]
@@ -30985,6 +30986,7 @@
    "regex-2016.10.22-py27_0",
    "regex-2017.11.09-py27_0",
    "regex-2017.12.05-py27_0",
+   "regex-2018.11.07-py27h470a237_0",
    "regex-2019.02.06-py27h14c3975_0"
   ]
  },
@@ -31005,6 +31007,7 @@
    "regex-2018.07.11-py36h470a237_0",
    "regex-2018.08.29-py37hfa6e2cd_0",
    "regex-2018.11.03-py37h1de35cc_1000",
+   "regex-2018.11.07-py27h470a237_0",
    "regex-2018.11.07-py37h470a237_0",
    "regex-2019.02.06-py27h14c3975_0"
   ]
@@ -34761,6 +34764,7 @@
   "__set__":true,
   "elements":[
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "ipywebrtc-0.4.0-py35_1",
    "ipywebrtc-0.4.2-py27_1000",
    "ipywebrtc-0.4.3-py27_1000"
@@ -34770,6 +34774,7 @@
   "__set__":true,
   "elements":[
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "ipywebrtc-0.4.0-py35_1",
    "ipywebrtc-0.4.2-py27_1000",
    "ipywebrtc-0.4.3-py27_1000"
@@ -34779,6 +34784,7 @@
   "__set__":true,
   "elements":[
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "ipywebrtc-0.4.0-py35_1",
    "ipywebrtc-0.4.2-py27_1000",
    "ipywebrtc-0.4.3-py27_1000"
@@ -34787,13 +34793,21 @@
  "tests.binary_serialization_test.test_binary_serialize_text":{
   "__set__":true,
   "elements":[
-   "bqplot-0.12.1-py_0"
+   "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0"
   ]
  },
  "tests.binary_serialization_test.test_dtype_with_str":{
   "__set__":true,
   "elements":[
-   "bqplot-0.12.1-py_0"
+   "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.binary_serialization_test.test_serialize_nested_list":{
+  "__set__":true,
+  "elements":[
+   "bqplot-0.12.15-pyh9f0ad1d_0"
   ]
  },
  "tests.bst_parser_test":{
@@ -35003,6 +35017,7 @@
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py38h32f6830_0",
    "cloudpathlib-0.1.1-py36h9f0ad1d_0",
@@ -35274,6 +35289,7 @@
   "__set__":true,
   "elements":[
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "ipywebrtc-0.4.0-py35_1",
    "ipywebrtc-0.4.2-py27_1000",
    "ipywebrtc-0.4.3-py27_1000"
@@ -35506,13 +35522,15 @@
  "tests.conftest.scale_ordinal":{
   "__set__":true,
   "elements":[
-   "bqplot-0.12.1-py_0"
+   "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0"
   ]
  },
  "tests.conftest.scale_x":{
   "__set__":true,
   "elements":[
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "ipywebrtc-0.4.0-py35_1",
    "ipywebrtc-0.4.2-py27_1000",
    "ipywebrtc-0.4.3-py27_1000"
@@ -35522,6 +35540,7 @@
   "__set__":true,
   "elements":[
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "ipywebrtc-0.4.0-py35_1",
    "ipywebrtc-0.4.2-py27_1000",
    "ipywebrtc-0.4.3-py27_1000"
@@ -35530,7 +35549,8 @@
  "tests.conftest.scales":{
   "__set__":true,
   "elements":[
-   "bqplot-0.12.1-py_0"
+   "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0"
   ]
  },
  "tests.conftest.set_temporary_working_dir":{
@@ -39640,6 +39660,7 @@
   "__set__":true,
   "elements":[
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "ipywebrtc-0.4.0-py35_1",
    "ipywebrtc-0.4.2-py27_1000",
    "ipywebrtc-0.4.3-py27_1000"
@@ -39648,19 +39669,22 @@
  "tests.marks_test.test_bars":{
   "__set__":true,
   "elements":[
-   "bqplot-0.12.1-py_0"
+   "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0"
   ]
  },
  "tests.marks_test.test_lines":{
   "__set__":true,
   "elements":[
-   "bqplot-0.12.1-py_0"
+   "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0"
   ]
  },
  "tests.marks_test.test_scatter":{
   "__set__":true,
   "elements":[
    "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0",
    "ipywebrtc-0.4.0-py35_1",
    "ipywebrtc-0.4.2-py27_1000",
    "ipywebrtc-0.4.3-py27_1000"
@@ -42642,13 +42666,15 @@
  "tests.selector_test":{
   "__set__":true,
   "elements":[
-   "bqplot-0.12.1-py_0"
+   "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0"
   ]
  },
  "tests.selector_test.test_brush_selector":{
   "__set__":true,
   "elements":[
-   "bqplot-0.12.1-py_0"
+   "bqplot-0.12.1-py_0",
+   "bqplot-0.12.15-pyh9f0ad1d_0"
   ]
  },
  "tests.services":{
