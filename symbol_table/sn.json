@@ -20,19 +20,22 @@
  "snappy.StreamCompressor":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "snappy.StreamDecompressor":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "snappy.UncompressError":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "snappy._CHUNK_MAX":{
@@ -89,6 +92,24 @@
    "python-snappy-0.5-py36_0"
   ]
  },
+ "snappy.__main__":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.__main__.cmdline_main":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.__main__.err":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
  "snappy._compress":{
   "__set__":true,
   "elements":[
@@ -122,37 +143,403 @@
  "snappy.compress":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "snappy.decompress":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy.SNAPPY_BUFFER_SIZE_DEFAULT":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy.StreamCompressor":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy.StreamDecompressor":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy._INT_SIZE":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy._STREAM_TO_STREAM_BLOCK_SIZE":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy.check_format":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy.pack_int":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy.stream_compress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy.stream_decompress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_snappy.unpack_int":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_stream_compress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.hadoop_stream_decompress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "snappy.isValidCompressed":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.StreamCompressor":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.StreamDecompressor":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._CHUNK_MAX":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._COMPRESSED_CHUNK":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._COMPRESSION_THRESHOLD":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._IDENTIFIER_CHUNK":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._RESERVED_SKIPPABLE":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._RESERVED_UNSKIPPABLE":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._STREAM_IDENTIFIER":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._STREAM_TO_STREAM_BLOCK_SIZE":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._UNCOMPRESSED_CHUNK":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._compress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._masked_crc32c":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy._uncompress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.check_format":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.compress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.decompress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.py3k":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.stream_compress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.stream_decompress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.uncompress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy.unicode":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi.SnappyBufferSmallError":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi.UncompressError":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi._crc32c":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi.compress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi.decompress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi.isValidCompressed":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi.prepare":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi.uncompress":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi.unicode":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_cffi_builder":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats.ALL_SUPPORTED_FORMATS":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats.DEFAULT_FORMAT":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats.FORMAT_AUTO":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats.FRAMING_FORMAT":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats.HADOOP_FORMAT":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats._COMPRESS_METHODS":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats._DECOMPRESS_FORMAT_FUNCS":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats._DECOMPRESS_METHODS":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats._DEFAULT_COMPRESS_FORMAT":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats.get_compress_function":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats.get_decompress_function":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
+  ]
+ },
+ "snappy.snappy_formats.guess_format_by_header":{
+  "__set__":true,
+  "elements":[
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "snappy.stream_compress":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "snappy.stream_decompress":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "snappy.uncompress":{
   "__set__":true,
   "elements":[
-   "python-snappy-0.5-py36_0"
+   "python-snappy-0.5-py36_0",
+   "python-snappy-0.5.4-py38h7cfaab3_1"
   ]
  },
  "sncosmo.ABMagSystem":{
