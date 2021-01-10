@@ -6557,18 +6557,104 @@
    "funcy-1.7.2-py35_0"
   ]
  },
+ "funtests.config":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.config.BROKER_HOST":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.config.BROKER_PASSWORD":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.config.BROKER_PORT":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.config.BROKER_USER":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.config.BROKER_VHOST":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.config.BrokerCase":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.disabled_basic_get_leak":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.disabled_basic_get_leak.c":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.disabled_basic_get_leak.i":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.disabled_basic_get_leak.x":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
  "funtests.setup":{
   "__set__":true,
   "elements":[
    "billiard-3.3.0.23-py34_0",
-   "billiard-3.3.0.23-py35_1"
+   "billiard-3.3.0.23-py35_1",
+   "librabbitmq-1.6.1-py27_1"
   ]
  },
  "funtests.setup.no_install":{
   "__set__":true,
   "elements":[
    "billiard-3.3.0.23-py34_0",
-   "billiard-3.3.0.23-py35_1"
+   "billiard-3.3.0.23-py35_1",
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.tests":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.tests.test_channel_errors":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
+  ]
+ },
+ "funtests.tests.test_channel_errors.test_channel_failures":{
+  "__set__":true,
+  "elements":[
+   "librabbitmq-1.6.1-py27_1"
   ]
  },
  "fusesoc.__version__":{
