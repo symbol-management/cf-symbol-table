@@ -36621,6 +36621,7 @@
    "pyrobuf-0.9.0-py36hbd05846_1",
    "pyrobuf-0.9.0-py38hb99c5c2_1",
    "pyrobuf-0.9.3-py38h11c0d25_1",
+   "pytmc-2.6.6-py_0",
    "quilt3-3.0.6-py37_1",
    "quilt3-3.1.13-py36h9f0ad1d_0",
    "quilt3-3.1.5-py37_0",
@@ -36657,6 +36658,12 @@
    "cloudpathlib-0.1.1-py36h9f0ad1d_0"
   ]
  },
+ "tests.conftest.DBD_FILE":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
  "tests.conftest.ENV":{
   "__set__":true,
   "elements":[
@@ -36675,6 +36682,18 @@
    "tomlkit-0.6.0-py37hc8dfbb8_0",
    "tomlkit-0.7.0-py36h79c6626_1",
    "tomlkit-0.7.0-py38h32f6830_1"
+  ]
+ },
+ "tests.conftest.INVALID_TMC_FILES":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.PROJ_ROOT":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.conftest.PY_35":{
@@ -36711,6 +36730,30 @@
    "tomlkit-0.6.0-py37hc8dfbb8_0",
    "tomlkit-0.7.0-py36h79c6626_1",
    "tomlkit-0.7.0-py38h32f6830_1"
+  ]
+ },
+ "tests.conftest.TEST_PATH":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.TMC_FILES":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.TMC_ROOT":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.TSPROJ_PROJECTS":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.conftest.TestProcessedProperties":{
@@ -36765,6 +36808,12 @@
   "__set__":true,
   "elements":[
    "pyathena-1.5.0-py27_0"
+  ]
+ },
+ "tests.conftest._generate_project_and_plcs":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.conftest._setup_session":{
@@ -36928,6 +36977,18 @@
    "tomlkit-0.7.0-py38h32f6830_1"
   ]
  },
+ "tests.conftest.lint_record":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.logger":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
  "tests.conftest.loop":{
   "__set__":true,
   "elements":[
@@ -36976,6 +37037,12 @@
   "elements":[
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py38h32f6830_0"
+  ]
+ },
+ "tests.conftest.project":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.conftest.ps_series":{
@@ -37174,6 +37241,30 @@
   "elements":[
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py38h32f6830_0"
+  ]
+ },
+ "tests.conftest.tmc_arbiter_plc":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.tmc_filename":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.tmc_pmps_dev_arbiter":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.tmc_xtes_sxr_plc":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.conftest.tmp_netcdf_filename":{
@@ -46632,6 +46723,24 @@
    "labelme-3.16.1-py36h47b7e1a_0"
   ]
  },
+ "tests.test_archive":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_archive.get_record_package":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_archive.test_archive":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
  "tests.test_argument_parser":{
   "__set__":true,
   "elements":[
@@ -48046,6 +48155,78 @@
   "__set__":true,
   "elements":[
    "portalocker-1.4.0-py36_1"
+  ]
+ },
+ "tests.test_commandline":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.project_filename_linter_success":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_code":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_db":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_debug":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_help_main":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_help_module":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_pragmalint":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_stcmd":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_summary":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_types":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_commandline.test_xmltranslate":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.test_commandline_entrypoint.TestEntryPointCommandline":{
@@ -50415,6 +50596,24 @@
    "suds-jurko-0.6-py37hc8dfbb8_1002"
   ]
  },
+ "tests.test_integrations":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_integrations.test_allow_no_pragma":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_integrations.test_global_pinned_variables":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
  "tests.test_is_initialized":{
   "__set__":true,
   "elements":[
@@ -51209,6 +51408,30 @@
    "explainerdashboard-0.2.12.1-pyhd3deb0d_0"
   ]
  },
+ "tests.test_lint":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_lint.make_pragma":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_lint.make_source":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_lint.test_lint_pragma":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
  "tests.test_lists":{
   "__set__":true,
   "elements":[
@@ -51598,6 +51821,18 @@
    "trio_asyncio-0.11.0-py37hc8dfbb8_0",
    "trio_asyncio-0.11.0-py37hc8dfbb8_2",
    "trio_asyncio-0.11.0-py38h32f6830_1"
+  ]
+ },
+ "tests.test_motion":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_motion.test_motion_stcmd":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.test_mrs":{
@@ -52683,6 +52918,30 @@
    "crystals-1.1.2-py_0"
   ]
  },
+ "tests.test_parsing":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_parsing.test_call_blocks":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_parsing.test_route_parsing":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_parsing.test_variables_from_declaration":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
  "tests.test_paths":{
   "__set__":true,
   "elements":[
@@ -52947,6 +53206,42 @@
   "__set__":true,
   "elements":[
    "aiomysql-0.0.9-py35_0"
+  ]
+ },
+ "tests.test_project":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_project.test_fb_motionstage_linking":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_project.test_load_and_repr":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_project.test_module_ads_port":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_project.test_smoke_ams_id":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_project.test_summarize":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.test_pypi":{
@@ -53252,6 +53547,30 @@
   "elements":[
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0"
+  ]
+ },
+ "tests.test_record":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_record.test_epics_record_render":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_record.test_epics_record_with_linter":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_record.test_sort_fields":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.test_regression_base":{
@@ -56612,6 +56931,204 @@
   "__set__":true,
   "elements":[
    "explainerdashboard-0.2.12.1-pyhd3deb0d_0"
+  ]
+ },
+ "tests.test_xml_collector":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.chain":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.logger":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.make_mock_twincatitem":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.make_mock_type":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_BaseRecordPackage_guess_FTVL":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_BaseRecordPackage_guess_NELM":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_BaseRecordPackage_guess_PREC":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_bool_naming":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_complex_array":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_dtype":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_enum_array":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_input_output_scan":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_pv_linking":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_record_package_from_chain":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_scalar":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_collector.test_unroll_formatting":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.branch_bool_pragma_string":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.branch_connection_pragma_string":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.branch_skip_pragma_string":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.empty_pv_pragma_string":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.leaf_bool_pragma_string_single_line":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.leaf_bool_pragma_string_w_semicolon":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.light_leaf_bool_pragma_string":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.logger":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.test_config_by_name":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.test_config_lines":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.test_config_names":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.test_fix_to_config_name":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.test_formatted_config_lines":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.test_get_config_lines":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.test_xml_obj.test_neaten_field":{
+  "__set__":true,
+  "elements":[
+   "pytmc-2.6.6-py_0"
   ]
  },
  "tests.testavro":{
