@@ -1,0 +1,292 @@
+{
+ "errors": {
+  "zodbpickle": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/__init__.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/__init__.py'",
+    ""
+   ]
+  },
+  "zodbpickle.fastpickle": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/fastpickle.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/fastpickle.py'",
+    ""
+   ]
+  },
+  "zodbpickle.pickle": {
+   "exception": "write to closed file",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 488, in wrapper",
+    "    return func(self, line, column, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 213, in complete",
+    "    return completion.complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 169, in complete",
+    "    cached_name, completion_names = self._complete_python(leaf)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 310, in _complete_python",
+    "    completion_names += self._complete_global_scope()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 375, in _complete_global_scope",
+    "    for filter in filters:",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/context.py\", line 487, in get_global_filters",
+    "    origin_scope=origin_scope",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/context.py\", line 326, in get_filters",
+    "    yield from filters",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/value/module.py\", line 71, in get_filters",
+    "    yield from self.iter_star_filters()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/value/module.py\", line 99, in iter_star_filters",
+    "    for star_module in self.star_imports():",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/cache.py\", line 44, in wrapper",
+    "    rv = function(obj, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/value/module.py\", line 119, in star_imports",
+    "    level=i.level",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/imports.py\", line 297, in follow",
+    "    self._inference_state, self.import_path, sys_path, self._module_context",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/imports.py\", line 383, in import_module_by_names",
+    "    ) for parent_module_value in value_set",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/imports.py\", line 383, in <listcomp>",
+    "    ) for parent_module_value in value_set",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/plugins/__init__.py\", line 21, in wrapper",
+    "    return built_functions[public_name](*args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/plugins/flask.py\", line 20, in wrapper",
+    "    return callback(inference_state, import_names, module_context, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/gradual/typeshed.py\", line 119, in wrapper",
+    "    for p in parent_module_values",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/base_value.py\", line 426, in from_sets",
+    "    for set_ in sets:",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/gradual/typeshed.py\", line 119, in <genexpr>",
+    "    for p in parent_module_values",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/imports.py\", line 434, in import_module",
+    "    is_global_search=False,",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 133, in wrapper",
+    "    kwargs=kwargs,",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 226, in run",
+    "    return self._send(id(inference_state), function, args, kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 241, in _send",
+    "    pickle_dump(data, self._get_process().stdin, PICKLE_PROTOCOL)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/_compatibility.py\", line 39, in pickle_dump",
+    "    pickle.dump(data, file, protocol)",
+    "ValueError: write to closed file",
+    ""
+   ]
+  },
+  "zodbpickle.pickle_3": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/pickle_3.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/pickle_3.py'",
+    ""
+   ]
+  },
+  "zodbpickle.pickletools_2": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/pickletools_2.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/pickletools_2.py'",
+    ""
+   ]
+  },
+  "zodbpickle.pickletools_3": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/pickletools_3.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/pickletools_3.py'",
+    ""
+   ]
+  },
+  "zodbpickle.slowpickle": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/slowpickle.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/slowpickle.py'",
+    ""
+   ]
+  },
+  "zodbpickle.tests": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/__init__.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/__init__.py'",
+    ""
+   ]
+  },
+  "zodbpickle.tests.pickletester_2": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/pickletester_2.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/pickletester_2.py'",
+    ""
+   ]
+  },
+  "zodbpickle.tests.pickletester_3": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/pickletester_3.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/pickletester_3.py'",
+    ""
+   ]
+  },
+  "zodbpickle.tests.test_pickle": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/test_pickle.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/test_pickle.py'",
+    ""
+   ]
+  },
+  "zodbpickle.tests.test_pickle_2": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/test_pickle_2.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/test_pickle_2.py'",
+    ""
+   ]
+  },
+  "zodbpickle.tests.test_pickle_3": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/test_pickle_3.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpijtyvqx4/lib/python2.7/site-packages/zodbpickle/tests/test_pickle_3.py'",
+    ""
+   ]
+  }
+ },
+ "symbols": [
+  "zodbpickle.binary",
+  "zodbpickle.pickle_2.APPEND",
+  "zodbpickle.pickle_2.APPENDS",
+  "zodbpickle.pickle_2.BINBYTES",
+  "zodbpickle.pickle_2.BINFLOAT",
+  "zodbpickle.pickle_2.BINGET",
+  "zodbpickle.pickle_2.BININT",
+  "zodbpickle.pickle_2.BININT1",
+  "zodbpickle.pickle_2.BININT2",
+  "zodbpickle.pickle_2.BINPERSID",
+  "zodbpickle.pickle_2.BINPUT",
+  "zodbpickle.pickle_2.BINSTRING",
+  "zodbpickle.pickle_2.BINUNICODE",
+  "zodbpickle.pickle_2.BUILD",
+  "zodbpickle.pickle_2.DEFAULT_PROTOCOL",
+  "zodbpickle.pickle_2.DICT",
+  "zodbpickle.pickle_2.DUP",
+  "zodbpickle.pickle_2.EMPTY_DICT",
+  "zodbpickle.pickle_2.EMPTY_LIST",
+  "zodbpickle.pickle_2.EMPTY_TUPLE",
+  "zodbpickle.pickle_2.EXT1",
+  "zodbpickle.pickle_2.EXT2",
+  "zodbpickle.pickle_2.EXT4",
+  "zodbpickle.pickle_2.FALSE",
+  "zodbpickle.pickle_2.FLOAT",
+  "zodbpickle.pickle_2.GET",
+  "zodbpickle.pickle_2.GLOBAL",
+  "zodbpickle.pickle_2.HIGHEST_PROTOCOL",
+  "zodbpickle.pickle_2.INST",
+  "zodbpickle.pickle_2.INT",
+  "zodbpickle.pickle_2.LIST",
+  "zodbpickle.pickle_2.LONG",
+  "zodbpickle.pickle_2.LONG1",
+  "zodbpickle.pickle_2.LONG4",
+  "zodbpickle.pickle_2.LONG_BINGET",
+  "zodbpickle.pickle_2.LONG_BINPUT",
+  "zodbpickle.pickle_2.MARK",
+  "zodbpickle.pickle_2.NEWFALSE",
+  "zodbpickle.pickle_2.NEWOBJ",
+  "zodbpickle.pickle_2.NEWTRUE",
+  "zodbpickle.pickle_2.NONE",
+  "zodbpickle.pickle_2.OBJ",
+  "zodbpickle.pickle_2.PERSID",
+  "zodbpickle.pickle_2.POP",
+  "zodbpickle.pickle_2.POP_MARK",
+  "zodbpickle.pickle_2.PROTO",
+  "zodbpickle.pickle_2.PUT",
+  "zodbpickle.pickle_2.PickleError",
+  "zodbpickle.pickle_2.Pickler",
+  "zodbpickle.pickle_2.PicklingError",
+  "zodbpickle.pickle_2.PyStringMap",
+  "zodbpickle.pickle_2.REDUCE",
+  "zodbpickle.pickle_2.SETITEM",
+  "zodbpickle.pickle_2.SETITEMS",
+  "zodbpickle.pickle_2.SHORT_BINBYTES",
+  "zodbpickle.pickle_2.SHORT_BINSTRING",
+  "zodbpickle.pickle_2.STOP",
+  "zodbpickle.pickle_2.STRING",
+  "zodbpickle.pickle_2.TRUE",
+  "zodbpickle.pickle_2.TUPLE",
+  "zodbpickle.pickle_2.TUPLE1",
+  "zodbpickle.pickle_2.TUPLE2",
+  "zodbpickle.pickle_2.TUPLE3",
+  "zodbpickle.pickle_2.UNICODE",
+  "zodbpickle.pickle_2.UnicodeType",
+  "zodbpickle.pickle_2.Unpickler",
+  "zodbpickle.pickle_2.UnpicklingError",
+  "zodbpickle.pickle_2._EmptyClass",
+  "zodbpickle.pickle_2._Stop",
+  "zodbpickle.pickle_2.__all__",
+  "zodbpickle.pickle_2.__version__",
+  "zodbpickle.pickle_2._keep_alive",
+  "zodbpickle.pickle_2._test",
+  "zodbpickle.pickle_2._tuplesize2code",
+  "zodbpickle.pickle_2.binary",
+  "zodbpickle.pickle_2.classmap",
+  "zodbpickle.pickle_2.compatible_formats",
+  "zodbpickle.pickle_2.decode_long",
+  "zodbpickle.pickle_2.dump",
+  "zodbpickle.pickle_2.encode_long",
+  "zodbpickle.pickle_2.format_version",
+  "zodbpickle.pickle_2.load",
+  "zodbpickle.pickle_2.mloads",
+  "zodbpickle.pickle_2.whichmodule"
+ ]
+}
