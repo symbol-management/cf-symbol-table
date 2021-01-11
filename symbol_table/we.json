@@ -13166,7 +13166,8 @@
  "webob.BaseRequest":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.CHARSET_RE":{
@@ -13232,7 +13233,8 @@
  "webob.LegacyRequest":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.LimitedLengthFile":{
@@ -13304,7 +13306,8 @@
  "webob.Request":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.RequestCookies":{
@@ -13316,7 +13319,8 @@
  "webob.Response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.ResponseHeaders":{
@@ -13340,7 +13344,8 @@
  "webob.UTC":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob._LATIN_ENCODINGS":{
@@ -13376,7 +13381,8 @@
  "webob.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob._cgi_FieldStorage__repr__patch":{
@@ -13460,13 +13466,15 @@
  "webob.acceptparse":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.acceptparse.Accept":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.acceptparse.AcceptCharset":{
@@ -13484,7 +13492,8 @@
  "webob.acceptparse.MIMEAccept":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.acceptparse.MIMENilAccept":{
@@ -13505,10 +13514,64 @@
    "webob-1.7.1-py27_0"
   ]
  },
+ "webob.acceptparse.OWS_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse._AcceptCharsetInvalidOrNoHeader":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse._AcceptEncodingInvalidOrNoHeader":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse._AcceptInvalidOrNoHeader":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse._AcceptLanguageInvalidOrNoHeader":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
  "webob.acceptparse._check_offer":{
   "__set__":true,
   "elements":[
    "webob-1.7.1-py27_0"
+  ]
+ },
+ "webob.acceptparse._item_n_weight_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse._item_qvalue_pair_to_header_element":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse._list_0_or_more__compiled_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse._list_1_or_more__compiled_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.acceptparse._trans_name":{
@@ -13517,10 +13580,53 @@
    "webob-1.7.1-py27_0"
   ]
  },
+ "webob.acceptparse.accept_charset_property":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.accept_encoding_property":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.accept_language_property":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
  "webob.acceptparse.accept_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.create_accept_charset_header":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.create_accept_encoding_header":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.create_accept_header":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.create_accept_language_header":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.acceptparse.header_docstring":{
@@ -13535,46 +13641,83 @@
    "webob-1.7.1-py27_0"
   ]
  },
+ "webob.acceptparse.qvalue_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.tchar_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.token_compiled_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.token_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.acceptparse.weight_re":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
  "webob.byterange":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.byterange.ContentRange":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.byterange.Range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.byterange.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.byterange._is_content_range_valid":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.byterange._rx_content_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.byterange._rx_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.bytes_":{
@@ -13586,49 +13729,57 @@
  "webob.cachecontrol":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cachecontrol.CacheControl":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cachecontrol.UpdateDict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cachecontrol.exists_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cachecontrol.need_quote_re":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cachecontrol.serialize_cache_control":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cachecontrol.token_re":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cachecontrol.value_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cgi_FieldStorage":{
@@ -13640,7 +13791,14 @@
  "webob.client":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.client.PY2":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.client.PY3":{
@@ -13652,169 +13810,209 @@
  "webob.client.SendRequest":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.client.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.client._e_refused":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.client.exc":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.client.send_request_app":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.client.url_quote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.compat.MutableMapping":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.compat.PY2":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.PY3":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.bytes_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.cgi_FieldStorage":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.class_types":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.escape":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.integer_types":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.iteritems_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.itervalues_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.long":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.native_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.parse_qsl_text":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.quote_plus":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.reraise":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.string_types":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.text_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.text_type":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.unquote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.url_encode":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.url_quote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.url_unquote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.compat.urlparse":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.converter":{
@@ -13826,31 +14024,48 @@
  "webob.cookies":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.Base64Serializer":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.Cookie":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.JSONSerializer":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.Morsel":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.cookies.MutableMapping":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.cookies.PY2":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.PY3":{
@@ -13862,319 +14077,384 @@
  "webob.cookies.RequestCookies":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.cookies.SAMESITE_VALIDATION":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.SignedCookieProfile":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.SignedSerializer":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.__warn_or_raise":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._allowed_cookie_bytes":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._allowed_cookie_chars":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._allowed_special_chars":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._b_dollar_sign":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._b_quote_mark":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._bchr":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._c_keys":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._c_renames":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._c_valkeys":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._ch_unquote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._default":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._domain_quote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._escape_char":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._escape_map":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._escape_noop_chars":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._legal_special_chars":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._marker":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._max_age_quote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._parse_cookie":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._path_quote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._re_cookie_str":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._re_cookie_str_equal":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._re_cookie_str_key":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._re_cookie_str_val":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._re_expires_val":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._re_legal_char":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._re_quoted":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._re_unquoted_val":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._rx_cookie":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._rx_unquote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._should_raise":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._unquote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._valid_cookie_name":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._valid_token_bytes":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._valid_token_chars":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies._value_quote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.bytes_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.cookie_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.make_cookie":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.months":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.native_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.parse_cookie":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.serialize_cookie_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.serialize_max_age":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.cookies.serialize_samesite":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.string_types":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.strings_differ":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.text_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.cookies.weekdays":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.date_header":{
@@ -14186,205 +14466,245 @@
  "webob.datetime_utils":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.UTC":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils._UTC":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils._now":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.day":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.hour":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.integer_types":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.long":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.minute":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.month":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.native_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.parse_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.parse_date_delta":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.second":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.serialize_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.serialize_date_delta":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.text_type":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.timedelta_to_seconds":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.week":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.datetime_utils.year":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.day":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec.HTTPException":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec.Request":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec._MiddlewareFactory":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec._UnboundMiddleware":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec.bytes_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec.text_type":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.dec.wsgify":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.CHARSET_RE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.ContentRange":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.descriptors.PY2":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.PY3":{
@@ -14396,193 +14716,231 @@
  "webob.descriptors.Range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.SCHEME_RE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.descriptors._authorization":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors._not_given":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors._rx_auth_param":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors._rx_etag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.converter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.date_header":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.deprecated_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.environ_decoder":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.environ_getter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.header_docstring":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.header_getter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.known_auth_schemes":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.list_header":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.parse_auth":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.parse_content_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.parse_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.parse_etag_response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.parse_int":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.parse_list":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.parse_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.serialize_auth":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.serialize_content_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.serialize_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.serialize_etag_response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.serialize_if_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.serialize_int":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.serialize_list":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.serialize_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.text_type":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.upath_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.descriptors.warn_deprecation":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.detect_charset":{
@@ -14618,55 +14976,64 @@
  "webob.etag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.AnyETag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.ETagMatcher":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.IfRange":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.NoETag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag._AnyETag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag._NoETag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag._rx_etag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag._warn_if_range_match_deprecated":{
@@ -14684,25 +15051,29 @@
  "webob.etag.etag_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.header_docstring":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.parse_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.serialize_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.etag.warn_deprecation":{
@@ -14720,325 +15091,379 @@
  "webob.exc":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPAccepted":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPBadGateway":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPBadRequest":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPClientError":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPConflict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPCreated":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPError":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPException":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPExpectationFailed":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPFailedDependency":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPForbidden":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPFound":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPGatewayTimeout":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPGone":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPInsufficientStorage":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPInternalServerError":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPLengthRequired":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPLocked":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPMethodNotAllowed":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPMovedPermanently":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPMultipleChoices":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPNetworkAuthenticationRequired":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPNoContent":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPNonAuthoritativeInformation":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPNotAcceptable":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPNotFound":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPNotImplemented":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPNotModified":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPOk":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPPartialContent":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPPaymentRequired":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPPermanentRedirect":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPPreconditionFailed":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPPreconditionRequired":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPProxyAuthenticationRequired":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPRedirection":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPRequestEntityTooLarge":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPRequestHeaderFieldsTooLarge":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPRequestRangeNotSatisfiable":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPRequestTimeout":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPRequestURITooLong":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPResetContent":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPSeeOther":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPServerError":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPServiceUnavailable":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPTemporaryRedirect":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPTooManyRequests":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPUnauthorized":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPUnavailableForLegalReasons":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPUnprocessableEntity":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPUnsupportedMediaType":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPUseProxy":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.HTTPVersionNotSupported":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.MIMEAccept":{
@@ -15050,103 +15475,126 @@
  "webob.exc.Request":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.Response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.WSGIHTTPException":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc._HTTPMove":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc._lazified":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.br_re":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.class_types":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.comment_re":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.exc.create_accept_header":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.html_escape":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.lazify":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.no_escape":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.status_map":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.strip_tags":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.tag_re":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.text_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.exc.urlparse":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.filter_headers":{
@@ -15170,79 +15618,98 @@
  "webob.headers":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers.EnvironHeaders":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers.MultiDict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.headers.MutableMapping":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers.ResponseHeaders":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers._trans_key":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers._trans_name":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers.header2key":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers.iteritems_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers.key2header":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.headers.string_types":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.hour":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.html_escape":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.integer_types":{
@@ -15284,43 +15751,62 @@
  "webob.minute":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.month":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict.GetDict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict.MultiDict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.multidict.MutableMapping":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict.NestedMultiDict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict.NoVars":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.multidict.PY2":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict.PY3":{
@@ -15332,37 +15818,43 @@
  "webob.multidict.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict._dummy":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict._hide_passwd":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict.iteritems_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict.itervalues_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.multidict.url_encode":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.native_":{
@@ -15386,7 +15878,8 @@
  "webob.parse_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.parse_etag_response":{
@@ -15422,7 +15915,8 @@
  "webob.request":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.AcceptCharset":{
@@ -15440,73 +15934,85 @@
  "webob.request.AdhocAttrMixin":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.AnyETag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.BaseRequest":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.CHARSET_RE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.CacheControl":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.DisconnectionError":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.EnvironHeaders":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.FakeCGIBody":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.GetDict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.IfRange":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.LegacyRequest":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.LimitedLengthFile":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.MIMEAccept":{
@@ -15524,13 +16030,15 @@
  "webob.request.MultiDict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.NestedMultiDict":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.NoAccept":{
@@ -15542,25 +16050,35 @@
  "webob.request.NoDefault":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.NoETag":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.NoVars":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.PATH_SAFE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.request.PY2":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.PY3":{
@@ -15572,241 +16090,299 @@
  "webob.request.Request":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.RequestCookies":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.SCHEME_RE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.Transcoder":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request._LATIN_ENCODINGS":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request._NoDefault":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request._cgi_FieldStorage__repr__patch":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request._client":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request._encode_multipart":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request._get_multipart_boundary":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request._is_utf8":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.request.accept_charset_property":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.request.accept_encoding_property":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.request.accept_language_property":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.accept_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.bytes_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.cgi_FieldStorage":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.converter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.detect_charset":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.environ_add_POST":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.environ_decoder":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.environ_from_url":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.environ_getter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.etag_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.native_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.parse_auth":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.parse_int":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.parse_qsl_text":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.parse_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.quote_plus":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.reraise":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.serialize_auth":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.serialize_cache_control":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.serialize_if_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.serialize_int":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.serialize_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.text_type":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.upath_property":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.url_encode":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.url_quote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.url_unquote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.request.urlparse":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.reraise":{
@@ -15818,49 +16394,63 @@
  "webob.response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.AppIterRange":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.BaseRequest":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.CHARSET_RE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.CacheControl":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.ContentRange":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.Cookie":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.EmptyResponse":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.response.PY2":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.PY3":{
@@ -15872,253 +16462,301 @@
  "webob.response.Response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.ResponseHeaders":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.SCHEME_RE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response._OK_PARAM_RE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response._PARAM_RE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response._content_type_has_charset":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response._error_unicode_in_app_iter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response._gzip_header":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response._is_xml":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response._marker":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response._request_uri":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.bytes_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.converter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.date_header":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.filter_headers":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.gzip_app_iter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.header_getter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.iter_close":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.iter_file":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.list_header":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.make_cookie":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.native_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.parse_auth":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.parse_content_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.parse_date_delta":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.parse_etag_response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.parse_int":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.serialize_auth":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.serialize_cache_control":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.serialize_content_range":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.serialize_date_delta":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.serialize_etag_response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.serialize_int":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.status_generic_reasons":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.status_reasons":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
+  ]
+ },
+ "webob.response.string_types":{
+  "__set__":true,
+  "elements":[
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.text_type":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.timedelta_to_seconds":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.url_quote":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.urlparse":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.response.warn_deprecation":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.second":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.serialize_auth":{
@@ -16142,7 +16780,8 @@
  "webob.serialize_date":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.serialize_etag_response":{
@@ -16172,55 +16811,64 @@
  "webob.static":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.static.BLOCK_SIZE":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.static.DirectoryApp":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.static.FileApp":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.static.FileIter":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.static.Response":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.static.__all__":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.static.exc":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.static.wsgify":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.status_generic_reasons":{
@@ -16244,7 +16892,8 @@
  "webob.timedelta_to_seconds":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.upath_property":{
@@ -16280,73 +16929,85 @@
  "webob.util":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util._trans_key":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.compare_digest":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.escape":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.header_docstring":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.html_escape":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.status_generic_reasons":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.status_reasons":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.string_types":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.strings_differ":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.text_":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.util.warn_deprecation":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.warn_deprecation":{
@@ -16358,13 +17019,15 @@
  "webob.week":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webob.year":{
   "__set__":true,
   "elements":[
-   "webob-1.7.1-py27_0"
+   "webob-1.7.1-py27_0",
+   "webob-1.8.6-py_0"
   ]
  },
  "webruntime.BaseRuntime":{
