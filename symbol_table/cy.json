@@ -2015,6 +2015,660 @@
    "cykhash-1.0.2-py37h570ac47_1"
   ]
  },
+ "cylc.flow.exceptions.ClientError":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.exceptions.ClientTimeout":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.flags":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.hostuserutil.get_host_ip_by_name":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.hostuserutil.is_remote_host":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.network.client.SuiteRuntimeClient":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.network.resolvers.BaseResolvers":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.network.scan.MSG_TIMEOUT":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.network.scan.get_scan_items_from_fs":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.network.scan.re_compile_filters":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.network.schema.schema":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.network.server.PB_METHOD_MAP":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.ws_data_mgr.EDGES":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.ws_data_mgr.FAMILIES":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.ws_data_mgr.FAMILY_PROXIES":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.ws_data_mgr.ID_DELIM":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.ws_data_mgr.JOBS":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.ws_data_mgr.TASKS":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.ws_data_mgr.TASK_PROXIES":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.flow.ws_data_mgr.WORKFLOW":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.__version__":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.ClientError":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.ClientTimeout":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.DataManager":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.EDGES":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.FAMILIES":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.FAMILY_PROXIES":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.JOBS":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.MSG_TIMEOUT":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.PB_METHOD_MAP":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.TASKS":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.TASK_PROXIES":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.WORKFLOW":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.get_workflow_data":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.data_mgr.logger":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.handlers":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.handlers.APIHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.handlers.BaseHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.handlers.CylcScanHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.handlers.MainHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.handlers.UIServerGraphQLHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.handlers.UserProfileHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.handlers.__all__":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.APIHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.BaseHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.CylcScanHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.CylcUIServer":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.MainHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.MyApplication":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.UIServerGraphQLHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.UserProfileHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.__all__":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.logger":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.main":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.main.schema":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.resolvers":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.resolvers.BaseResolvers":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.resolvers.Resolvers":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.resolvers.WORKFLOW":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.APIHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.BaseHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.CylcScanHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.CylcUIServer":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.MainHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.MainHandlerTest":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.MyApplication":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.UIServerGraphQLHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.UserProfileHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.UserProfileHandlerTest":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.__all__":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.logger":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.main":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_handlers.schema":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.APIHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.BaseHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.CylcScanHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.CylcUIServer":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.MainHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.MyApplication":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.UIServerGraphQLHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.UserProfileHandler":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.__all__":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.logger":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.main":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.schema":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.test_cylcuiserver_absolute_path":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.test_cylcuiserver_relative_path":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.tests.test_uiserver.test_my_application":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.CLIENT_TIMEOUT":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.ClientError":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.ClientTimeout":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.ID_DELIM":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.MSG_TIMEOUT":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.SuiteRuntimeClient":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.WorkflowsManager":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.est_workflow":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.flags":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.get_host_ip_by_name":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.get_scan_items_from_fs":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.is_remote_host":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.logger":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.re_compile_filters":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
+ "cylc.uiserver.workflows_mgr.workflow_request":{
+  "__set__":true,
+  "elements":[
+   "cylc-uiserver-0.1-py38_0"
+  ]
+ },
  "cymem.__author__":{
   "__set__":true,
   "elements":[
@@ -2105,6 +2759,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2120,6 +2775,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2135,6 +2791,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2150,6 +2807,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2165,6 +2823,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2180,6 +2839,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2195,6 +2855,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2210,6 +2871,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2225,6 +2887,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2240,6 +2903,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2255,6 +2919,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2270,6 +2935,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2285,6 +2951,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2300,6 +2967,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
@@ -2315,6 +2983,7 @@
    "cymem-1.31.2-py27h0a44026_1000",
    "cymem-1.31.2-py35_0",
    "cymem-1.31.2-py36_vc14_0",
+   "cymem-1.31.2-py37h0a44026_1000",
    "cymem-2.0.2-py36he1b5a44_1",
    "cymem-2.0.2-py37he1b5a44_1",
    "cymem-2.0.3-py36h003fed8_3",
