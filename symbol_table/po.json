@@ -1037,12 +1037,25 @@
    "pocean-core-1.2.4-py36_0"
   ]
  },
+ "podaac.drive":{
+  "__set__":true,
+  "elements":[
+   "podaacpy-2.2.1-py36_1000"
+  ]
+ },
+ "podaac.drive.Drive":{
+  "__set__":true,
+  "elements":[
+   "podaacpy-2.2.1-py36_1000"
+  ]
+ },
  "podaac.l2ss":{
   "__set__":true,
   "elements":[
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.l2ss.L2SS":{
@@ -1050,7 +1063,8 @@
   "elements":[
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.mcc":{
@@ -1059,7 +1073,8 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.mcc.MCC":{
@@ -1068,31 +1083,36 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.oceancolor":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.oceancolor.HEADERS":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.oceancolor.OceanColor":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.oceancolor.SEARCH_URL":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.podaac":{
@@ -1101,13 +1121,15 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.podaac.HEADERS":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.podaac.IMAGE_URL":{
@@ -1116,7 +1138,8 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.podaac.Podaac":{
@@ -1125,7 +1148,8 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.podaac.URL":{
@@ -1134,7 +1158,8 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.podaac_utils":{
@@ -1143,7 +1168,8 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.podaac_utils.PodaacUtils":{
@@ -1152,7 +1178,8 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests":{
@@ -1161,7 +1188,8 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.l2ss_tests":{
@@ -1169,13 +1197,15 @@
   "elements":[
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.l2ss_tests.TestL2SS":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.l2ss_tests.test_podaac":{
@@ -1191,13 +1221,15 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.mcc_test.TestMCC":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.mcc_test.testMCC":{
@@ -1211,13 +1243,15 @@
  "podaac.tests.oceancolor_test":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.oceancolor_test.TestOceanColor":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.podaac_test":{
@@ -1226,13 +1260,15 @@
    "podaacpy-1.4.0-py27_1",
    "podaacpy-1.9.0-py35_0",
    "podaacpy-1.9.0-py36_0",
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.podaac_test.TestPodaac":{
   "__set__":true,
   "elements":[
-   "podaacpy-2.1.0-py36_1000"
+   "podaacpy-2.1.0-py36_1000",
+   "podaacpy-2.2.1-py36_1000"
   ]
  },
  "podaac.tests.podaac_test.test_podaac":{

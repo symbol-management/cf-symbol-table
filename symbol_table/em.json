@@ -724,7 +724,8 @@
  "emg3d.Report":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.TensorMesh":{
@@ -736,13 +737,15 @@
  "emg3d.__all__":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.__version__":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.core":{
@@ -1087,6 +1090,66 @@
    "emg3d-0.11.0-py_0"
   ]
  },
+ "emg3d.njitted":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted._numba_setting":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted._volume_avg_weights":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted.amat_x":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted.blocks_to_amat":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted.gauss_seidel":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted.l2norm":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted.restrict":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted.solve":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.njitted.volume_average":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
  "emg3d.save":{
   "__set__":true,
   "elements":[
@@ -1102,79 +1165,92 @@
  "emg3d.solver":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.MGParameters":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.RegularGridProlongator":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._ConvergenceError":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.__all__":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._current_lr_dir":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._current_sc_dir":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._get_prolongation_coordinates":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._get_restriction_weights":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._print_cycle_info":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._print_gs_info":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._restrict_model_parameters":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver._terminate":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.core":{
@@ -1192,7 +1268,8 @@
  "emg3d.solver.krylov":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.meshes":{
@@ -1210,31 +1287,42 @@
  "emg3d.solver.multigrid":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.solver.njitted":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.prolongation":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.residual":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.restriction":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.smoothing":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.solver.solve":{
@@ -1243,130 +1331,175 @@
    "emg3d-0.11.0-py_0"
   ]
  },
+ "emg3d.solver.solver":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
  "emg3d.solver.utils":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.Field":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.Fourier":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.Model":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.Report":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.ScoobyReport":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.SourceField":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.TensorMesh":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.Time":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.VolumeModel":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.__all__":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.__version__":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.utils._interp3d":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.utils.data_read":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
+ "emg3d.utils.data_write":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.get_cell_numbers":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.get_domain":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.get_h_field":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.get_hx":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.get_receiver":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.get_source_field":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.get_stretched_h":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.grid2grid":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.utils.interp3d":{
@@ -1375,16 +1508,24 @@
    "emg3d-0.11.0-py_0"
   ]
  },
+ "emg3d.utils.njitted":{
+  "__set__":true,
+  "elements":[
+   "emg3d-0.9.2-py_0"
+  ]
+ },
  "emg3d.version":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emg3d.version.version":{
   "__set__":true,
   "elements":[
-   "emg3d-0.11.0-py_0"
+   "emg3d-0.11.0-py_0",
+   "emg3d-0.9.2-py_0"
   ]
  },
  "emirdrp.__version__":{
