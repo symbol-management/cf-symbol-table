@@ -1511,7 +1511,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.__all__":{
@@ -1519,7 +1520,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.__version__":{
@@ -1527,7 +1529,44 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore._endpoint_helpers":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore._endpoint_helpers.ClientResponseContentProxy":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore._endpoint_helpers.ClientResponseProxy":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore._endpoint_helpers._IOBaseWrapper":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore._endpoint_helpers._aiohttp_retryable_exceptions":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore._endpoint_helpers._text":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.args":{
@@ -1535,7 +1574,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.args.AioClientArgsCreator":{
@@ -1543,7 +1583,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.client":{
@@ -1551,7 +1592,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.client.AioBaseClient":{
@@ -1559,7 +1601,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.client.AioClientCreator":{
@@ -1567,7 +1610,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.client.PY_35":{
@@ -1581,7 +1625,8 @@
   "__set__":true,
   "elements":[
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.config":{
@@ -1589,7 +1634,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.config.AioConfig":{
@@ -1597,7 +1643,182 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioAssumeRoleCredentialFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioAssumeRoleProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioAssumeRoleWithWebIdentityCredentialFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioAssumeRoleWithWebIdentityProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioBaseAssumeRoleCredentialFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioBotoProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioCachedCredentialFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioCanonicalNameCredentialSourcer":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioConfig":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioConfigProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioContainerMetadataFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioContainerProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioCredentialResolver":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioCredentials":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioDeferredRefreshableCredentials":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioEnvProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioInstanceMetadataFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioInstanceMetadataProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioOriginalEC2Provider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioProcessProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioProfileProviderBuilder":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioRefreshableCredentials":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.AioSharedCredentialProvider":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.create_aio_mfa_serial_refresher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.create_assume_role_refresher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.create_credential_resolver":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.get_credentials":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.credentials.logger":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.endpoint":{
@@ -1605,7 +1826,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.endpoint.AIOHTTP_2":{
@@ -1620,7 +1842,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.endpoint.ClientResponseContentProxy":{
@@ -1636,7 +1859,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.endpoint.MAX_REDIRECTS":{
@@ -1652,6 +1876,12 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0"
+  ]
+ },
+ "aiobotocore.endpoint.StreamingBody":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.endpoint.WrappedResponseHandler":{
@@ -1674,7 +1904,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.endpoint._aiohttp_retryable_exceptions":{
@@ -1685,12 +1916,19 @@
    "aiobotocore-0.7.0-py36_0"
   ]
  },
+ "aiobotocore.endpoint._text":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
  "aiobotocore.endpoint.convert_to_response_dict":{
   "__set__":true,
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.endpoint.history_recorder":{
@@ -1708,12 +1946,37 @@
    "aiobotocore-0.7.0-py36_0"
   ]
  },
+ "aiobotocore.eventstream":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.eventstream.AioEventStream":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
  "aiobotocore.get_session":{
   "__set__":true,
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.hooks":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.hooks.AioHierarchicalEmitter":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.paginate":{
@@ -1721,7 +1984,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.paginate.AioPageIterator":{
@@ -1729,7 +1993,14 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.paginate.AioPaginator":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.paginate.PY_35":{
@@ -1739,12 +2010,85 @@
    "aiobotocore-0.6.0-py36_0"
   ]
  },
+ "aiobotocore.paginate.ResultKeyIterator":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.parsers":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.parsers.AioEC2QueryParser":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.parsers.AioJSONParser":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.parsers.AioQueryParser":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.parsers.AioResponseParserFactory":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.parsers.AioRestJSONParser":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.parsers.AioRestXMLParser":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.parsers.PROTOCOL_PARSERS":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.response":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.response.AioReadTimeoutError":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.response.StreamingBody":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
  "aiobotocore.session":{
   "__set__":true,
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.session.AioSession":{
@@ -1752,7 +2096,14 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.session.ClientCreatorContext":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.session.get_session":{
@@ -1760,7 +2111,86 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.signers":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.signers.AioRequestSigner":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.signers.AioS3PostPresigner":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.signers.add_generate_presigned_post":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.signers.add_generate_presigned_url":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.signers.generate_presigned_post":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.signers.generate_presigned_url":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.utils":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.utils.AioContainerMetadataFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.utils.AioIMDSFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.utils.AioInstanceMetadataFetcher":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.utils.RETRYABLE_HTTP_ERRORS":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
+  ]
+ },
+ "aiobotocore.utils.logger":{
+  "__set__":true,
+  "elements":[
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.waiter":{
@@ -1768,7 +2198,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.waiter.AIOWaiter":{
@@ -1776,14 +2207,16 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.waiter.NormalizedOperationMethod":{
   "__set__":true,
   "elements":[
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiobotocore.waiter.create_waiter_with_client":{
@@ -1791,7 +2224,8 @@
   "elements":[
    "aiobotocore-0.5.2-py35_0",
    "aiobotocore-0.6.0-py36_0",
-   "aiobotocore-0.7.0-py36_0"
+   "aiobotocore-0.7.0-py36_0",
+   "aiobotocore-1.0.4-py_0"
   ]
  },
  "aiochclient.ChClient":{
