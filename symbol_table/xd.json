@@ -4,7 +4,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist._version":{
@@ -12,7 +13,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist._version.version":{
@@ -20,7 +22,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.boxed":{
@@ -68,7 +71,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.dsession.DSession":{
@@ -76,7 +80,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.dsession.EachScheduling":{
@@ -84,7 +89,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.dsession.Interrupted":{
@@ -92,7 +98,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.dsession.LoadScheduling":{
@@ -100,7 +107,14 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.dsession.LoadScopeScheduling":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.dsession.NodeManager":{
@@ -108,7 +122,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.dsession.TerminalDistReporter":{
@@ -116,7 +131,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.dsession.parse_spec_config":{
@@ -130,7 +146,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.dsession.report_collection_diff":{
@@ -146,7 +163,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.looponfail.RemoteControl":{
@@ -154,7 +172,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.looponfail.SlaveFailSession":{
@@ -162,7 +181,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.looponfail.StatRecorder":{
@@ -170,7 +190,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.looponfail.init_slave_session":{
@@ -178,7 +199,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.looponfail.looponfail_main":{
@@ -186,7 +208,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.looponfail.pytest_addoption":{
@@ -194,7 +217,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.looponfail.pytest_cmdline_main":{
@@ -202,7 +226,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.looponfail.repr_pytest_looponfailinfo":{
@@ -210,7 +235,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks":{
@@ -218,7 +244,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_configure_node":{
@@ -226,7 +253,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_testnodedown":{
@@ -234,7 +262,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_testnodeready":{
@@ -242,13 +271,15 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_xdist_make_scheduler":{
   "__set__":true,
   "elements":[
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_xdist_newgateway":{
@@ -256,7 +287,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_xdist_node_collection_finished":{
@@ -264,7 +296,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_xdist_rsyncfinish":{
@@ -272,7 +305,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_xdist_rsyncstart":{
@@ -280,7 +314,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.newhooks.pytest_xdist_setupnodes":{
@@ -288,7 +323,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.plugin":{
@@ -296,7 +332,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.plugin.parse_numprocesses":{
@@ -304,7 +341,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.plugin.pytest_addhooks":{
@@ -312,7 +350,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.plugin.pytest_addoption":{
@@ -320,7 +359,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.plugin.pytest_cmdline_main":{
@@ -328,7 +368,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.plugin.pytest_configure":{
@@ -336,13 +377,15 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.plugin.worker_id":{
   "__set__":true,
   "elements":[
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote":{
@@ -350,7 +393,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.SlaveInteractor":{
@@ -358,7 +402,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.args":{
@@ -366,7 +411,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.channel":{
@@ -374,7 +420,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.config":{
@@ -382,7 +429,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.getinfodict":{
@@ -390,7 +438,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.importpath":{
@@ -398,7 +447,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.interactor":{
@@ -406,7 +456,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.option_dict":{
@@ -414,7 +465,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.remote_initconfig":{
@@ -422,7 +474,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.serialize_report":{
@@ -430,7 +483,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.remote.slaveinput":{
@@ -438,7 +492,116 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.report":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.report.report_collection_diff":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.EachScheduling":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.LoadScheduling":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.LoadScopeScheduling":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.each":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.each.EachScheduling":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.each.parse_spec_config":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.each.report_collection_diff":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.load":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.load.LoadScheduling":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.load.parse_spec_config":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.load.report_collection_diff":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.loadscope":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.loadscope.LoadScopeScheduling":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.loadscope.parse_spec_config":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.scheduler.loadscope.report_collection_diff":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.slavemanage":{
@@ -446,7 +609,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.slavemanage.HostRSync":{
@@ -454,7 +618,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.slavemanage.NodeManager":{
@@ -462,7 +627,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.slavemanage.SlaveController":{
@@ -470,7 +636,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.slavemanage.make_reltoroot":{
@@ -478,13 +645,21 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.slavemanage.parse_spec_config":{
   "__set__":true,
   "elements":[
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
+  ]
+ },
+ "xdist.slavemanage.report_unserialization_failure":{
+  "__set__":true,
+  "elements":[
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.slavemanage.unserialize_report":{
@@ -492,7 +667,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  },
  "xdist.version":{
@@ -500,7 +676,8 @@
   "elements":[
    "pytest-xdist-1.14-py27_0",
    "pytest-xdist-1.14-py34_0",
-   "pytest-xdist-1.17.0-py36_0"
+   "pytest-xdist-1.17.0-py36_0",
+   "pytest-xdist-1.19.0-py36_0"
   ]
  }
 }
