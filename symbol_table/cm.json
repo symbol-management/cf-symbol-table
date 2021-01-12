@@ -6468,19 +6468,22 @@
  "cmd2.ANSI_ESCAPE_RE":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.AddSubmenu":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.BROKEN_PIPE_ERROR":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.Borg":{
@@ -6498,8 +6501,15 @@
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
    "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0",
    "cmd2-0.9.4-py36_0",
    "cmd2-0.9.4-py36_1000"
+  ]
+ },
+ "cmd2.Collection":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.CommandResult":{
@@ -6521,7 +6531,8 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.EmptyStatement":{
@@ -6531,6 +6542,7 @@
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
    "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0",
    "cmd2-0.9.4-py36_0",
    "cmd2-0.9.4-py36_1000"
   ]
@@ -6538,7 +6550,20 @@
  "cmd2.FILE_NOT_FOUND_ERROR":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
+ "cmd2.HELP_CATEGORY":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
+ "cmd2.HELP_SUMMARY":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.History":{
@@ -6547,7 +6572,8 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.NotSettableError":{
@@ -6564,7 +6590,8 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.OutputTrap":{
@@ -6573,14 +6600,16 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.POSIX_SHLEX":{
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.ParsedString":{
@@ -6589,13 +6618,15 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.ParserManager":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.PasteBufferError":{
@@ -6606,11 +6637,30 @@
    "cmd2-0.7.0-py27_0"
   ]
  },
+ "cmd2.QUOTES":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
+ "cmd2.REDIRECTION_CHARS":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
+ "cmd2.RlType":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
  "cmd2.STRIP_QUOTES_FOR_NON_POSIX":{
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.Statekeeper":{
@@ -6619,7 +6669,8 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.Statement":{
@@ -6641,13 +6692,15 @@
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2._":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.__version__":{
@@ -6657,6 +6710,7 @@
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
    "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0",
    "cmd2-0.9.4-py36_0",
    "cmd2-0.9.4-py36_1000"
   ]
@@ -6672,19 +6726,22 @@
  "cmd2._complete_from_cmd":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2._pop_readline_history":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2._push_readline_history":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2._which":{
@@ -6693,14 +6750,16 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.app":{
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.argcomplete_bridge":{
@@ -6848,7 +6907,8 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.cast":{
@@ -6857,12 +6917,14 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.categorize":{
   "__set__":true,
   "elements":[
+   "cmd2-0.8.5-py35_0",
    "cmd2-0.9.4-py36_0",
    "cmd2-0.9.4-py36_1000"
   ]
@@ -7130,7 +7192,8 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.index_based_complete":{
@@ -7143,7 +7206,8 @@
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.ljust":{
@@ -7156,7 +7220,8 @@
  "cmd2.namedtuple_with_two_defaults":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.options":{
@@ -7165,13 +7230,27 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
+ "cmd2.orig_pyreadline_display":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
+ "cmd2.orig_rl_basic_quote_characters_addr":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.parse_quoted_string":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.parsing":{
@@ -7240,7 +7319,8 @@
  "cmd2.pyperclip_ver":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.pyscript_bridge":{
@@ -7291,13 +7371,20 @@
    "cmd2-0.6.9-py36_0"
   ]
  },
+ "cmd2.readline_lib":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
  "cmd2.remaining_args":{
   "__set__":true,
   "elements":[
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.replace_with_file_contents":{
@@ -7306,7 +7393,20 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
+ "cmd2.rl_basic_quote_characters":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
+  ]
+ },
+ "cmd2.rl_type":{
+  "__set__":true,
+  "elements":[
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.rl_utils":{
@@ -7355,34 +7455,39 @@
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.set_strip_quotes":{
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.set_use_arg_list":{
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.strip_ansi":{
   "__set__":true,
   "elements":[
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.strip_quotes":{
   "__set__":true,
   "elements":[
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.stubbornDict":{
@@ -7495,6 +7600,7 @@
   "__set__":true,
   "elements":[
    "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0",
    "cmd2-0.9.4-py36_0",
    "cmd2-0.9.4-py36_1000"
   ]
@@ -7503,6 +7609,7 @@
   "__set__":true,
   "elements":[
    "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0",
    "cmd2-0.9.4-py36_0",
    "cmd2-0.9.4-py36_1000"
   ]
@@ -7510,6 +7617,7 @@
  "cmd2.with_category":{
   "__set__":true,
   "elements":[
+   "cmd2-0.8.5-py35_0",
    "cmd2-0.9.4-py36_0",
    "cmd2-0.9.4-py36_1000"
   ]
@@ -7520,7 +7628,8 @@
    "cmd2-0.6.8-py27_1",
    "cmd2-0.6.9-py36_0",
    "cmd2-0.7.0-py27_0",
-   "cmd2-0.8.2-py36_0"
+   "cmd2-0.8.2-py36_0",
+   "cmd2-0.8.5-py35_0"
   ]
  },
  "cmd2.xclipproc":{
