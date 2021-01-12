@@ -3732,6 +3732,8 @@
   "__set__":true,
   "elements":[
    "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0",
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000",
    "azure-storage-common-2.1.0-py36_1",
    "azure-storage-common-2.1.0-py39hde42818_3"
@@ -3741,6 +3743,8 @@
   "__set__":true,
   "elements":[
    "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0",
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000",
    "azure-storage-common-2.1.0-py36_1",
    "azure-storage-common-2.1.0-py39hde42818_3"
@@ -3750,8 +3754,10 @@
   "__set__":true,
   "elements":[
    "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0",
    "azure-mgmt-compute-0.20.1-py35_0",
    "azure-mgmt-resource-0.20.1-py27_0",
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000",
    "azure-storage-common-2.1.0-py36_1",
    "azure-storage-common-2.1.0-py39hde42818_3"
@@ -3761,6 +3767,7 @@
   "__set__":true,
   "elements":[
    "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0",
    "azure-storage-common-2.1.0-py36_1",
    "azure-storage-common-2.1.0-py39hde42818_3"
   ]
@@ -3768,31 +3775,84 @@
  "azure.common.__author__":{
   "__set__":true,
   "elements":[
-   "azure-common-1.1.4-py27_0"
+   "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0"
   ]
  },
  "azure.common.__version__":{
   "__set__":true,
   "elements":[
-   "azure-common-1.1.4-py27_0"
+   "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0"
+  ]
+ },
+ "azure.common.client_factory":{
+  "__set__":true,
+  "elements":[
+   "azure-common-1.1.8-py27_0"
+  ]
+ },
+ "azure.common.client_factory.AdalAuthentication":{
+  "__set__":true,
+  "elements":[
+   "azure-common-1.1.8-py27_0"
+  ]
+ },
+ "azure.common.client_factory._instantiate_client":{
+  "__set__":true,
+  "elements":[
+   "azure-common-1.1.8-py27_0"
+  ]
+ },
+ "azure.common.client_factory.get_client_from_auth_file":{
+  "__set__":true,
+  "elements":[
+   "azure-common-1.1.8-py27_0"
+  ]
+ },
+ "azure.common.client_factory.get_client_from_cli_profile":{
+  "__set__":true,
+  "elements":[
+   "azure-common-1.1.8-py27_0"
+  ]
+ },
+ "azure.common.client_factory.get_client_from_json_dict":{
+  "__set__":true,
+  "elements":[
+   "azure-common-1.1.8-py27_0"
+  ]
+ },
+ "azure.common.cloud":{
+  "__set__":true,
+  "elements":[
+   "azure-common-1.1.8-py27_0"
+  ]
+ },
+ "azure.common.cloud.get_cli_active_cloud":{
+  "__set__":true,
+  "elements":[
+   "azure-common-1.1.8-py27_0"
   ]
  },
  "azure.common.credentials":{
   "__set__":true,
   "elements":[
-   "azure-common-1.1.4-py27_0"
+   "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0"
   ]
  },
  "azure.common.exceptions":{
   "__set__":true,
   "elements":[
-   "azure-common-1.1.4-py27_0"
+   "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0"
   ]
  },
  "azure.common.exceptions.CloudError":{
   "__set__":true,
   "elements":[
-   "azure-common-1.1.4-py27_0"
+   "azure-common-1.1.4-py27_0",
+   "azure-common-1.1.8-py27_0"
   ]
  },
  "azure.core.AsyncPipelineClient":{
@@ -7866,24 +7926,28 @@
  "azure.storage.AccessPolicy":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.AccountPermissions":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.CloudStorageAccount":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.CorsRule":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -7896,6 +7960,7 @@
  "azure.storage.GeoReplication":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -7914,30 +7979,35 @@
  "azure.storage.Logging":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.Metrics":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.Protocol":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.ResourceTypes":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.RetentionPolicy":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -7950,186 +8020,217 @@
  "azure.storage.ServiceProperties":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.ServiceStats":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.Services":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.SharedAccessSignature":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.X_MS_VERSION":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.__author__":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.__version__":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._auth":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._auth._StorageNoAuthentication":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._auth._StorageSASAuthentication":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._auth._StorageSharedKeyAuthentication":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._auth._StorageTableSharedKeyAuthentication":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._bool_to_str":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._datetime_to_utc_string":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._decode_base64_to_bytes":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._decode_base64_to_text":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._encode_base64":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._get_content_md5":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._int_to_str":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._lower":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._sign_string":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._str":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._to_str":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._common_conversion._to_utc_datetime":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._connection":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._connection._CONNECTION_ENDPONTS":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._connection._EMULATOR_ENDPOINTS":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._connection._ServiceParameters":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._constants":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._deserialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -8154,6 +8255,7 @@
  "azure.storage._error":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -8166,60 +8268,70 @@
  "azure.storage._http":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.HTTPError":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.HTTPRequest":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.HTTPResponse":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.batchclient":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.batchclient.AzureHttpError":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.batchclient._BatchClient":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.batchclient._DATASERVICES_NS":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.batchclient._new_boundary":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._http.httpclient":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -8232,42 +8344,49 @@
  "azure.storage._serialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._serialization._add_date_header":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._serialization._add_metadata_headers":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._serialization._convert_metrics_to_xml":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._serialization._convert_retention_policy_to_xml":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._serialization._convert_service_properties_to_xml":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._serialization._convert_signed_identifiers_to_xml":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -8286,6 +8405,7 @@
  "azure.storage._serialization._get_request_body":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -8295,147 +8415,177 @@
    "azure-storage-0.36.0-py38_1000"
   ]
  },
+ "azure.storage._serialization._storage_error_handler":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
  "azure.storage._serialization._to_utc_datetime":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage._serialization._update_request":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.AppendBlobService":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.AppendBlockProperties":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.Blob":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.BlockBlobService":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.BlockListType":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.Container":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.ContentSettings":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.CopyProperties":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.DeleteSnapshot":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.Include":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.PageBlobProperties":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.PageBlobService":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.PageRange":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.PublicAccess":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.ResourceProperties":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.SequenceNumberAction":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob._LeaseActions":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob._deserialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob._deserialization._convert_xml_to_page_ranges.page_list":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob._deserialization.page_list":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob._download_chunking":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -8472,19 +8622,39 @@
  "azure.storage.blob._error":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob._serialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
+  ]
+ },
+ "azure.storage.blob._serialization._convert_block_list_to_xml":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
   ]
  },
  "azure.storage.blob._serialization._convert_block_list_to_xml.output":{
   "__set__":true,
   "elements":[
    "azure-storage-0.36.0-py38_1000"
+  ]
+ },
+ "azure.storage.blob._serialization._get_path":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob._serialization._validate_and_format_range_headers":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
   ]
  },
  "azure.storage.blob._serialization.output":{
@@ -8496,12 +8666,14 @@
  "azure.storage.blob._upload_chunking":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.appendblobservice":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -8520,6 +8692,7 @@
  "azure.storage.blob.baseblobservice":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -8532,42 +8705,145 @@
  "azure.storage.blob.baseblobservice.AzureHttpError":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.baseblobservice.BaseBlobService":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.baseblobservice.__metaclass__":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.blockblobservice":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.blob.models":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
+  ]
+ },
+ "azure.storage.blob.models.AppendBlockProperties":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.Blob":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.BlockListType":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.Container":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.ContentSettings":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.CopyProperties":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.DeleteSnapshot":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.Include":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.LeaseProperties":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.PageBlobProperties":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.PageRange":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.PublicAccess":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.ResourceProperties":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models.SequenceNumberAction":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models._BlobTypes":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.blob.models._LeaseActions":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
   ]
  },
  "azure.storage.blob.pageblobservice":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.cloudstorageaccount":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -10037,60 +10313,70 @@
  "azure.storage.file":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file.ContentSettings":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file.CopyProperties":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file.Directory":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file.File":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file.Share":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file._deserialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file._download_chunking":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file._serialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.file._upload_chunking":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -10109,19 +10395,142 @@
  "azure.storage.file.fileservice":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
+  ]
+ },
+ "azure.storage.file.fileservice.AzureHttpError":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.file.fileservice.FileService":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.file.fileservice.__metaclass__":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
   ]
  },
  "azure.storage.file.models":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.models":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
+  ]
+ },
+ "azure.storage.models.AccessPolicy":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.AccountPermissions":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.CorsRule":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.GeoReplication":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.ListGenerator":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.Logging":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.Metrics":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.Protocol":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.ResourceTypes":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.RetentionPolicy":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.ServiceProperties":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.ServiceStats":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models.Services":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models._HeaderDict":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models._dict":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models._list":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.models._unicode_type":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
   ]
  },
  "azure.storage.no_retry":{
@@ -10133,30 +10542,35 @@
  "azure.storage.queue":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.Queue":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._deserialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._deserialization._convert_xml_to_queue_messages.messages":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._deserialization.messages":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -10181,102 +10595,119 @@
  "azure.storage.queue._error":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._error._ERROR_MESSAGE_NOT_BASE64":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._error._ERROR_MESSAGE_SHOULD_BE_STR":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._error._ERROR_MESSAGE_SHOULD_BE_UNICODE":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._error._validate_message_type_bytes":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._error._validate_message_type_text":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._serialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._serialization._convert_queue_message_xml":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue._serialization._get_path":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.models":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.models.Queue":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.queueservice":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.queueservice.AzureConflictHttpError":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.queueservice.AzureHttpError":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.queueservice.QueueService":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.queueservice._HTTP_RESPONSE_NO_CONTENT":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.queue.queueservice.__metaclass__":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -10289,102 +10720,131 @@
  "azure.storage.sharedaccesssignature":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.storageclient":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
+  ]
+ },
+ "azure.storage.storageclient.AzureException":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
+  ]
+ },
+ "azure.storage.storageclient.StorageClient":{
+  "__set__":true,
+  "elements":[
+   "azure-storage-0.32.0-py34_0"
   ]
  },
  "azure.storage.storageclient.StorageClient.__metaclass__":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table.AzureBatchOperationError":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table.AzureBatchValidationError":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table.EdmType":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table.Entity":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table.Table":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization.AzureException":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._EDM_TYPES":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._ENTITY_TO_PYTHON_CONVERSIONS":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._convert_json_response_to_entities":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._convert_json_response_to_entity":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._convert_json_response_to_tables":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._convert_json_to_entity":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -10397,42 +10857,49 @@
  "azure.storage.table._deserialization._extract_etag":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._from_entity_binary":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._from_entity_datetime":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._from_entity_int32":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._get_continuation_from_response_headers":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._parse_batch_error":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._deserialization._parse_batch_response":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -10445,84 +10912,98 @@
  "azure.storage.table._error":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_ATTRIBUTE_MISSING":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_BATCH_COMMIT_FAIL":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_CANNOT_FIND_PARTITION_KEY":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_CANNOT_FIND_ROW_KEY":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_CANNOT_SERIALIZE_VALUE_TO_ENTITY":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_DUPLICATE_ROW_KEY_IN_BATCH":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_INCORRECT_PARTITION_KEY_IN_BATCH":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_INVALID_ENTITY_TYPE":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_INVALID_PROPERTY_RESOLVER":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_PROPERTY_NAME_TOO_LONG":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_TOO_MANY_ENTITIES_IN_BATCH":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_TOO_MANY_PROPERTIES":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._ERROR_TYPE_NOT_SUPPORTED":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
@@ -10535,186 +11016,217 @@
  "azure.storage.table._error._ERROR_VALUE_TOO_LARGE":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._validate_entity":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._error._validate_object_has_param":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._request":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._request._insert_or_merge_entity.request":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._request.request":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._DEFAULT_ACCEPT_HEADER":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._DEFAULT_CONTENT_TYPE_HEADER":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._DEFAULT_PREFER_HEADER":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._EDM_TO_ENTITY_CONVERSIONS":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._PYTHON_TO_ENTITY_CONVERSIONS":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._SUB_HEADERS":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._convert_batch_to_json":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._convert_entity_to_json":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._convert_table_to_json":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._get_entity_path":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._new_boundary":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_binary":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_bool":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_datetime":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_float":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_guid":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_int32":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_int64":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_none":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._to_entity_str":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table._serialization._update_storage_table_header":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table.models":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table.tablebatch":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  },
  "azure.storage.table.tableservice":{
   "__set__":true,
   "elements":[
+   "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000"
   ]
  }
