@@ -1632,31 +1632,36 @@
  "enterprise_gateway.__main__":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.__main__.enterprisegatewayapp":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.__version__":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway._version":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway._version.__version__":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway._version.version_info":{
@@ -1665,58 +1670,109 @@
    "jupyter_enterprise_gateway-0.9.3-py36_0"
   ]
  },
+ "enterprise_gateway.client":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.client.gateway_client":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.client.gateway_client.GatewayClient":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.client.gateway_client.KernelClient":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.client.gateway_client.REQUEST_TIMEOUT":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.client.gateway_client.log_level":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
  "enterprise_gateway.enterprisegatewayapp":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.enterprisegatewayapp.EnterpriseGatewayApp":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.enterprisegatewayapp.launch_instance":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.launch_instance":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.kernels":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.kernels.remotemanager":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.kernels.remotemanager.RemoteKernelManager":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.kernels.remotemanager.RemoteMappingKernelManager":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.kernels.remotemanager.get_process_proxy_config":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.kernelspecs":{
@@ -1740,13 +1796,21 @@
  "enterprise_gateway.services.processproxies":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.conductor":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.conductor.ConductorClusterProcessProxy":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.conductor.ConductorClusterProcessProxy.kill_app_by_driver_id.response":{
@@ -1755,76 +1819,231 @@
    "jupyter_enterprise_gateway-0.9.3-py36_0"
   ]
  },
+ "enterprise_gateway.services.processproxies.conductor.local_ip":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.conductor.max_poll_attempts":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.conductor.pjoin":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.conductor.poll_interval":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
  "enterprise_gateway.services.processproxies.conductor.response":{
   "__set__":true,
   "elements":[
    "jupyter_enterprise_gateway-0.9.3-py36_0"
   ]
  },
+ "enterprise_gateway.services.processproxies.container":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.container.ContainerProcessProxy":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.container.default_kernel_gid":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.container.default_kernel_uid":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.container.gid_blacklist":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.container.local_ip":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.container.mirror_working_dirs":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.container.uid_blacklist":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
  "enterprise_gateway.services.processproxies.distributed":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.distributed.DistributedProcessProxy":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.distributed.kernel_log_dir":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.distributed.poll_interval":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.docker_swarm":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.docker_swarm.DockerProcessProxy":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.docker_swarm.DockerSwarmProcessProxy":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.docker_swarm.client":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.docker_swarm.docker_network":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.k8s":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.k8s.KubernetesProcessProxy":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.k8s.default_kernel_service_account_name":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.k8s.enterprise_gateway_namespace":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.k8s.kernel_cluster_role":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.k8s.share_gateway_namespace":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.BaseProcessProxyABC":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.KernelChannel":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.LocalProcessProxy":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.RemoteProcessProxy":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.processproxy._get_local_ip":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.default_kernel_launch_timeout":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.env_pop_list":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.get_local_ip":{
@@ -1836,79 +2055,104 @@
  "enterprise_gateway.services.processproxies.processproxy.local_ip":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.local_ip_blacklist":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.max_keep_alive_interval":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.max_poll_attempts":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.max_port_range_retries":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.min_port_range_size":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.poll_interval":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.remote_pwd":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.remote_user":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.processproxy.response_ip":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.socket_timeout":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.ssh_port":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.processproxy.tunneling_enabled":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.yarn":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.yarn.YarnClusterProcessProxy":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.processproxies.yarn.YarnClusterProcessProxy.kill_app_by_id.response":{
@@ -1917,28 +2161,79 @@
    "jupyter_enterprise_gateway-0.9.3-py36_0"
   ]
  },
+ "enterprise_gateway.services.processproxies.yarn.local_ip":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.yarn.max_poll_attempts":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.processproxies.yarn.poll_interval":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
  "enterprise_gateway.services.processproxies.yarn.response":{
   "__set__":true,
   "elements":[
    "jupyter_enterprise_gateway-0.9.3-py36_0"
   ]
  },
+ "enterprise_gateway.services.processproxies.yarn.yarn_shutdown_wait_time":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
  "enterprise_gateway.services.sessions":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.sessions.kernelsessionmanager":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.sessions.kernelsessionmanager.FileKernelSessionManager":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.sessions.kernelsessionmanager.KERNEL_SESSIONS_DIR_NAME":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.sessions.kernelsessionmanager.KERNEL_SESSIONS_FILE_NAME":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
+  ]
+ },
+ "enterprise_gateway.services.sessions.kernelsessionmanager.KERNEL_SESSIONS_PATH_NAME":{
+  "__set__":true,
+  "elements":[
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.sessions.kernelsessionmanager.KernelSessionManager":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.services.sessions.kernelsessionmanager.kernel_session_location":{
@@ -1950,7 +2245,8 @@
  "enterprise_gateway.services.sessions.kernelsessionmanager.kernels_lock":{
   "__set__":true,
   "elements":[
-   "jupyter_enterprise_gateway-0.9.3-py36_0"
+   "jupyter_enterprise_gateway-0.9.3-py36_0",
+   "jupyter_enterprise_gateway-2.0.0-py_1"
   ]
  },
  "enterprise_gateway.version_info":{
