@@ -31609,6 +31609,7 @@
  "test.tet_test":{
   "__set__":true,
   "elements":[
+   "wildmeshing-0.1.1-py36hd0167a9_3",
    "wildmeshing-0.1.1-py37hc58df37_2",
    "wildmeshing-0.3-py37hbff90af_0",
    "wildmeshing-0.3.0.2-py39h06b4e39_1",
@@ -31618,6 +31619,7 @@
  "test.tet_test.TetrahedralizeTest":{
   "__set__":true,
   "elements":[
+   "wildmeshing-0.1.1-py36hd0167a9_3",
    "wildmeshing-0.1.1-py37hc58df37_2",
    "wildmeshing-0.3-py37hbff90af_0",
    "wildmeshing-0.3.0.2-py39h06b4e39_1",
@@ -31627,6 +31629,7 @@
  "test.tri_test":{
   "__set__":true,
   "elements":[
+   "wildmeshing-0.1.1-py36hd0167a9_3",
    "wildmeshing-0.1.1-py37hc58df37_2",
    "wildmeshing-0.3-py37hbff90af_0",
    "wildmeshing-0.3.0.2-py39h06b4e39_1",
@@ -31636,6 +31639,7 @@
  "test.tri_test.TriangulateTest":{
   "__set__":true,
   "elements":[
+   "wildmeshing-0.1.1-py36hd0167a9_3",
    "wildmeshing-0.1.1-py37hc58df37_2",
    "wildmeshing-0.3-py37hbff90af_0",
    "wildmeshing-0.3.0.2-py39h06b4e39_1",
@@ -40679,6 +40683,7 @@
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002",
    "suds-jurko-0.6-py37hc8dfbb8_1002",
+   "tinydb-3.2.0-py34_0",
    "tomlkit-0.5.11-py38_0",
    "tomlkit-0.5.5-py27_0",
    "tomlkit-0.5.5-py37_0",
@@ -40945,6 +40950,12 @@
   "elements":[
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0"
+  ]
+ },
+ "tests.conftest.db":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
   ]
  },
  "tests.conftest.each_session":{
@@ -41289,6 +41300,12 @@
    "quilt3-3.1.7-py36_0",
    "quilt3-3.1.9-py36_0",
    "quilt3-3.1.9-py37_0"
+  ]
+ },
+ "tests.conftest.storage":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
   ]
  },
  "tests.conftest.table_cleanup":{
@@ -57763,6 +57780,36 @@
    "geoarray-0.9.1-py37hc8dfbb8_0"
   ]
  },
+ "tests.test_middlewares":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_middlewares.element":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_middlewares.test_caching":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_middlewares.test_nested":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_middlewares.xrange":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
  "tests.test_misc":{
   "__set__":true,
   "elements":[
@@ -58569,6 +58616,30 @@
   "__set__":true,
   "elements":[
    "pyrobuf-0.9.3-py38h11c0d25_1"
+  ]
+ },
+ "tests.test_operations":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_operations.test_decrement":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_operations.test_delete":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_operations.test_increment":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
   ]
  },
  "tests.test_options":{
@@ -59624,6 +59695,102 @@
   "elements":[
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0"
+  ]
+ },
+ "tests.test_queries":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_all":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_and":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_any":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_custom":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_eq":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_ge":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_gt":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_has":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_le":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_lt":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_ne":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_no_path":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_not":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_or":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_queries.test_regex":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
   ]
  },
  "tests.test_randomforest_explainer":{
@@ -60978,6 +61145,36 @@
    "esmlab-0.0.1-py_0"
   ]
  },
+ "tests.test_storages":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_storages.element":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_storages.test_custom":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_storages.test_in_memory":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_storages.test_json":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
  "tests.test_streamio":{
   "__set__":true,
   "elements":[
@@ -61462,6 +61659,48 @@
    "trio_asyncio-0.8.0-py36_0"
   ]
  },
+ "tests.test_tables":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tables.test_caching":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tables.test_lru_cache":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tables.test_multiple_tables":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tables.test_one_table":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tables.test_query_cache_size":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tables.test_tables_list":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
  "tests.test_tds_resume":{
   "__set__":true,
   "elements":[
@@ -61549,6 +61788,120 @@
    "suds-jurko-0.6-py36_0",
    "suds-jurko-0.6-py36hc560c46_1002",
    "suds-jurko-0.6-py37hc8dfbb8_1002"
+  ]
+ },
+ "tests.test_tinydb":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_all":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_contains":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_count":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_eids_json":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_gc":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_get":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_insert":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_lastid_after_open":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_multiple_dbs":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_non_default_table":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_purge":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_remove":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_search":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_storage_closed_once":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_unicode_json":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_unicode_memory":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_unique_ids":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_tinydb.test_update":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
   ]
  },
  "tests.test_toml_document":{
@@ -62622,6 +62975,7 @@
    "jupyter_server-1.0.6-py38h578d9bd_0",
    "jupyter_server-1.0.8-py37h89c1867_0",
    "jupyter_server-1.1.1-py39hf3d152e_0",
+   "tinydb-3.2.0-py34_0",
    "tomlkit-0.5.11-py38_0",
    "tomlkit-0.5.5-py27_0",
    "tomlkit-0.5.5-py37_0",
@@ -62659,6 +63013,12 @@
    "jupyter_server-1.1.1-py39hf3d152e_0"
   ]
  },
+ "tests.test_utils.test_catch_warning":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
+  ]
+ },
  "tests.test_utils.test_combinations_of_len":{
   "__set__":true,
   "elements":[
@@ -62675,6 +63035,12 @@
   "__set__":true,
   "elements":[
    "artificial-adversary-1.1-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_utils.test_freeze":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
   ]
  },
  "tests.test_utils.test_get_all_modules_imported_script":{
@@ -62714,6 +63080,12 @@
    "jupyter_server-1.0.6-py38h578d9bd_0",
    "jupyter_server-1.0.8-py37h89c1867_0",
    "jupyter_server-1.1.1-py39hf3d152e_0"
+  ]
+ },
+ "tests.test_utils.test_lru_cache":{
+  "__set__":true,
+  "elements":[
+   "tinydb-3.2.0-py34_0"
   ]
  },
  "tests.test_utils.test_map_params":{

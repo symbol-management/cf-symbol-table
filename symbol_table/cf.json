@@ -9913,91 +9913,136 @@
  "cfgv.Array":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.Conditional":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv.ConditionalOptional":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.ConditionalRecurse":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.In":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.MISSING":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.Map":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv.NoAdditionalKeys":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.Not":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.Optional":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.OptionalNoDefault":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.OptionalRecurse":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.Required":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.RequiredRecurse":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.ValidationError":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv.WarnAdditionalKeys":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv._apply_default_conditional_optional":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv._apply_default_conditional_recurse":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._apply_default_optional":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._apply_default_required_recurse":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._check_conditional":{
@@ -10009,139 +10054,192 @@
  "cfgv._check_fn_recurse":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._check_optional":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._check_required":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._dct_noop":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv._get_check_conditional":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv._no_additional_keys_check":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv._remove_default_conditional_optional":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv._remove_default_conditional_recurse":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._remove_default_optional":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._remove_default_required_recurse":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv._require_key":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
+  ]
+ },
+ "cfgv._warn_additional_keys_check":{
+  "__set__":true,
+  "elements":[
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.apply_defaults":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_and":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_any":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_array":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_bool":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_bytes":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_int":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_one_of":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_regex":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_string":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_text":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.check_type":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.load_from_filename":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.remove_defaults":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.reraise_as":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfgv.validate":{
   "__set__":true,
   "elements":[
-   "cfgv-1.1.0-py_0"
+   "cfgv-1.1.0-py_0",
+   "cfgv-3.0.0-py_0"
   ]
  },
  "cfncluster.cfncluster":{
