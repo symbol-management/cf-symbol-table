@@ -21599,32 +21599,102 @@
    "dagster-graphql-0.7.15-pyh32f6830_0"
   ]
  },
+ "dagster_k8s.DagsterK8sJobConfig":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
  "dagster_k8s.K8sRunLauncher":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.K8sScheduler":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.__all__":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.__version__":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client.DEFAULT_JOB_POD_COUNT":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client.DEFAULT_WAIT_BETWEEN_ATTEMPTS":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client.DEFAULT_WAIT_TIMEOUT":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client.DagsterK8sError":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client.DagsterK8sPipelineStatusException":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client.DagsterKubernetesClient":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client.KubernetesWaitingReasons":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.client.WaitForPodState":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.config":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.config.get_celery_engine_config":{
@@ -21632,6 +21702,12 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0"
+  ]
+ },
+ "dagster_k8s.construct_dagster_k8s_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.get_celery_engine_config":{
@@ -21645,56 +21721,94 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.DAGSTER_HOME_DEFAULT":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.DAGSTER_PG_PASSWORD_ENV_VAR":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.DAGSTER_PG_PASSWORD_SECRET_KEY":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.DagsterK8sJobConfig":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.K8S_JOB_BACKOFF_LIMIT":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.K8S_JOB_TTL_SECONDS_AFTER_FINISHED":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.K8S_RESOURCE_REQUIREMENTS_KEY":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.K8S_RESOURCE_REQUIREMENTS_SCHEMA":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.MAX_K8S_NAME_LEN":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.USER_DEFINED_K8S_CONFIG_KEY":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.USER_DEFINED_K8S_CONFIG_SCHEMA":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.UserDefinedDagsterK8sConfig":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.construct_dagster_graphql_k8s_job":{
@@ -21704,25 +21818,130 @@
    "dagster-k8s-0.7.16-py_0"
   ]
  },
+ "dagster_k8s.job.construct_dagster_k8s_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.get_job_name_from_run_id":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.get_k8s_job_name":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.get_k8s_resource_requirements":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.job.get_user_defined_k8s_config":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
  "dagster_k8s.launcher":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.launcher.K8sRunLauncher":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.scheduler":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.scheduler.DagsterK8sJobConfig":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.scheduler.K8sScheduler":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.scheduler.construct_dagster_k8s_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.scheduler.get_k8s_job_name":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.test":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.test.get_pod_names_in_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.test.retrieve_pod_logs":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.test.wait_for_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.test.wait_for_job_and_get_logs":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.test.wait_for_job_and_get_raw_logs":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.test.wait_for_job_ready":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.utils":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.utils.DEFAULT_JOB_POD_COUNT":{
@@ -21760,18 +21979,38 @@
    "dagster-k8s-0.7.16-py_0"
   ]
  },
+ "dagster_k8s.utils.delete_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.utils.filter_dagster_events_from_pod_logs":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
  "dagster_k8s.utils.get_pod_names_in_job":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.utils.retrieve_pod_logs":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.utils.wait_for_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.utils.wait_for_job_success":{
@@ -21785,14 +22024,16 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.version":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.version.__nightly__":{
@@ -21806,7 +22047,8 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s_tests.cluster":{
@@ -22115,6 +22357,246 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.TIMEOUT_GAP":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client._create_status":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client._pod_list_for_container_status":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client._ready_running_status":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.assert_logger_calls":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.create_mocked_client":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.create_timing_out_timer":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_bad_waiting_state":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_get_names_in_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_initial_timeout":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_job_failed":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_long_running_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_retrieve_pod_logs":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_running_but_not_ready":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_timed_out_while_waiting_for_job_to_complete":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_timed_out_while_waiting_for_launch":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_valid_failure_waiting_reasons":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_wait_for_job_not_launched":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_wait_for_job_success":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_wait_for_launch_then_success":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_wait_for_pod_success":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_wait_for_ready_but_terminated":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_wait_for_statuses_then_success":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_wait_for_termination_ready_then_terminate":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_waiting_for_pod_container_creation":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_client.test_waiting_for_pod_initialize":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_job.test_job_serialization":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_job.test_user_defined_k8s_config_serialization":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_resource_tags":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_resource_tags.test_backcompat_resource_tags":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_resource_tags.test_bad_deprecated_resource_tags":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_resource_tags.test_bad_user_defined_k8s_config_tags":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_resource_tags.test_user_defined_k8s_config_tags":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_utils":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_utils.test_filter_dagster_events_from_pod_logs":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_version":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s_tests.unit_tests.test_version.test_version":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s_tests.utils":{
@@ -42423,6 +42905,120 @@
   "__set__":true,
   "elements":[
    "dask-ndfilters-0.1.2-py36_0"
+  ]
+ },
+ "dask_ndfourier.__author__":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier.__email__":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier.__version__":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._compat":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._compat._fftfreq":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._compat._sinc":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._utils":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._utils._compat":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._utils._get_ang_freq_grid":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._utils._get_freq_grid":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._utils._norm_args":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._utils.imap":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._utils.irange":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._version":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._version.get_versions":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier._version.version_json":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier.fourier_gaussian":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier.fourier_shift":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
+  ]
+ },
+ "dask_ndfourier.fourier_uniform":{
+  "__set__":true,
+  "elements":[
+   "dask-ndfourier-0.1.1-py27_0"
   ]
  },
  "dask_ndmorph.__author__":{
