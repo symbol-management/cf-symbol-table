@@ -20314,6 +20314,7 @@
  "mapd.MapD":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20323,6 +20324,7 @@
  "mapd.MapD.Client":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20332,6 +20334,7 @@
  "mapd.MapD.Iface":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20341,15 +20344,23 @@
  "mapd.MapD.Processor":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TClusterHardwareInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TColumn":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20359,24 +20370,45 @@
  "mapd.MapD.TCopyParams":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.MapD.TCreateParams":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.MapD.TDBInfo":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TDBObject":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.TDashboard":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TDataBlockPtr":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20386,15 +20418,23 @@
  "mapd.MapD.TDataFrame":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TDatabasePermissions":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TDatum":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20404,6 +20444,7 @@
  "mapd.MapD.TDetectResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20422,6 +20463,7 @@
  "mapd.MapD.TDictionaryGeneration":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20440,6 +20482,7 @@
  "mapd.MapD.TExecuteMode":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20449,19 +20492,39 @@
  "mapd.MapD.TExpressionRangeType":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TFileType":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TFrontendView":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.MapD.TGeoFileLayerContents":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.TGeoFileLayerInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.MapD.TGpuMemorySummary":{
@@ -20470,9 +20533,28 @@
    "pymapd-0.2.1-py36_0"
   ]
  },
+ "mapd.MapD.TGpuSpecification":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.THardwareInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.TImportHeaderRow":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TImportStatus":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20482,15 +20564,23 @@
  "mapd.MapD.TInsertData":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TLicenseInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TMapDException":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20500,6 +20590,7 @@
  "mapd.MapD.TMemoryData":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -20514,6 +20605,7 @@
  "mapd.MapD.TMergeType":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20523,23 +20615,38 @@
  "mapd.MapD.TNodeMemoryInfo":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TPartitionDetail":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TPendingQuery":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TPendingRenderQuery":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TPixel":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20549,10 +20656,17 @@
  "mapd.MapD.TQueryResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.MapD.TRawPixelData":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.MapD.TRawPixelDataResult":{
@@ -20567,10 +20681,23 @@
  "mapd.MapD.TRawRenderPassDataResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.MapD.TRenderDatum":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.TRenderParseResult":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.MapD.TRenderProperty":{
@@ -20585,15 +20712,29 @@
  "mapd.MapD.TRenderResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TRenderStepResult":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.TRole":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TRow":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20603,15 +20744,23 @@
  "mapd.MapD.TServerStatus":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TSessionInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.TStepResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20621,6 +20770,7 @@
  "mapd.MapD.TStringRow":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20630,6 +20780,7 @@
  "mapd.MapD.TStringValue":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20639,6 +20790,7 @@
  "mapd.MapD.TTableDetails":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20648,10 +20800,23 @@
  "mapd.MapD.TTableGeneration":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.MapD.TTableMeta":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.TTablePermissions":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.MapD.TTableType":{
@@ -20675,15 +20840,23 @@
  "mapd.MapD.TVarLen":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.TViewPermissions":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.broadcast_serialized_rows_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20693,15 +20866,41 @@
  "mapd.MapD.broadcast_serialized_rows_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.check_table_consistency_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.check_table_consistency_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.checkpoint_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.checkpoint_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.clear_cpu_memory_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20711,6 +20910,7 @@
  "mapd.MapD.clear_cpu_memory_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20720,6 +20920,7 @@
  "mapd.MapD.clear_gpu_memory_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20729,6 +20930,7 @@
  "mapd.MapD.clear_gpu_memory_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20738,6 +20940,7 @@
  "mapd.MapD.connect_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20747,15 +20950,29 @@
  "mapd.MapD.connect_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.create_dashboard_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.create_dashboard_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.create_frontend_view_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20765,6 +20982,7 @@
  "mapd.MapD.create_frontend_view_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20774,6 +20992,7 @@
  "mapd.MapD.create_link_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20783,6 +21002,7 @@
  "mapd.MapD.create_link_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20792,6 +21012,7 @@
  "mapd.MapD.create_table_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20801,15 +21022,41 @@
  "mapd.MapD.create_table_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.deallocate_df_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.deallocate_df_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.delete_dashboard_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.delete_dashboard_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.delete_frontend_view_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20819,6 +21066,7 @@
  "mapd.MapD.delete_frontend_view_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20828,6 +21076,7 @@
  "mapd.MapD.detect_column_types_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20837,6 +21086,7 @@
  "mapd.MapD.detect_column_types_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20846,6 +21096,7 @@
  "mapd.MapD.disconnect_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20855,6 +21106,7 @@
  "mapd.MapD.disconnect_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20864,6 +21116,7 @@
  "mapd.MapD.execute_first_step_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20873,15 +21126,101 @@
  "mapd.MapD.execute_first_step_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.execute_next_render_step_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.execute_next_render_step_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_all_files_in_archive_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_all_files_in_archive_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_all_roles_for_user_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_all_roles_for_user_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_completion_hints_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_completion_hints_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_dashboard_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_dashboard_grantees_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_dashboard_grantees_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_dashboard_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_dashboards_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_dashboards_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.get_databases_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20891,15 +21230,53 @@
  "mapd.MapD.get_databases_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.get_db_object_privs_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_db_object_privs_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_db_objects_for_grantee_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_db_objects_for_grantee_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_first_geo_file_in_archive_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_first_geo_file_in_archive_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.get_frontend_view_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20909,6 +21286,7 @@
  "mapd.MapD.get_frontend_view_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20918,6 +21296,7 @@
  "mapd.MapD.get_frontend_views_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20927,15 +21306,29 @@
  "mapd.MapD.get_frontend_views_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.get_hardware_info_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_hardware_info_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.get_heap_profile_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20945,6 +21338,7 @@
  "mapd.MapD.get_heap_profile_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20954,6 +21348,7 @@
  "mapd.MapD.get_internal_table_details_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -20962,14 +21357,40 @@
  "mapd.MapD.get_internal_table_details_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.get_layers_in_geo_file_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_layers_in_geo_file_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_license_claims_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_license_claims_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.get_link_view_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20979,6 +21400,7 @@
  "mapd.MapD.get_link_view_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -20988,6 +21410,7 @@
  "mapd.MapD.get_memory_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -21008,6 +21431,7 @@
  "mapd.MapD.get_memory_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -21025,9 +21449,22 @@
    "pymapd-0.2.1-py36_0"
   ]
  },
+ "mapd.MapD.get_physical_tables_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_physical_tables_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.get_result_row_for_pixel_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21037,15 +21474,29 @@
  "mapd.MapD.get_result_row_for_pixel_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.get_roles_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_roles_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.get_row_descriptor_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21055,6 +21506,7 @@
  "mapd.MapD.get_row_descriptor_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21100,6 +21552,7 @@
  "mapd.MapD.get_server_status_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21109,15 +21562,29 @@
  "mapd.MapD.get_server_status_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.get_session_info_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_session_info_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.get_status_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -21126,6 +21593,7 @@
  "mapd.MapD.get_status_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -21134,6 +21602,7 @@
  "mapd.MapD.get_table_descriptor_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21143,6 +21612,7 @@
  "mapd.MapD.get_table_descriptor_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21152,6 +21622,7 @@
  "mapd.MapD.get_table_details_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21161,24 +21632,63 @@
  "mapd.MapD.get_table_details_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.MapD.get_table_epoch_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_table_epoch_by_name_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_table_epoch_by_name_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_table_epoch_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.MapD.get_tables_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.get_tables_meta_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_tables_meta_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.get_tables_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21188,6 +21698,7 @@
  "mapd.MapD.get_users_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21197,6 +21708,7 @@
  "mapd.MapD.get_users_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21206,6 +21718,7 @@
  "mapd.MapD.get_version_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21215,15 +21728,41 @@
  "mapd.MapD.get_version_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.get_views_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.get_views_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.has_object_privilege_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.has_object_privilege_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.import_geo_table_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21233,6 +21772,7 @@
  "mapd.MapD.import_geo_table_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21242,6 +21782,7 @@
  "mapd.MapD.import_table_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21251,6 +21792,7 @@
  "mapd.MapD.import_table_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21260,6 +21802,7 @@
  "mapd.MapD.import_table_status_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21269,6 +21812,7 @@
  "mapd.MapD.import_table_status_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21278,6 +21822,7 @@
  "mapd.MapD.insert_data_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21287,6 +21832,7 @@
  "mapd.MapD.insert_data_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21296,6 +21842,7 @@
  "mapd.MapD.interrupt_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21305,6 +21852,7 @@
  "mapd.MapD.interrupt_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21314,6 +21862,7 @@
  "mapd.MapD.load_table_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21323,6 +21872,7 @@
  "mapd.MapD.load_table_binary_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21332,6 +21882,7 @@
  "mapd.MapD.load_table_binary_arrow_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -21340,6 +21891,7 @@
  "mapd.MapD.load_table_binary_arrow_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -21348,6 +21900,7 @@
  "mapd.MapD.load_table_binary_columnar_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -21356,6 +21909,7 @@
  "mapd.MapD.load_table_binary_columnar_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -21364,6 +21918,7 @@
  "mapd.MapD.load_table_binary_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21373,6 +21928,7 @@
  "mapd.MapD.load_table_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21400,6 +21956,7 @@
  "mapd.MapD.render_vega_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21427,10 +21984,23 @@
  "mapd.MapD.render_vega_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.MapD.replace_dashboard_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.replace_dashboard_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.MapD.rollback_table_epoch_args":{
@@ -21452,6 +22022,7 @@
  "mapd.MapD.set_execution_mode_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21461,15 +22032,65 @@
  "mapd.MapD.set_execution_mode_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.set_license_key_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.set_license_key_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.set_table_epoch_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.set_table_epoch_by_name_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.set_table_epoch_by_name_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.set_table_epoch_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.share_dashboard_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.share_dashboard_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.sql_execute_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21479,6 +22100,7 @@
  "mapd.MapD.sql_execute_df_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21488,6 +22110,7 @@
  "mapd.MapD.sql_execute_df_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21497,6 +22120,7 @@
  "mapd.MapD.sql_execute_gdf_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21506,6 +22130,7 @@
  "mapd.MapD.sql_execute_gdf_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21515,6 +22140,7 @@
  "mapd.MapD.sql_execute_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21524,6 +22150,7 @@
  "mapd.MapD.sql_validate_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21533,6 +22160,7 @@
  "mapd.MapD.sql_validate_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21542,6 +22170,7 @@
  "mapd.MapD.start_heap_profile_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21551,6 +22180,7 @@
  "mapd.MapD.start_heap_profile_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21560,6 +22190,7 @@
  "mapd.MapD.start_query_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21569,15 +22200,29 @@
  "mapd.MapD.start_query_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.start_render_query_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.start_render_query_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.MapD.stop_heap_profile_args":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21587,15 +22232,41 @@
  "mapd.MapD.stop_heap_profile_result":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.MapD.switch_database_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.switch_database_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.unshare_dashboard_args":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.MapD.unshare_dashboard_result":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.__all__":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21605,6 +22276,7 @@
  "mapd.constants":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21948,15 +22620,23 @@
  "mapd.ttypes":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TClusterHardwareInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TColumn":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21966,24 +22646,45 @@
  "mapd.ttypes.TCopyParams":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.ttypes.TCreateParams":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.ttypes.TDBInfo":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TDBObject":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.ttypes.TDashboard":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TDataBlockPtr":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -21993,15 +22694,23 @@
  "mapd.ttypes.TDataFrame":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TDatabasePermissions":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TDatum":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22011,6 +22720,7 @@
  "mapd.ttypes.TDetectResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22029,6 +22739,7 @@
  "mapd.ttypes.TDictionaryGeneration":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22047,6 +22758,7 @@
  "mapd.ttypes.TExecuteMode":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22056,19 +22768,39 @@
  "mapd.ttypes.TExpressionRangeType":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TFileType":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TFrontendView":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.ttypes.TGeoFileLayerContents":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.ttypes.TGeoFileLayerInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.ttypes.TGpuMemorySummary":{
@@ -22077,9 +22809,28 @@
    "pymapd-0.2.1-py36_0"
   ]
  },
+ "mapd.ttypes.TGpuSpecification":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.ttypes.THardwareInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.ttypes.TImportHeaderRow":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TImportStatus":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22089,15 +22840,23 @@
  "mapd.ttypes.TInsertData":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TLicenseInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TMapDException":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22107,6 +22866,7 @@
  "mapd.ttypes.TMemoryData":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
@@ -22121,6 +22881,7 @@
  "mapd.ttypes.TMergeType":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22130,23 +22891,38 @@
  "mapd.ttypes.TNodeMemoryInfo":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TPartitionDetail":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TPendingQuery":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TPendingRenderQuery":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TPixel":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22156,10 +22932,17 @@
  "mapd.ttypes.TQueryResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.ttypes.TRawPixelData":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.ttypes.TRawPixelDataResult":{
@@ -22174,10 +22957,23 @@
  "mapd.ttypes.TRawRenderPassDataResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.ttypes.TRenderDatum":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.ttypes.TRenderParseResult":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.ttypes.TRenderProperty":{
@@ -22192,15 +22988,29 @@
  "mapd.ttypes.TRenderResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TRenderStepResult":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.ttypes.TRole":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TRow":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22210,15 +23020,23 @@
  "mapd.ttypes.TServerStatus":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
   ]
  },
+ "mapd.ttypes.TSessionInfo":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
  "mapd.ttypes.TStepResult":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22228,6 +23046,7 @@
  "mapd.ttypes.TStringRow":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22237,6 +23056,7 @@
  "mapd.ttypes.TStringValue":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22246,6 +23066,7 @@
  "mapd.ttypes.TTableDetails":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
@@ -22255,10 +23076,23 @@
  "mapd.ttypes.TTableGeneration":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.ttypes.TTableMeta":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
+  ]
+ },
+ "mapd.ttypes.TTablePermissions":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapd.ttypes.TTableType":{
@@ -22282,10 +23116,17 @@
  "mapd.ttypes.TVarLen":{
   "__set__":true,
   "elements":[
+   "pymapd-0.12.1-py_0",
    "pymapd-0.2.1-py36_0",
    "pymapd-0.3.1-py36_0",
    "pymapd-0.3.2-py27_0",
    "pymapd-0.3.2-py35_0"
+  ]
+ },
+ "mapd.ttypes.TViewPermissions":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.12.1-py_0"
   ]
  },
  "mapio.__version__":{
