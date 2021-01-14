@@ -6068,19 +6068,117 @@
  "pmd_beamphysics.interfaces.astra":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.interfaces.astra.write_astra":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.bmad":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.bmad.write_bmad":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.gpt":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.gpt.e_charge":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.gpt.write_gpt":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.impact":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.impact.c_light":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.impact.impact_particles_to_particle_data":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.impact.write_impact":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.opal":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.opal.opal_to_data":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.interfaces.opal.write_opal":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.particle_paths":{
   "__set__":true,
   "elements":[
    "openpmd-beamphysics-0.3.0-py_0"
+  ]
+ },
+ "pmd_beamphysics.particles.ParticleGroup":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.particles.c_light":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.particles.charge_of":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.particles.charge_state":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.particles.component_str.s":{
@@ -6101,10 +6199,52 @@
    "openpmd-beamphysics-0.3.0-py_0"
   ]
  },
+ "pmd_beamphysics.particles.e_charge":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.particles.full_data":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.particles.join_particle_groups":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.particles.load_bunch_data":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.particles.mass_of":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.particles.particle_parts":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
  "pmd_beamphysics.particles.particle_paths":{
   "__set__":true,
   "elements":[
    "openpmd-beamphysics-0.3.0-py_0"
+  ]
+ },
+ "pmd_beamphysics.particles.resample":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.particles.s":{
@@ -6119,6 +6259,12 @@
    "openpmd-beamphysics-0.3.0-py_0"
   ]
  },
+ "pmd_beamphysics.particles.single_particle":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
  "pmd_beamphysics.particles.slice_statistics":{
   "__set__":true,
   "elements":[
@@ -6128,7 +6274,8 @@
  "pmd_beamphysics.particles.split_particles":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.particles.symbol":{
@@ -6137,124 +6284,258 @@
    "openpmd-beamphysics-0.3.0-py_0"
   ]
  },
+ "pmd_beamphysics.pmd_init":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.readers.component_str.s":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.readers.component_str.shape":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.readers.component_str.symbol":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.readers.s":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.readers.shape":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.readers.symbol":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
  "pmd_beamphysics.units.DIMENSION":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.DIMENSION_NAME":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.PARTICLEGROUP_UNITS":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.PREFIX":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.PREFIX_FACTOR":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.SHORT_PREFIX":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.SHORT_PREFIX_FACTOR":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.SI_name":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.SI_symbol":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.c_light":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.dimension":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.units.divide_units":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.e_charge":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.units.is_identity":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.k":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.units.known_unit":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.m_e":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.m_p":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.units.multiply_units":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.nice_array":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.nice_scale_prefix":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.pg_units":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.pmd_unit":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.units.read_dataset_and_unit_h5":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.units.read_unit_h5":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmd_beamphysics.units.unit":{
   "__set__":true,
   "elements":[
-   "openpmd-beamphysics-0.3.0-py_0"
+   "openpmd-beamphysics-0.3.0-py_0",
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.units.write_dataset_and_unit_h5":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.units.write_unit_h5":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.writers.fstr":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.writers.pmd_init":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.writers.write_component_data":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
+  ]
+ },
+ "pmd_beamphysics.writers.write_pmd_bunch":{
+  "__set__":true,
+  "elements":[
+   "openpmd-beamphysics-0.4.0-py_1"
   ]
  },
  "pmda.__version__":{
