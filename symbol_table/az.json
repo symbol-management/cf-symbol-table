@@ -3789,6 +3789,7 @@
    "azure-common-1.1.8-py27_0",
    "azure-mgmt-compute-0.20.1-py35_0",
    "azure-mgmt-resource-0.20.1-py27_0",
+   "azure-mgmt-storage-0.20.0-py27_0",
    "azure-storage-0.32.0-py34_0",
    "azure-storage-0.36.0-py38_1000",
    "azure-storage-common-2.1.0-py36_1",
@@ -22818,42 +22819,48 @@
   "__set__":true,
   "elements":[
    "azure-mgmt-compute-0.20.1-py35_0",
-   "azure-mgmt-resource-0.20.1-py27_0"
+   "azure-mgmt-resource-0.20.1-py27_0",
+   "azure-mgmt-storage-0.20.0-py27_0"
   ]
  },
  "azure.mgmt.common.OperationStatus":{
   "__set__":true,
   "elements":[
    "azure-mgmt-compute-0.20.1-py35_0",
-   "azure-mgmt-resource-0.20.1-py27_0"
+   "azure-mgmt-resource-0.20.1-py27_0",
+   "azure-mgmt-storage-0.20.0-py27_0"
   ]
  },
  "azure.mgmt.common.OperationStatusResponse":{
   "__set__":true,
   "elements":[
    "azure-mgmt-compute-0.20.1-py35_0",
-   "azure-mgmt-resource-0.20.1-py27_0"
+   "azure-mgmt-resource-0.20.1-py27_0",
+   "azure-mgmt-storage-0.20.0-py27_0"
   ]
  },
  "azure.mgmt.common.Service":{
   "__set__":true,
   "elements":[
    "azure-mgmt-compute-0.20.1-py35_0",
-   "azure-mgmt-resource-0.20.1-py27_0"
+   "azure-mgmt-resource-0.20.1-py27_0",
+   "azure-mgmt-storage-0.20.0-py27_0"
   ]
  },
  "azure.mgmt.common.arm.ResourceBase":{
   "__set__":true,
   "elements":[
    "azure-mgmt-compute-0.20.1-py35_0",
-   "azure-mgmt-resource-0.20.1-py27_0"
+   "azure-mgmt-resource-0.20.1-py27_0",
+   "azure-mgmt-storage-0.20.0-py27_0"
   ]
  },
  "azure.mgmt.common.arm.ResourceBaseExtended":{
   "__set__":true,
   "elements":[
    "azure-mgmt-compute-0.20.1-py35_0",
-   "azure-mgmt-resource-0.20.1-py27_0"
+   "azure-mgmt-resource-0.20.1-py27_0",
+   "azure-mgmt-storage-0.20.0-py27_0"
   ]
  },
  "azure.mgmt.compute.AdditionalUnattendContent":{
@@ -24342,6 +24349,228 @@
   "__set__":true,
   "elements":[
    "azure-mgmt-resource-0.20.1-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.AccountStatus":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.AccountType":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.AzureHttpError":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.AzureOperationResponse":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.CheckNameAvailabilityResponse":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.CustomDomain":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.Endpoints":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.KeyName":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.OperationStatus":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.OperationStatusResponse":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.ProvisioningState":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.Reason":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.ResourceBase":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.ResourceBaseExtended":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.Service":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.StorageAccount":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.StorageManagementClient":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.__author__":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.__version__":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.AccountStatus":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.AccountType":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.AzureHttpError":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.AzureOperationResponse":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.CheckNameAvailabilityResponse":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.CustomDomain":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.Endpoints":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.KeyName":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.OperationStatus":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.OperationStatusResponse":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.ProvisioningState":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.Reason":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.ResourceBase":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.ResourceBaseExtended":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.Service":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.StorageAccount":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
+  ]
+ },
+ "azure.mgmt.storage.storagemanagement.StorageManagementClient":{
+  "__set__":true,
+  "elements":[
+   "azure-mgmt-storage-0.20.0-py27_0"
   ]
  },
  "azure.profiles.KnownProfiles":{
