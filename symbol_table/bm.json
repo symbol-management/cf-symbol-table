@@ -3,6 +3,7 @@
   "__set__":true,
   "elements":[
    "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -15,24 +16,28 @@
  "bmi_tester._version":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester._version.get_versions":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester._version.version_json":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.api":{
   "__set__":true,
   "elements":[
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -45,6 +50,7 @@
  "bmi_tester.api.check_bmi":{
   "__set__":true,
   "elements":[
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -93,6 +99,7 @@
  "bmi_tester.bmi":{
   "__set__":true,
   "elements":[
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -105,6 +112,7 @@
  "bmi_tester.bmi.Bmi":{
   "__set__":true,
   "elements":[
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -118,6 +126,7 @@
   "__set__":true,
   "elements":[
    "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -178,6 +187,7 @@
  "bmi_tester.bmipytest.load_component":{
   "__set__":true,
   "elements":[
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -191,6 +201,7 @@
   "__set__":true,
   "elements":[
    "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -221,6 +232,7 @@
  "bmi_tester.bmipytest.validate_entry_point":{
   "__set__":true,
   "elements":[
+   "bmi-tester-0.4.1-py_0",
    "bmi-tester-0.5.1-py36h68bb277_0",
    "bmi-tester-0.5.2-py36h05cdcba_1",
    "bmi-tester-0.5.2-py37h161383b_1",
@@ -1282,7 +1294,8 @@
  "bmi_tester.tests_pytest":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.BMI_VERSION_STRING":{
@@ -1312,7 +1325,62 @@
  "bmi_tester.tests_pytest.conftest":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.BMI_VERSION_STRING":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.Bmi":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.INPUT_FILE":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.all_grids":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.bmi":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.class_to_test":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.get_test_parameters":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.initialized_bmi":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.load_component":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.conftest.new_bmi":{
@@ -1324,13 +1392,20 @@
  "bmi_tester.tests_pytest.conftest.pytest_generate_tests":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.conftest.pytest_runtest_setup":{
   "__set__":true,
   "elements":[
    "bmi-tester-0.2.4-py27_0"
+  ]
+ },
+ "bmi_tester.tests_pytest.conftest.staged_tmpdir":{
+  "__set__":true,
+  "elements":[
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.load_component":{
@@ -1342,253 +1417,295 @@
  "bmi_tester.tests_pytest.test_control":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_control.test_has_finalize":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_control.test_has_initialize":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_control.test_initialize":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_control.test_update":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid.VALID_GRID_TYPES":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid.test_get_grid_size":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid.test_get_grid_type":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid.test_valid_grid_rank":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid_uniform_rectilinear":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid_uniform_rectilinear.test_get_grid_shape":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid_uniform_rectilinear.test_get_grid_spacing":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid_unstructured":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_grid_unstructured.test_grid_x":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_info":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_info.test_get_component_name":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_info.test_get_input_var_names":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_info.test_get_output_var_names":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_info.test_input_var_name_count":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_info.test_output_var_name_count":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_info.test_var_names":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_time":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_time.test_get_current_time":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_time.test_get_end_time":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_time.test_get_start_time":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_time.test_get_time_step":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_time.test_time_units_is_str":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_time.test_time_units_is_valid":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_value":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_value.BAD_VALUE":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_value.BMI_VERSION":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_value.empty_var_buffer":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_value.test_get_input_values":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_value.test_get_output_values":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_value.test_get_var_location":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_var":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_var.test_get_var_grid":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_var.test_get_var_itemsize":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_var.test_get_var_nbytes":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_var.test_get_var_type":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.test_var.test_get_var_units":{
   "__set__":true,
   "elements":[
-   "bmi-tester-0.2.4-py27_0"
+   "bmi-tester-0.2.4-py27_0",
+   "bmi-tester-0.4.1-py_0"
   ]
  },
  "bmi_tester.tests_pytest.utils":{
