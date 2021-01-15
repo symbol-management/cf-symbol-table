@@ -1,4 +1,106 @@
 {
+ "smart_open.ClosingBZ2File":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.ClosingGzipFile":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.DEFAULT_ERRORS":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.HdfsOpenRead":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.HdfsOpenWrite":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.HttpOpenRead":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.HttpReadStream":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.IS_PY2":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.MULTIPROCESSING":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.ParseUri":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.SYSTEM_ENCODING":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.WEBHDFS_MIN_PART_SIZE":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.WebHdfsException":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.WebHdfsOpenRead":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.WebHdfsOpenWrite":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open._CODECS":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open._ISSUE_146_FSTR":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.__all__":{
   "__set__":true,
   "elements":[
@@ -15,10 +117,34 @@
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open._detect_codec":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open._get_version":{
   "__set__":true,
   "elements":[
    "smart_open-1.8.3-py_0"
+  ]
+ },
+ "smart_open._setup_unsecured_mode":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open._wrap_gzip":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open._wrap_none":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.azure":{
@@ -149,6 +275,12 @@
   "__set__":true,
   "elements":[
    "smart_open-2.1.1-pyh9f0ad1d_0"
+  ]
+ },
+ "smart_open.compression_wrapper":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.concurrency":{
@@ -295,6 +427,18 @@
   "__set__":true,
   "elements":[
    "smart_open-2.1.1-pyh9f0ad1d_0"
+  ]
+ },
+ "smart_open.encoding_wrapper":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.file_smart_open":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.gcs":{
@@ -615,8 +759,15 @@
  "smart_open.logger":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
+  ]
+ },
+ "smart_open.make_closing":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.open":{
@@ -644,6 +795,7 @@
  "smart_open.s3":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -652,6 +804,7 @@
  "smart_open.s3.BINARY_NEWLINE":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -659,6 +812,7 @@
  "smart_open.s3.BufferedInputBase":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -666,6 +820,7 @@
  "smart_open.s3.BufferedOutputBase":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -674,6 +829,7 @@
  "smart_open.s3.CURRENT":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -681,6 +837,7 @@
  "smart_open.s3.DEFAULT_BUFFER_SIZE":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -695,6 +852,7 @@
  "smart_open.s3.DEFAULT_MIN_PART_SIZE":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -716,6 +874,7 @@
  "smart_open.s3.END":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -723,6 +882,7 @@
  "smart_open.s3.MIN_MIN_PART_SIZE":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -731,6 +891,7 @@
  "smart_open.s3.MODES":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -741,9 +902,16 @@
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open.s3.READ":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.s3.READ_BINARY":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -751,6 +919,7 @@
  "smart_open.s3.RawReader":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -770,6 +939,7 @@
  "smart_open.s3.START":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -784,6 +954,7 @@
  "smart_open.s3.SeekableBufferedInputBase":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -792,6 +963,7 @@
  "smart_open.s3.SeekableRawReader":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -811,13 +983,21 @@
  "smart_open.s3.WHENCE_CHOICES":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
+  ]
+ },
+ "smart_open.s3.WRITE":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.s3.WRITE_BINARY":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -858,6 +1038,12 @@
   "elements":[
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
+  ]
+ },
+ "smart_open.s3._clamp":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.s3._consolidate_params":{
@@ -910,6 +1096,12 @@
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open.s3._range_string":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.s3._retry_if_failed":{
   "__set__":true,
   "elements":[
@@ -940,6 +1132,7 @@
  "smart_open.s3.logger":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -955,6 +1148,7 @@
  "smart_open.s3.open":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -969,14 +1163,28 @@
  "smart_open.s3_iter_bucket":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open.s3_open_key":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.s3_open_uri":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.smart_open":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -985,9 +1193,64 @@
  "smart_open.smart_open_lib":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
+  ]
+ },
+ "smart_open.smart_open_lib.ClosingBZ2File":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.ClosingGzipFile":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.DEFAULT_ERRORS":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.HdfsOpenRead":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.HdfsOpenWrite":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.HttpOpenRead":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.HttpReadStream":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.IS_PY2":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.MULTIPROCESSING":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.smart_open_lib.PATHLIB_SUPPORT":{
@@ -997,9 +1260,16 @@
    "smart_open-1.9.0-py_0"
   ]
  },
+ "smart_open.smart_open_lib.ParseUri":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.smart_open_lib.SYSTEM_ENCODING":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1010,6 +1280,36 @@
   "elements":[
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
+  ]
+ },
+ "smart_open.smart_open_lib.WEBHDFS_MIN_PART_SIZE":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.WebHdfsException":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.WebHdfsOpenRead":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.WebHdfsOpenWrite":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib._CODECS":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.smart_open_lib._COMPRESSOR_REGISTRY":{
@@ -1024,6 +1324,12 @@
   "elements":[
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
+  ]
+ },
+ "smart_open.smart_open_lib._ISSUE_146_FSTR":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.smart_open_lib._ISSUE_189_URL":{
@@ -1066,6 +1372,12 @@
   "elements":[
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
+  ]
+ },
+ "smart_open.smart_open_lib._detect_codec":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.smart_open_lib._encoding_wrapper":{
@@ -1147,6 +1459,12 @@
    "smart_open-1.9.0-py_0"
   ]
  },
+ "smart_open.smart_open_lib._setup_unsecured_mode":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.smart_open_lib._shortcut_open":{
   "__set__":true,
   "elements":[
@@ -1161,6 +1479,18 @@
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open.smart_open_lib._wrap_gzip":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib._wrap_none":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.smart_open_lib.check_kwargs":{
   "__set__":true,
   "elements":[
@@ -1173,6 +1503,12 @@
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open.smart_open_lib.compression_wrapper":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.smart_open_lib.doctools":{
   "__set__":true,
   "elements":[
@@ -1181,10 +1517,22 @@
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open.smart_open_lib.encoding_wrapper":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.smart_open_lib.ex":{
   "__set__":true,
   "elements":[
    "smart_open-2.1.1-pyh9f0ad1d_0"
+  ]
+ },
+ "smart_open.smart_open_lib.file_smart_open":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.smart_open_lib.hdfs":{
@@ -1216,9 +1564,16 @@
  "smart_open.smart_open_lib.logger":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
+  ]
+ },
+ "smart_open.smart_open_lib.make_closing":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.smart_open_lib.open":{
@@ -1266,13 +1621,33 @@
  "smart_open.smart_open_lib.s3":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
+  ]
+ },
+ "smart_open.smart_open_lib.s3_iter_bucket":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.s3_open_key":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
+ "smart_open.smart_open_lib.s3_open_uri":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
   ]
  },
  "smart_open.smart_open_lib.smart_open":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1381,6 +1756,7 @@
  "smart_open.tests":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1792,6 +2168,7 @@
  "smart_open.tests.test_s3":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1808,6 +2185,7 @@
  "smart_open.tests.test_s3.BUCKET_NAME":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1816,6 +2194,7 @@
  "smart_open.tests.test_s3.BufferedOutputBaseTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -1823,6 +2202,7 @@
  "smart_open.tests.test_s3.ClampTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -1885,6 +2265,7 @@
  "smart_open.tests.test_s3.KEY_NAME":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1913,6 +2294,7 @@
  "smart_open.tests.test_s3.SeekableBufferedInputBaseTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1933,6 +2315,7 @@
  "smart_open.tests.test_s3.WRITE_KEY_NAME":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1941,6 +2324,7 @@
  "smart_open.tests.test_s3.cleanup_bucket":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1949,6 +2333,7 @@
  "smart_open.tests.test_s3.create_bucket_and_key":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0"
   ]
  },
@@ -1963,6 +2348,7 @@
  "smart_open.tests.test_s3.logger":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -1971,6 +2357,7 @@
  "smart_open.tests.test_s3.maybe_mock_s3":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0"
   ]
@@ -2104,6 +2491,7 @@
  "smart_open.tests.test_smart_open":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2112,6 +2500,7 @@
  "smart_open.tests.test_smart_open.CURR_DIR":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2128,6 +2517,7 @@
  "smart_open.tests.test_smart_open.CompressionFormatTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2136,14 +2526,22 @@
  "smart_open.tests.test_smart_open.MultistreamsBZ2Test":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open.tests.test_smart_open.PY2":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.tests.test_smart_open.ParseUriTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2156,9 +2554,16 @@
    "smart_open-2.1.1-pyh9f0ad1d_0"
   ]
  },
+ "smart_open.tests.test_smart_open.S3IterBucketTest":{
+  "__set__":true,
+  "elements":[
+   "smart_open-1.5.6-py36_1"
+  ]
+ },
  "smart_open.tests.test_smart_open.S3OpenTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2191,6 +2596,7 @@
  "smart_open.tests.test_smart_open.SmartOpenHttpTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2199,6 +2605,7 @@
  "smart_open.tests.test_smart_open.SmartOpenReadTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2207,6 +2614,7 @@
  "smart_open.tests.test_smart_open.SmartOpenS3KwargsTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2215,6 +2623,7 @@
  "smart_open.tests.test_smart_open.SmartOpenTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2223,6 +2632,7 @@
  "smart_open.tests.test_smart_open.WebHdfsWriteTest":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2261,6 +2671,7 @@
  "smart_open.tests.test_smart_open.logger":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"
@@ -2289,6 +2700,7 @@
  "smart_open.tests.test_smart_open.smart_open_lib":{
   "__set__":true,
   "elements":[
+   "smart_open-1.5.6-py36_1",
    "smart_open-1.8.3-py_0",
    "smart_open-1.9.0-py_0",
    "smart_open-2.1.1-pyh9f0ad1d_0"

@@ -11382,46 +11382,77 @@
    "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
   ]
  },
+ "sagemaker_pytorch_serving_container.default_pytorch_inference_handler":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.default_pytorch_inference_handler.DEFAULT_MODEL_FILENAME":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.default_pytorch_inference_handler.DefaultPytorchInferenceHandler":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.default_pytorch_inference_handler.INFERENCE_ACCELERATOR_PRESENT_ENV":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
  "sagemaker_pytorch_serving_container.handler_service":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_pytorch_serving_container.handler_service.DefaultPytorchInferenceHandler":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_pytorch_serving_container.handler_service.ENABLE_MULTI_MODEL":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_pytorch_serving_container.handler_service.HandlerService":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_pytorch_serving_container.serving":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_pytorch_serving_container.serving.HANDLER_SERVICE":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_pytorch_serving_container.serving._retry_if_error":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_pytorch_serving_container.serving._start_model_server":{
@@ -11430,16 +11461,174 @@
    "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
   ]
  },
+ "sagemaker_pytorch_serving_container.serving._start_torchserve":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
  "sagemaker_pytorch_serving_container.serving.handler_service":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_pytorch_serving_container.serving.main":{
   "__set__":true,
   "elements":[
-   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0"
+   "sagemaker-pytorch-serving-container-1.5.1.post0-py_0",
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.serving.torchserve":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.DEFAULT_HANDLER_SERVICE":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.DEFAULT_TS_CODE_DIR":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.DEFAULT_TS_CONFIG_FILE":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.DEFAULT_TS_LOG_FILE":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.DEFAULT_TS_MODEL_DIRECTORY":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.DEFAULT_TS_MODEL_NAME":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.DEFAULT_TS_MODEL_SERIALIZED_FILE":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.ENABLE_MULTI_MODEL":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.MME_TS_CONFIG_FILE":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.MODEL_STORE":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.PYTHON_PATH_ENV":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.REQUIREMENTS_PATH":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.TS_CONFIG_FILE":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.TS_NAMESPACE":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve._adapt_to_ts_format":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve._add_sigterm_handler":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve._create_torchserve_config_file":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve._generate_ts_config_properties":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve._install_requirements":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve._retrieve_ts_server_process":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve._set_python_path":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.logger":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
+  ]
+ },
+ "sagemaker_pytorch_serving_container.torchserve.start_torchserve":{
+  "__set__":true,
+  "elements":[
+   "sagemaker-pytorch-serving-container-2.0.4-py_0"
   ]
  },
  "sagemaker_tensorflow_container.deep_learning_container":{
@@ -20776,6 +20965,7 @@
  "sanic.Blueprint":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20783,6 +20973,7 @@
  "sanic.Sanic":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20790,6 +20981,7 @@
  "sanic.__all__":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20797,6 +20989,7 @@
  "sanic.__main__":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20804,6 +20997,7 @@
  "sanic.__main__.Sanic":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20811,30 +21005,35 @@
  "sanic.__main__.app":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__main__.app_name":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__main__.args":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__main__.e":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__main__.logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20848,36 +21047,42 @@
  "sanic.__main__.module":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__main__.module_name":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__main__.module_parts":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__main__.parser":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__main__.ssl":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.__version__":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20892,6 +21097,7 @@
  "sanic.app":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20927,6 +21133,7 @@
  "sanic.app.CompositionView":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20934,6 +21141,7 @@
  "sanic.app.Config":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20941,6 +21149,7 @@
  "sanic.app.ConnectionClosed":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20948,6 +21157,7 @@
  "sanic.app.ErrorHandler":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20955,6 +21165,7 @@
  "sanic.app.HTTPResponse":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20962,6 +21173,7 @@
  "sanic.app.HTTP_METHODS":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20969,6 +21181,7 @@
  "sanic.app.HttpProtocol":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20976,6 +21189,7 @@
  "sanic.app.LOGGING_CONFIG_DEFAULTS":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20983,6 +21197,7 @@
  "sanic.app.Router":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -20990,6 +21205,7 @@
  "sanic.app.Sanic":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21004,6 +21220,7 @@
  "sanic.app.SanicException":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21011,6 +21228,7 @@
  "sanic.app.SanicTestClient":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21018,6 +21236,7 @@
  "sanic.app.ServerError":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21025,6 +21244,7 @@
  "sanic.app.Signal":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21032,6 +21252,7 @@
  "sanic.app.StreamingHTTPResponse":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21039,6 +21260,7 @@
  "sanic.app.URLBuildError":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21046,6 +21268,7 @@
  "sanic.app.WebSocketProtocol":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21053,6 +21276,7 @@
  "sanic.app.error_logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21060,6 +21284,7 @@
  "sanic.app.logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21067,6 +21292,7 @@
  "sanic.app.register":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21074,6 +21300,7 @@
  "sanic.app.reloader_helpers":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21081,6 +21308,7 @@
  "sanic.app.serve":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21234,6 +21462,7 @@
  "sanic.blueprints":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21241,6 +21470,7 @@
  "sanic.blueprints.Blueprint":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21255,6 +21485,7 @@
  "sanic.blueprints.CompositionView":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21262,6 +21493,7 @@
  "sanic.blueprints.FutureException":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21269,6 +21501,7 @@
  "sanic.blueprints.FutureListener":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21276,6 +21509,7 @@
  "sanic.blueprints.FutureMiddleware":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21283,6 +21517,7 @@
  "sanic.blueprints.FutureRoute":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21290,6 +21525,7 @@
  "sanic.blueprints.FutureStatic":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21297,6 +21533,7 @@
  "sanic.blueprints.HTTP_METHODS":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21342,6 +21579,7 @@
  "sanic.config":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21356,6 +21594,7 @@
  "sanic.config.Config":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21377,6 +21616,7 @@
  "sanic.config.SANIC_PREFIX":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21398,6 +21638,7 @@
  "sanic.constants":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21405,6 +21646,7 @@
  "sanic.constants.HTTP_METHODS":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21412,6 +21654,7 @@
  "sanic.cookies":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21419,6 +21662,7 @@
  "sanic.cookies.Cookie":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21426,6 +21670,7 @@
  "sanic.cookies.CookieJar":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21440,6 +21685,7 @@
  "sanic.cookies._LegalChars":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21447,6 +21693,7 @@
  "sanic.cookies._Translator":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21454,6 +21701,7 @@
  "sanic.cookies._UnescapedChars":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21461,6 +21709,7 @@
  "sanic.cookies._is_legal_key":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21468,6 +21717,7 @@
  "sanic.cookies._quote":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21547,6 +21797,7 @@
  "sanic.exceptions":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21554,6 +21805,7 @@
  "sanic.exceptions.ContentRangeError":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21561,6 +21813,7 @@
  "sanic.exceptions.FileNotFound":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21568,6 +21821,7 @@
  "sanic.exceptions.Forbidden":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21582,6 +21836,7 @@
  "sanic.exceptions.HeaderNotFound":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21589,12 +21844,14 @@
  "sanic.exceptions.INTERNAL_SERVER_ERROR_HTML":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.exceptions.InvalidRangeType":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21602,6 +21859,7 @@
  "sanic.exceptions.InvalidUsage":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21609,6 +21867,7 @@
  "sanic.exceptions.MethodNotSupported":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21616,6 +21875,7 @@
  "sanic.exceptions.NotFound":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21623,6 +21883,7 @@
  "sanic.exceptions.PayloadTooLarge":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21637,6 +21898,7 @@
  "sanic.exceptions.RequestTimeout":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21644,6 +21906,7 @@
  "sanic.exceptions.STATUS_CODES":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21651,6 +21914,7 @@
  "sanic.exceptions.SanicException":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21658,6 +21922,7 @@
  "sanic.exceptions.ServerError":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21665,6 +21930,7 @@
  "sanic.exceptions.ServiceUnavailable":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21672,36 +21938,42 @@
  "sanic.exceptions.TRACEBACK_BORDER":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.exceptions.TRACEBACK_LINE_HTML":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.exceptions.TRACEBACK_STYLE":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.exceptions.TRACEBACK_WRAPPER_HTML":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.exceptions.TRACEBACK_WRAPPER_INNER_HTML":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.exceptions.URLBuildError":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21709,6 +21981,7 @@
  "sanic.exceptions.Unauthorized":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21716,6 +21989,7 @@
  "sanic.exceptions._sanic_exceptions":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21723,6 +21997,7 @@
  "sanic.exceptions.abort":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21730,6 +22005,7 @@
  "sanic.exceptions.add_status_code":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21737,6 +22013,7 @@
  "sanic.handlers":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21744,6 +22021,7 @@
  "sanic.handlers.ContentRangeError":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21751,6 +22029,7 @@
  "sanic.handlers.ContentRangeHandler":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21758,6 +22037,7 @@
  "sanic.handlers.ErrorHandler":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21765,6 +22045,7 @@
  "sanic.handlers.HeaderNotFound":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21772,12 +22053,14 @@
  "sanic.handlers.INTERNAL_SERVER_ERROR_HTML":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.handlers.InvalidRangeType":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21785,36 +22068,42 @@
  "sanic.handlers.SanicException":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.handlers.TRACEBACK_BORDER":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.handlers.TRACEBACK_LINE_HTML":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.handlers.TRACEBACK_STYLE":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.handlers.TRACEBACK_WRAPPER_HTML":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.handlers.TRACEBACK_WRAPPER_INNER_HTML":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
@@ -21827,12 +22116,14 @@
  "sanic.handlers.html":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.handlers.logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -21840,6 +22131,7 @@
  "sanic.handlers.text":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22039,9 +22331,58 @@
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
  },
+ "sanic.http":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
+ "sanic.http.STATUS_CODES":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
+ "sanic.http._ENTITY_HEADERS":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
+ "sanic.http._HOP_BY_HOP_HEADERS":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
+ "sanic.http.has_message_body":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
+ "sanic.http.is_entity_header":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
+ "sanic.http.is_hop_by_hop_header":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
+ "sanic.http.remove_entity_headers":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
  "sanic.log":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22049,6 +22390,7 @@
  "sanic.log.LOGGING_CONFIG_DEFAULTS":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22056,6 +22398,7 @@
  "sanic.log.access_logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22063,6 +22406,7 @@
  "sanic.log.error_logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22070,6 +22414,7 @@
  "sanic.log.logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22077,6 +22422,7 @@
  "sanic.reloader_helpers":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22084,6 +22430,7 @@
  "sanic.reloader_helpers._get_args_for_reloading":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22091,6 +22438,7 @@
  "sanic.reloader_helpers._iter_module_files":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22098,18 +22446,21 @@
  "sanic.reloader_helpers.kill_process_children":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.reloader_helpers.kill_program_completly":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0"
   ]
  },
  "sanic.reloader_helpers.restart_with_reloader":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22117,6 +22468,7 @@
  "sanic.reloader_helpers.watchdog":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22124,6 +22476,7 @@
  "sanic.request":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22131,6 +22484,7 @@
  "sanic.request.DEFAULT_HTTP_CONTENT_TYPE":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22145,6 +22499,7 @@
  "sanic.request.File":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22152,6 +22507,7 @@
  "sanic.request.InvalidUsage":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22159,6 +22515,7 @@
  "sanic.request.Request":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22173,13 +22530,21 @@
  "sanic.request.error_logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
+  ]
+ },
+ "sanic.request.json_loads":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
   ]
  },
  "sanic.request.logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22208,6 +22573,7 @@
  "sanic.request.parse_multipart_form":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22222,6 +22588,7 @@
  "sanic.response":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22229,6 +22596,7 @@
  "sanic.response.BaseHTTPResponse":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22236,6 +22604,7 @@
  "sanic.response.CookieJar":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22243,6 +22612,7 @@
  "sanic.response.HTTPResponse":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22263,6 +22633,7 @@
  "sanic.response.StreamingHTTPResponse":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22277,6 +22648,7 @@
  "sanic.response.file":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22298,13 +22670,21 @@
  "sanic.response.html":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
+  ]
+ },
+ "sanic.response.http":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
   ]
  },
  "sanic.response.json":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22318,6 +22698,7 @@
  "sanic.response.raw":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22325,6 +22706,7 @@
  "sanic.response.redirect":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22339,6 +22721,7 @@
  "sanic.response.stream":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22346,6 +22729,7 @@
  "sanic.response.text":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22353,6 +22737,7 @@
  "sanic.router":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22360,6 +22745,7 @@
  "sanic.router.CompositionView":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22367,6 +22753,7 @@
  "sanic.router.MethodNotSupported":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22374,6 +22761,7 @@
  "sanic.router.NotFound":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22381,6 +22769,7 @@
  "sanic.router.Parameter":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22395,6 +22784,7 @@
  "sanic.router.REGEX_TYPES":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22402,6 +22792,7 @@
  "sanic.router.ROUTER_CACHE_SIZE":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22409,6 +22800,7 @@
  "sanic.router.Route":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22416,6 +22808,7 @@
  "sanic.router.RouteDoesNotExist":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22423,6 +22816,7 @@
  "sanic.router.RouteExists":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22430,6 +22824,7 @@
  "sanic.router.Router":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22437,6 +22832,7 @@
  "sanic.router.url_hash":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22444,6 +22840,7 @@
  "sanic.server":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22471,6 +22868,7 @@
  "sanic.server.HTTPResponse":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22492,6 +22890,7 @@
  "sanic.server.HttpProtocol":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22499,6 +22898,7 @@
  "sanic.server.InvalidUsage":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22512,6 +22912,7 @@
  "sanic.server.PayloadTooLarge":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22519,6 +22920,7 @@
  "sanic.server.Request":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22526,6 +22928,7 @@
  "sanic.server.RequestTimeout":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22533,6 +22936,7 @@
  "sanic.server.ServerError":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22540,6 +22944,7 @@
  "sanic.server.ServiceUnavailable":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22547,6 +22952,7 @@
  "sanic.server.Signal":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22561,6 +22967,7 @@
  "sanic.server.access_logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22583,9 +22990,16 @@
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
  },
+ "sanic.server.current_time":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
+  ]
+ },
  "sanic.server.logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22599,6 +23013,7 @@
  "sanic.server.serve":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22606,13 +23021,21 @@
  "sanic.server.trigger_events":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
+  ]
+ },
+ "sanic.server.update_current_time":{
+  "__set__":true,
+  "elements":[
+   "sanic-0.8.3-py35_0"
   ]
  },
  "sanic.static":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22620,6 +23043,7 @@
  "sanic.static.ContentRangeError":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22627,6 +23051,7 @@
  "sanic.static.ContentRangeHandler":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22634,6 +23059,7 @@
  "sanic.static.FileNotFound":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22641,6 +23067,7 @@
  "sanic.static.HTTPResponse":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22648,6 +23075,7 @@
  "sanic.static.HeaderNotFound":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22655,6 +23083,7 @@
  "sanic.static.InvalidUsage":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22668,6 +23097,7 @@
  "sanic.static.file":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22675,6 +23105,7 @@
  "sanic.static.register":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22688,6 +23119,7 @@
  "sanic.testing":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22709,6 +23141,7 @@
  "sanic.testing.HOST":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22716,6 +23149,7 @@
  "sanic.testing.MethodNotSupported":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22723,6 +23157,7 @@
  "sanic.testing.PORT":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22744,6 +23179,7 @@
  "sanic.testing.SanicTestClient":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22765,6 +23201,7 @@
  "sanic.testing.logger":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22772,6 +23209,7 @@
  "sanic.testing.text":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22779,6 +23217,7 @@
  "sanic.views":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22786,6 +23225,7 @@
  "sanic.views.CompositionView":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22793,6 +23233,7 @@
  "sanic.views.HTTPMethodView":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22800,6 +23241,7 @@
  "sanic.views.HTTP_METHODS":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22807,6 +23249,7 @@
  "sanic.views.InvalidUsage":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22814,6 +23257,7 @@
  "sanic.views.stream":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22821,6 +23265,7 @@
  "sanic.websocket":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22835,6 +23280,7 @@
  "sanic.websocket.ConnectionClosed":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22842,6 +23288,7 @@
  "sanic.websocket.HttpProtocol":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22849,6 +23296,7 @@
  "sanic.websocket.InvalidUsage":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22863,6 +23311,7 @@
  "sanic.websocket.WebSocketProtocol":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22877,6 +23326,7 @@
  "sanic.worker":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22884,6 +23334,7 @@
  "sanic.worker.GunicornWorker":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22891,6 +23342,7 @@
  "sanic.worker.HttpProtocol":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22898,6 +23350,7 @@
  "sanic.worker.Signal":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22905,6 +23358,7 @@
  "sanic.worker.WebSocketProtocol":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22912,6 +23366,7 @@
  "sanic.worker.serve":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22919,6 +23374,7 @@
  "sanic.worker.ssl":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
@@ -22926,6 +23382,7 @@
  "sanic.worker.trigger_events":{
   "__set__":true,
   "elements":[
+   "sanic-0.8.3-py35_0",
    "sanic-19.12.2-py38_0",
    "sanic-20.6.3-py36h9f0ad1d_0"
   ]
