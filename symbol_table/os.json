@@ -54583,8 +54583,51 @@
  "osmnx.__version__":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx._api":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx._errors":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx._errors.EmptyOverpassResponse":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx._polygon_features":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx._polygon_features._polygon_features":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx._version":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx._version.__version__":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.add_edge_bearings":{
@@ -54627,6 +54670,24 @@
   "elements":[
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.bearing":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.bearing.add_edge_bearings":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.bearing.get_bearing":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.build_path":{
@@ -55087,6 +55148,162 @@
    "osmnx-0.7.2-py36_1"
   ]
  },
+ "osmnx.distance":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.distance.BallTree":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.distance.cKDTree":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.distance.euclidean_dist_vec":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.distance.get_nearest_edge":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.distance.get_nearest_node":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.distance.great_circle_vec":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.distance.k_shortest_paths":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.distance.shortest_path":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._OSMContentHandler":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._create_overpass_query":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._get_http_headers":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._get_osm_filter":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._get_pause":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._make_overpass_polygon_coord_strs":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._make_overpass_settings":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._osm_geometry_download":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._osm_net_download":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._osm_polygon_download":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._overpass_json_from_file":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._retrieve_from_cache":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._save_to_cache":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader._url_in_cache":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader.nominatim_request":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.downloader.overpass_request":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
  "osmnx.e":{
   "__set__":true,
   "elements":[
@@ -55097,6 +55314,7 @@
  "osmnx.elevation":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55104,6 +55322,7 @@
  "osmnx.elevation.add_edge_grades":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55111,6 +55330,7 @@
  "osmnx.elevation.add_node_elevations":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55125,8 +55345,63 @@
  "osmnx.folium":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.folium._make_folium_polyline":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.folium.folium":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.folium.plot_graph_folium":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.folium.plot_route_folium":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.footprints":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.footprints.footprints_from_address":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.footprints.footprints_from_place":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.footprints.footprints_from_point":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.footprints.footprints_from_polygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.gdf_from_places":{
@@ -55141,6 +55416,132 @@
   "elements":[
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.geocoder":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geocoder._geocode_query_to_gdf":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geocoder._get_first_polygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geocoder.geocode":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._assemble_multipolygon_component_polygons":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._buffer_invalid_geometries":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._create_gdf":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._filter_gdf_by_polygon_and_tags":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._is_closed_way_a_polygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._parse_node_to_coords":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._parse_node_to_point":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._parse_relation_to_multipolygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._parse_way_to_linestring_or_polygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries._subtract_inner_polygons_from_outer_polygons":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries.geometries_from_address":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries.geometries_from_bbox":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries.geometries_from_place":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries.geometries_from_point":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries.geometries_from_polygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.geometries.geometries_from_xml":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.get_bearing":{
@@ -55330,6 +55731,90 @@
    "osmnx-0.4-py27_0"
   ]
  },
+ "osmnx.graph":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph._add_paths":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph._convert_node":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph._convert_path":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph._create_graph":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph._is_path_one_way":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph._is_path_reversed":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph._parse_nodes_paths":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph.graph_from_address":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph.graph_from_bbox":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph.graph_from_place":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph.graph_from_point":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph.graph_from_polygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.graph.graph_from_xml":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
  "osmnx.graph_from_address":{
   "__set__":true,
   "elements":[
@@ -55377,6 +55862,78 @@
   "elements":[
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.io":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io._append_edges_xml_tree":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io._append_nodes_xml_tree":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io._convert_edge_attr_types":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io._convert_node_attr_types":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io._get_unique_nodes_ordered_from_way":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io._stringify_nonnumeric_cols":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io.load_graphml":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io.save_graph_geopackage":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io.save_graph_shapefile":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io.save_graph_xml":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.io.save_graphml":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.is_duplicate_edge":{
@@ -55466,8 +56023,27 @@
  "osmnx.plot":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.plot._config_ax":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.plot._get_colors_by_value":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.plot._save_and_show":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.plot.e":{
@@ -55491,6 +56067,7 @@
  "osmnx.plot.get_colors":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55498,6 +56075,7 @@
  "osmnx.plot.get_edge_colors_by_attr":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.2.1-py35_0",
    "osmnx-0.3-py34_0",
    "osmnx-0.4-py27_0",
@@ -55508,6 +56086,7 @@
  "osmnx.plot.get_node_colors_by_attr":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55523,6 +56102,7 @@
  "osmnx.plot.plot_figure_ground":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.2.1-py35_0",
    "osmnx-0.3-py34_0",
    "osmnx-0.4-py27_0",
@@ -55530,9 +56110,16 @@
    "osmnx-0.7.2-py36_1"
   ]
  },
+ "osmnx.plot.plot_footprints":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
  "osmnx.plot.plot_graph":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.2.1-py35_0",
    "osmnx-0.3-py34_0",
    "osmnx-0.4-py27_0",
@@ -55611,9 +56198,40 @@
    "osmnx-0.7.2-py36_1"
   ]
  },
+ "osmnx.pois":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.pois.pois_from_address":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.pois.pois_from_place":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.pois.pois_from_point":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.pois.pois_from_polygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
  "osmnx.projection":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55621,6 +56239,7 @@
  "osmnx.projection.project_gdf":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.2.1-py35_0",
    "osmnx-0.3-py34_0",
    "osmnx-0.4-py27_0",
@@ -55631,6 +56250,7 @@
  "osmnx.projection.project_geometry":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.2.1-py35_0",
    "osmnx-0.3-py34_0",
    "osmnx-0.4-py27_0",
@@ -55641,6 +56261,7 @@
  "osmnx.projection.project_graph":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.2.1-py35_0",
    "osmnx-0.3-py34_0",
    "osmnx-0.4-py27_0",
@@ -55794,13 +56415,27 @@
  "osmnx.settings":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.settings.all_oneway":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.bidirectional_network_types":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.settings.cache_folder":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55808,20 +56443,53 @@
  "osmnx.settings.data_folder":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.settings.default_accept_language":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.default_access":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.settings.default_crs":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.settings.default_referer":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.default_user_agent":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.elevation_provider":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.settings.imgs_folder":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55829,6 +56497,7 @@
  "osmnx.settings.log_console":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55836,6 +56505,7 @@
  "osmnx.settings.log_file":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55843,6 +56513,7 @@
  "osmnx.settings.log_filename":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55850,6 +56521,7 @@
  "osmnx.settings.log_level":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55857,6 +56529,7 @@
  "osmnx.settings.log_name":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55864,13 +56537,81 @@
  "osmnx.settings.logs_folder":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.settings.max_query_area_size":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.memory":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.nominatim_endpoint":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.nominatim_key":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.osm_xml_node_attrs":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.osm_xml_node_tags":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.osm_xml_way_attrs":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.osm_xml_way_tags":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.overpass_endpoint":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.overpass_settings":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.settings.timeout":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.settings.use_cache":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55878,6 +56619,7 @@
  "osmnx.settings.useful_tags_node":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55887,6 +56629,60 @@
   "elements":[
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.settings.useful_tags_way":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.simplification":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.simplification._build_path":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.simplification._consolidate_intersections_rebuild_graph":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.simplification._get_paths_to_simplify":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.simplification._is_endpoint":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.simplification._is_simplified":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.simplification.consolidate_intersections":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.simplification.simplify_graph":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.simplify":{
@@ -55953,9 +56749,40 @@
    "osmnx-0.7.2-py36_1"
   ]
  },
+ "osmnx.speed":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.speed._clean_maxspeed":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.speed._collapse_multiple_maxspeed_values":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.speed.add_edge_speeds":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.speed.add_edge_travel_times":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
  "osmnx.stats":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -55963,6 +56790,7 @@
  "osmnx.stats.basic_stats":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.4-py27_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
@@ -55977,9 +56805,34 @@
  "osmnx.stats.extended_stats":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.4-py27_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.truncate":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.truncate.truncate_graph_bbox":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.truncate.truncate_graph_dist":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.truncate.truncate_graph_polygon":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmnx.truncate_graph_bbox":{
@@ -56006,6 +56859,7 @@
  "osmnx.utils":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
   ]
@@ -56024,6 +56878,12 @@
    "osmnx-0.7.2-py36_1"
   ]
  },
+ "osmnx.utils._get_logger":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
  "osmnx.utils.add_edge_bearings":{
   "__set__":true,
   "elements":[
@@ -56031,9 +56891,16 @@
    "osmnx-0.7.2-py36_1"
   ]
  },
+ "osmnx.utils.citation":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
  "osmnx.utils.config":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.2.1-py35_0",
    "osmnx-0.3-py34_0",
    "osmnx-0.4-py27_0",
@@ -56094,6 +56961,7 @@
  "osmnx.utils.log":{
   "__set__":true,
   "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0",
    "osmnx-0.2.1-py35_0",
    "osmnx-0.3-py34_0",
    "osmnx-0.4-py27_0"
@@ -56112,6 +56980,186 @@
   "elements":[
    "osmnx-0.7-py36_1",
    "osmnx-0.7.2-py36_1"
+  ]
+ },
+ "osmnx.utils.ts":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._consolidate_subdivide_geometry":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._get_polygons_coordinates":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._intersect_index_quadrats":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._quadrat_cut_geometry":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._round_linestring_coords":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._round_multilinestring_coords":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._round_multipoint_coords":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._round_multipolygon_coords":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._round_point_coords":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo._round_polygon_coords":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo.bbox_from_point":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo.bbox_to_poly":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo.redistribute_vertices":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_geo.round_geometry_coords":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph._is_duplicate_edge":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph._is_same_geometry":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph._update_edge_keys":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.add_edge_lengths":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.count_streets_per_node":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.get_digraph":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.get_largest_component":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.get_route_edge_attributes":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.get_undirected":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.graph_from_gdfs":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.graph_to_gdfs":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.induce_subgraph":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
+  ]
+ },
+ "osmnx.utils_graph.remove_isolated_nodes":{
+  "__set__":true,
+  "elements":[
+   "osmnx-0.16.1-pyh9f0ad1d_0"
   ]
  },
  "osmosdr.ALL_CHANS":{
