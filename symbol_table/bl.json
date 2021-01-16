@@ -818,25 +818,29 @@
  "bleach.ALLOWED_ATTRIBUTES":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.ALLOWED_PROTOCOLS":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.ALLOWED_STYLES":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.ALLOWED_TAGS":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.BleachSanitizer":{
@@ -845,16 +849,41 @@
    "bleach-1.5.0-py36_0"
   ]
  },
+ "bleach.BleachSanitizerFilter":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.Cleaner":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
  "bleach.DEFAULT_CALLBACKS":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.ETREE_TAG":{
   "__set__":true,
   "elements":[
    "bleach-1.5.0-py36_0"
+  ]
+ },
+ "bleach.Linker":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.LinkifyFilter":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.NODE_TEXT":{
@@ -884,19 +913,22 @@
  "bleach.VERSION":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.__all__":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.__version__":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach._render":{
@@ -914,25 +946,29 @@
  "bleach.callbacks":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.callbacks.nofollow":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.callbacks.target_blank":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.clean":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.email_re":{
@@ -944,19 +980,22 @@
  "bleach.encoding":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.encoding.force_unicode":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.encoding.is_protected_type":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.force_unicode":{
@@ -965,10 +1004,83 @@
    "bleach-1.5.0-py36_0"
   ]
  },
+ "bleach.linkifier":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.DEFAULT_CALLBACKS":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.EMAIL_RE":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.Linker":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.LinkifyFilter":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.PROTO_RE":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.TLDS":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.URL_RE":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.alphabetize_attributes":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.build_url_re":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.callbacks":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.linkifier.force_unicode":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
  "bleach.linkify":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.log":{
@@ -992,7 +1104,32 @@
  "bleach.sanitizer":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.sanitizer.ALLOWED_ATTRIBUTES":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.sanitizer.ALLOWED_PROTOCOLS":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.sanitizer.ALLOWED_STYLES":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.sanitizer.ALLOWED_TAGS":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.sanitizer.BleachSanitizer":{
@@ -1001,10 +1138,40 @@
    "bleach-1.5.0-py36_0"
   ]
  },
+ "bleach.sanitizer.BleachSanitizerFilter":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.sanitizer.Cleaner":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
  "bleach.sanitizer.PROTOS":{
   "__set__":true,
   "elements":[
    "bleach-1.5.0-py36_0"
+  ]
+ },
+ "bleach.sanitizer.alphabetize_attributes":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.sanitizer.attribute_filter_factory":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.sanitizer.force_unicode":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.url_re":{
@@ -1013,22 +1180,43 @@
    "bleach-1.5.0-py36_0"
   ]
  },
+ "bleach.utils":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.utils._attr_key":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
+ "bleach.utils.alphabetize_attributes":{
+  "__set__":true,
+  "elements":[
+   "bleach-2.0.0-py36_0"
+  ]
+ },
  "bleach.version":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.version.VERSION":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "bleach.version.__version__":{
   "__set__":true,
   "elements":[
-   "bleach-1.5.0-py36_0"
+   "bleach-1.5.0-py36_0",
+   "bleach-2.0.0-py36_0"
   ]
  },
  "blessed.Terminal":{
@@ -4456,6 +4644,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4474,6 +4663,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4492,6 +4682,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4510,6 +4701,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4528,6 +4720,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4546,6 +4739,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4564,6 +4758,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4582,6 +4777,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4600,6 +4796,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4618,6 +4815,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4636,6 +4834,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4654,6 +4853,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4672,6 +4872,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4690,6 +4891,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4708,6 +4910,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4726,6 +4929,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4744,6 +4948,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4762,6 +4967,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4780,6 +4986,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4798,6 +5005,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4816,6 +5024,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4830,6 +5039,7 @@
    "python-blosc-1.10.1-py38h36e2a69_0",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4848,6 +5058,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4866,6 +5077,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4884,6 +5096,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4902,6 +5115,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4920,6 +5134,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4938,6 +5153,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4956,6 +5172,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4974,6 +5191,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -4992,6 +5210,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5010,6 +5229,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5028,6 +5248,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5044,6 +5265,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5060,6 +5282,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5078,6 +5301,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5096,6 +5320,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5114,6 +5339,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5132,6 +5358,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5150,6 +5377,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5168,6 +5396,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5186,6 +5415,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5204,6 +5434,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5222,6 +5453,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5240,6 +5472,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5256,6 +5489,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5312,6 +5546,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5330,6 +5565,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5348,6 +5584,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5366,6 +5603,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5384,6 +5622,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5402,6 +5641,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5447,6 +5687,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5476,6 +5717,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5494,6 +5736,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5512,6 +5755,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5530,6 +5774,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5548,6 +5793,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5566,6 +5812,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5584,6 +5831,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5598,6 +5846,7 @@
    "python-blosc-1.10.1-py38h36e2a69_0",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5616,6 +5865,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5634,6 +5884,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5652,6 +5903,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5670,6 +5922,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5688,6 +5941,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5706,6 +5960,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5722,6 +5977,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5738,6 +5994,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5756,6 +6013,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5785,6 +6043,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5803,6 +6062,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5821,6 +6081,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5839,6 +6100,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5853,6 +6115,7 @@
    "python-blosc-1.10.1-py38h36e2a69_0",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5871,6 +6134,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5889,6 +6153,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5907,6 +6172,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5925,6 +6191,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5941,6 +6208,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5959,6 +6227,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5975,6 +6244,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -5993,6 +6263,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -6011,6 +6282,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
@@ -6029,6 +6301,7 @@
    "python-blosc-1.6.2-py37hfc679d8_1",
    "python-blosc-1.8.3-py37h4f17bb1_0",
    "python-blosc-1.8.3-py38hb3f55d8_0",
+   "python-blosc-1.9.1-py36hcc1bba6_0",
    "python-blosc-1.9.1-py38hccd8c24_0",
    "python-blosc-1.9.2-py36h7c3b610_0",
    "python-blosc-1.9.2-py36hb2ee36f_1",
