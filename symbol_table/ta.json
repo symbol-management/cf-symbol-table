@@ -61593,34 +61593,69 @@
    "tasklogger-0.4.0-py_0"
   ]
  },
+ "tasks.anaconda":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.anaconda.conda_build":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.anaconda.conda_login":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.anaconda.conda_upload":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
  "tasks.clean":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.clean.clean":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.clean.emacs_backup":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.clean.find":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.clean.flycheck":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.API_PATH":{
@@ -61632,19 +61667,40 @@
  "tasks.doc.BUILD_PATH":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.EXAMPLES_PATH":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.PYSPICE_SOURCE_PATH":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.doc.RST_API_PATH":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.doc.RST_EXAMPLES_PATH":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.doc.RST_SOURCE_PATH":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.SOURCE_PATH":{
@@ -61656,91 +61712,124 @@
  "tasks.doc.SPHINX_PATH":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.clean_api":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.clean_build":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.make_api":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.make_examples":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.make_readme":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.doc.publish":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.doc.run_sphinx":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.doc.update_authors":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.doc.xdg_open":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.git":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.git.fromtimestamp":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.git.get_commits":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.git.git":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.git.push_tags":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.git.uncommit":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.BASE_URL":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.LATEST_URL":{
@@ -61752,217 +61841,349 @@
  "tasks.ngspice.MANUAL_URL":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.OSX_URL":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.PYSPICE_SOURCE_PATH":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.RELEASE_NOTE_URL":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.RELEASE_URL":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.TAR_URL":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.WINDOWS_DLL_URL":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.WINDOWS_URL":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.build":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.clean":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.configure":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.donwload_file":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.get_last_release_note":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.get_last_version":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.get_manual":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.get_osx":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.get_source":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.get_windows":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.init":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ngspice.install":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.ngspice.remove_directories":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.ns":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.STANDARD_PACKAGES":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release._get_pipy_json":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.build":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.clean":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.find_package":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.release.get_github_tar_sha":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.get_pypi_json":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.get_wheel":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.install":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.show_import":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.show_python_site":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.update_git_sha":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.upload":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.release.wheel":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tasks.test":{
   "__set__":true,
   "elements":[
-   "pyspice-1.4.2-py38h32f6830_2"
+   "pyspice-1.4.2-py38h32f6830_2",
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.EXAMPLES_PATH":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.PYSPICE_SOURCE_PATH":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test._":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.example_iter":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.is_example":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.is_linux":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.is_osx":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.is_windows":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.make_path":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.on_azure":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.on_linux":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.on_osx":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.on_windows":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
+  ]
+ },
+ "tasks.test.run_example":{
+  "__set__":true,
+  "elements":[
+   "pyspice-1.4.3-py36h5dafb3c_2"
   ]
  },
  "tatsu.__main__":{
