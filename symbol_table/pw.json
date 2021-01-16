@@ -1,4 +1,16 @@
 {
+ "pweave.IPythonProcessor":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.JupyterProcessor":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
  "pweave.MatlabProcessor":{
   "__set__":true,
   "elements":[
@@ -24,14 +36,16 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebConvert":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebFormatter":{
@@ -45,7 +59,8 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebIPythonProcessor":{
@@ -59,63 +74,78 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebMDtoHTMLFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebMarkdownReader":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebMintedFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebNBConvert":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebNBReader":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.PwebNotebookFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebPandocFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebPandocMDtoHTMLFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebPandoctoTexFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebProcessor":{
@@ -129,35 +159,46 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.PwebReader":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebRstFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebScriptReader":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebSoftCoverFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebSphinxFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebSubProcessor":{
@@ -171,28 +212,32 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebTexPweaveFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.PwebTexPygmentsFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.__version__":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave._returnglobals":{
@@ -209,46 +254,76 @@
    "pweave-0.25-py36_0"
   ]
  },
+ "pweave.bokeh":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.bokeh.dedent":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.bokeh.output_pweave":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.bokeh.show":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
  "pweave.config":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.config.PwebProcessorGlobals":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.config.rcParams":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.convert":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebFormats":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebFormatter":{
@@ -262,49 +337,62 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebLeanpubFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebMDtoHTMLFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebMintedFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.PwebNotebookFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebPandocFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebPandocMDtoHTMLFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebPandoctoTexFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebProcessorGlobals":{
@@ -318,42 +406,132 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebSoftCoverFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebSphinxFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebTexFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebTexPweaveFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.PwebTexPygmentsFormatter":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.base":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.base.PwebFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.jupyter_notebook":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.jupyter_notebook.PwebNotebookFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.markdown":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.markdown.PwebLeanpubFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.markdown.PwebPandocFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.markdown.PwebSoftCoverFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.markdownmath":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.publish":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.publish.PwebHTMLFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.publish.PwebMDtoHTMLFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.publish.PwebPandocMDtoHTMLFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.publish.PwebPandoctoTexFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.formatters.rcParams":{
@@ -363,11 +541,72 @@
    "pweave-0.25-py36_0"
   ]
  },
+ "pweave.formatters.rst":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.rst.PwebRstFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.rst.PwebSphinxFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.templates":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.templates.htmltemplate":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.tex":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.tex.PwebMintedFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.tex.PwebTexFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.tex.PwebTexPweaveFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.formatters.tex.PwebTexPygmentsFormatter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
  "pweave.listformats":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.markdownmath":{
@@ -377,11 +616,36 @@
    "pweave-0.25-py36_0"
   ]
  },
+ "pweave.mimetypes":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.mimetypes.MimeType":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
  "pweave.processors":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.IPythonProcessor":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.JupyterProcessor":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.processors.MatlabProcessor":{
@@ -426,11 +690,65 @@
    "pweave-0.25-py36_0"
   ]
  },
+ "pweave.processors.PwebProcessors":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
  "pweave.processors.PwebSubProcessor":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
    "pweave-0.25-py36_0"
+  ]
+ },
+ "pweave.processors.base":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.base.ProtectStdStreams":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.base.PwebProcessorBase":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.base.PwebProcessorGlobals":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.base.rcParams":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.jupyter":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.jupyter.IPythonProcessor":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.jupyter.JupyterProcessor":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.processors.rcParams":{
@@ -440,25 +758,40 @@
    "pweave-0.25-py36_0"
   ]
  },
+ "pweave.processors.subsnippets":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.processors.subsnippets.init_matplotlib":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
  "pweave.publish":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.pweb":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.pweb.Pweb":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.pweb.basestring":{
@@ -468,95 +801,126 @@
    "pweave-0.25-py36_0"
   ]
  },
+ "pweave.rcParams":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.read_file_or_url":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
+  ]
+ },
  "pweave.readers":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.readers.PwebConvert":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.readers.PwebMarkdownReader":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.readers.PwebNBConvert":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.readers.PwebNBReader":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.readers.PwebReader":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.readers.PwebScriptReader":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
+  ]
+ },
+ "pweave.readers.read_file_or_url":{
+  "__set__":true,
+  "elements":[
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.scripts":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.scripts.convert":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.scripts.publish":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.scripts.tangle":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.scripts.weave":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.spin":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.subsnippets":{
@@ -570,7 +934,8 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.templates":{
@@ -591,77 +956,88 @@
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.bootstrap":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.bootstrap.css":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.cerulean":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.cerulean.css":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.journal":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.journal.css":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.pweave":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.skeleton":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.themes.skeleton.css":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pweave.weave":{
   "__set__":true,
   "elements":[
    "pweave-0.25-py35_0",
-   "pweave-0.25-py36_0"
+   "pweave-0.25-py36_0",
+   "pweave-0.30.1-py36_0"
   ]
  },
  "pwiz.BASE_MODEL":{
