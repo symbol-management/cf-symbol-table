@@ -1,10 +1,17 @@
 {
+ "xnat.DEFAULT_SCHEMAS":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
  "xnat.GEN_MODULES":{
   "__set__":true,
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.SchemaParser":{
@@ -12,7 +19,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.XNATSession":{
@@ -20,7 +28,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.__all__":{
@@ -28,7 +37,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.__version__":{
@@ -36,13 +46,15 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.build_model":{
   "__set__":true,
   "elements":[
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.check_auth":{
@@ -50,7 +62,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.connect":{
@@ -58,7 +71,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.constants":{
@@ -66,7 +80,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.constants.CORE_REST_OBJECTS":{
@@ -74,7 +89,14 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.constants.DEFAULT_SCHEMAS":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.constants.FIELD_HINTS":{
@@ -82,7 +104,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.constants.OVERRIDE_BASE":{
@@ -90,7 +113,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.constants.SECONDARY_LOOKUP_FIELDS":{
@@ -98,7 +122,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.constants.TYPE_HINTS":{
@@ -106,7 +131,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd":{
@@ -114,7 +140,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.AttributePrototype":{
@@ -122,7 +149,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.AttributeWriter":{
@@ -130,7 +158,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.BaseClassWriter":{
@@ -138,7 +167,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.BaseWriter":{
@@ -146,7 +176,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.ClassPrototype":{
@@ -154,7 +185,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.ConstantWriter":{
@@ -162,7 +194,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.FILE_HEADER":{
@@ -170,7 +203,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.ListingPropertyWriter":{
@@ -178,7 +212,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.NestedObjectClassWriter":{
@@ -186,7 +221,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.ObjectClassWriter":{
@@ -194,7 +230,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.PropertyWriter":{
@@ -202,7 +239,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.SchemaParser":{
@@ -210,7 +248,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.SimpleClassWriter":{
@@ -218,7 +257,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.SubObjectClassWriter":{
@@ -226,7 +266,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.convert_xsd.SubObjectPropertyWriter":{
@@ -234,7 +275,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core":{
@@ -242,7 +284,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.CustomVariableMap":{
@@ -250,7 +293,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.VariableMap":{
@@ -258,7 +302,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseListing":{
@@ -266,7 +311,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject":{
@@ -274,7 +320,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject.SECONDARY_LOOKUP_FIELD":{
@@ -282,7 +329,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject._CONTAINED_IN":{
@@ -290,13 +338,15 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject._DISPLAY_IDENTIFIER":{
   "__set__":true,
   "elements":[
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject._HAS_FIELDS":{
@@ -304,7 +354,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject._XSI_TYPE":{
@@ -312,7 +363,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject.fieldname":{
@@ -320,7 +372,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject.fulluri":{
@@ -328,7 +381,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject.logger":{
@@ -336,7 +390,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject.parent":{
@@ -344,7 +399,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject.uri":{
@@ -352,7 +408,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATBaseObject.xnat_session":{
@@ -360,7 +417,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATListing":{
@@ -368,7 +426,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATNestedObject":{
@@ -376,7 +435,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATObject":{
@@ -384,7 +444,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATSimpleListing":{
@@ -392,7 +453,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATSubListing":{
@@ -400,7 +462,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.XNATSubObject":{
@@ -408,7 +471,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.core.caching":{
@@ -416,7 +480,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes":{
@@ -424,7 +489,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.TYPE_FROM_MAP":{
@@ -432,7 +498,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.TYPE_TO_MAP":{
@@ -440,7 +507,14 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.datatypes.TYPE_TO_PYTHON":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.convert_from":{
@@ -448,7 +522,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.convert_to":{
@@ -456,7 +531,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.from_bool":{
@@ -464,7 +540,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.from_date":{
@@ -472,7 +549,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.from_float":{
@@ -480,7 +558,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.from_int":{
@@ -488,7 +567,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.from_string":{
@@ -496,7 +576,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.from_time":{
@@ -504,7 +585,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.to_bool":{
@@ -512,7 +594,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.to_date":{
@@ -520,7 +603,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.to_string":{
@@ -528,7 +612,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.datatypes.to_time":{
@@ -536,7 +621,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.detect_redirection":{
@@ -544,7 +630,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions":{
@@ -552,13 +639,15 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATAuthError":{
   "__set__":true,
   "elements":[
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATError":{
@@ -566,13 +655,15 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATExpiredCredentialsError":{
   "__set__":true,
   "elements":[
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATIOError":{
@@ -580,13 +671,15 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATLoginFailedError":{
   "__set__":true,
   "elements":[
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATResponseError":{
@@ -594,7 +687,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATSSLError":{
@@ -602,7 +696,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATUploadError":{
@@ -610,7 +705,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.exceptions.XNATValueError":{
@@ -618,7 +714,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.inspect":{
@@ -626,7 +723,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.inspect.Inspect":{
@@ -634,7 +732,134 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.AbstractResource":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.DerivedData":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.ExperimentData":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.ImageScanData":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.ImageSessionData":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.PYDICOM_LOADED":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.ProjectData":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.SECONDARY_LOOKUP_FIELD":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.SubjectAssessorData":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.SubjectData":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin._CONTAINED_IN":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin._DISPLAY_IDENTIFIER":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin._HAS_FIELDS":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin._XSI_TYPE":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.fieldname":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.fulluri":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.logger":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.parent":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.uri":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.mixin.xnat_session":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.parse_schemas_16":{
@@ -642,7 +867,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.parse_schemas_17":{
@@ -650,7 +876,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.prearchive":{
@@ -658,7 +885,14 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.prearchive.PYDICOM_LOADED":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.prearchive.Prearchive":{
@@ -666,7 +900,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.query_netrc":{
@@ -674,7 +909,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.scripts":{
@@ -682,7 +918,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.scripts.copy_project":{
@@ -690,7 +927,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.scripts.copy_project.XNATProjectCopier":{
@@ -698,7 +936,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.scripts.copy_project.main":{
@@ -706,7 +945,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search":{
@@ -714,7 +954,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search.BaseConstraint":{
@@ -722,7 +963,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search.CompoundConstraint":{
@@ -730,7 +972,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search.Constraint":{
@@ -738,7 +981,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search.Query":{
@@ -746,7 +990,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search.SearchField":{
@@ -754,7 +999,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search.and_":{
@@ -762,7 +1008,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search.or_":{
@@ -770,7 +1017,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.search.xdat_ns":{
@@ -778,7 +1026,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.services":{
@@ -786,7 +1035,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.services.Services":{
@@ -794,7 +1044,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.services.TokenResult":{
@@ -802,7 +1053,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.session":{
@@ -810,7 +1062,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.session.FILE_TYPES":{
@@ -818,7 +1071,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.session.XNATSession":{
@@ -826,7 +1080,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.session.default_update_func":{
@@ -834,7 +1089,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.users":{
@@ -842,7 +1098,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.users.User":{
@@ -850,7 +1107,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.utils":{
@@ -858,13 +1116,21 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.utils.RequestsFileLike":{
   "__set__":true,
   "elements":[
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
+  ]
+ },
+ "xnat.utils.full_class_name":{
+  "__set__":true,
+  "elements":[
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.utils.mixedproperty":{
@@ -872,7 +1138,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.utils.pythonize_attribute_name":{
@@ -880,7 +1147,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.utils.pythonize_class_name":{
@@ -888,19 +1156,22 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.utils.superclass":{
   "__set__":true,
   "elements":[
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.version":{
   "__set__":true,
   "elements":[
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.version.extra_version":{
@@ -908,7 +1179,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.version.hg_branch":{
@@ -916,7 +1188,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.version.hg_revision":{
@@ -924,7 +1197,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.version.version":{
@@ -932,7 +1206,8 @@
   "elements":[
    "xnat-0.3.11-py_0",
    "xnat-0.3.12-py_0",
-   "xnat-0.3.17-py_0"
+   "xnat-0.3.17-py_0",
+   "xnat-0.3.21-py_0"
   ]
  },
  "xnat.xnatbases":{
