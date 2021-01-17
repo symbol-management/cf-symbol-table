@@ -65803,6 +65803,7 @@
  "dask_yarn.YarnCluster":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -65812,15 +65813,35 @@
  "dask_yarn.__version__":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
    "dask-yarn-0.6.0-py37_0"
   ]
  },
+ "dask_yarn._patch.PATH":{
+  "__set__":true,
+  "elements":[
+   "dask-yarn-0.3.1-py27_0"
+  ]
+ },
+ "dask_yarn._patch._ensure_file":{
+  "__set__":true,
+  "elements":[
+   "dask-yarn-0.3.1-py27_0"
+  ]
+ },
+ "dask_yarn._patch.ensure_file":{
+  "__set__":true,
+  "elements":[
+   "dask-yarn-0.3.1-py27_0"
+  ]
+ },
  "dask_yarn._version":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -65830,6 +65851,7 @@
  "dask_yarn._version.get_versions":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -65839,6 +65861,7 @@
  "dask_yarn._version.version_json":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -65848,6 +65871,7 @@
  "dask_yarn.cli":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -65921,30 +65945,35 @@
  "dask_yarn.cli.dask_yarn_scheduler":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
  "dask_yarn.cli.dask_yarn_scheduler.main":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
  "dask_yarn.cli.dask_yarn_worker":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
  "dask_yarn.cli.dask_yarn_worker.main":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
  "dask_yarn.cli.dask_yarn_worker.start_worker":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
@@ -66068,6 +66097,7 @@
  "dask_yarn.config.defaults":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66077,6 +66107,7 @@
  "dask_yarn.config.f":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66086,6 +66117,7 @@
  "dask_yarn.config.fn":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66095,6 +66127,7 @@
  "dask_yarn.core":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66104,6 +66137,7 @@
  "dask_yarn.core.YarnCluster":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66127,6 +66161,7 @@
  "dask_yarn.core._make_specification":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66167,6 +66202,12 @@
    "dask-yarn-0.6.0-py37_0"
   ]
  },
+ "dask_yarn.core.memory_warning":{
+  "__set__":true,
+  "elements":[
+   "dask-yarn-0.3.1-py27_0"
+  ]
+ },
  "dask_yarn.core.parse_memory":{
   "__set__":true,
   "elements":[
@@ -66178,6 +66219,7 @@
  "dask_yarn.tests":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66361,12 +66403,14 @@
  "dask_yarn.tests.test_core.APPNAME":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
  "dask_yarn.tests.test_core.YarnCluster":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66376,6 +66420,7 @@
  "dask_yarn.tests.test_core._make_specification":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66400,24 +66445,28 @@
  "dask_yarn.tests.test_core.check_is_shutdown":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
  "dask_yarn.tests.test_core.loop":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
  "dask_yarn.tests.test_core.skein_client":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
  },
  "dask_yarn.tests.test_core.test_basic":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66427,6 +66476,7 @@
  "dask_yarn.tests.test_core.test_configuration":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66457,6 +66507,7 @@
  "dask_yarn.tests.test_core.test_environment_relative_paths":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66489,6 +66540,7 @@
  "dask_yarn.tests.test_core.test_from_specification":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
@@ -66498,6 +66550,7 @@
  "dask_yarn.tests.test_core.test_make_specification_errors":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
    "dask-yarn-0.6.0-py36_0",
