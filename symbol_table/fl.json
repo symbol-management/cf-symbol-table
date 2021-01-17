@@ -4223,7 +4223,8 @@
   "elements":[
    "flake8-docstrings-1.0.3-py27_0",
    "flake8-docstrings-1.0.3-py35_0",
-   "flake8-docstrings-1.1.0-py36_0"
+   "flake8-docstrings-1.1.0-py36_0",
+   "flake8-docstrings-1.5.0-py_0"
   ]
  },
  "flake8_docstrings.EnvironError":{
@@ -4231,7 +4232,14 @@
   "elements":[
    "flake8-docstrings-1.0.3-py27_0",
    "flake8-docstrings-1.0.3-py35_0",
-   "flake8-docstrings-1.1.0-py36_0"
+   "flake8-docstrings-1.1.0-py36_0",
+   "flake8-docstrings-1.5.0-py_0"
+  ]
+ },
+ "flake8_docstrings._ContainsAll":{
+  "__set__":true,
+  "elements":[
+   "flake8-docstrings-1.5.0-py_0"
   ]
  },
  "flake8_docstrings.__all__":{
@@ -4239,7 +4247,8 @@
   "elements":[
    "flake8-docstrings-1.0.3-py27_0",
    "flake8-docstrings-1.0.3-py35_0",
-   "flake8-docstrings-1.1.0-py36_0"
+   "flake8-docstrings-1.1.0-py36_0",
+   "flake8-docstrings-1.5.0-py_0"
   ]
  },
  "flake8_docstrings.__version__":{
@@ -4247,7 +4256,8 @@
   "elements":[
    "flake8-docstrings-1.0.3-py27_0",
    "flake8-docstrings-1.0.3-py35_0",
-   "flake8-docstrings-1.1.0-py36_0"
+   "flake8-docstrings-1.1.0-py36_0",
+   "flake8-docstrings-1.5.0-py_0"
   ]
  },
  "flake8_docstrings.module_name":{
@@ -4255,7 +4265,8 @@
   "elements":[
    "flake8-docstrings-1.0.3-py27_0",
    "flake8-docstrings-1.0.3-py35_0",
-   "flake8-docstrings-1.1.0-py36_0"
+   "flake8-docstrings-1.1.0-py36_0",
+   "flake8-docstrings-1.5.0-py_0"
   ]
  },
  "flake8_docstrings.pep257Checker":{
@@ -4263,7 +4274,8 @@
   "elements":[
    "flake8-docstrings-1.0.3-py27_0",
    "flake8-docstrings-1.0.3-py35_0",
-   "flake8-docstrings-1.1.0-py36_0"
+   "flake8-docstrings-1.1.0-py36_0",
+   "flake8-docstrings-1.5.0-py_0"
   ]
  },
  "flake8_nb.FLAKE8_VERSION_TUPLE":{
@@ -4600,6 +4612,12 @@
   "elements":[
    "flake8-nb-0.2.2-py_0",
    "flake8-nb-0.2.4-py_0"
+  ]
+ },
+ "flake8_pep3101.Flake8Pep3101":{
+  "__set__":true,
+  "elements":[
+   "flake8-pep3101-1.0-py36_0"
   ]
  },
  "flake8_polyfill.__version__":{
@@ -33409,546 +33427,637 @@
  "flask_oauthlib.__author__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.__homepage__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.__license__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.__version__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client.OAuth":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client._encode":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client._etree":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client.encode_request_data":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client.get_etree":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client.log":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client.parse_response":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.client.prepare_request":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.RemoteAppFactory":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.change_linkedin_query":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.change_weibo_header":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.douban":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.dropbox":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.facebook":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.github":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.google":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.linkedin":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.make_scope_processor":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.twitter":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.apps.weibo":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.cache":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.cache.Cache":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.OAuth":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.application":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.application.BaseApplication":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.application.OAuth1Application":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.application.OAuth2Application":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.application.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.application._hash_token":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.cached_clients":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.descriptor":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.descriptor.OAuthProperty":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.descriptor.WebSessionData":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.descriptor.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.exceptions":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.exceptions.AccessTokenNotFound":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.exceptions.OAuthException":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.exceptions.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.get_cached_clients":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.signals":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.signals.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.signals._signals":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.signals.request_token_fetched":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.structure":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.structure.OAuth1Response":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.structure.OAuth2Response":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.client.structure.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.BaseBinding":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.ClientBinding":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.Grant":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.TokenBinding":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.UserBinding":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.bind_cache_grant":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.bind_sqlalchemy":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.contrib.oauth2.log":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.OAuth1Provider":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.OAuth1RequestValidator":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.OAuth2Provider":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.OAuth2RequestValidator":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth1":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth1.OAuth1Provider":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth1.OAuth1RequestValidator":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth1.SIGNATURE_METHODS":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth1.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth1._error_response":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth1.log":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth2":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth2.OAuth2Provider":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth2.OAuth2RequestValidator":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth2.__all__":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.provider.oauth2.log":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.utils":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.utils._get_uri_from_request":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.utils.create_response":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.utils.decode_base64":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.utils.extract_params":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
  "flask_oauthlib.utils.to_bytes":{
   "__set__":true,
   "elements":[
+   "flask-oauthlib-0.9.3-py27_0",
    "flask-oauthlib-0.9.4-py35_0"
   ]
  },
