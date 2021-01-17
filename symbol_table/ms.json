@@ -31522,7 +31522,8 @@
    "azure-mgmt-marketplaceordering-0.2.1-py_0",
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.__all__":{
@@ -31530,7 +31531,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.__version__":{
@@ -31538,7 +31540,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory":{
@@ -31546,14 +31549,16 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.AADMixin":{
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.AADRefreshMixin":{
@@ -31567,21 +31572,24 @@
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.AZURE_CHINA_CLOUD":{
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.AZURE_PUBLIC_CLOUD":{
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.AdalAuthentication":{
@@ -31589,14 +31597,22 @@
   "elements":[
    "azure-common-1.1.8-py27_0",
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.azure_active_directory.AzureConfiguration":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.InteractiveCredentials":{
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.KEYRING_EXCEPTION":{
@@ -31610,21 +31626,36 @@
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.azure_active_directory.MSIAuthenticationTimeoutError":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.ServicePrincipalCredentials":{
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.UserPassCredentials":{
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.azure_active_directory._ImdsTokenProvider":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory._ImdsTokenProvider._retrieve_token_from_imds_with_retry.token_entry":{
@@ -31637,7 +31668,8 @@
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory._build_url":{
@@ -31658,7 +31690,8 @@
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.err":{
@@ -31672,7 +31705,8 @@
   "__set__":true,
   "elements":[
    "msrestazure-0.4.22-py_0",
-   "msrestazure-0.4.24-py_0"
+   "msrestazure-0.4.24-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_active_directory.keyring":{
@@ -31693,7 +31727,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud.AZURE_CHINA_CLOUD":{
@@ -31701,7 +31736,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud.AZURE_GERMAN_CLOUD":{
@@ -31709,7 +31745,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud.AZURE_PUBLIC_CLOUD":{
@@ -31717,7 +31754,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud.AZURE_US_GOV_CLOUD":{
@@ -31725,7 +31763,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud.Cloud":{
@@ -31733,7 +31772,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud.METADATA_ENDPOINT_SUFFIX":{
@@ -31741,7 +31781,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud.MetadataEndpointError":{
@@ -31749,7 +31790,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud._LOGGER":{
@@ -31757,7 +31799,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud._populate_from_metadata_endpoint":{
@@ -31765,7 +31808,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_cloud.get_cloud_from_metadata_endpoint":{
@@ -31773,7 +31817,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_configuration":{
@@ -31781,7 +31826,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_configuration.AzureConfiguration":{
@@ -31789,7 +31835,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_configuration._LOGGER":{
@@ -31797,7 +31844,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_exceptions":{
@@ -31805,7 +31853,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_exceptions.CloudError":{
@@ -31817,7 +31866,14 @@
    "azure-mgmt-marketplaceordering-0.2.1-py_0",
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.azure_exceptions.MSIAuthenticationTimeoutError":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation":{
@@ -31825,7 +31881,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.AzureOperationPoller":{
@@ -31833,7 +31890,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.BadResponse":{
@@ -31841,7 +31899,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.BadStatus":{
@@ -31849,7 +31908,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.CloudError":{
@@ -31857,7 +31917,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.FAILED":{
@@ -31865,7 +31926,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.FINISHED":{
@@ -31873,7 +31935,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.LongRunningOperation":{
@@ -31881,7 +31944,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.OperationFailed":{
@@ -31889,7 +31953,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.SUCCEEDED":{
@@ -31897,7 +31962,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.SimpleResource":{
@@ -31905,7 +31971,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation._get_header_url":{
@@ -31913,7 +31980,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation._validate":{
@@ -31921,7 +31989,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.failed":{
@@ -31929,7 +31998,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.finished":{
@@ -31937,7 +32007,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.azure_operation.succeeded":{
@@ -31945,7 +32016,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.msrestazure_version":{
@@ -31953,7 +32025,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling":{
@@ -31961,7 +32034,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling":{
@@ -31969,7 +32043,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.ARMPolling":{
@@ -31977,7 +32052,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.BadResponse":{
@@ -31985,7 +32061,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.BadStatus":{
@@ -31993,7 +32070,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.FAILED":{
@@ -32001,7 +32079,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.FINISHED":{
@@ -32009,7 +32088,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.LongRunningOperation":{
@@ -32017,7 +32097,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.OperationFailed":{
@@ -32025,7 +32106,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.SUCCEEDED":{
@@ -32033,7 +32115,20 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.polling.arm_polling._AZURE_ASYNC_OPERATION_FINAL_STATE":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.polling.arm_polling._LOCATION_FINAL_STATE":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling._validate":{
@@ -32041,7 +32136,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.failed":{
@@ -32049,7 +32145,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.finished":{
@@ -32057,7 +32154,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.get_header_url":{
@@ -32065,7 +32163,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.polling.arm_polling.succeeded":{
@@ -32073,7 +32172,26 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.polling.async_arm_polling":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.polling.async_arm_polling.AsyncARMPolling":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.polling.async_arm_polling.__all__":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools":{
@@ -32081,7 +32199,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools._ARMID_RE":{
@@ -32089,7 +32208,14 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.tools._ARMNAME_RE":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools._CHILDREN_RE":{
@@ -32097,7 +32223,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools._LOGGER":{
@@ -32105,7 +32232,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools._check_rp_not_registered_err":{
@@ -32113,7 +32241,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools._extract_subscription_url":{
@@ -32121,7 +32250,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools._get_parents_from_parts":{
@@ -32129,7 +32259,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools._populate_alternate_kwargs":{
@@ -32137,7 +32268,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools._register_rp":{
@@ -32145,7 +32277,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools.is_valid_resource_id":{
@@ -32154,7 +32287,14 @@
    "azure-cli-core-2.0.61-py_0",
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
+  ]
+ },
+ "msrestazure.tools.is_valid_resource_name":{
+  "__set__":true,
+  "elements":[
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools.parse_resource_id":{
@@ -32163,7 +32303,8 @@
    "azure-cli-core-2.0.61-py_0",
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools.register_rp_hook":{
@@ -32171,7 +32312,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.tools.resource_id":{
@@ -32179,7 +32321,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.version":{
@@ -32187,7 +32330,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msrestazure.version.msrestazure_version":{
@@ -32195,7 +32339,8 @@
   "elements":[
    "msrestazure-0.4.22-py_0",
    "msrestazure-0.4.24-py_0",
-   "msrestazure-0.4.26-py_0"
+   "msrestazure-0.4.26-py_0",
+   "msrestazure-0.6.1-py_0"
   ]
  },
  "msys.AbbreviationForElement":{
