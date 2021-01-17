@@ -15389,6 +15389,7 @@
  "dagit.__main__":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15396,6 +15397,7 @@
  "dagit.__version__":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15403,6 +15405,7 @@
  "dagit.app":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15410,6 +15413,7 @@
  "dagit.app.DagsterGraphQLView":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15419,6 +15423,12 @@
   "elements":[
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
+  ]
+ },
+ "dagit.app.create_app":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
   ]
  },
  "dagit.app.create_app_from_workspace":{
@@ -15431,6 +15441,7 @@
  "dagit.app.dagster_graphql_subscription_view":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15438,6 +15449,7 @@
  "dagit.app.download_view":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15445,12 +15457,14 @@
  "dagit.app.index_view":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0"
   ]
  },
  "dagit.app.info_view":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15465,13 +15479,33 @@
  "dagit.app.notebook_view":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
+  ]
+ },
+ "dagit.app.static_view":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
+ "dagit.app.vendor_view":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
+ "dagit.app.worker_view":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
   ]
  },
  "dagit.cli":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15493,6 +15527,7 @@
  "dagit.cli.REPO_TARGET_WARNING":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15507,6 +15542,7 @@
  "dagit.cli.create_dagit_cli":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15514,6 +15550,7 @@
  "dagit.cli.host_dagit_ui":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15521,6 +15558,7 @@
  "dagit.cli.main":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15535,6 +15573,7 @@
  "dagit.cli.ui":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15546,9 +15585,46 @@
    "dagit-0.9.3-pyh32f6830_1"
   ]
  },
+ "dagit.dagit":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
+ "dagit.dagit.DagsterAutoRestartTrick":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
+ "dagit.dagit.handle_sigterm":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
+ "dagit.dagit.host_tempdir":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
+ "dagit.dagit.main":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
+ "dagit.dagit.watch_tempdir":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
  "dagit.format_error":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15556,13 +15632,27 @@
  "dagit.format_error.format_error_with_stack_trace":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
+  ]
+ },
+ "dagit.reloader":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
+  ]
+ },
+ "dagit.reloader.DagitReloader":{
+  "__set__":true,
+  "elements":[
+   "dagit-0.6.9-py_0"
   ]
  },
  "dagit.schema":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15570,6 +15660,7 @@
  "dagit.subscription_server":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15577,6 +15668,7 @@
  "dagit.subscription_server.DagsterSubscriptionServer":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15584,6 +15676,7 @@
  "dagit.templates":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15591,6 +15684,7 @@
  "dagit.templates.playground":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15598,6 +15692,7 @@
  "dagit.templates.playground.TEMPLATE":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15605,6 +15700,7 @@
  "dagit.version":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -15612,12 +15708,14 @@
  "dagit.version.__nightly__":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0"
   ]
  },
  "dagit.version.__version__":{
   "__set__":true,
   "elements":[
+   "dagit-0.6.9-py_0",
    "dagit-0.8.1-pyh32f6830_0",
    "dagit-0.9.3-pyh32f6830_1"
   ]
@@ -35520,6 +35618,7 @@
  "dagster_pandas.ColumnWithMetadataException":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35528,6 +35627,7 @@
  "dagster_pandas.ConstraintWithMetadata":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35540,6 +35640,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35548,6 +35649,7 @@
  "dagster_pandas.MultiAggregateConstraintWithMetadata":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35556,6 +35658,7 @@
  "dagster_pandas.MultiColumnConstraintWithMetadata":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35564,6 +35667,7 @@
  "dagster_pandas.MultiConstraintWithMetadata":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35576,6 +35680,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35588,6 +35693,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35600,6 +35706,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35608,6 +35715,7 @@
  "dagster_pandas.StrictColumnsWithMetadata":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35620,6 +35728,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35631,6 +35740,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35639,6 +35749,7 @@
  "dagster_pandas.all_unique_validator":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35647,6 +35758,7 @@
  "dagster_pandas.categorical_column_validator_factory":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35655,6 +35767,7 @@
  "dagster_pandas.column_range_validation_factory":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35667,6 +35780,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35679,6 +35793,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35688,6 +35803,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35700,6 +35816,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35711,6 +35828,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35722,6 +35840,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35737,6 +35856,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35752,6 +35872,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35764,6 +35885,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35776,6 +35898,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35788,6 +35911,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35797,6 +35921,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35809,6 +35934,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35821,6 +35947,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35833,6 +35960,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35842,6 +35970,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35851,6 +35980,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35860,6 +35990,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35872,6 +36003,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35884,6 +36016,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35896,6 +36029,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35905,6 +36039,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35917,6 +36052,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35925,6 +36061,7 @@
  "dagster_pandas.constraints.all_unique_validator":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35936,6 +36073,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35944,6 +36082,7 @@
  "dagster_pandas.constraints.categorical_column_validator_factory":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35952,6 +36091,7 @@
  "dagster_pandas.constraints.column_range_validation_factory":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35960,6 +36100,7 @@
  "dagster_pandas.constraints.dtype_in_set_validation_factory":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35968,6 +36109,7 @@
  "dagster_pandas.constraints.non_null_validation":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35976,6 +36118,7 @@
  "dagster_pandas.constraints.nonnull":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35988,6 +36131,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -35996,6 +36140,7 @@
  "dagster_pandas.create_structured_dataframe_type":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36008,6 +36153,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36020,6 +36166,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36031,6 +36178,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36042,6 +36190,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36066,6 +36215,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36078,6 +36228,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36090,6 +36241,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36102,6 +36254,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36114,6 +36267,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36126,6 +36280,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36138,6 +36293,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36150,6 +36306,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36158,6 +36315,7 @@
  "dagster_pandas.data_frame.create_structured_dataframe_type":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36175,6 +36333,7 @@
  "dagster_pandas.data_frame.dataframe_loader":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36183,6 +36342,7 @@
  "dagster_pandas.data_frame.dataframe_materializer":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36204,6 +36364,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36225,6 +36386,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36233,6 +36395,7 @@
  "dagster_pandas.dtype_in_set_validation_factory":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36245,6 +36408,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36265,6 +36429,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36277,6 +36442,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36289,6 +36455,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36301,6 +36468,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36313,6 +36481,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36325,6 +36494,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36337,6 +36507,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36349,6 +36520,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36361,6 +36533,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36370,6 +36543,7 @@
   "__set__":true,
   "elements":[
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36378,6 +36552,7 @@
  "dagster_pandas.non_null_validation":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36386,6 +36561,7 @@
  "dagster_pandas.nonnull":{
   "__set__":true,
   "elements":[
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36398,6 +36574,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36410,6 +36587,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36421,6 +36599,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36432,6 +36611,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36456,6 +36636,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36468,6 +36649,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36480,6 +36662,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36492,6 +36675,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36504,6 +36688,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36516,6 +36701,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36528,6 +36714,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36540,6 +36727,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36552,6 +36740,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36564,6 +36753,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -36585,6 +36775,7 @@
    "dagster-pandas-0.7.12-pyh32f6830_1",
    "dagster-pandas-0.7.16-pyh32f6830_0",
    "dagster-pandas-0.8.5-pyh32f6830_1",
+   "dagster-pandas-0.9.15-pyh44b312d_1",
    "dagster-pandas-0.9.19-pyh44b312d_1",
    "dagster-pandas-0.9.21-pyh44b312d_1",
    "dagster-pandas-0.9.9-py_1"
@@ -97471,587 +97662,737 @@
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.FloatingReduction":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.OptionalFieldReduction":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.Pipeline":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.Point":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.Preprocess":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.Reduction":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.__all__":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.__main__":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.__main__.main":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.__version__":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader._missing_cmd":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.any":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.HoverLayer":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.InteractiveImage":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.NOTEBOOK_DIV":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.bokeh_notebook_div":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.bokeh_version":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.create_categorical_legend":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.create_ramp_legend":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.patch_event":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bokeh_ext.send_patch":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.BaseSegment":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.EdgelessUnweightedSegment":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.EdgelessWeightedSegment":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.UnweightedSegment":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.WeightedSegment":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling._convert_edge_segments_to_dataframe":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling._convert_graph_to_edge_segments":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.advect_and_resample":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.advect_resample_all":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.advect_segments":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.batches":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.calculate_length":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.connect_edges":{
   "__set__":true,
   "elements":[
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.directly_connect_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.distance_between":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.draw_to_surface":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.get_gradients":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.hammer_bundle":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.minmax_denormalize":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.minmax_normalize":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.resample_edge":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.resample_segment":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.bundling.smooth":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.category_codes":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.Elevation":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.Greys9":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.Hot":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.Set1":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.Set2":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.Set3":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.Sets1to3":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors._inferno_data":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors._mpl_cmdata_to_bokeh_palette":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors._viridis_data":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.basestring":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.color_lookup":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.colormap_select":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.hex_to_rgb":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.inferno":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.rgb":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.colors.viridis":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compatibility":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compatibility.PY3":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compatibility._exec":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compatibility.apply":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler.__all__":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler._get_call_tuples":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler.compile_components":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler.make_append":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler.make_combine":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler.make_create":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler.make_finalize":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler.make_info":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.compiler.traverse_aggregation":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.__all__":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.add":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.combine_scaled":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.composite_op_lookup":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.extract_scaled":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.composite.jit_enabled":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.operator":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.over":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.saturate":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.composite.source":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.copy_examples":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.core":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.core.Axis":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.core.Canvas":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.core.Expr":{
@@ -98065,105 +98406,876 @@
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.core.LogAxis":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.core.SpatialPointsFrame":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.core._axis_lookup":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.core._cols_to_keep":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.core.bypixel":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.count":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.dask":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.dask.__all__":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.dask.dask_pipeline":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.dask.default":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.dask.glyph_dispatch":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.dask.line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.dask.shape_bounds_st_and_axis":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes.RaggedArray":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes.RaggedDtype":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes._RaggedElement":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes._eq_ragged_ndarray1d":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes._eq_ragged_ndarray2d":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes._eq_ragged_ragged":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes._eq_ragged_scalar":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes._lexograph_lt":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes._validate_ragged_properties":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes.make_array_nonempty":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes.missing":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.datatypes.ragged_array_non_empty":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.err":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.examples":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.CACHED_RANGES":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.DASK_CLIENT":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.DD_FORCE_LOAD":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.DEBUG":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.Kwargs":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.Parameters":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.benchmark":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.export_image":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.filetypes_storing_categories":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.get_proc_mem":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.get_size":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.global_start":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.main":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.p":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.read":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.read_bcolz_pandas":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.read_csv_dask":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.read_csv_pandas":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.read_feather_dask":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.read_parq_pandas":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.timed_agg":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.timed_read":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.timed_write":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.transfer_functions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.write":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.write_bcolz_dask":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.filetimes.write_feather_dask":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.pcap_to_parquet.get_ip_protocol":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.pcap_to_parquet.ip_to_integer":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.pcap_to_parquet.to_parquet":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.Hot":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.dims":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.dims_jscode":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.fig":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.image_source":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.on_dims_change":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.path":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.raster_data":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.transfer_functions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.update_image":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.xmax":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.xmin":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.ymax":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.raster.ymin":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.bin_data":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.cols":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.controls":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.counter":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.datetime_field":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.df":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.dims":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.dims_jscode":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.fig":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.group_count":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.grouped":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.groups":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.image_source":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.layout":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.on_time_select_change":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.path":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.time_period":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.time_select":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.time_select_options":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.time_text":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.times":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.transfer_functions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.update_data":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.update_image":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.xmax":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.xmin":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.ymax":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.streaming.ymin":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.taxi_preprocessing_example._download_dataset":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.taxi_preprocessing_example.data_dir":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.taxi_preprocessing_example.df":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.taxi_preprocessing_example.examples_dir":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.taxi_preprocessing_example.latlng_to_meters":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.taxi_preprocessing_example.taxi_path":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.examples.taxi_preprocessing_example.url":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.extract":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.fetch_data":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.first":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.Canvas":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.__all__":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._binary":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._fade":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._finish_bump":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._gen_terrain":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._gradient":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._horn_aspect":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._horn_slope":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._lerp":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._mean":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._ndvi":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo._perlin":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.aspect":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.binary":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.bump":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.color_values":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.generate_terrain":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.hillshade":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.lnglat_to_meters":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.mean":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.ndvi":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.ngjit":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.perlin":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.rgb":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.slope":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.geo.transfer_functions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.glyphs":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.glyphs.Glyph":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.glyphs.Line":{
@@ -98173,25 +99285,58 @@
    "datashader-0.6.3-py_0"
   ]
  },
+ "datashader.glyphs.LineAxis0":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs.LinesAxis1":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
  "datashader.glyphs.Point":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs.Triangles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.glyphs._PointLike":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._PolygonLike":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.glyphs._build_draw_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._build_draw_triangle":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.glyphs._build_extend_line":{
@@ -98201,6 +99346,42 @@
    "datashader-0.6.3-py_0"
   ]
  },
+ "datashader.glyphs._build_extend_line_axis0":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._build_extend_line_axis1_none_constant":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._build_extend_line_axis1_ragged":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._build_extend_line_axis1_x_constant":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._build_extend_line_axis1_y_constant":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._build_extend_triangles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
  "datashader.glyphs._build_map_onto_pixel":{
   "__set__":true,
   "elements":[
@@ -98208,480 +99389,800 @@
    "datashader-0.6.3-py_0"
   ]
  },
+ "datashader.glyphs._build_map_onto_pixel_for_line":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._build_map_onto_pixel_for_triangle":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._clipt":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._outside_bounds":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.glyphs._skip_or_clip":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.last":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
  "datashader.layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.layout.LayoutAlgorithm":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.layout._convert_graph_to_sparse_matrix":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.layout._extract_points_from_nodes":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.layout._merge_points_with_nodes":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.layout.circular_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.layout.cooling":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.layout.forceatlas2_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.layout.random_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.m2":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.max":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.mean":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.min":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.mode":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.pandas":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.pandas.__all__":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.pandas.glyph_dispatch":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.pandas.pandas_pipeline":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.pandas.pointlike":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.pipeline":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.pipeline.Pipeline":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.FloatingReduction":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.OptionalFieldReduction":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.Preprocess":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.Reduction":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.reductions.__all__":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.any":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.category_codes":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.count":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.extract":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.reductions.first":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.reductions.last":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.m2":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.max":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.mean":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.min":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.reductions.mode":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.std":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.sum":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.reductions.var":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DOWNSAMPLING_METHODS":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DS_FIRST":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DS_LAST":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DS_MAX":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DS_MEAN":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DS_MIN":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DS_MODE":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DS_STD":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.DS_VAR":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.UPSAMPLING_METHODS":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.US_LINEAR":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.US_NEAREST":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._EPS":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._NOMASK2D":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._downsample_2d_first_last":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._downsample_2d_mean":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._downsample_2d_min_max":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._downsample_2d_mode":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._downsample_2d_std_var":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._get_dimensions":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._get_fill_value":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._get_mask":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._get_out":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._mask_or_not":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._resample_2d":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._upsample_2d_linear":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling._upsample_2d_nearest":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.downsample_2d":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.resampling.downsample_methods":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.ngjit_parallel":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.prange":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.resample_2d":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.resampling.upsample_2d":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.resampling.upsample_methods":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve.NUMBA_DISABLE_JIT":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve._binary_2_int":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve._hilbert_integer_to_transpose":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve._int_2_binary":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve._transpose_to_hilbert_integer":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve.coordinates_from_distance":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve.distance_from_coordinates":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve.ngjit":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.hilbert_curve.vect":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points.SpatialPointsFrame":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points._build_distance_grid":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points._build_partition_grid":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points._compute_distance":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points._compute_extents":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points._data2coord":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points._validate_fastparquet":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points.basestring":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points.fp":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points.hilbert_curve":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points.ngjit":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points.read_parquet":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.points.to_parquet":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.spatial.read_parquet":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.std":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.sum":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.test":{
@@ -98691,193 +100192,292 @@
    "datashader-0.6.3-py_0"
   ]
  },
+ "datashader.tests":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.InteractiveImage":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.axis":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.coords":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.create_image":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.df":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.dims":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.lincoords":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.test_interactive_image_initialize":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.test_interactive_image_update":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_bokeh_ext.transfer_functions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
  "datashader.tests.test_bundling":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.circular_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.directly_connect_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.forceatlas2_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.hammer_bundle":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.random_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.skimage":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.test_directly_connect_with_weights":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.test_directly_connect_without_weights":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.test_hammer_bundle_with_weights":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.test_hammer_bundle_without_weights":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.test_immutable_nodes":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.test_renamed_columns":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.test_same_path_endpoints":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_bundling.weighted_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_colors":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_colors.hex_to_rgb":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_colors.rgb":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_colors.test_hex_to_rgb":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_colors.test_rgb":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_compatibility":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_compatibility._exec":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_compatibility.apply":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_compatibility.test__exec":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_compatibility.test_apply":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.add":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.black":{
@@ -98891,14 +100491,16 @@
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.clear":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.clear_black":{
@@ -98908,270 +100510,746 @@
    "datashader-0.6.3-py_0"
   ]
  },
+ "datashader.tests.test_composite.clear_white":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
  "datashader.tests.test_composite.half_blue":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.half_purple":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.over":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.saturate":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.source":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.src":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.test_add":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.test_over":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.test_saturate":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_composite.test_source":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_composite.white":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.assert_eq":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_dask.axis":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.c":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.c_logx":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.c_logxy":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.c_logy":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.coords":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_dask.ddf":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_dask.df":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.dims":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.floats":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_dask.lincoords":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_any":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_auto_range_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_auto_range_points":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_count":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_log_axis_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_log_axis_points":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_max":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_mean":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_min":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_multiple_aggregates":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_std":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_sum":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_dask.test_trimesh_dask_partitions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_dask.test_trimesh_no_double_edge":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_uniform_diagonal_points":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_uniform_points":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_dask.test_var":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_dask.utils":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.RaggedArray":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.RaggedDtype":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedConstructors":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedDtype":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedGetitem":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedGroupby":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedInterface":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedMethods":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedMissing":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedPrinting":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.TestRaggedReshaping":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.all_data":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.assert_ragged_arrays_equal":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.data":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.dtype":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.na_cmp":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.na_value":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_array_eq_numpy1":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_array_eq_numpy2d":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_array_eq_ragged":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_array_eq_scalar":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_concat_same_type":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_concat_series":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_construct_ragged_array":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_construct_ragged_dtype":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_copy":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_equality_validation":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_factorization":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_flat_array_type_inference":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_from_sequence":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_get_item_list":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_get_item_mask":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_get_item_scalar":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_get_item_slice":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_isna":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_pandas_array_construction":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_series_construction":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_start_indices_dtype":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_take":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_datatypes.test_validate_ragged_array_fastpath":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.H":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.W":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.X_RANGE":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.Y_RANGE":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo._do_gaussian_array":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo._do_sparse_array":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo._raster_aggregate_default":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.csv":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.data_gaussian":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.data_random":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.data_random_sparse":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.geo":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.terrain":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.test_aspect_transfer_function":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.test_bump":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.test_generate_terrain":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.test_hillshade_simple_transfer_function":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.test_mean_transfer_function":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.test_ndvi_transfer_function":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_geo.test_slope_transfer_function":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.LinesAxis1":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.Point":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs._build_draw_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs._build_draw_triangle":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs._build_extend_line":{
@@ -99181,6 +101259,18 @@
    "datashader-0.6.3-py_0"
   ]
  },
+ "datashader.tests.test_glyphs._build_extend_line_axis0":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs._build_extend_triangles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
  "datashader.tests.test_glyphs._build_map_onto_pixel":{
   "__set__":true,
   "elements":[
@@ -99188,32 +101278,66 @@
    "datashader-0.6.3-py_0"
   ]
  },
+ "datashader.tests.test_glyphs._build_map_onto_pixel_for_line":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs._build_map_onto_pixel_for_triangle":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
  "datashader.tests.test_glyphs.append":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.bounds":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.draw_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.draw_triangle":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.draw_triangle_interp":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.extend_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.extend_triangles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.map_onto_pixel":{
@@ -99223,949 +101347,1564 @@
    "datashader-0.6.3-py_0"
   ]
  },
+ "datashader.tests.test_glyphs.map_onto_pixel_for_line":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.map_onto_pixel_for_triangle":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
  "datashader.tests.test_glyphs.mapper":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.new_agg":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.ngjit":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.test_draw_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.test_draw_triangle_interp":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.test_draw_triangle_nointerp":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.test_draw_triangle_subpixel":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.test_extend_lines":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.test_line_awkward_point_on_upper_bound_maps_to_last_pixel":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.test_lines_xy_validate":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.test_point_bounds_check":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.test_point_validate":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_glyphs.tri_append":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_glyphs.vt":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.circular_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.directly_connect_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.forceatlas2_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.hammer_bundle":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.nodes":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.random_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.skimage":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.test_forceatlas2_positioned_nodes_with_unweighted_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.test_forceatlas2_positioned_nodes_with_weighted_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.test_forceatlas2_unpositioned_nodes_with_unweighted_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.test_forceatlas2_unpositioned_nodes_with_weighted_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.test_random_circular_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.test_random_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.test_renamed_columns":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.test_uniform_circular_layout":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_layout.weighted_edges":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.assert_eq":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.c":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.c_logx":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.c_logxy":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.c_logy":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.coords":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.dims":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.floats":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_any":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_auto_range_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_auto_range_points":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_bug_570":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_count":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_log_axis_line":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_log_axis_points":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_max":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_mean":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_min":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_multiple_aggregates":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_points_on_edge":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_std":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_sum":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_trimesh_agg_api":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_trimesh_interp":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_trimesh_mesharg":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_trimesh_no_double_edge":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_trimesh_simplex_weights":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_trimesh_vertex_weights":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_pandas.test_trimesh_winding_detect":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_uniform_diagonal_points":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_uniform_points":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pandas.test_var":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pipeline":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pipeline.cvs":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pipeline.df":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pipeline.test_pipeline":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_pipeline.transfer_functions":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.BASE_PATH":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.DATA_PATH":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.TEST_RASTER_PATH":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.bottom":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.cvs":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.left":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.rasterio":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.res":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.right":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_calc_bbox":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_calc_res":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_out_of_bounds_return_correct_size":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_partial_extent_returns_correct_size":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_partial_extent_with_layer_returns_correct_size":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_aggregate_default":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_aggregate_nearest":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_aggregate_with_overviews":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_aggregate_without_overviews":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_both_ascending":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_both_descending":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_float_nan_value":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_integer_nan_value":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_raster.test_raster_single_pixel_range":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_x_ascending_y_descending":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_raster_x_descending_y_ascending":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.test_resample_methods":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_raster.top":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_spatial":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_spatial.Canvas":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_spatial.points":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_spatial.s_points_frame":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_spatial.test_aggregation_partitions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_spatial.test_query_partitions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_spatial.test_spatial_points_frame_properties":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_spatial.test_validate_parquet_file":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.MERCATOR_CONST":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.TOLERANCE":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles._get_super_tile_min_max":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.assert_is_numeric":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.calculate_zoom_level_stats":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.df":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.mock_load_data_func":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.mock_post_render_func":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.mock_rasterize_func":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.mock_shader_func":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.render_tiles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.test_calculate_zoom_level_stats_with_fullscan_ranging_strategy":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.test_get_super_tile_min_max":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.test_render_tiles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.transfer_functions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_tiles.viridis":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.a":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.agg":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.b":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.c":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.check_eq_hist_cdf_slope":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_transfer_functions.check_span":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.coords":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.coords2":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.dims":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.eq_hist_sol":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_transfer_functions.float_span":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.img1":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.img2":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_transfer_functions.int_span":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.s_a":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.s_b":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.s_c":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_transfer_functions.solution_lists":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_transfer_functions.solutions":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_Image_to_bytesio":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_Image_to_pil":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_density":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_dynspread":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_eq_hist":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_masks":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_set_background":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_shade":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_transfer_functions.test_span_cmap_list":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_transfer_functions.test_span_cmap_mpl":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_transfer_functions.test_span_cmap_single":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_spread":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.test_stack":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_transfer_functions.transfer_functions":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_utils":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_utils.Dispatcher":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_utils.isreal":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_utils.test_Dispatcher":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tests.test_utils.test_isreal":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.assert_eq":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.axis":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.c":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.coords":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.dims":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.lincoords":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.test_count":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.xda":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.xdda":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.xdds":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tests.test_xarray.xds":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.tf":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.FileSystemTileRenderer":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.MercatorTileDefinition":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.S3TileRenderer":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.TileRenderer":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.__all__":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles._create_dir":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles._get_super_tile_min_max":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.calculate_zoom_level_stats":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.create_sub_tiles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.gen_super_tiles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.render_super_tile":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.tiles.render_tiles":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions.Image":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions.__all__":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions._build_spread_kernel":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions._circle_mask":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions._colorize":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions._density":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions._interpolate":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions._mask_lookup":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions._normalize_interpolate_how":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions._square_mask":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions.dynspread":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions.eq_hist":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions.set_background":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions.shade":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions.spread":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.transfer_functions.stack":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.Dispatcher":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.utils.Expr":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.utils.RaggedDtype":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.utils._dd_mesh":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.utils._pd_mesh":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.calc_bbox":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.calc_res":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.categorical_in_dtypes":{
@@ -100186,97 +102925,117 @@
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.dataframe_from_multiple_sequences":{
   "__set__":true,
   "elements":[
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.downsample_aggregate":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.dshape_from_dask":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.dshape_from_pandas":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.export_image":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.get_indices":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.hold":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.isreal":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.lnglat_to_meters":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
+  ]
+ },
+ "datashader.utils.mesh":{
+  "__set__":true,
+  "elements":[
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.ngjit":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.orient_array":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.utils.summarize_aggregate_values":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashader.var":{
   "__set__":true,
   "elements":[
    "datashader-0.6.2-py_0",
-   "datashader-0.6.3-py_0"
+   "datashader-0.6.3-py_0",
+   "datashader-0.7.0-py_0"
   ]
  },
  "datashape.Bytes":{
