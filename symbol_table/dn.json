@@ -660,7 +660,86 @@
  "dns.__all__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncbackend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncbackend.Backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncbackend.DatagramSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncbackend.NullContext":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncbackend.Socket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncbackend.StreamSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncio_backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncio_backend.Backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncio_backend.DatagramSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncio_backend.StreamSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncio_backend._DatagramProtocol":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncio_backend._get_running_loop":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._asyncio_backend._maybe_wait_for":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns._compat":{
@@ -747,10 +826,335 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns._curio_backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._curio_backend.Backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._curio_backend.DatagramSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._curio_backend.StreamSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._curio_backend._lltuple":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._curio_backend._maybe_timeout":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._trio_backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._trio_backend.Backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._trio_backend.DatagramSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._trio_backend.StreamSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._trio_backend._lltuple":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns._trio_backend._maybe_timeout":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.AsyncLibraryNotFoundError":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.Backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.DatagramSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.Socket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.StreamSocket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend._backends":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend._no_sniffio":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.get_backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.get_default_backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.set_default_backend":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncbackend.sniff":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.BadResponse":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery._compute_times":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery._lltuple":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery._matches_destination":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery._read_exactly":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery._source_tuple":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery._timeout":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.receive_tcp":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.receive_udp":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.send_tcp":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.send_udp":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.ssl":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.tcp":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.tls":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncquery.udp":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.NXDOMAIN":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.NoAnswer":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.NoRootSOA":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.NotAbsolute":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.Resolver":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver._tcp":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver._udp":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.default_resolver":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.get_default_resolver":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.reset_default_resolver":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.resolve":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.asyncresolver.zone_for_name":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.dnssec":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.dnssec.Algorithm":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.DH":{
@@ -769,6 +1173,12 @@
   "__set__":true,
   "elements":[
    "dnspython-1.16.0-py_1"
+  ]
+ },
+ "dns.dnssec.DSDigest":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.ECC":{
@@ -799,6 +1209,12 @@
   "__set__":true,
   "elements":[
    "dnspython-1.16.0-py_1"
+  ]
+ },
+ "dns.dnssec.NSEC3Hash":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.PRIVATEDNS":{
@@ -846,13 +1262,15 @@
  "dns.dnssec.UnsupportedAlgorithm":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.ValidationFailure":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._algorithm_by_text":{
@@ -867,16 +1285,29 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns.dnssec._bytes_to_long":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.dnssec._find_candidate_keys":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._have_ecdsa":{
   "__set__":true,
   "elements":[
    "dnspython-1.16.0-py_1"
+  ]
+ },
+ "dns.dnssec._have_pyca":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._have_pycrypto":{
@@ -888,49 +1319,69 @@
  "dns.dnssec._is_dsa":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._is_ecdsa":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.dnssec._is_eddsa":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.dnssec._is_gost":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._is_md5":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._is_rsa":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._is_sha1":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._is_sha256":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._is_sha384":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._is_sha512":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._make_algorithm_id":{
@@ -942,7 +1393,14 @@
  "dns.dnssec._make_hash":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.dnssec._need_pyca":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec._need_pycrypto":{
@@ -960,79 +1418,98 @@
  "dns.dnssec._validate":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.algorithm_from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.algorithm_to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.key_id":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.make_ds":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.dnssec.nsec3_hash":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.validate":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.dnssec.validate_rrsig":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.e164":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.e164.from_e164":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.e164.public_enum_domain":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.e164.query":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.e164.to_e164":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.edns":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.edns.CHAIN":{
@@ -1068,7 +1545,8 @@
  "dns.edns.ECSOption":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.edns.EXPIRE":{
@@ -1080,7 +1558,8 @@
  "dns.edns.GenericOption":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.edns.KEEPALIVE":{
@@ -1104,7 +1583,8 @@
  "dns.edns.Option":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.edns.PADDING":{
@@ -1116,103 +1596,132 @@
  "dns.edns._type_to_class":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.edns.get_option_class":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.edns.option_from_wire":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.entropy":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.entropy.EntropyPool":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.entropy.between":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.entropy.pool":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.entropy.random_16":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.entropy.system_random":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.enum":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.enum.IntEnum":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.exception":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.exception.DNSException":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.exception.FormError":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.exception.SyntaxError":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.exception.Timeout":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.exception.TooBig":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.exception.UnexpectedEnd":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.flags":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.flags.AA":{
@@ -1237,6 +1746,18 @@
   "__set__":true,
   "elements":[
    "dnspython-1.16.0-py_1"
+  ]
+ },
+ "dns.flags.EDNSFlag":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.flags.Flag":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.flags.QR":{
@@ -1302,7 +1823,8 @@
  "dns.flags._from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.flags._order_flags":{
@@ -1314,43 +1836,50 @@
  "dns.flags._to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.flags.edns_from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.flags.edns_to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.flags.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.flags.to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.grange":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.grange.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.hash":{
@@ -1374,121 +1903,153 @@
  "dns.inet":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.inet.AF_INET":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.inet.AF_INET6":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.inet.af_for_address":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.inet.inet_ntop":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.inet.inet_pton":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.inet.is_address":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.inet.is_multicast":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.inet.low_level_address_tuple":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv4":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv4.inet_aton":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv4.inet_ntoa":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6._colon_colon_end":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6._colon_colon_start":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6._leading_zero":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6._mapped_prefix":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6._v4_ending":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6.inet_aton":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6.inet_ntoa":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ipv6.is_mapped":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.ADDITIONAL":{
@@ -1512,19 +2073,22 @@
  "dns.message.BadEDNS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.BadTSIG":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.Message":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.QUESTION":{
@@ -1533,292 +2097,376 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns.message.QueryMessage":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.message.ShortHeader":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.TrailingJunk":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.message.Truncated":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.UnknownHeaderField":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.UnknownTSIGKey":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message._TextReader":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message._WireReader":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.message._maybe_import_update":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.message._message_factory_from_opcode":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.from_file":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.from_wire":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.make_query":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.message.make_response":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.AbsoluteConcatenation":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.BadEscape":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.BadLabelType":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.BadPointer":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.EmptyLabel":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA2003Codec":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA2008Codec":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNACodec":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNAException":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA_2003":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA_2003_Practical":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA_2003_Strict":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA_2008":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA_2008_Practical":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA_2008_Strict":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA_2008_Transitional":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.IDNA_2008_UTS_46":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.LabelTooLong":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.NAMERELN_COMMONANCESTOR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.NAMERELN_EQUAL":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.NAMERELN_NONE":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.NAMERELN_SUBDOMAIN":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.NAMERELN_SUPERDOMAIN":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.Name":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.NeedAbsoluteNameOrOrigin":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.NoIDNA2008":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.NoParent":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name._escaped":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.name._escaped_text":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name._escapify":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name._maybe_convert_to_binary":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name._validate_labels":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.empty":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.from_unicode":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.from_wire":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.have_idna_2008":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.name.is_all_ascii":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.name.maxint":{
@@ -1830,37 +2478,43 @@
  "dns.name.root":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.namedict":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.namedict.NameDict":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.node":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.node.Node":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.opcode":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.opcode.IQUERY":{
@@ -1873,6 +2527,12 @@
   "__set__":true,
   "elements":[
    "dnspython-1.16.0-py_1"
+  ]
+ },
+ "dns.opcode.Opcode":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.opcode.QUERY":{
@@ -1896,7 +2556,8 @@
  "dns.opcode.UnknownOpcode":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.opcode._by_text":{
@@ -1914,61 +2575,77 @@
  "dns.opcode.from_flags":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.opcode.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.opcode.is_update":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.opcode.to_flags":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.opcode.to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.BadResponse":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.query.NoDOH":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.TransferError":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.UnexpectedSource":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._addresses_equal":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._compute_expiration":{
@@ -1977,70 +2654,117 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns.query._compute_times":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.query._connect":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._destination_and_source":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.query._make_socket":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.query._matches_destination":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._net_read":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._net_write":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._poll_for":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._polling_backend":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._select_for":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._set_polling_backend":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.query._tls_handshake":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query._wait_for":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.query.have_doh":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.query.https":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.receive_tcp":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.receive_udp":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.select_error":{
@@ -2052,43 +2776,62 @@
  "dns.query.send_tcp":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.send_udp":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.socket_factory":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.query.ssl":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.tcp":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.query.tls":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.udp":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.query.xfr":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rcode":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rcode.BADVERS":{
@@ -2145,6 +2888,12 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns.rcode.Rcode":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.rcode.SERVFAIL":{
   "__set__":true,
   "elements":[
@@ -2154,7 +2903,8 @@
  "dns.rcode.UnknownRcode":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rcode.YXDOMAIN":{
@@ -2184,55 +2934,64 @@
  "dns.rcode.from_flags":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rcode.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rcode.to_flags":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rcode.to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata.GenericRdata":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata.Rdata":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata.Rdata.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata.__escaped":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata._base64_chunksize":{
@@ -2244,13 +3003,27 @@
  "dns.rdata._base64ify":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdata._chunksize":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdata._constify":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata._escapify":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata._hex_chunksize":{
@@ -2262,7 +3035,8 @@
  "dns.rdata._hexify":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata._import_lock":{
@@ -2274,43 +3048,56 @@
  "dns.rdata._module_prefix":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata._truncate_bitmap":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdata._wordbreak":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata.from_wire":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata.get_rdata_class":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdata.register_type":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataclass":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataclass.ANY":{
@@ -2349,10 +3136,17 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns.rdataclass.RdataClass":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.rdataclass.UnknownRdataclass":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataclass._by_text":{
@@ -2370,7 +3164,8 @@
  "dns.rdataclass._metaclasses":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataclass._unknown_class_pattern":{
@@ -2382,67 +3177,78 @@
  "dns.rdataclass.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataclass.is_metaclass":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataclass.to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataset":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataset.DifferingCovers":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataset.IncompatibleTypes":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataset.Rdataset":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataset.SimpleSet":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataset.from_rdata":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdataset.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdatatype":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdatatype.A":{
@@ -2781,6 +3587,12 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns.rdatatype.RdataType":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.rdatatype.SIG":{
   "__set__":true,
   "elements":[
@@ -2856,7 +3668,8 @@
  "dns.rdatatype.UnknownRdatatype":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdatatype.WKS":{
@@ -2874,7 +3687,14 @@
  "dns.rdatatype._metatypes":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdatatype._singletons":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdatatype._unknown_type_pattern":{
@@ -2886,67 +3706,102 @@
  "dns.rdatatype.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdatatype.is_metatype":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdatatype.register_type":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdatatype.to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.AFSDB":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.AFSDB.AFSDB":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.AFSDB.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.AMTRELAY":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.AMTRELAY.AMTRELAY":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.AMTRELAY.Relay":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.AMTRELAY.__slots__":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.AVC":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.AVC.AVC":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.AVC.__slots__":{
@@ -2958,31 +3813,54 @@
  "dns.rdtypes.ANY.CAA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CAA.CAA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CAA.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CDNSKEY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CDNSKEY.CDNSKEY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.CDNSKEY.REVOKE":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.CDNSKEY.SEP":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.CDNSKEY.ZONE":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CDNSKEY.__all__":{
@@ -2994,7 +3872,8 @@
  "dns.rdtypes.ANY.CDNSKEY.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CDNSKEY.flags_from_text_set":{
@@ -3012,97 +3891,119 @@
  "dns.rdtypes.ANY.CDS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CDS.CDS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CDS.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CERT":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CERT.CERT":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CERT.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CERT._ctype_by_name":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CERT._ctype_by_value":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CERT._ctype_from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CERT._ctype_to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CNAME":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CNAME.CNAME":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CNAME.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CSYNC":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.CSYNC.Bitmap":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CSYNC.CSYNC":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CSYNC.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.CSYNC.xrange":{
@@ -3114,49 +4015,75 @@
  "dns.rdtypes.ANY.DLV":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DLV.DLV":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DLV.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DNAME":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DNAME.DNAME":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DNAME.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DNSKEY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DNSKEY.DNSKEY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.DNSKEY.REVOKE":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.DNSKEY.SEP":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.DNSKEY.ZONE":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DNSKEY.__all__":{
@@ -3168,7 +4095,8 @@
  "dns.rdtypes.ANY.DNSKEY.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DNSKEY.flags_from_text_set":{
@@ -3186,79 +4114,98 @@
  "dns.rdtypes.ANY.DS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DS.DS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.DS.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.EUI48":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.EUI48.EUI48":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.EUI48.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.EUI64":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.EUI64.EUI64":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.EUI64.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.GPOS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.GPOS.GPOS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.GPOS.__slots__":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.GPOS._sanitize":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.GPOS._validate_float_string":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.GPOS.long":{
@@ -3276,19 +4223,22 @@
  "dns.rdtypes.ANY.HINFO":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.HINFO.HINFO":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.HINFO.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.HINFO.text_type":{
@@ -3300,37 +4250,43 @@
  "dns.rdtypes.ANY.HIP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.HIP.HIP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.HIP.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.ISDN":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.ISDN.ISDN":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.ISDN.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.ISDN.text_type":{
@@ -3342,67 +4298,108 @@
  "dns.rdtypes.ANY.LOC":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC.LOC":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.LOC._MAX_LATITUDE":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.LOC._MAX_LONGITUDE":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.LOC._MIN_LATITUDE":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.LOC._MIN_LONGITUDE":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.LOC.__slots__":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._decode_size":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._default_hprec":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._default_size":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._default_vprec":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._encode_size":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._exponent_of":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._float_to_tuple":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._pows":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC._tuple_to_float":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.LOC.long":{
@@ -3426,55 +4423,82 @@
  "dns.rdtypes.ANY.MX":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.MX.MX":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.MX.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.NINFO":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.NINFO.NINFO":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NS.NS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NS.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.NSEC.Bitmap":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC.NSEC":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC.xrange":{
@@ -3486,19 +4510,28 @@
  "dns.rdtypes.ANY.NSEC3":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.NSEC3.Bitmap":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3.NSEC3":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3.OPTOUT":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3.PY3":{
@@ -3510,25 +4543,29 @@
  "dns.rdtypes.ANY.NSEC3.SHA1":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3.b32_hex_to_normal":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3.b32_normal_to_hex":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3.text_type":{
@@ -3546,19 +4583,22 @@
  "dns.rdtypes.ANY.NSEC3PARAM":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3PARAM.NSEC3PARAM":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3PARAM.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.NSEC3PARAM.text_type":{
@@ -3570,139 +4610,180 @@
  "dns.rdtypes.ANY.OPENPGPKEY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.OPENPGPKEY.OPENPGPKEY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.OPENPGPKEY.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.OPT":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.OPT.OPT":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.OPT.__slots__":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.PTR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.PTR.PTR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.PTR.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RP.RP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RP.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RRSIG":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RRSIG.BadSigTime":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RRSIG.RRSIG":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RRSIG.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RRSIG.posixtime_to_sigtime":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RRSIG.sigtime_to_posixtime":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RT":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RT.RT":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.RT.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.SOA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.SOA.SOA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.SOA.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.SPF":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.SPF.SPF":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.SPF.__slots__":{
@@ -3714,73 +4795,103 @@
  "dns.rdtypes.ANY.SSHFP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.SSHFP.SSHFP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.SSHFP.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.TLSA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.TLSA.TLSA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.TLSA.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.TSIG":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.TSIG.TSIG":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.ANY.TSIG.__slots__":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.TXT":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.TXT.TXT":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.TXT.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.URI":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.URI.URI":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.URI.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.URI.text_type":{
@@ -3792,19 +4903,22 @@
  "dns.rdtypes.ANY.X25":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.X25.X25":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.X25.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.ANY.X25.text_type":{
@@ -3816,97 +4930,113 @@
  "dns.rdtypes.ANY.__all__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.CH":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.CH.A":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.CH.A.A":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.CH.A.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.CH.__all__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.A":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.A.A":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.A.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.AAAA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.AAAA.AAAA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.AAAA.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.APL":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.APL.APL":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.APL.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.APL.maybe_chr":{
@@ -3924,85 +5054,105 @@
  "dns.rdtypes.IN.DHCID":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.DHCID.DHCID":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.DHCID.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.IPSECKEY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.IN.IPSECKEY.Gateway":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.IPSECKEY.IPSECKEY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.IPSECKEY.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.KX":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.KX.KX":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.KX.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NAPTR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NAPTR.NAPTR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NAPTR.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NAPTR._sanitize":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NAPTR._write_string":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NAPTR.text_type":{
@@ -4020,103 +5170,120 @@
  "dns.rdtypes.IN.NSAP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NSAP.NSAP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NSAP.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NSAP_PTR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NSAP_PTR.NSAP_PTR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.NSAP_PTR.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.PX":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.PX.PX":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.PX.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.SRV":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.SRV.SRV":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.SRV.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.WKS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.WKS.WKS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.WKS.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.WKS._proto_tcp":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.WKS._proto_udp":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.IN.WKS.xrange":{
@@ -4128,61 +5295,77 @@
  "dns.rdtypes.IN.__all__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.__all__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase.DNSKEYBase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase.DNSKEYBase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.dnskeybase.Flag":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase.REVOKE":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase.SEP":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase.ZONE":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase.__all__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dnskeybase._flag_by_text":{
@@ -4212,49 +5395,57 @@
  "dns.rdtypes.dsbase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dsbase.DSBase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dsbase.DSBase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.dsbase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.euibase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.euibase.EUIBase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.euibase.EUIBase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.euibase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.euibase.xrange":{
@@ -4266,79 +5457,92 @@
  "dns.rdtypes.mxbase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.mxbase.MXBase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.mxbase.MXBase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.mxbase.UncompressedDowncasingMX":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.mxbase.UncompressedMX":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.nsbase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.nsbase.NSBase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.nsbase.NSBase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.nsbase.UncompressedNS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.txtbase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.txtbase.TXTBase":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.txtbase.TXTBase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.txtbase.__slots__":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rdtypes.txtbase.binary_type":{
@@ -4353,238 +5557,313 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns.rdtypes.util":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.util.Bitmap":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.rdtypes.util.Gateway":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.renderer":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.renderer.ADDITIONAL":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.renderer.ANSWER":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.renderer.AUTHORITY":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.renderer.QUESTION":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.renderer.Renderer":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.Answer":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.Cache":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.LRUCache":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.NXDOMAIN":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.NoAnswer":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.NoMetaqueries":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.NoNameservers":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.resolver.NoResolverConfiguration":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.NoRootSOA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.NotAbsolute":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.Resolver":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.Timeout":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.YXDOMAIN":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.resolver._Resolution":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._getaddrinfo":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._getfqdn":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._gethostbyaddr":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._gethostbyname":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._getnameinfo":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._original_getaddrinfo":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._original_getfqdn":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._original_gethostbyaddr":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._original_gethostbyname":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._original_gethostbyname_ex":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._original_getnameinfo":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver._protocols_for_socktype":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.default_resolver":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.get_default_resolver":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.override_system_resolver":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.query":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.reset_default_resolver":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.resolver.resolve":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.restore_system_resolver":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.resolver.zone_for_name":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.reversename":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.reversename.PY3":{
@@ -4596,139 +5875,180 @@
  "dns.reversename.from_address":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.reversename.ipv4_reverse_domain":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.reversename.ipv6_reverse_domain":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.reversename.to_address":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rrset":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rrset.RRset":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rrset.from_rdata":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.rrset.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.serial":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.serial.Serial":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.set":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.set.Set":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.set.odict":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.COMMENT":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.DELIMITER":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.EOF":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.EOL":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.IDENTIFIER":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.QUOTED_STRING":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.Token":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.UngetBufferFull":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer.WHITESPACE":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer._DELIMITERS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tokenizer._QUOTING_DELIMITERS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.BADKEY":{
@@ -4755,100 +6075,151 @@
    "dnspython-1.16.0-py_1"
   ]
  },
+ "dns.tsig.BadAlgorithm":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.tsig.BadKey":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
  "dns.tsig.BadSignature":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.BadTime":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.HMAC_MD5":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.HMAC_SHA1":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.HMAC_SHA224":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.HMAC_SHA256":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.HMAC_SHA384":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.HMAC_SHA512":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.tsig.Key":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.PeerBadKey":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.PeerBadSignature":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.PeerBadTime":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.PeerBadTruncation":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.PeerError":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.tsig._digest":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig._hashes":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.tsig._maybe_start_digest":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.default_algorithm":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.get_algorithm":{
   "__set__":true,
   "elements":[
    "dnspython-1.16.0-py_1"
+  ]
+ },
+ "dns.tsig.get_context":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.hmac_md5":{
@@ -4860,25 +6231,29 @@
  "dns.tsig.sign":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsig.validate":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsigkeyring":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsigkeyring.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.tsigkeyring.maybe_decode":{
@@ -4896,85 +6271,123 @@
  "dns.tsigkeyring.to_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ttl":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ttl.BadTTL":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.ttl.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.update":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.update.Update":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.update.UpdateMessage":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.update.UpdateSection":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.version":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.version.MAJOR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.version.MICRO":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.version.MINOR":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.version.RELEASELEVEL":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.version.SERIAL":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.version.hexversion":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.version.version":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.wire":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
+  ]
+ },
+ "dns.wire.Parser":{
+  "__set__":true,
+  "elements":[
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.wiredata":{
@@ -5010,61 +6423,71 @@
  "dns.zone":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone.BadZone":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone.NoNS":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone.NoSOA":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone.UnknownOrigin":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone.Zone":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone._MasterReader":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone.from_file":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone.from_text":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  },
  "dns.zone.from_xfr":{
   "__set__":true,
   "elements":[
-   "dnspython-1.16.0-py_1"
+   "dnspython-1.16.0-py_1",
+   "dnspython-2.0.0-py_0"
   ]
  }
 }
