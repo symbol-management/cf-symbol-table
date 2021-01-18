@@ -62084,133 +62084,191 @@
  "dask_kubernetes.ClusterAuth":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.HelmCluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.InCluster":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.KubeAuth":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.KubeCluster":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.KubeConfig":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.__all__":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.__version__":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes._version":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes._version.get_versions":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes._version.version_json":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.auth":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.auth.ClusterAuth":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.auth.InCluster":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.auth.KubeAuth":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.auth.KubeConfig":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.auth.logger":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.clean_pod_template":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.config":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.config.defaults":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.config.f":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.config.fn":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.core":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.core.KubeCluster":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.core.Pod":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.core.SCHEDULER_PORT":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.core.Scheduler":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.core.Worker":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.core._cleanup_pods":{
@@ -62219,27 +62277,37 @@
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
+ "dask_kubernetes.core._cleanup_resources":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
  "dask_kubernetes.core._namespace_default":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.core.escape":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.core.format_labels":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.core.logger":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
@@ -62258,7 +62326,20 @@
  "dask_kubernetes.core.yaml":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.helm":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.helm.HelmCluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.logs":{
@@ -62276,85 +62357,417 @@
  "dask_kubernetes.make_pod_from_dict":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.make_pod_spec":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.objects":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.objects.SERIALIZATION_API_CLIENT":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.objects._FakeResponse":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.objects._set_k8s_attribute":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.objects.clean_pod_template":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.objects.clean_service_template":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.objects.make_pod_from_dict":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.objects.make_pod_spec":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.objects.make_service_from_dict":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.objects.merge_dictionaries":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.objects.yaml":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.tests":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.conftest.InCluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.conftest.KubeConfig":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.conftest.auth":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.conftest.context":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.tests.conftest.image_name":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.conftest.in_cluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.conftest.ns":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.tests.conftest.pytest_addoption":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.CONFIG_DEMO":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.ClusterAuth":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.FAKE_CA":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.FAKE_CERT":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.FAKE_KEY":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.KubeAuth":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.KubeCluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.KubeConfig":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.TEST_DIR":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.clean_pod_template":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.cluster_kwargs":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.event_loop":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.make_pod_spec":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.remote_cluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_adapt":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_auth_explicit":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_auth_kubeconfig_with_context":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_auth_kubeconfig_with_filename":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_auth_missing":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_auth_tries_all_methods":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_automatic_startup":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_bad_args":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_basic":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_cluster_create":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_constructor_parameters":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_dask_worker_name_env_variable":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_default_toleration":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_diagnostics_link_env_variable":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_env":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_escape_name":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_escape_username":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_ipython_display":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_logs":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_maximum":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_namespace":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_pod_from_dict":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_pod_from_minimal_dict":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_pod_from_yaml":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_pod_template_from_conf":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_reject_evicted_workers":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_repr":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_scale_down_pending":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_scale_up_down":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_start_with_workers":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_async.test_versions":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_kubernetes.tests.test_core.CONFIG_DEMO":{
@@ -62639,46 +63052,269 @@
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
+ "dask_kubernetes.tests.test_helm.config_path":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.release":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.sync_cluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.test_adaptivity_warning":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.test_create_helm_cluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.test_create_sync_helm_cluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.test_import":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.test_logs":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.test_raises_on_non_existant_release":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_helm.test_scale_cluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
  "dask_kubernetes.tests.test_objects.KubeCluster":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.tests.test_objects.make_pod_from_dict":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.tests.test_objects.make_pod_spec":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.tests.test_objects.test_container_resources_config":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.tests.test_objects.test_extra_container_config":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.tests.test_objects.test_extra_pod_config":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
   ]
  },
  "dask_kubernetes.tests.test_objects.test_make_pod_from_dict":{
   "__set__":true,
   "elements":[
+   "dask-kubernetes-0.11.0-py_0",
    "dask-kubernetes-0.8.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.CONFIG_DEMO":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.FAKE_CA":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.FAKE_CERT":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.FAKE_KEY":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.KubeCluster":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.TEST_DIR":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.client":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.dont_test_pod_from_yaml":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.make_pod_spec":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.pod_spec":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_automatic_startup":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_bad_args":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_basic":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_constructor_parameters":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_env":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_escape_name":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_escape_username":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_fixtures":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_ipython_display":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_maximum":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_pod_from_dict":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_pod_from_minimal_dict":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_pod_from_yaml_expand_env_vars":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_pod_template_from_conf":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_repr":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
+  ]
+ },
+ "dask_kubernetes.tests.test_sync.test_scale_up_down":{
+  "__set__":true,
+  "elements":[
+   "dask-kubernetes-0.11.0-py_0"
   ]
  },
  "dask_labextension.DaskClusterHandler":{
@@ -66994,6 +67630,7 @@
  "dask_yarn.YarnCluster":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67004,6 +67641,7 @@
  "dask_yarn.__version__":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67014,24 +67652,28 @@
  "dask_yarn._patch.PATH":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0"
   ]
  },
  "dask_yarn._patch._ensure_file":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0"
   ]
  },
  "dask_yarn._patch.ensure_file":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0"
   ]
  },
  "dask_yarn._version":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67042,6 +67684,7 @@
  "dask_yarn._version.get_versions":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67052,6 +67695,7 @@
  "dask_yarn._version.version_json":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67062,6 +67706,7 @@
  "dask_yarn.cli":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67136,6 +67781,7 @@
  "dask_yarn.cli.dask_yarn_scheduler":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67143,6 +67789,7 @@
  "dask_yarn.cli.dask_yarn_scheduler.main":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67150,6 +67797,7 @@
  "dask_yarn.cli.dask_yarn_worker":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67157,6 +67805,7 @@
  "dask_yarn.cli.dask_yarn_worker.main":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67164,6 +67813,7 @@
  "dask_yarn.cli.dask_yarn_worker.start_worker":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67288,6 +67938,7 @@
  "dask_yarn.config.defaults":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67298,6 +67949,7 @@
  "dask_yarn.config.f":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67308,6 +67960,7 @@
  "dask_yarn.config.fn":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67318,6 +67971,7 @@
  "dask_yarn.core":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67328,6 +67982,7 @@
  "dask_yarn.core.YarnCluster":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67352,6 +68007,7 @@
  "dask_yarn.core._make_specification":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67396,6 +68052,7 @@
  "dask_yarn.core.memory_warning":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0"
   ]
  },
@@ -67410,6 +68067,7 @@
  "dask_yarn.tests":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67594,6 +68252,7 @@
  "dask_yarn.tests.test_core.APPNAME":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67601,6 +68260,7 @@
  "dask_yarn.tests.test_core.YarnCluster":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67611,6 +68271,7 @@
  "dask_yarn.tests.test_core._make_specification":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67636,6 +68297,7 @@
  "dask_yarn.tests.test_core.check_is_shutdown":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67643,6 +68305,7 @@
  "dask_yarn.tests.test_core.loop":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67650,6 +68313,7 @@
  "dask_yarn.tests.test_core.skein_client":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0"
   ]
@@ -67657,6 +68321,7 @@
  "dask_yarn.tests.test_core.test_basic":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67667,6 +68332,7 @@
  "dask_yarn.tests.test_core.test_configuration":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67698,6 +68364,7 @@
  "dask_yarn.tests.test_core.test_environment_relative_paths":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67731,6 +68398,7 @@
  "dask_yarn.tests.test_core.test_from_specification":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
@@ -67741,6 +68409,7 @@
  "dask_yarn.tests.test_core.test_make_specification_errors":{
   "__set__":true,
   "elements":[
+   "dask-yarn-0.2.0-py27_0",
    "dask-yarn-0.3.1-py27_0",
    "dask-yarn-0.3.2-py37_0",
    "dask-yarn-0.4.0-py36_0",
