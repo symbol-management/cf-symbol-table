@@ -766,14 +766,22 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.GCSMap":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.2-py27_0",
-   "gcsfs-0.0.5-py_0"
+   "gcsfs-0.0.5-py_0",
+   "gcsfs-0.5.0-py_0"
+  ]
+ },
+ "gcsfs.__all__":{
+  "__set__":true,
+  "elements":[
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.__version__":{
@@ -781,53 +789,61 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs._version":{
   "__set__":true,
   "elements":[
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs._version.get_versions":{
   "__set__":true,
   "elements":[
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs._version.version_json":{
   "__set__":true,
   "elements":[
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.cli":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.cli.gcsfuse":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.cli.gcsfuse.GCSFS":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.cli.gcsfuse.main":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core":{
@@ -835,7 +851,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.ACLs":{
@@ -843,7 +860,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.DEBUG":{
@@ -856,7 +874,8 @@
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.DEFAULT_PROJECT":{
@@ -864,7 +883,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.FileNotFoundError":{
@@ -879,14 +899,16 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.GCS_MIN_BLOCK_SIZE":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.PY2":{
@@ -901,7 +923,8 @@
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core._fetch_range":{
@@ -915,7 +938,8 @@
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.bACLs":{
@@ -923,14 +947,16 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.client_config":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.ensure_writable":{
@@ -945,14 +971,16 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.norm_path":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.not_secret":{
@@ -960,7 +988,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.put_object":{
@@ -975,7 +1004,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.split_path":{
@@ -983,7 +1013,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.tfile":{
@@ -991,7 +1022,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.core.validate_response":{
@@ -999,7 +1031,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.dask_link":{
@@ -1007,7 +1040,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.dask_link.DaskGCSFileSystem":{
@@ -1029,7 +1063,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.gcsfuse":{
@@ -1042,7 +1077,8 @@
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.gcsfuse.GCSFileSystem":{
@@ -1092,7 +1128,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.mapping.GCSMap":{
@@ -1100,7 +1137,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.register_dask":{
@@ -1115,7 +1153,8 @@
   "elements":[
    "gcsfs-0.0.2-py27_0",
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.utils.HtmlError":{
@@ -1127,27 +1166,31 @@
  "gcsfs.utils.HttpError":{
   "__set__":true,
   "elements":[
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.utils.RETRIABLE_EXCEPTIONS":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.utils.RateLimitException":{
   "__set__":true,
   "elements":[
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.utils.is_retriable":{
   "__set__":true,
   "elements":[
    "gcsfs-0.0.5-py_0",
-   "gcsfs-0.3.0-py_1"
+   "gcsfs-0.3.0-py_1",
+   "gcsfs-0.5.0-py_0"
   ]
  },
  "gcsfs.utils.read_block":{

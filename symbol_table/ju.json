@@ -54201,6 +54201,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -54296,6 +54297,7 @@
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
    "jupyterlab-0.2.0-py34_1",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -54385,6 +54387,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -54502,6 +54505,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -54608,6 +54612,7 @@
   "elements":[
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -55129,6 +55134,7 @@
  "jupyterlab.commands":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -55206,6 +55212,18 @@
    "jupyterlab-2.1.1-py_0",
    "jupyterlab-2.2.4-py_0",
    "jupyterlab-3.0.0-pyhd8ed1ab_0"
+  ]
+ },
+ "jupyterlab.commands.BUILD_PATH":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
+  ]
+ },
+ "jupyterlab.commands.CONFIG_PATH":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.commands.CoreConfig":{
@@ -55510,6 +55528,7 @@
  "jupyterlab.commands._ensure_package":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -55668,6 +55687,24 @@
    "jupyterlab-0.28.5-py36_0",
    "jupyterlab-0.28.7-py27_0",
    "jupyterlab-0.29.2-py35_0"
+  ]
+ },
+ "jupyterlab.commands._get_build_dir":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
+  ]
+ },
+ "jupyterlab.commands._get_cache_dir":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
+  ]
+ },
+ "jupyterlab.commands._get_config":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.commands._get_core_data":{
@@ -55947,6 +55984,18 @@
    "jupyterlab-0.29.2-py35_0"
   ]
  },
+ "jupyterlab.commands._get_pkg_path":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
+  ]
+ },
+ "jupyterlab.commands._get_root_dir":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
+  ]
+ },
  "jupyterlab.commands._get_static_data":{
   "__set__":true,
   "elements":[
@@ -56195,6 +56244,7 @@
  "jupyterlab.commands._normalize_path":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -56648,6 +56698,7 @@
  "jupyterlab.commands._validate_package":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -56711,6 +56762,12 @@
    "jupyterlab-0.29.2-py35_0"
   ]
  },
+ "jupyterlab.commands._write_config":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
+  ]
+ },
  "jupyterlab.commands._write_page_config":{
   "__set__":true,
   "elements":[
@@ -56756,6 +56813,7 @@
  "jupyterlab.commands.build":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -56892,6 +56950,7 @@
  "jupyterlab.commands.clean":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -56971,6 +57030,12 @@
    "jupyterlab-2.1.1-py_0",
    "jupyterlab-2.2.4-py_0",
    "jupyterlab-3.0.0-pyhd8ed1ab_0"
+  ]
+ },
+ "jupyterlab.commands.describe":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.commands.disable_extension":{
@@ -57538,6 +57603,7 @@
  "jupyterlab.commands.here":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -57572,6 +57638,7 @@
  "jupyterlab.commands.install_extension":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -57657,6 +57724,12 @@
    "jupyterlab-0.29.2-py35_0"
   ]
  },
+ "jupyterlab.commands.link_extension":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
+  ]
+ },
  "jupyterlab.commands.link_package":{
   "__set__":true,
   "elements":[
@@ -57733,6 +57806,7 @@
  "jupyterlab.commands.list2cmdline":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -57767,6 +57841,7 @@
  "jupyterlab.commands.list_extensions":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -57926,6 +58001,7 @@
  "jupyterlab.commands.run":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -57987,6 +58063,7 @@
  "jupyterlab.commands.uninstall_extension":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -58055,6 +58132,12 @@
    "jupyterlab-2.1.1-py_0",
    "jupyterlab-2.2.4-py_0",
    "jupyterlab-3.0.0-pyhd8ed1ab_0"
+  ]
+ },
+ "jupyterlab.commands.unlink_extension":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.commands.unlink_package":{
@@ -58185,6 +58268,12 @@
    "jupyterlab-0.28.5-py36_0",
    "jupyterlab-0.28.7-py27_0",
    "jupyterlab-0.29.2-py35_0"
+  ]
+ },
+ "jupyterlab.commands.validate_extension":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.commands.watch":{
@@ -58360,6 +58449,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -58564,6 +58654,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -58614,7 +58705,8 @@
    "jupyterlab-0.17.5-py35_0",
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
-   "jupyterlab-0.19.0-py36_0"
+   "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.extension.HERE":{
@@ -58625,7 +58717,8 @@
    "jupyterlab-0.17.5-py35_0",
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
-   "jupyterlab-0.19.0-py36_0"
+   "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.extension.LabHandler":{
@@ -58647,7 +58740,8 @@
    "jupyterlab-0.17.5-py35_0",
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
-   "jupyterlab-0.19.0-py36_0"
+   "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.extension.add_handlers":{
@@ -58704,6 +58798,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -59482,6 +59577,7 @@
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
    "jupyterlab-0.2.0-py34_1",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -59638,6 +59734,7 @@
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
    "jupyterlab-0.2.0-py34_1",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -59714,6 +59811,7 @@
  "jupyterlab.labapp.LabBuildApp":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -59787,6 +59885,7 @@
  "jupyterlab.labapp.LabCleanApp":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -59855,6 +59954,12 @@
    "jupyterlab-2.1.1-py_0",
    "jupyterlab-2.2.4-py_0",
    "jupyterlab-3.0.0-pyhd8ed1ab_0"
+  ]
+ },
+ "jupyterlab.labapp.LabDescribeApp":{
+  "__set__":true,
+  "elements":[
+   "jupyterlab-0.20.2-py35_0"
   ]
  },
  "jupyterlab.labapp.LabHandler":{
@@ -60367,6 +60472,7 @@
  "jupyterlab.labapp.lab_flags":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -60458,6 +60564,7 @@
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
    "jupyterlab-0.2.0-py34_1",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -60559,6 +60666,7 @@
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
    "jupyterlab-0.2.0-py34_1",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -60694,6 +60802,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -60791,6 +60900,7 @@
  "jupyterlab.labextensions.BaseExtensionApp":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -61211,6 +61321,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -61301,6 +61412,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -61377,6 +61489,7 @@
  "jupyterlab.labextensions.LinkLabExtensionApp":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -61464,6 +61577,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -61638,6 +61752,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -61714,6 +61829,7 @@
  "jupyterlab.labextensions.UnlinkLabExtensionApp":{
   "__set__":true,
   "elements":[
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -61904,6 +62020,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -62454,6 +62571,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -62629,6 +62747,7 @@
    "jupyterlab-0.17.5-py36_0",
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
@@ -63044,6 +63163,7 @@
    "jupyterlab-0.18.1-py36_0",
    "jupyterlab-0.19.0-py36_0",
    "jupyterlab-0.2.0-py34_1",
+   "jupyterlab-0.20.2-py35_0",
    "jupyterlab-0.21.0-py27_0",
    "jupyterlab-0.21.0-py35_0",
    "jupyterlab-0.22.0-py35_0",
