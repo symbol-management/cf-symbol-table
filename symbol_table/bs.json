@@ -6499,6 +6499,12 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson.BSONCoding":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.Binary":{
   "__set__":true,
   "elements":[
@@ -6572,6 +6578,12 @@
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.7.1-py36h6538335_1000",
    "pymongo-3.7.2-py36h0a44026_0"
+  ]
+ },
+ "bson.ELEMENT_TYPES":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
   ]
  },
  "bson.EPOCH_AWARE":{
@@ -6673,6 +6685,18 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson.MissingClassDefinition":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.MissingTimezoneWarning":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.OLD_UUID_SUBTYPE":{
   "__set__":true,
   "elements":[
@@ -6687,6 +6711,7 @@
  "bson.ObjectId":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -6750,6 +6775,12 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson.TraversalStep":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.UUIDLegacy":{
   "__set__":true,
   "elements":[
@@ -6765,6 +6796,12 @@
   "__set__":true,
   "elements":[
    "pymongo-3.11.0-py37h4ad414e_4"
+  ]
+ },
+ "bson.UnknownSerializerError":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
   ]
  },
  "bson.UuidRepresentation":{
@@ -6811,6 +6848,12 @@
    "pymongo-3.2.2-py34_0",
    "pymongo-3.7.1-py36h6538335_1000",
    "pymongo-3.7.2-py36h0a44026_0"
+  ]
+ },
+ "bson._EmptyClass":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
   ]
  },
  "bson._LIST_NAMES":{
@@ -6988,6 +7031,12 @@
    "pymongo-3.2.2-py34_0",
    "pymongo-3.7.1-py36h6538335_1000",
    "pymongo-3.7.2-py36h0a44026_0"
+  ]
+ },
+ "bson.__all__":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
   ]
  },
  "bson._bson_to_dict":{
@@ -7474,6 +7523,12 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson._is_string":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson._iterate_elements":{
   "__set__":true,
   "elements":[
@@ -7792,6 +7847,12 @@
    "pymongo-3.11.0-py37h4ad414e_4"
   ]
  },
+ "bson.classes":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.code":{
   "__set__":true,
   "elements":[
@@ -7850,6 +7911,174 @@
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.7.1-py36h6538335_1000",
    "pymongo-3.7.2-py36h0a44026_0"
+  ]
+ },
+ "bson.codec":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.BSONCoding":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.ELEMENT_TYPES":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.MissingClassDefinition":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.MissingTimezoneWarning":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.TraversalStep":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.UnknownSerializerError":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec._EmptyClass":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec._is_string":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.classes":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.decode_binary_subtype":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.decode_document":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.decode_object":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_array":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_binary":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_boolean_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_cstring":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_document":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_double":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_int32_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_int64_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_none_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_object":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_string":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_uint64_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_utc_datetime_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.encode_value":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.codec.import_class":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
   ]
  },
  "bson.codec_options":{
@@ -8341,6 +8570,18 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson.decode_binary_subtype":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.decode_document":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.decode_file_iter":{
   "__set__":true,
   "elements":[
@@ -8359,11 +8600,107 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson.decode_object":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.dumps":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.encode":{
   "__set__":true,
   "elements":[
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4"
+  ]
+ },
+ "bson.encode_array":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_binary":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_boolean_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_cstring":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_document":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_double":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_int32_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_int64_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_none_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_object":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_string":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_uint64_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_utc_datetime_element":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.encode_value":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
   ]
  },
  "bson.errors":{
@@ -8459,6 +8796,12 @@
    "pymongo-3.2.2-py34_0",
    "pymongo-3.7.1-py36h6538335_1000",
    "pymongo-3.7.2-py36h0a44026_0"
+  ]
+ },
+ "bson.import_class":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
   ]
  },
  "bson.int64":{
@@ -9139,6 +9482,12 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson.loads":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.max_key":{
   "__set__":true,
   "elements":[
@@ -9183,9 +9532,40 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson.network":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.network._bintoint":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.network.recvbytes":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.network.recvobj":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
+ "bson.network.sendobj":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.objectid":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9197,6 +9577,7 @@
  "bson.objectid.InvalidId":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9208,6 +9589,7 @@
  "bson.objectid.ObjectId":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9219,6 +9601,7 @@
  "bson.objectid.PY3":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9244,6 +9627,7 @@
  "bson.objectid._machine_bytes":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.2.2-py27_0",
    "pymongo-3.2.2-py34_0",
    "pymongo-3.7.1-py36h6538335_1000",
@@ -9260,6 +9644,7 @@
  "bson.objectid._raise_invalid_id":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9278,6 +9663,7 @@
  "bson.objectid.bytes_from_hex":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9289,6 +9675,7 @@
  "bson.objectid.string_type":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9300,6 +9687,7 @@
  "bson.objectid.text_type":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9311,6 +9699,7 @@
  "bson.objectid.utc":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9319,9 +9708,16 @@
    "pymongo-3.7.2-py36h0a44026_0"
   ]
  },
+ "bson.patch_socket":{
+  "__set__":true,
+  "elements":[
+   "bson-0.5.3-py36_0"
+  ]
+ },
  "bson.py3compat":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9340,6 +9736,7 @@
  "bson.py3compat.MAXSIZE":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9351,6 +9748,7 @@
  "bson.py3compat.PY3":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9362,6 +9760,7 @@
  "bson.py3compat._unicode":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9389,6 +9788,7 @@
  "bson.py3compat.b":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9400,6 +9800,7 @@
  "bson.py3compat.bytes_from_hex":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9411,6 +9812,7 @@
  "bson.py3compat.integer_types":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9422,6 +9824,7 @@
  "bson.py3compat.iteritems":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9433,6 +9836,7 @@
  "bson.py3compat.itervalues":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9444,6 +9848,7 @@
  "bson.py3compat.reraise":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9455,6 +9860,7 @@
  "bson.py3compat.string_type":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9466,6 +9872,7 @@
  "bson.py3compat.text_type":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9824,6 +10231,7 @@
  "bson.tz_util":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9835,6 +10243,7 @@
  "bson.tz_util.FixedOffset":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9846,6 +10255,7 @@
  "bson.tz_util.ZERO":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
@@ -9857,6 +10267,7 @@
  "bson.tz_util.utc":{
   "__set__":true,
   "elements":[
+   "bson-0.5.3-py36_0",
    "pymongo-3.10.1-py37hb809cae_1",
    "pymongo-3.11.0-py37h4ad414e_4",
    "pymongo-3.2.2-py27_0",
