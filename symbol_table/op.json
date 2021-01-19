@@ -34791,7 +34791,8 @@
  "opentelemetry.configuration.Configuration":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.configuration._T":{
@@ -34800,10 +34801,17 @@
    "opentelemetry-api-0.15b0-py37h89c1867_0"
   ]
  },
+ "opentelemetry.context":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
  "opentelemetry.context.Context":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.context.RuntimeContext":{
@@ -34881,7 +34889,8 @@
  "opentelemetry.context.attach":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.context.context":{
@@ -34941,7 +34950,8 @@
  "opentelemetry.context.detach":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.context.get_current":{
@@ -34965,7 +34975,8 @@
  "opentelemetry.context.set_value":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.context.threadlocal_context":{
@@ -34998,6 +35009,12 @@
    "opentelemetry-api-0.15b0-py37h89c1867_0"
   ]
  },
+ "opentelemetry.metrics":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
  "opentelemetry.metrics.BoundCounter":{
   "__set__":true,
   "elements":[
@@ -35019,7 +35036,8 @@
  "opentelemetry.metrics.Counter":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics.DefaultBoundCounter":{
@@ -35085,13 +35103,15 @@
  "opentelemetry.metrics.InstrumentT":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics.Meter":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics.MeterProvider":{
@@ -35115,37 +35135,43 @@
  "opentelemetry.metrics.SumObserver":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics.UpDownCounter":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics.UpDownSumObserver":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics.ValueObserver":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics.ValueRecorder":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics.ValueT":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.metrics._load_meter_provider":{
@@ -35262,10 +35288,1103 @@
    "opentelemetry-api-0.15b0-py37h89c1867_0"
   ]
  },
+ "opentelemetry.sdk.error_handler.DefaultErrorHandler":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.error_handler.ErrorHandler":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.error_handler.GlobalErrorHandler":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.error_handler.logger":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.Accumulation":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.Accumulator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.Aggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.BaseBoundInstrument":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.BoundCounter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.BoundUpDownCounter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.BoundValueRecorder":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.ConsoleMetricsExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.Counter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.InstrumentationInfo":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.MeterProvider":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.Metric":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.MetricsExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.Observer":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.Processor":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.PushController":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.Resource":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.SumObserver":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.UpDownCounter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.UpDownSumObserver":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.ValueObserver":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.ValueRecorder":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.ViewData":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.ViewManager":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.Aggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.ConsoleMetricsExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.ExportRecord":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.MetricsExportResult":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.MetricsExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.Resource":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate.Aggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate.HistogramAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate.LastValueAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate.MinMaxSumCountAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate.SumAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate.ValueObserverAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate.logger":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.aggregate.time_ns":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.controller":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.controller.Meter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.controller.MetricsExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.controller.PushController":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.controller.attach":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.controller.detach":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.controller.set_value":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.in_memory_metrics_exporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.in_memory_metrics_exporter.ExportRecord":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.in_memory_metrics_exporter.InMemoryMetricsExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.in_memory_metrics_exporter.MetricsExportResult":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.in_memory_metrics_exporter.MetricsExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.metrics":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.processor":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.processor.ExportRecord":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.processor.Processor":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.processor.Resource":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.export.processor.get_dict_as_key":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.get_default_aggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.get_dict_as_key":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.logger":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.metrics":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.Aggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.Counter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.InstrumentT":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.LastValueAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.MinMaxSumCountAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.SumAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.SumObserver":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.UpDownCounter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.UpDownSumObserver":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.ValueObserver":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.ValueObserverAggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.ValueRecorder":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.ValueT":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.View":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.ViewData":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.ViewManager":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.get_default_aggregator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.metrics.view.logger":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.Attributes":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.LabelValue":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.OPENTELEMETRY_SDK_VERSION":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.OTELResourceDetector":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.OTEL_RESOURCE_ATTRIBUTES":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.Resource":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.TELEMETRY_SDK_LANGUAGE":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.TELEMETRY_SDK_NAME":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.TELEMETRY_SDK_VERSION":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources._DEFAULT_RESOURCE":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources._EMPTY_RESOURCE":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.get_aggregated_resources":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.resources.logger":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.BoundedDict":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.BoundedList":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.ConcurrentMultiSpanProcessor":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.Event":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.InstrumentationInfo":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.MAX_NUM_ATTRIBUTES":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.MAX_NUM_EVENTS":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.MAX_NUM_LINKS":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.Resource":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.SPAN_KEY":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.Span":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.SpanContext":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.Status":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.StatusCode":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.SynchronousMultiSpanProcessor":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.Tracer":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.VALID_ATTR_VALUE_TYPES":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace._Span":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace._check_span_ended":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace._create_immutable_attributes":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace._filter_attribute_values":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace._is_valid_attribute_value":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.context":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.BatchExportSpanProcessor":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.Configuration":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.ConsoleSpanExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.Context":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.SimpleExportSpanProcessor":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.Span":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.SpanExportResult":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.SpanExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export._FlushRequest":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.attach":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.detach":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.in_memory_span_exporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.in_memory_span_exporter.InMemorySpanExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.in_memory_span_exporter.Span":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.in_memory_span_exporter.SpanExportResult":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.in_memory_span_exporter.SpanExporter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.logger":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.set_value":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.export.time_ns":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.logger":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.B3Format":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.Context":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.Getter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.Setter":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.TextMapPropagator":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.TextMapPropagatorT":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format._extract_first_element":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.format_span_id":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.format_trace_id":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.propagation.b3_format.trace":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.ALWAYS_OFF":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.ALWAYS_ON":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.Attributes":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.Context":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.DEFAULT_OFF":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.DEFAULT_ON":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.Decision":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.Link":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.ParentBased":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.Sampler":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.SamplingResult":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.StaticSampler":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.TraceIdRatioBased":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.TraceState":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.sampling.get_current_span":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.time_ns":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.trace":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.types":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.trace.util":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.util":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.util.BoundedDict":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.util.BoundedList":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.util.get_dict_as_key":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.util.instrumentation":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.util.instrumentation.InstrumentationInfo":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.util.ns_to_iso_str":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.sdk.version.__version__":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
  "opentelemetry.trace":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.Context":{
@@ -35331,7 +36450,8 @@
  "opentelemetry.trace.Link":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.RandomIdsGenerator":{
@@ -35344,6 +36464,12 @@
   "__set__":true,
   "elements":[
    "opentelemetry-api-0.15b0-py37h89c1867_0"
+  ]
+ },
+ "opentelemetry.trace.SpanContext":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.SpanKind":{
@@ -35415,7 +36541,8 @@
  "opentelemetry.trace.get_current_span":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.get_tracer":{
@@ -35469,7 +36596,8 @@
  "opentelemetry.trace.propagation.SPAN_KEY":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.propagation.Span":{
@@ -35529,19 +36657,28 @@
  "opentelemetry.trace.propagation.textmap.Getter":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.propagation.textmap.Setter":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.propagation.textmap.TextMapPropagator":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.trace.propagation.textmap.TextMapPropagatorT":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.propagation.tracecontext":{
@@ -35721,7 +36858,8 @@
  "opentelemetry.trace.span.TraceState":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.span._logger":{
@@ -35775,7 +36913,14 @@
  "opentelemetry.trace.status.Status":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
+  ]
+ },
+ "opentelemetry.trace.status.StatusCode":{
+  "__set__":true,
+  "elements":[
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.trace.status.logger":{
@@ -35847,13 +36992,15 @@
  "opentelemetry.util.time_ns":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.util.types":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.util.types.AttributeValue":{
@@ -35865,7 +37012,8 @@
  "opentelemetry.util.types.Attributes":{
   "__set__":true,
   "elements":[
-   "opentelemetry-api-0.15b0-py37h89c1867_0"
+   "opentelemetry-api-0.15b0-py37h89c1867_0",
+   "opentelemetry-sdk-0.16b0-pyhd8ed1ab_0"
   ]
  },
  "opentelemetry.util.types.AttributesFormatter":{
