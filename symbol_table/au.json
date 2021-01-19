@@ -9875,12 +9875,14 @@
  "autograd.container_types":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.container_types.DictNode":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -9890,9 +9892,16 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.container_types.ListNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.container_types.Node":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -9914,27 +9923,54 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.container_types.TupleNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.container_types.VSpace":{
   "__set__":true,
   "elements":[
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.container_types.cast":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.container_types.cast_to_dict":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.container_types.cast_to_list":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.container_types.dict_take":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.container_types.dict_untake":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.container_types.getval":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -9948,6 +9984,36 @@
   "__set__":true,
   "elements":[
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.container_types.list_take":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.container_types.list_untake":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.container_types.make_grad_dict_take":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.container_types.make_grad_list_take":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.container_types.make_grad_tuple_take":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.container_types.make_list":{
@@ -9965,13 +10031,21 @@
  "autograd.container_types.make_tuple":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.container_types.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.container_types.primitive_sum":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.container_types.register_node":{
@@ -9998,15 +10072,34 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.container_types.tuple_take":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.container_types.tuple_untake":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.container_types.vspace":{
   "__set__":true,
   "elements":[
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.container_types.zeros_like":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.convenience_wrappers":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -10019,7 +10112,14 @@
  "autograd.convenience_wrappers.attach_name_and_doc":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.convenience_wrappers.backward_pass":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.convenience_wrappers.cast_to_same_dtype":{
@@ -10031,24 +10131,40 @@
  "autograd.convenience_wrappers.elementwise_grad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.convenience_wrappers.forward_pass":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.convenience_wrappers.getval":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.convenience_wrappers.grad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.convenience_wrappers.grad_and_aux":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.convenience_wrappers.hessian":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -10061,6 +10177,7 @@
  "autograd.convenience_wrappers.jacobian":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -10073,12 +10190,14 @@
  "autograd.convenience_wrappers.multigrad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.convenience_wrappers.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -10091,12 +10210,14 @@
  "autograd.convenience_wrappers.value_and_grad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.convenience_wrappers.vector_jacobian_product":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -10109,8 +10230,45 @@
  "autograd.core":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
+  ]
+ },
+ "autograd.core.AutogradHint":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.CalculationTape":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.ComplexNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.DIV":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.FloatNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.I":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.core.JVPNode":{
@@ -10119,10 +10277,35 @@
    "autograd-1.2-py35_0"
   ]
  },
+ "autograd.core.NoDerivativeNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.NoDerivativeReverseNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.core.Node":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.core.RDIV":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.ReverseNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.core.SparseBox":{
@@ -10157,6 +10340,12 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.core.add_extra_error_message":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.core.add_outgrads":{
   "__set__":true,
   "elements":[
@@ -10169,11 +10358,42 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.core.attach_name_and_doc":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.core.backward_pass":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
+  ]
+ },
+ "autograd.core.cast":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.check_common_errors":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.common_errors":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.comp_op":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.core.def_linear":{
@@ -10206,16 +10426,42 @@
    "autograd-1.2-py35_0"
   ]
  },
+ "autograd.core.differentiable_ops":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.float_op":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.floor":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.core.forward_pass":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.core.getval":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.core.grad":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.core.identity":{
@@ -10242,6 +10488,12 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.core.log":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.core.make_jvp":{
   "__set__":true,
   "elements":[
@@ -10255,9 +10507,16 @@
    "autograd-1.2-py35_0"
   ]
  },
+ "autograd.core.merge_tapes":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.core.new_node":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -10285,9 +10544,16 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.core.nondifferentiable_ops":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.core.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10328,6 +10594,18 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.core.replace_zero":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.core.safe_type":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.core.sparse_add":{
   "__set__":true,
   "elements":[
@@ -10344,6 +10622,12 @@
   "__set__":true,
   "elements":[
    "autograd-1.2-py35_0"
+  ]
+ },
+ "autograd.core.swap_args":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.core.toposort":{
@@ -10375,6 +10659,12 @@
   "__set__":true,
   "elements":[
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.core.zeros_like":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.deriv":{
@@ -10500,6 +10790,7 @@
  "autograd.elementwise_grad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10627,6 +10918,7 @@
  "autograd.grad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10634,6 +10926,7 @@
  "autograd.hessian":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10653,6 +10946,7 @@
  "autograd.jacobian":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10894,6 +11188,7 @@
  "autograd.multigrad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -10906,6 +11201,7 @@
  "autograd.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10919,6 +11215,7 @@
  "autograd.numpy.array":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10932,6 +11229,7 @@
  "autograd.numpy.c_":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10939,6 +11237,7 @@
  "autograd.numpy.c_class":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10946,13 +11245,81 @@
  "autograd.numpy.column_stack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.ComplexArrayNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.ComplexNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.ComplexSparseArray":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.Node":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.array_dtype_mappings":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.cast":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.complex_arraycast":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.complex_type":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.getval":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.complex_array_node.primitive":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.concatenate":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10960,6 +11327,7 @@
  "autograd.numpy.concatenate_args":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10967,6 +11335,7 @@
  "autograd.numpy.fft":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10980,6 +11349,7 @@
  "autograd.numpy.fft.check_no_repeated_axes":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -10988,6 +11358,12 @@
   "__set__":true,
   "elements":[
    "autograd-1.2-py35_0"
+  ]
+ },
+ "autograd.numpy.fft.fft_defgrad":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.fft.fft_defvjp":{
@@ -10999,6 +11375,7 @@
  "autograd.numpy.fft.fft_fun":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11041,6 +11418,7 @@
  "autograd.numpy.fft.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11054,6 +11432,7 @@
  "autograd.numpy.fft.truncate_pad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11067,12 +11446,68 @@
  "autograd.numpy.getval":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node.GpuArrayNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node.GpuSparseArray":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node.Node":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node.array_dtype_mappings":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node.cast":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node.getval":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node.gpu_arraycast":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.gpu_array_node.primitive":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.hstack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11080,6 +11515,7 @@
  "autograd.numpy.linalg":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11087,6 +11523,7 @@
  "autograd.numpy.linalg.T":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11094,6 +11531,7 @@
  "autograd.numpy.linalg.add2d":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11144,6 +11582,36 @@
   "elements":[
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
+  ]
+ },
+ "autograd.numpy.linalg.make_grad_cholesky":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.linalg.make_grad_eigh":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.linalg.make_grad_inv":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.linalg.make_grad_norm":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.linalg.make_grad_solve":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.make_diagonal":{
@@ -11233,12 +11701,14 @@
  "autograd.numpy.numpy_extra":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.numpy.numpy_extra.ArrayNode":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11254,10 +11724,23 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.numpy.numpy_extra.FloatNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.numpy.numpy_extra.Node":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.numpy_extra.SparseArray":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.numpy_extra.SparseObject":{
@@ -11272,21 +11755,53 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.numpy.numpy_extra.array_dtype_mappings":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.numpy.numpy_extra.array_types":{
   "__set__":true,
   "elements":[
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.numpy.numpy_extra.arraycast":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_extra.cast":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.numpy.numpy_extra.diff_methods":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.numpy_extra.differentiable_ops":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_extra.float_type":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.numpy_extra.getval":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11296,22 +11811,49 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.numpy.numpy_extra.make_grad_take":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.numpy.numpy_extra.method_name":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.numpy_extra.new_array_node":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.numpy_extra.nondiff_methods":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.numpy_extra.nondifferentiable_ops":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.numpy_extra.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.numpy_extra.primitive_sum_arrays":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.numpy_extra.register_node":{
@@ -11329,6 +11871,7 @@
  "autograd.numpy.numpy_extra.take":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11341,6 +11884,7 @@
  "autograd.numpy.numpy_extra.untake":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11353,7 +11897,20 @@
  "autograd.numpy.numpy_grads":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.I":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.abs_grad":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.numpy_grads.balanced_eq":{
@@ -11365,6 +11922,7 @@
  "autograd.numpy.numpy_grads.getval":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11494,10 +12052,137 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.numpy.numpy_grads.isarray":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.numpy.numpy_grads.make_diagonal":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_chooser":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_concatenate_args":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_diff":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_dot":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_einsum":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_inner":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_matmul":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_np_cumsum":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_np_mean":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_np_prod":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_np_std":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_np_sum":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_np_var":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_partition":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_repeat":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_reshape_list":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_sort":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_tensordot":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_tile":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.numpy_grads.make_grad_transpose":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.numpy_grads.match_complex":{
@@ -11509,12 +12194,14 @@
  "autograd.numpy.numpy_grads.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.numpy.numpy_grads.repeat_to_match_shape":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11527,18 +12214,21 @@
  "autograd.numpy.numpy_grads.reverse_axis":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.numpy.numpy_grads.unbroadcast":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.numpy.numpy_grads.unpermuter":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11551,6 +12241,7 @@
  "autograd.numpy.numpy_grads.wrapped_reshape":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -11965,6 +12656,7 @@
  "autograd.numpy.numpy_wrapper":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11978,6 +12670,7 @@
  "autograd.numpy.numpy_wrapper.array":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11991,6 +12684,7 @@
  "autograd.numpy.numpy_wrapper.c_":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -11998,6 +12692,7 @@
  "autograd.numpy.numpy_wrapper.c_class":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12005,6 +12700,7 @@
  "autograd.numpy.numpy_wrapper.column_stack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12012,6 +12708,7 @@
  "autograd.numpy.numpy_wrapper.concatenate":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12019,6 +12716,7 @@
  "autograd.numpy.numpy_wrapper.concatenate_args":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12026,12 +12724,14 @@
  "autograd.numpy.numpy_wrapper.getval":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.numpy.numpy_wrapper.hstack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12081,6 +12781,7 @@
  "autograd.numpy.numpy_wrapper.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12088,6 +12789,7 @@
  "autograd.numpy.numpy_wrapper.r_":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12095,6 +12797,7 @@
  "autograd.numpy.numpy_wrapper.r_class":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12102,6 +12805,7 @@
  "autograd.numpy.numpy_wrapper.row_stack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12109,6 +12813,7 @@
  "autograd.numpy.numpy_wrapper.select":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12116,6 +12821,7 @@
  "autograd.numpy.numpy_wrapper.stack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12123,12 +12829,14 @@
  "autograd.numpy.numpy_wrapper.unbox_args":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.numpy.numpy_wrapper.vstack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12142,12 +12850,14 @@
  "autograd.numpy.numpy_wrapper.wrap_if_nodes_inside":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.numpy.numpy_wrapper.wrap_intdtype":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12155,6 +12865,7 @@
  "autograd.numpy.numpy_wrapper.wrap_namespace":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12168,6 +12879,7 @@
  "autograd.numpy.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12175,6 +12887,7 @@
  "autograd.numpy.r_":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12182,6 +12895,7 @@
  "autograd.numpy.r_class":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12189,6 +12903,7 @@
  "autograd.numpy.random":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12196,6 +12911,7 @@
  "autograd.numpy.row_stack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12203,6 +12919,7 @@
  "autograd.numpy.select":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12210,6 +12927,7 @@
  "autograd.numpy.stack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12217,12 +12935,26 @@
  "autograd.numpy.unbox_args":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.numpy.use_gpu_numpy":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.numpy.use_gpu_numpy.use_gpu_numpy":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.numpy.vstack":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12236,12 +12968,14 @@
  "autograd.numpy.wrap_if_nodes_inside":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.numpy.wrap_intdtype":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12249,6 +12983,7 @@
  "autograd.numpy.wrap_namespace":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12292,6 +13027,7 @@
  "autograd.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -12304,6 +13040,7 @@
  "autograd.scipy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12311,6 +13048,7 @@
  "autograd.scipy.linalg._flip":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12328,9 +13066,16 @@
    "autograd-1.2-py35_0"
   ]
  },
+ "autograd.scipy.linalg.make_grad_solve_triangular":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.scipy.linalg.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12338,6 +13083,7 @@
  "autograd.scipy.linalg.wrap_namespace":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12386,6 +13132,7 @@
  "autograd.scipy.signal.compute_conv_size":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12393,6 +13140,7 @@
  "autograd.scipy.signal.convolve":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12406,6 +13154,7 @@
  "autograd.scipy.signal.einsum_tensordot":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12413,6 +13162,7 @@
  "autograd.scipy.signal.flipped_idxs":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12424,9 +13174,16 @@
    "autograd-1.2-py35_0"
   ]
  },
+ "autograd.scipy.signal.make_grad_convolve":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.scipy.signal.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12434,6 +13191,7 @@
  "autograd.scipy.signal.pad_to_full":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12441,6 +13199,7 @@
  "autograd.scipy.signal.parse_axes":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12448,6 +13207,7 @@
  "autograd.scipy.signal.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12455,6 +13215,7 @@
  "autograd.scipy.signal.prod":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -12485,6 +13246,7 @@
  "autograd.scipy.special.digamma":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12492,6 +13254,7 @@
  "autograd.scipy.special.erf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12499,6 +13262,7 @@
  "autograd.scipy.special.erfc":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12526,6 +13290,7 @@
  "autograd.scipy.special.gamma":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12545,6 +13310,7 @@
  "autograd.scipy.special.gammaln":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12552,6 +13318,7 @@
  "autograd.scipy.special.gammasgn":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12559,6 +13326,7 @@
  "autograd.scipy.special.inv_root_pi":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12566,6 +13334,7 @@
  "autograd.scipy.special.j0":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12573,6 +13342,7 @@
  "autograd.scipy.special.j1":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12580,6 +13350,7 @@
  "autograd.scipy.special.jn":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12599,6 +13370,7 @@
  "autograd.scipy.special.multigammaln":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12606,6 +13378,7 @@
  "autograd.scipy.special.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12613,6 +13386,7 @@
  "autograd.scipy.special.polygamma":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12620,6 +13394,7 @@
  "autograd.scipy.special.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12627,6 +13402,7 @@
  "autograd.scipy.special.psi":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12634,6 +13410,7 @@
  "autograd.scipy.special.rgamma":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12654,6 +13431,7 @@
  "autograd.scipy.special.y0":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12661,6 +13439,7 @@
  "autograd.scipy.special.y1":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12668,6 +13447,7 @@
  "autograd.scipy.special.yn":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12825,6 +13605,7 @@
  "autograd.scipy.stats.dirichlet.digamma":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12832,6 +13613,7 @@
  "autograd.scipy.stats.dirichlet.logpdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12839,6 +13621,7 @@
  "autograd.scipy.stats.dirichlet.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12846,6 +13629,7 @@
  "autograd.scipy.stats.dirichlet.pdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12853,6 +13637,7 @@
  "autograd.scipy.stats.dirichlet.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12860,6 +13645,7 @@
  "autograd.scipy.stats.dirichlet.rvs":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12945,6 +13731,7 @@
  "autograd.scipy.stats.multivariate_normal.covgrad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12958,6 +13745,7 @@
  "autograd.scipy.stats.multivariate_normal.entropy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12965,6 +13753,7 @@
  "autograd.scipy.stats.multivariate_normal.generalized_outer_product":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12972,6 +13761,7 @@
  "autograd.scipy.stats.multivariate_normal.logpdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12979,12 +13769,14 @@
  "autograd.scipy.stats.multivariate_normal.lower_half":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.scipy.stats.multivariate_normal.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12992,6 +13784,7 @@
  "autograd.scipy.stats.multivariate_normal.pdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -12999,6 +13792,7 @@
  "autograd.scipy.stats.multivariate_normal.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13012,6 +13806,7 @@
  "autograd.scipy.stats.multivariate_normal.unbroadcast":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -13030,6 +13825,7 @@
  "autograd.scipy.stats.norm.cdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13043,6 +13839,7 @@
  "autograd.scipy.stats.norm.logcdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13050,6 +13847,7 @@
  "autograd.scipy.stats.norm.logpdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13057,6 +13855,7 @@
  "autograd.scipy.stats.norm.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13064,6 +13863,7 @@
  "autograd.scipy.stats.norm.pdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13071,6 +13871,7 @@
  "autograd.scipy.stats.norm.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13078,6 +13879,7 @@
  "autograd.scipy.stats.norm.unbroadcast":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -13150,6 +13952,7 @@
  "autograd.scipy.stats.t.cdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13163,6 +13966,7 @@
  "autograd.scipy.stats.t.grad_tlogpdf_df":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13170,6 +13974,7 @@
  "autograd.scipy.stats.t.grad_tlogpdf_diff":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13177,6 +13982,7 @@
  "autograd.scipy.stats.t.grad_tlogpdf_loc":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13184,6 +13990,7 @@
  "autograd.scipy.stats.t.grad_tlogpdf_scale":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13191,6 +13998,7 @@
  "autograd.scipy.stats.t.grad_tlogpdf_x":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13198,6 +14006,7 @@
  "autograd.scipy.stats.t.logcdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13205,6 +14014,7 @@
  "autograd.scipy.stats.t.logpdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13212,6 +14022,7 @@
  "autograd.scipy.stats.t.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13219,6 +14030,7 @@
  "autograd.scipy.stats.t.pdf":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13226,6 +14038,7 @@
  "autograd.scipy.stats.t.primitive":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13233,6 +14046,7 @@
  "autograd.scipy.stats.t.psi":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13240,6 +14054,7 @@
  "autograd.scipy.stats.t.unbroadcast":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -13426,6 +14241,7 @@
  "autograd.util":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13433,32 +14249,67 @@
  "autograd.util.ATOL":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.util.EPS":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.util.ListNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.util.RTOL":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.util.TupleNode":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.util.array_types":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
+ "autograd.util.base_class":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.util.check_equivalent":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.util.check_grads":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
+  ]
+ },
+ "autograd.util.complex_type":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.util.deprecation_msg":{
@@ -13467,9 +14318,16 @@
    "autograd-1.2-py35_0"
   ]
  },
+ "autograd.util.equivalence_class":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.util.flatten":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
@@ -13479,47 +14337,77 @@
    "autograd-1.1.9-py27_0"
   ]
  },
+ "autograd.util.float_type":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.util.func":{
   "__set__":true,
   "elements":[
    "autograd-1.2-py35_0"
   ]
  },
+ "autograd.util.garray_obj":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
+  ]
+ },
  "autograd.util.getval":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.util.grad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.util.indexed_function":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.util.make_tuple":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.util.nd":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.util.numpy":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.util.quick_grad_check":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
+  ]
+ },
+ "autograd.util.safe_type":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.util.subval":{
@@ -13537,13 +14425,21 @@
  "autograd.util.to_scalar":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
   ]
  },
  "autograd.util.unary_nd":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0"
+  ]
+ },
+ "autograd.util.use_gpu_numpy":{
+  "__set__":true,
+  "elements":[
+   "autograd-1.1.6-py34_0"
   ]
  },
  "autograd.util.vspace":{
@@ -13555,6 +14451,7 @@
  "autograd.value_and_grad":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
@@ -13562,6 +14459,7 @@
  "autograd.vector_jacobian_product":{
   "__set__":true,
   "elements":[
+   "autograd-1.1.6-py34_0",
    "autograd-1.1.9-py27_0",
    "autograd-1.2-py35_0"
   ]
