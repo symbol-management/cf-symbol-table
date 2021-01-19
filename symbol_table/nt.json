@@ -17,22 +17,43 @@
    "ntlm-auth-1.0.5-py_0"
   ]
  },
+ "ntlm_auth.__all__":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_hash":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_hash.DES":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
  "ntlm_auth.compute_hash._lmowfv1":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.compute_hash._ntowfv1":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.compute_hash._ntowfv2":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.compute_hash.des":{
@@ -44,7 +65,44 @@
  "ntlm_auth.compute_keys":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_keys.DES":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_keys.NegotiateFlags":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_keys._get_exchange_key_ntlm_v1":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_keys._get_exchange_key_ntlm_v2":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_keys._get_seal_key_ntlm1":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_keys._get_seal_key_ntlm2":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.compute_keys._get_seal_key_ntlm2.seal_key":{
@@ -53,16 +111,83 @@
    "ntlm-auth-1.0.5-py_0"
   ]
  },
+ "ntlm_auth.compute_keys.get_seal_key":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_keys.get_sign_key":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
  "ntlm_auth.compute_keys.seal_key":{
   "__set__":true,
   "elements":[
    "ntlm-auth-1.0.5-py_0"
   ]
  },
+ "ntlm_auth.compute_response":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_response.AvFlags":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_response.AvId":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
  "ntlm_auth.compute_response.ComputeResponse":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_response.DES":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_response.GssChannelBindingsStruct":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_response.NegotiateFlags":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_response.compute_hash":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_response.compute_keys":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.compute_response.get_windows_timestamp":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.compute_response.get_windows_timestamp.timestamp":{
@@ -77,46 +202,65 @@
    "ntlm-auth-1.0.5-py_0"
   ]
  },
+ "ntlm_auth.constants":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
  "ntlm_auth.constants.AvFlags":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.constants.AvId":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.constants.MessageTypes":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.constants.NTLM_SIGNATURE":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.constants.NegotiateFlags":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.constants.SignSealConstants":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.des":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.des.DES":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.des.des_c":{
@@ -251,6 +395,30 @@
    "ntlm-auth-1.0.5-py_0"
   ]
  },
+ "ntlm_auth.exceptions":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.exceptions.NoAuthContextError":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.gss_channel_bindings":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.gss_channel_bindings.GssChannelBindingsStruct":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
  "ntlm_auth.gss_channel_bindings.GssChannelBindingsStruct.get_data.data":{
   "__set__":true,
   "elements":[
@@ -263,166 +431,247 @@
    "ntlm-auth-1.0.5-py_0"
   ]
  },
+ "ntlm_auth.messages":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
  "ntlm_auth.messages.ARC4":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.AuthenticateMessage":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.AvFlags":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.messages.AvId":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.ChallengeMessage":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.ComputeResponse":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.MessageTypes":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.NTLM_SIGNATURE":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.NegotiateFlags":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.NegotiateMessage":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.TargetInfo":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.get_random_export_session_key":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.messages.get_version":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.ntlm":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.ntlm.AuthenticateMessage":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.ntlm.ChallengeMessage":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.ntlm.NegotiateFlags":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.ntlm.NegotiateMessage":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.ntlm.NoAuthContextError":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.ntlm.Ntlm":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.ntlm.SessionSecurity":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.rc4":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.rc4.ARC4":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.rc4.HAS_CRYPTOGRAPHY":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.rc4._CryptographyARC4":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.rc4._PythonARC4":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
+  ]
+ },
+ "ntlm_auth.session_security":{
+  "__set__":true,
+  "elements":[
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.session_security.ARC4":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.session_security.NegotiateFlags":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.session_security.SessionSecurity":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.session_security.SignSealConstants":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.session_security._NtlmMessageSignature1":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.session_security._NtlmMessageSignature2":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.session_security.calc_signature":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.session_security.compute_keys":{
   "__set__":true,
   "elements":[
-   "ntlm-auth-1.0.5-py_0"
+   "ntlm-auth-1.0.5-py_0",
+   "ntlm-auth-1.4.0-py_0"
   ]
  },
  "ntlm_auth.target_info.TargetInfo":{
