@@ -2600,6 +2600,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2612,6 +2613,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2628,6 +2630,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2667,6 +2670,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2702,6 +2706,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2723,6 +2728,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2734,6 +2740,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2741,19 +2748,28 @@
  "otfftw.examples":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.examples.t_FFTW_std.FFTW":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
+  ]
+ },
+ "otfftw.examples.t_FFTW_std._SwigNonDynamicMeta":{
+  "__set__":true,
+  "elements":[
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.examples.t_FFTW_std.__version__":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.examples.t_FFTW_std._newclass":{
@@ -2774,6 +2790,12 @@
    "otfftw-0.4-py36_0"
   ]
  },
+ "otfftw.examples.t_FFTW_std._swig_add_metaclass":{
+  "__set__":true,
+  "elements":[
+   "otfftw-0.9-py37h1834ac0_1"
+  ]
+ },
  "otfftw.examples.t_FFTW_std._swig_getattr":{
   "__set__":true,
   "elements":[
@@ -2789,7 +2811,8 @@
  "otfftw.examples.t_FFTW_std._swig_repr":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.examples.t_FFTW_std._swig_setattr":{
@@ -2798,34 +2821,51 @@
    "otfftw-0.4-py36_0"
   ]
  },
+ "otfftw.examples.t_FFTW_std._swig_setattr_nondynamic_class_variable":{
+  "__set__":true,
+  "elements":[
+   "otfftw-0.9-py37h1834ac0_1"
+  ]
+ },
+ "otfftw.examples.t_FFTW_std._swig_setattr_nondynamic_instance_variable":{
+  "__set__":true,
+  "elements":[
+   "otfftw-0.9-py37h1834ac0_1"
+  ]
+ },
  "otfftw.examples.t_FFTW_std.data":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.examples.t_FFTW_std.i":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.examples.t_FFTW_std.myFFTW":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.examples.t_FFTW_std.result":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.examples.t_FFTW_std.size":{
   "__set__":true,
   "elements":[
-   "otfftw-0.4-py36_0"
+   "otfftw-0.4-py36_0",
+   "otfftw-0.9-py37h1834ac0_1"
   ]
  },
  "otfftw.otfftw":{
@@ -2840,6 +2880,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2856,6 +2897,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2868,6 +2910,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2907,6 +2950,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2942,6 +2986,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2963,6 +3008,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
@@ -2974,6 +3020,7 @@
    "otfftw-0.8-py27h1f46d7f_0",
    "otfftw-0.8-py37h1f46d7f_0",
    "otfftw-0.9-py36h831f99a_0",
+   "otfftw-0.9-py37h1834ac0_1",
    "otfftw-0.9-py37h9290c7c_1",
    "otfftw-0.9-py38h950e882_0"
   ]
