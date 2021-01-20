@@ -43270,6 +43270,12 @@
    "pescador-2.0.0rc0-py36_0"
   ]
  },
+ "pescador.BufferedStreamer":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
+  ]
+ },
  "pescador.ChainMux":{
   "__set__":true,
   "elements":[
@@ -43287,6 +43293,7 @@
  "pescador.Mux":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43294,6 +43301,7 @@
  "pescador.PescadorError":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43319,9 +43327,16 @@
    "pescador-2.0.0rc0-py36_0"
   ]
  },
+ "pescador.StreamActivator":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
+  ]
+ },
  "pescador.Streamer":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43329,6 +43344,7 @@
  "pescador.ZMQStreamer":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43336,8 +43352,15 @@
  "pescador.__all__":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
+  ]
+ },
+ "pescador.__split_batches":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
   ]
  },
  "pescador.__stack_data":{
@@ -43350,15 +43373,29 @@
  "pescador.__version__":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
+  ]
+ },
+ "pescador.batch_length":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
   ]
  },
  "pescador.buffer":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
+  ]
+ },
+ "pescador.buffer_batch":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
   ]
  },
  "pescador.buffer_stream":{
@@ -43368,16 +43405,54 @@
    "pescador-2.0.0rc0-py36_0"
   ]
  },
+ "pescador.buffered":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
+  ]
+ },
+ "pescador.buffered.BufferedStreamer":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
+  ]
+ },
+ "pescador.buffered.__split_batches":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
+  ]
+ },
+ "pescador.buffered.batch_length":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
+  ]
+ },
+ "pescador.buffered.buffer_batch":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
+  ]
+ },
  "pescador.core":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
+  ]
+ },
+ "pescador.core.StreamActivator":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
   ]
  },
  "pescador.core.Streamer":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43385,6 +43460,7 @@
  "pescador.core.Streamer.active":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43399,6 +43475,7 @@
  "pescador.exceptions":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43413,6 +43490,7 @@
  "pescador.exceptions.PescadorError":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43469,6 +43547,7 @@
  "pescador.mux":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43490,6 +43569,7 @@
  "pescador.mux.Mux":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43518,6 +43598,7 @@
  "pescador.mux.active":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43574,6 +43655,7 @@
  "pescador.version":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43581,6 +43663,7 @@
  "pescador.version.short_version":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43588,8 +43671,15 @@
  "pescador.version.version":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
+  ]
+ },
+ "pescador.zmq_recv_batch":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
   ]
  },
  "pescador.zmq_recv_data":{
@@ -43597,6 +43687,12 @@
   "elements":[
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
+  ]
+ },
+ "pescador.zmq_send_batch":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
   ]
  },
  "pescador.zmq_send_data":{
@@ -43609,6 +43705,7 @@
  "pescador.zmq_stream":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43616,6 +43713,7 @@
  "pescador.zmq_stream.ZMQStreamer":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43623,6 +43721,7 @@
  "pescador.zmq_stream.__all__":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43630,6 +43729,7 @@
  "pescador.zmq_stream.active":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43637,6 +43737,7 @@
  "pescador.zmq_stream.buffer":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43648,11 +43749,23 @@
    "pescador-2.0.0rc0-py36_0"
   ]
  },
+ "pescador.zmq_stream.zmq_recv_batch":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
+  ]
+ },
  "pescador.zmq_stream.zmq_recv_data":{
   "__set__":true,
   "elements":[
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
+  ]
+ },
+ "pescador.zmq_stream.zmq_send_batch":{
+  "__set__":true,
+  "elements":[
+   "pescador-1.0.0-py36_0"
   ]
  },
  "pescador.zmq_stream.zmq_send_data":{
@@ -43665,6 +43778,7 @@
  "pescador.zmq_stream.zmq_worker":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
@@ -43672,6 +43786,7 @@
  "pescador.zmq_worker":{
   "__set__":true,
   "elements":[
+   "pescador-1.0.0-py36_0",
    "pescador-2.0.0-py36_0",
    "pescador-2.0.0rc0-py36_0"
   ]
