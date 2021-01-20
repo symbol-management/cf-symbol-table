@@ -77597,6 +77597,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77606,6 +77607,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77614,7 +77616,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.conftest.add_db":{
@@ -77622,7 +77625,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.conftest.add_ks":{
@@ -77631,6 +77635,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77640,6 +77645,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77648,7 +77654,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.conftest.add_pd":{
@@ -77656,13 +77663,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.conftest.close_figs":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.conftest.koalas":{
@@ -77671,6 +77680,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77679,7 +77689,20 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.conftest.session_termination":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.conftest.shared_conf":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.conftest.utils":{
@@ -77687,7 +77710,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas":{
@@ -77696,6 +77720,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77711,13 +77736,15 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.DictWrapper":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.Index":{
@@ -77726,6 +77753,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77738,7 +77766,8 @@
  "databricks.koalas.IndexOpsMixin":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.MultiIndex":{
@@ -77747,19 +77776,22 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.NamedAgg":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.Option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.OptionError":{
@@ -77774,13 +77806,15 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas._InternalFrame":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.__all__":{
@@ -77789,6 +77823,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77798,6 +77833,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77807,13 +77843,15 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas._check_option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas._check_option_key":{
@@ -77828,6 +77866,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77837,6 +77876,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77846,32 +77886,37 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas._get_index_map":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas._key_format":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas._options":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas._options_dict":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas._reduce_spark_multi":{
@@ -77880,6 +77925,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77895,6 +77941,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77904,6 +77951,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77913,6 +77961,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77922,7 +77971,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.base.DataFrame":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.base.IndexOpsMixin":{
@@ -77931,7 +77987,20 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.base.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.base.SPARK_DEFAULT_INDEX_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.base._InternalFrame":{
@@ -77939,7 +78008,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.base._column_op":{
@@ -77948,6 +78018,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77957,6 +78028,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77966,6 +78038,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77975,6 +78048,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -77982,7 +78056,14 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.base.booleanize_null":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.base.koalas":{
@@ -77991,7 +78072,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.base.numpy_compat":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.base.pandas_wraps":{
@@ -78000,6 +78088,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78007,13 +78096,21 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.base.spark_type_to_pandas_dtype":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.base.validate_axis":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.concat":{
@@ -78022,6 +78119,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78029,19 +78127,22 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config.DictWrapper":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config.Option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config.OptionError":{
@@ -78054,13 +78155,15 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config._check_option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config._check_option_key":{
@@ -78073,19 +78176,22 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config._options":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config._options_dict":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config._registered_options":{
@@ -78098,40 +78204,52 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config.get_option":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.config.option_context":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config.options":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config.reset_option":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config.set_option":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.config.show_options":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.datetimes":{
@@ -78140,6 +78258,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78149,6 +78268,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78158,6 +78278,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78167,6 +78288,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78176,6 +78298,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78185,6 +78308,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78194,6 +78318,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78203,6 +78328,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78212,6 +78338,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78221,6 +78348,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78230,6 +78358,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78239,6 +78368,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78248,7 +78378,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.frame.HIDDEN_COLUMNS":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.IndexMap":{
@@ -78262,7 +78399,8 @@
  "databricks.koalas.frame.KoalasFramePlotMethods":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.Metadata":{
@@ -78271,12 +78409,19 @@
    "koalas-0.6.0-py_0"
   ]
  },
+ "databricks.koalas.frame.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.frame.REPR_HTML_PATTERN":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78286,13 +78431,21 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.frame.SPARK_DEFAULT_INDEX_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.SPARK_INDEX_NAME_FORMAT":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.T":{
@@ -78300,7 +78453,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame._CachedDataFrame":{
@@ -78308,7 +78462,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame._Frame":{
@@ -78317,6 +78472,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78325,7 +78481,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame._MissingPandasLikeDataFrame":{
@@ -78334,6 +78491,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78342,13 +78500,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame._infer_return_type":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame._reduce_spark_multi":{
@@ -78357,6 +78517,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78364,20 +78525,23 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.as_python_type":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.as_spark_type":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.column_index_level":{
@@ -78387,12 +78551,19 @@
    "koalas-0.20.0-py_0"
   ]
  },
+ "databricks.koalas.frame.column_labels_level":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.frame.corr":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78405,7 +78576,8 @@
  "databricks.koalas.frame.get_option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.infer_pd_series_spark_type":{
@@ -78420,6 +78592,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78431,12 +78604,19 @@
    "koalas-0.6.0-py_0"
   ]
  },
+ "databricks.koalas.frame.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.frame.new_getitem":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.old_getitem":{
@@ -78444,14 +78624,22 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.frame.option_context":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.scol_for":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.frame.validate_arguments_and_invoke_function":{
@@ -78460,7 +78648,20 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.frame.validate_axis":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.frame.validate_bool_kwarg":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.from_pandas":{
@@ -78469,6 +78670,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78478,6 +78680,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78486,7 +78689,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.generic.DataFrame":{
@@ -78501,7 +78705,8 @@
  "databricks.koalas.generic.Expanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.generic.ILocIndexer":{
@@ -78519,13 +78724,21 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.generic.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.generic.Rolling":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.generic.Series":{
@@ -78543,6 +78756,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78551,7 +78765,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.generic._resolve_col":{
@@ -78560,6 +78775,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78572,12 +78788,25 @@
    "koalas-0.6.0-py_0"
   ]
  },
+ "databricks.koalas.generic.iAtIndexer":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.generic.iLocIndexer":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.generic.koalas":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78589,13 +78818,26 @@
    "koalas-0.6.0-py_0"
   ]
  },
+ "databricks.koalas.generic.scol_for":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.generic.validate_arguments_and_invoke_function":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.generic.validate_axis":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.get_dummies":{
@@ -78604,6 +78846,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78611,7 +78854,8 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby":{
@@ -78620,6 +78864,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78629,6 +78874,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78638,13 +78884,15 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.groupby.ExpandingGroupby":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby.GroupBy":{
@@ -78653,7 +78901,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.groupby.HIDDEN_COLUMNS":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby.Metadata":{
@@ -78662,22 +78917,37 @@
    "koalas-0.6.0-py_0"
   ]
  },
+ "databricks.koalas.groupby.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.groupby.NamedAgg":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby.RollingGroupby":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.groupby.SPARK_DEFAULT_INDEX_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby.SPARK_INDEX_NAME_FORMAT":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby.Series":{
@@ -78686,6 +78956,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78695,6 +78966,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78703,7 +78975,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby._MissingPandasLikeDataFrameGroupBy":{
@@ -78712,6 +78985,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78721,6 +78995,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78730,6 +79005,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78737,19 +79013,22 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby._is_multi_agg_with_relabel":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby._normalize_keyword_aggregation":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby.column_index_level":{
@@ -78758,10 +79037,17 @@
    "koalas-0.20.0-py_0"
   ]
  },
+ "databricks.koalas.groupby.column_labels_level":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.groupby.get_option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby.koalas":{
@@ -78770,13 +79056,21 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.groupby.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.groupby.scol_for":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexes":{
@@ -78785,6 +79079,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78794,6 +79089,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78803,6 +79099,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78812,6 +79109,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78821,7 +79119,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexes.PandasNotImplementedError":{
@@ -78830,6 +79135,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78839,7 +79145,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes._InternalFrame":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexes._MissingPandasLikeIndex":{
@@ -78848,6 +79161,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78857,13 +79171,51 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes._col":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.compare_allow_null":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.compare_disallow_null":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.compare_null_first":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.compare_null_last":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.default_session":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexes.get_option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexes.koalas":{
@@ -78872,6 +79224,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78883,12 +79236,37 @@
    "koalas-0.6.0-py_0"
   ]
  },
+ "databricks.koalas.indexes.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.option_context":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.scol_for":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexes.verify_temp_column_name":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.indexing":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78897,7 +79275,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexing.DataFrame":{
@@ -78933,7 +79312,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexing.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexing.Series":{
@@ -78942,6 +79328,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78951,6 +79338,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -78960,14 +79348,28 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexing._IndexerLike":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexing._InternalFrame":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexing._LocIndexerLike":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.indexing._col":{
@@ -79004,12 +79406,55 @@
    "koalas-0.20.0-py_0"
   ]
  },
+ "databricks.koalas.indexing.iAtIndexer":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexing.iLocIndexer":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexing.lazy_property":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexing.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexing.scol_for":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.indexing.verify_temp_column_name":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.internal":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.internal.HIDDEN_COLUMNS":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.IndexMap":{
@@ -79020,16 +79465,36 @@
    "koalas-0.20.0-py_0"
   ]
  },
+ "databricks.koalas.internal.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.internal.SPARK_DEFAULT_INDEX_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.internal.SPARK_INDEX_NAME_FORMAT":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.SPARK_INDEX_NAME_PATTERN":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.internal.Series":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal._InternalFrame":{
@@ -79037,7 +79502,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.column_index_level":{
@@ -79047,18 +79513,26 @@
    "koalas-0.20.0-py_0"
   ]
  },
+ "databricks.koalas.internal.column_labels_level":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.internal.default_session":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.get_option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.infer_pd_series_spark_type":{
@@ -79066,7 +79540,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.koalas":{
@@ -79074,7 +79549,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.lazy_property":{
@@ -79082,20 +79558,35 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.internal.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.scol_for":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.internal.spark_type_to_pandas_dtype":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.internal.verify_temp_column_name":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.isna":{
@@ -79103,7 +79594,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.isnull":{
@@ -79111,7 +79603,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.koalas":{
@@ -79120,6 +79613,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79128,7 +79622,14 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.merge":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.metadata":{
@@ -79161,6 +79662,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79170,6 +79672,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79179,6 +79682,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79188,6 +79692,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79196,20 +79701,29 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.common.__iter__":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.common.array":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.missing.common.duplicated":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.common.memory_usage":{
@@ -79217,35 +79731,40 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.common.to_list":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.common.to_pickle":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.common.to_xarray":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.common.tolist":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.common.values":{
@@ -79262,6 +79781,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79271,6 +79791,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79280,6 +79801,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79289,6 +79811,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79297,7 +79820,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.frame.unsupported_function":{
@@ -79306,6 +79830,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79315,6 +79840,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79324,6 +79850,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79333,6 +79860,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79342,6 +79870,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79351,6 +79880,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79360,6 +79890,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79369,6 +79900,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79378,6 +79910,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79387,6 +79920,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79396,6 +79930,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79405,6 +79940,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79414,6 +79950,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79423,6 +79960,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79431,7 +79969,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.indexes.unsupported_function":{
@@ -79440,6 +79979,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79449,6 +79989,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79458,6 +79999,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79467,6 +80009,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79476,6 +80019,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79485,6 +80029,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79493,7 +80038,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.series.unsupported_function":{
@@ -79502,6 +80048,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79511,61 +80058,71 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.missing.window":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.window._MissingPandasLikeExpanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.window._MissingPandasLikeRolling":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.window._unsupported_function":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.window._unsupported_property":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.window.unsupported_function_expanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.window.unsupported_function_rolling":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.window.unsupported_property_expanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.missing.window.unsupported_property_rolling":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.ml":{
@@ -79574,6 +80131,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79583,7 +80141,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.ml.column_labels_level":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.ml.corr":{
@@ -79592,6 +80157,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79601,6 +80167,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79610,6 +80177,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79619,6 +80187,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79628,6 +80197,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79637,6 +80207,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79646,6 +80217,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79655,6 +80227,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79664,6 +80237,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79673,6 +80247,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79682,6 +80257,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79691,7 +80267,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace":{
@@ -79700,6 +80283,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79715,6 +80299,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79727,7 +80312,8 @@
  "databricks.koalas.namespace.IndexOpsMixin":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.Series":{
@@ -79736,13 +80322,15 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.namespace._InternalFrame":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.__all__":{
@@ -79750,7 +80338,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace._col":{
@@ -79759,6 +80348,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79768,6 +80358,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79777,13 +80368,15 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.namespace._get_index_map":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace._reduce_spark_multi":{
@@ -79792,6 +80385,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79801,6 +80395,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79810,6 +80405,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79819,6 +80415,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79828,6 +80425,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79837,6 +80435,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79846,6 +80445,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79854,7 +80454,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.isnull":{
@@ -79862,7 +80463,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.koalas":{
@@ -79871,6 +80473,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79879,7 +80482,20 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.namespace.merge":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.namespace.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.notna":{
@@ -79887,7 +80503,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.notnull":{
@@ -79895,7 +80512,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.pandas_wraps":{
@@ -79904,6 +80522,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79913,6 +80532,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79921,7 +80541,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.read_csv":{
@@ -79930,6 +80551,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79938,7 +80560,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.read_excel":{
@@ -79946,7 +80569,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.read_html":{
@@ -79954,13 +80578,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.read_json":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.read_parquet":{
@@ -79969,6 +80595,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -79977,13 +80604,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.read_sql":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.read_table":{
@@ -79991,7 +80620,14 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.namespace.scol_for":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.namespace.sql":{
@@ -80006,7 +80642,20 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.namespace.to_numeric":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.namespace.validate_axis":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.notna":{
@@ -80014,7 +80663,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.notnull":{
@@ -80022,13 +80672,63 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.numpy_compat":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.numpy_compat.Series":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.numpy_compat._column_op":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.numpy_compat.binary_np_spark_mappings":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.numpy_compat.maybe_dispatch_ufunc_to_dunder_op":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.numpy_compat.maybe_dispatch_ufunc_to_spark_func":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.numpy_compat.unary_np_spark_mappings":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.option_context":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.options":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.pandas_wraps":{
@@ -80037,6 +80737,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80045,14 +80746,16 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasAreaPlot":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasBarPlot":{
@@ -80060,14 +80763,16 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasBarhPlot":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasBoxPlot":{
@@ -80075,13 +80780,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasFramePlotMethods":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasHistPlot":{
@@ -80089,33 +80796,38 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasKdePlot":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasLinePlot":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasPiePlot":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasScatterPlot":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.KoalasSeriesPlotMethods":{
@@ -80123,28 +80835,32 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.SampledPlot":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.TopNPlot":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot._all_kinds":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot._gca":{
@@ -80164,7 +80880,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot._plot":{
@@ -80172,7 +80889,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot._unsupported_function":{
@@ -80180,19 +80898,22 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.get_option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.plot_frame":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.plot.plot_series":{
@@ -80200,7 +80921,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.range":{
@@ -80209,6 +80931,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80217,7 +80940,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.read_csv":{
@@ -80226,6 +80950,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80234,7 +80959,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.read_excel":{
@@ -80242,7 +80968,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.read_html":{
@@ -80250,13 +80977,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.read_json":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.read_parquet":{
@@ -80265,6 +80994,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80273,13 +81003,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.read_sql":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.read_table":{
@@ -80287,14 +81019,22 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.reset_option":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.scol_for":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series":{
@@ -80303,6 +81043,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80312,6 +81053,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80320,7 +81062,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.IndexMap":{
@@ -80337,6 +81080,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80345,7 +81089,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.Metadata":{
@@ -80354,13 +81099,26 @@
    "koalas-0.6.0-py_0"
   ]
  },
+ "databricks.koalas.series.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.series.REPR_PATTERN":{
   "__set__":true,
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.series.SPARK_DEFAULT_INDEX_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.SPARK_INDEX_NAME_FORMAT":{
@@ -80375,7 +81133,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.series.SparkPandasIndexingError":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.StringMethods":{
@@ -80383,7 +81148,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.T":{
@@ -80391,7 +81157,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series._Frame":{
@@ -80400,6 +81167,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80408,7 +81176,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series._MissingPandasLikeSeries":{
@@ -80417,6 +81186,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80426,6 +81196,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80435,6 +81206,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80444,6 +81216,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80453,6 +81226,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80461,7 +81235,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series._mod_example_SERIES":{
@@ -80469,7 +81244,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series._mul_example_SERIES":{
@@ -80478,6 +81254,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80486,7 +81263,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series._sub_example_SERIES":{
@@ -80495,6 +81273,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80504,19 +81283,34 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.series.as_python_type":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.series.combine_frames":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.series.corr":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.get_option":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.koalas":{
@@ -80525,6 +81319,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80536,11 +81331,18 @@
    "koalas-0.6.0-py_0"
   ]
  },
+ "databricks.koalas.series.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.series.scol_for":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.str_type":{
@@ -80548,7 +81350,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.series.validate_arguments_and_invoke_function":{
@@ -80557,20 +81360,35 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.series.validate_axis":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.series.validate_bool_kwarg":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.set_option":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.show_options":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql":{
@@ -80579,6 +81397,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80587,7 +81406,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql.SQLProcessor":{
@@ -80595,7 +81415,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql.Series":{
@@ -80603,7 +81424,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql._CAPTURE_SCOPES":{
@@ -80611,7 +81433,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql.__all__":{
@@ -80619,7 +81442,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql._escape_table":{
@@ -80627,7 +81451,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql._get_ipython_scope":{
@@ -80635,7 +81460,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql._get_local_scope":{
@@ -80643,7 +81469,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql.default_session":{
@@ -80651,7 +81478,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql.escape_sql_string":{
@@ -80659,7 +81487,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql.koalas":{
@@ -80667,7 +81496,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.sql.sql":{
@@ -80675,7 +81505,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.strings":{
@@ -80683,7 +81514,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.strings.StringMethods":{
@@ -80691,7 +81523,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.strings._wrap_accessor_pandas":{
@@ -80699,7 +81532,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.strings.koalas":{
@@ -80707,7 +81541,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.to_datetime":{
@@ -80716,7 +81551,14 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.to_numeric":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.typedef":{
@@ -80725,6 +81567,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80746,6 +81589,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80761,6 +81605,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80770,6 +81615,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80778,7 +81624,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.typedef._Unknown":{
@@ -80787,6 +81634,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80796,6 +81644,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80805,6 +81654,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80814,6 +81664,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80823,6 +81674,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80842,7 +81694,8 @@
  "databricks.koalas.typedef._get_kser":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.typedef._get_metadata":{
@@ -80863,6 +81716,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80878,6 +81732,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80887,6 +81742,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80896,6 +81752,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80905,6 +81762,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80914,6 +81772,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80923,6 +81782,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80932,6 +81792,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80941,6 +81802,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -80950,13 +81812,15 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.typedef.spark_type_to_pandas_dtype":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging":{
@@ -80964,7 +81828,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.DataFrame":{
@@ -80972,7 +81837,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.DataFrameGroupBy":{
@@ -80980,7 +81846,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.DatetimeMethods":{
@@ -80988,13 +81855,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.Expanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.Index":{
@@ -81002,7 +81871,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.MultiIndex":{
@@ -81010,13 +81880,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.Rolling":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.Series":{
@@ -81024,7 +81896,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.SeriesGroupBy":{
@@ -81032,7 +81905,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.StringMethods":{
@@ -81040,7 +81914,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._MissingPandasLikeDataFrame":{
@@ -81048,7 +81923,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._MissingPandasLikeDataFrameGroupBy":{
@@ -81056,13 +81932,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._MissingPandasLikeExpanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._MissingPandasLikeIndex":{
@@ -81070,7 +81948,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._MissingPandasLikeMultiIndex":{
@@ -81078,13 +81957,15 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._MissingPandasLikeRolling":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._MissingPandasLikeSeries":{
@@ -81092,7 +81973,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._MissingPandasLikeSeriesGroupBy":{
@@ -81100,7 +81982,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._local":{
@@ -81108,7 +81991,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._wrap_function":{
@@ -81116,7 +82000,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._wrap_missing_function":{
@@ -81124,7 +82009,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._wrap_missing_property":{
@@ -81132,7 +82018,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging._wrap_property":{
@@ -81140,7 +82027,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.attach":{
@@ -81148,14 +82036,16 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.config":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.namespace":{
@@ -81163,7 +82053,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.sql":{
@@ -81171,7 +82062,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.usage_logger":{
@@ -81179,7 +82071,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.usage_logger.KoalasUsageLogger":{
@@ -81187,7 +82080,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.usage_logger._format_signature":{
@@ -81195,7 +82089,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.usage_logging.usage_logger.get_logger":{
@@ -81203,7 +82098,8 @@
   "elements":[
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.utils":{
@@ -81212,6 +82108,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -81219,14 +82116,16 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.utils.align_diff_series":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.utils.column_index_level":{
@@ -81236,11 +82135,42 @@
    "koalas-0.20.0-py_0"
   ]
  },
+ "databricks.koalas.utils.column_labels_level":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
  "databricks.koalas.utils.combine_frames":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.utils.compare_allow_null":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.utils.compare_disallow_null":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.utils.compare_null_first":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.utils.compare_null_last":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.utils.default_session":{
@@ -81249,6 +82179,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -81256,7 +82187,8 @@
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.utils.lazy_property":{
@@ -81265,14 +82197,22 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.utils.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.utils.scol_for":{
   "__set__":true,
   "elements":[
    "koalas-0.16.0-py_0",
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.utils.validate_arguments_and_invoke_function":{
@@ -81281,7 +82221,32 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
+  ]
+ },
+ "databricks.koalas.utils.validate_axis":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.utils.validate_bool_kwarg":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.utils.verify_temp_column_name":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.validate_axis":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.version":{
@@ -81290,6 +82255,7 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
@@ -81299,55 +82265,94 @@
    "koalas-0.13.0-py_0",
    "koalas-0.16.0-py_0",
    "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0",
    "koalas-0.6.0-py_0"
   ]
  },
  "databricks.koalas.window":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.window.Expanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.window.ExpandingGroupby":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.window.NATURAL_ORDER_COLUMN_NAME":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.window.Rolling":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.window.RollingGroupby":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.window.SPARK_INDEX_NAME_FORMAT":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.window._MissingPandasLikeExpanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.window._MissingPandasLikeRolling":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
   ]
  },
  "databricks.koalas.window._RollingAndExpanding":{
   "__set__":true,
   "elements":[
-   "koalas-0.20.0-py_0"
+   "koalas-0.20.0-py_0",
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.window.koalas":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.window.name_like_string":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
+  ]
+ },
+ "databricks.koalas.window.scol_for":{
+  "__set__":true,
+  "elements":[
+   "koalas-0.29.0-py_0"
   ]
  },
  "databroker.ALL":{
