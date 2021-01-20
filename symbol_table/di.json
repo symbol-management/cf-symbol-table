@@ -54924,6 +54924,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -54937,6 +54938,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -54968,6 +54970,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -54975,19 +54978,22 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
  "discretisedfield.field.average":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.field.util":{
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55025,6 +55031,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55032,6 +55039,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55039,6 +55047,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55063,13 +55072,21 @@
  "discretisedfield.read":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.read._create_mesh_and_field":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
+ "discretisedfield.read.read":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.read.read_oommf_file":{
@@ -55106,19 +55123,22 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
  "discretisedfield.tests.TestMesh":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.tests.test_field":{
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55126,6 +55146,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55168,13 +55189,15 @@
  "discretisedfield.tests.test_issue001":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.tests.test_issue001.test_matplotlib_warning":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.tests.test_line":{
@@ -55199,6 +55222,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55206,6 +55230,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55213,6 +55238,42 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.8.12-py_0"
+  ]
+ },
+ "discretisedfield.tests.test_mesh_new":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
+ "discretisedfield.tests.test_mesh_new.floats":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
+ "discretisedfield.tests.test_mesh_new.integers":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
+ "discretisedfield.tests.test_mesh_new.mesh_args":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
+ "discretisedfield.tests.test_mesh_new.test_mesh":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
+ "discretisedfield.tests.test_mesh_new.tuples":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.tests.test_ovf2vtk":{
@@ -55285,31 +55346,42 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
  "discretisedfield.util.Field":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.util.abstractfield":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.util.abstractfield.Field":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.util.abstractfield.Field.average":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.2-py35_0"
+   "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
+ "discretisedfield.util.addcolorbar":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.util.array2tuple":{
@@ -55322,6 +55394,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55334,6 +55407,7 @@
  "discretisedfield.util.axesdict":{
   "__set__":true,
   "elements":[
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55361,10 +55435,17 @@
    "discretisedfield-0.8.12-py_0"
   ]
  },
+ "discretisedfield.util.plane_info":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
  "discretisedfield.util.plot_box":{
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55372,6 +55453,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55385,7 +55467,14 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
+  ]
+ },
+ "discretisedfield.util.util.addcolorbar":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
   ]
  },
  "discretisedfield.util.util.array2tuple":{
@@ -55398,6 +55487,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55410,6 +55500,7 @@
  "discretisedfield.util.util.axesdict":{
   "__set__":true,
   "elements":[
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55437,10 +55528,17 @@
    "discretisedfield-0.8.12-py_0"
   ]
  },
+ "discretisedfield.util.util.plane_info":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.7.6-py35_0"
+  ]
+ },
  "discretisedfield.util.util.plot_box":{
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
@@ -55448,6 +55546,7 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
+   "discretisedfield-0.7.6-py35_0",
    "discretisedfield-0.8.12-py_0"
   ]
  },
