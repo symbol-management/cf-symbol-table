@@ -3169,79 +3169,92 @@
  "jsonref.JsonLoader":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.JsonRef":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.PY3":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref._URIDict":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.__version__":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref._ref_encoder_factory":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.basestring":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.dump":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.iteritems":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.jsonloader":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.load":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.requests":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonref.unicode":{
   "__set__":true,
   "elements":[
-   "jsonref-0.1-py27_0"
+   "jsonref-0.1-py27_0",
+   "jsonref-0.1-py36_0"
   ]
  },
  "jsonrpc.Dispatcher":{
@@ -3277,7 +3290,26 @@
  "jsonrpc.__version__":{
   "__set__":true,
   "elements":[
-   "json-rpc-1.12.1-py_0"
+   "json-rpc-1.12.1-py_0",
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc._version":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc._version.get_versions":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc._version.version_json":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
   ]
  },
  "jsonrpc.backend":{
@@ -3388,10 +3420,77 @@
    "json-rpc-1.12.1-py_0"
   ]
  },
+ "jsonrpc.dispatchers":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.dispatchers.MethodDispatcher":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.dispatchers._RE_ALL_CAP":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.dispatchers._RE_FIRST_CAP":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.dispatchers._camel_to_underscore":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.dispatchers._method_to_string":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.endpoint":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.endpoint.CANCEL_METHOD":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.endpoint.Endpoint":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.endpoint.JSONRPC_VERSION":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.endpoint.log":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
  "jsonrpc.exceptions":{
   "__set__":true,
   "elements":[
-   "json-rpc-1.12.1-py_0"
+   "json-rpc-1.12.1-py_0",
+   "python-jsonrpc-server-0.0.1-py_0"
   ]
  },
  "jsonrpc.exceptions.JSONRPCDispatchException":{
@@ -3446,6 +3545,66 @@
   "__set__":true,
   "elements":[
    "json-rpc-1.12.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions.JsonRpcException":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions.JsonRpcInternalError":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions.JsonRpcInvalidParams":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions.JsonRpcInvalidRequest":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions.JsonRpcMethodNotFound":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions.JsonRpcParseError":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions.JsonRpcRequestCancelled":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions.JsonRpcServerError":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions._EXCEPTIONS":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.exceptions._is_server_error_code":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
   ]
  },
  "jsonrpc.jsonrpc":{
@@ -3572,6 +3731,30 @@
   "__set__":true,
   "elements":[
    "json-rpc-1.12.1-py_0"
+  ]
+ },
+ "jsonrpc.streams":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.streams.JsonRpcStreamReader":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.streams.JsonRpcStreamWriter":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
+  ]
+ },
+ "jsonrpc.streams.log":{
+  "__set__":true,
+  "elements":[
+   "python-jsonrpc-server-0.0.1-py_0"
   ]
  },
  "jsonrpc.tests":{
