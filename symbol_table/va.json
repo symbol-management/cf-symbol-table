@@ -1476,6 +1476,12 @@
    "vaex-core-2.0.3-py38he6e81aa_0"
   ]
  },
+ "vaex.column.ColumnNumpyLike":{
+  "__set__":true,
+  "elements":[
+   "vaex-hdf5-0.5.5-py_0"
+  ]
+ },
  "vaex.column.ColumnString":{
   "__set__":true,
   "elements":[
@@ -1506,7 +1512,8 @@
    "vaex-core-2.0.0-py36hcc1bba6_0",
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
-   "vaex-core-2.0.3-py38he6e81aa_0"
+   "vaex-core-2.0.3-py38he6e81aa_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.column._asnumpy":{
@@ -1663,7 +1670,8 @@
    "vaex-core-2.0.0-py36hcc1bba6_0",
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
-   "vaex-core-2.0.3-py38he6e81aa_0"
+   "vaex-core-2.0.3-py38he6e81aa_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.column.use_c_api":{
@@ -2423,7 +2431,8 @@
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
    "vaex-core-2.0.3-py38he6e81aa_0",
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.dataset.DatasetConcatenated":{
@@ -2472,7 +2481,8 @@
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
    "vaex-core-2.0.3-py38he6e81aa_0",
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.dataset.DatasetRemote":{
@@ -4029,7 +4039,8 @@
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
    "vaex-core-2.0.3-py38he6e81aa_0",
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.dataset_mmap.Expression":{
@@ -6455,7 +6466,8 @@
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
    "vaex-core-2.0.3-py38he6e81aa_0",
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.expression.Function":{
@@ -10003,7 +10015,8 @@
    "vaex-core-2.0.0-py36hcc1bba6_0",
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
-   "vaex-core-2.0.3-py38he6e81aa_0"
+   "vaex-core-2.0.3-py38he6e81aa_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.file.column.F_NOCACHE":{
@@ -10981,7 +10994,8 @@
    "vaex-core-2.0.0-py36hcc1bba6_0",
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
-   "vaex-core-2.0.3-py38he6e81aa_0"
+   "vaex-core-2.0.3-py38he6e81aa_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.file.s3.dup":{
@@ -13332,145 +13346,205 @@
  "vaex.hdf5._version":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5._version.__version__":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5._version.__version_tuple__":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.AmuseHdf5MemoryMapped":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
+  ]
+ },
+ "vaex.hdf5.dataset.ColumnFile":{
+  "__set__":true,
+  "elements":[
+   "vaex-hdf5-0.5.5-py_0"
+  ]
+ },
+ "vaex.hdf5.dataset.ColumnNumpyLike":{
+  "__set__":true,
+  "elements":[
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.DatasetArrays":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.DatasetLocal":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.DatasetMemoryMapped":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.Expression":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.Hdf5MemoryMapped":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.MemoryMappedGadget":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.__author__":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset._try_unit":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.dataset_type_map":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.ensure_string":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.gadget_particle_names":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.logger":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.dataset.on_rtd":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
+  ]
+ },
+ "vaex.hdf5.dataset.s3":{
+  "__set__":true,
+  "elements":[
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.export":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
+  ]
+ },
+ "vaex.hdf5.export.ColumnStringArrow":{
+  "__set__":true,
+  "elements":[
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.export.__author__":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.export.export_hdf5":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.export.logger":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
+  ]
+ },
+ "vaex.hdf5.export.max_int32":{
+  "__set__":true,
+  "elements":[
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.export.max_length":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.hdf5.export.on_rtd":{
   "__set__":true,
   "elements":[
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
+  ]
+ },
+ "vaex.hdf5.export.str_type":{
+  "__set__":true,
+  "elements":[
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.image":{
@@ -32946,7 +33020,8 @@
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
    "vaex-core-2.0.3-py38he6e81aa_0",
-   "vaex-hdf5-0.2.0-py_0"
+   "vaex-hdf5-0.2.0-py_0",
+   "vaex-hdf5-0.5.5-py_0"
   ]
  },
  "vaex.utils.extract_central_part":{
