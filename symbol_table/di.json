@@ -55142,7 +55142,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.Line":{
@@ -55156,25 +55157,29 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.Region":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.__dependencies__":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.__version__":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.dirname":{
@@ -55188,7 +55193,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.field.Field":{
@@ -55196,7 +55202,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.field.average":{
@@ -55211,7 +55218,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.interact":{
@@ -55249,7 +55257,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.mesh.Mesh":{
@@ -55257,7 +55266,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.mesh.util":{
@@ -55265,13 +55275,27 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.ovf2vtk":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.ovf2vtk.convert_files":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.ovf2vtk.main":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.ovf2vtk.ovf2vtk":{
@@ -55321,19 +55345,22 @@
  "discretisedfield.region":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.region.Region":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.region.util":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.test":{
@@ -55341,14 +55368,22 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.tests":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.TestMesh":{
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.2-py35_0",
-   "discretisedfield-0.7.6-py35_0"
+   "discretisedfield-0.7.6-py35_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_field":{
@@ -55356,7 +55391,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_field.TestField":{
@@ -55364,31 +55400,42 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_field.check_field":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.tests.test_field.tests":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_init":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_init.test_dependencies":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_init.test_version":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_interact":{
@@ -55440,7 +55487,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_mesh.TestMesh":{
@@ -55448,13 +55496,15 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_mesh.check_mesh":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_mesh_new":{
@@ -55496,31 +55546,48 @@
  "discretisedfield.tests.test_ovf2vtk":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.tests.test_ovf2vtk.check_vtk":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.tests.test_ovf2vtk.convert_files":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_ovf2vtk.test_ovf2vtk":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_region":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_region.TestRegion":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_region.check_region":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_region.util":{
@@ -55532,13 +55599,15 @@
  "discretisedfield.tests.test_util":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_util.test_array2tuple":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.tests.test_util.test_assemble_index":{
@@ -55553,10 +55622,17 @@
    "discretisedfield-0.8.12-py_0"
   ]
  },
+ "discretisedfield.tests.test_util.test_plane_info":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
  "discretisedfield.tests.test_util.util":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util":{
@@ -55564,7 +55640,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.Field":{
@@ -55604,7 +55681,8 @@
  "discretisedfield.util.array2tuple":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.as_array":{
@@ -55612,7 +55690,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.assemble_index":{
@@ -55625,13 +55704,20 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.bergluescher_angle":{
   "__set__":true,
   "elements":[
    "discretisedfield-0.8.12-py_0"
+  ]
+ },
+ "discretisedfield.util.colormap":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.cp_hex":{
@@ -55652,10 +55738,17 @@
    "discretisedfield-0.8.12-py_0"
   ]
  },
+ "discretisedfield.util.num2hexcolor":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
  "discretisedfield.util.plane_info":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.6-py35_0"
+   "discretisedfield-0.7.6-py35_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.plot_box":{
@@ -55663,7 +55756,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.plot_line":{
@@ -55671,13 +55765,21 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.util.points":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.raxesdict":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util":{
@@ -55685,7 +55787,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.addcolorbar":{
@@ -55697,7 +55800,8 @@
  "discretisedfield.util.util.array2tuple":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.as_array":{
@@ -55705,7 +55809,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.assemble_index":{
@@ -55718,13 +55823,20 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.bergluescher_angle":{
   "__set__":true,
   "elements":[
    "discretisedfield-0.8.12-py_0"
+  ]
+ },
+ "discretisedfield.util.util.colormap":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.cp_hex":{
@@ -55745,10 +55857,17 @@
    "discretisedfield-0.8.12-py_0"
   ]
  },
+ "discretisedfield.util.util.num2hexcolor":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
  "discretisedfield.util.util.plane_info":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.7.6-py35_0"
+   "discretisedfield-0.7.6-py35_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.plot_box":{
@@ -55756,7 +55875,8 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.plot_line":{
@@ -55764,13 +55884,33 @@
   "elements":[
    "discretisedfield-0.7.2-py35_0",
    "discretisedfield-0.7.6-py35_0",
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.util.util.points":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.raxesdict":{
   "__set__":true,
   "elements":[
-   "discretisedfield-0.8.12-py_0"
+   "discretisedfield-0.8.12-py_0",
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.util.util.vectors":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.util.util.voxels":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.util.vtk_scalar_data":{
@@ -55783,6 +55923,18 @@
   "__set__":true,
   "elements":[
    "discretisedfield-0.8.12-py_0"
+  ]
+ },
+ "discretisedfield.util.vectors":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
+  ]
+ },
+ "discretisedfield.util.voxels":{
+  "__set__":true,
+  "elements":[
+   "discretisedfield-0.8.5-py_0"
   ]
  },
  "discretisedfield.util.vtk_scalar_data":{
