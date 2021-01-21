@@ -49506,6 +49506,36 @@
    "aiomysql-0.0.9-py36_0"
   ]
  },
+ "tests.admin":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.admin.VersatileImageTestModelAdmin":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.admin.VersatileImageTestModelForm":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.admin.VersatileImageWidgetTestModelAdmin":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.admin.VersatileImageWidgetTestModelForm":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
  "tests.aiotest":{
   "__set__":true,
   "elements":[
@@ -54727,6 +54757,24 @@
    "suds-jurko-0.6-py38_1001"
   ]
  },
+ "tests.forms":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.forms.VersatileImageTestModelForm":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.forms.VersatileImageWidgetTestModelForm":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
  "tests.general_engine_test":{
   "__set__":true,
   "elements":[
@@ -59148,6 +59196,36 @@
    "pyrobuf-0.9.3-py39he80948d_1"
   ]
  },
+ "tests.models":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.models.MaybeVersatileImageModel":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.models.VersatileImageTestModel":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.models.VersatileImageTestUploadDirectoryModel":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.models.VersatileImageWidgetTestModel":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
  "tests.modules":{
   "__set__":true,
   "elements":[
@@ -59960,6 +60038,138 @@
    "pybtex-0.22.2-py38h32f6830_2",
    "pybtex-0.23.0-py37hc8dfbb8_0",
    "pybtex-0.23.0-py39hde42818_0"
+  ]
+ },
+ "tests.post_processor":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.discover_tests":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.discover_tests.DiscoverPostProcessorRunner":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.models":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.models.VersatileImagePostProcessorTestModel":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.post_processor_tests":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.post_processor_tests.VersatileImageFieldPostProcessorTestCase":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.CACHES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.DATABASES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.DEBUG":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.INSTALLED_APPS":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.MEDIA_ROOT":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.MEDIA_URL":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.MIDDLEWARE_CLASSES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.PROJECT_DIR":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.ROOT_URLCONF":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.SECRET_KEY":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.STATIC_URL":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.TEMPLATES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.VERSATILEIMAGEFIELD_RENDITION_KEY_SETS":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.post_processor.test_settings.VERSATILEIMAGEFIELD_SETTINGS":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
   ]
  },
  "tests.pykafka":{
@@ -62801,6 +63011,18 @@
    "pystac-0.3.4-pyh9f0ad1d_0"
   ]
  },
+ "tests.serializers":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.serializers.VersatileImageTestModelSerializer":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
  "tests.services":{
   "__set__":true,
   "elements":[
@@ -64112,6 +64334,90 @@
    "jupyter_server-1.1.1-py39hf3d152e_0"
   ]
  },
+ "tests.settings_base":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.CACHES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.DATABASES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.DEBUG":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.INSTALLED_APPS":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.MEDIA_ROOT":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.MEDIA_URL":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.MIDDLEWARE_CLASSES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.PROJECT_DIR":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.ROOT_URLCONF":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.SECRET_KEY":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.STATIC_URL":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.TEMPLATES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.settings_base.VERSATILEIMAGEFIELD_RENDITION_KEY_SETS":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
  "tests.sklearn":{
   "__set__":true,
   "elements":[
@@ -64260,6 +64566,7 @@
    "jaws-0.4.3-py35_0",
    "jaws-0.4.5-py36_0",
    "jaws-0.4.8-py27_0",
+   "jaws-0.4.8-py36_0",
    "jaws-0.5.3-py27_1000",
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
@@ -64297,6 +64604,7 @@
    "jaws-0.4.3-py35_0",
    "jaws-0.4.5-py36_0",
    "jaws-0.4.8-py27_0",
+   "jaws-0.4.8-py36_0",
    "jaws-0.5.3-py27_1000",
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
@@ -64322,6 +64630,7 @@
    "jaws-0.4.3-py35_0",
    "jaws-0.4.5-py36_0",
    "jaws-0.4.8-py27_0",
+   "jaws-0.4.8-py36_0",
    "jaws-0.5.3-py27_1000",
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
@@ -64347,6 +64656,7 @@
    "jaws-0.4.3-py35_0",
    "jaws-0.4.5-py36_0",
    "jaws-0.4.8-py27_0",
+   "jaws-0.4.8-py36_0",
    "jaws-0.5.3-py27_1000",
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
@@ -64372,6 +64682,7 @@
    "jaws-0.4.3-py35_0",
    "jaws-0.4.5-py36_0",
    "jaws-0.4.8-py27_0",
+   "jaws-0.4.8-py36_0",
    "jaws-0.5.3-py27_1000",
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
@@ -64397,6 +64708,7 @@
    "jaws-0.4.3-py35_0",
    "jaws-0.4.5-py36_0",
    "jaws-0.4.8-py27_0",
+   "jaws-0.4.8-py36_0",
    "jaws-0.5.3-py27_1000",
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
@@ -64422,6 +64734,7 @@
    "jaws-0.4.3-py35_0",
    "jaws-0.4.5-py36_0",
    "jaws-0.4.8-py27_0",
+   "jaws-0.4.8-py36_0",
    "jaws-0.5.3-py27_1000",
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
@@ -64447,6 +64760,7 @@
    "jaws-0.4.3-py35_0",
    "jaws-0.4.5-py36_0",
    "jaws-0.4.8-py27_0",
+   "jaws-0.4.8-py36_0",
    "jaws-0.5.3-py27_1000",
    "jaws-0.6.5-py27_0",
    "jaws-0.7-py27_0",
@@ -66522,6 +66836,18 @@
   "__set__":true,
   "elements":[
    "artificial-adversary-1.1-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_autodiscover":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_autodiscover.versatileimagefield":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
   ]
  },
  "tests.test_azure_specific":{
@@ -81329,11 +81655,101 @@
    "quilt3-3.1.9-py37_0"
   ]
  },
+ "tests.test_settings":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.CACHES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.DATABASES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.DEBUG":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.INSTALLED_APPS":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.MEDIA_ROOT":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.MEDIA_URL":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.MIDDLEWARE_CLASSES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.PROJECT_DIR":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.ROOT_URLCONF":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.SECRET_KEY":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.STATIC_URL":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.TEMPLATES":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
  "tests.test_settings.TestConfig":{
   "__set__":true,
   "elements":[
    "isort-5.0.4-py37hc8dfbb8_0",
    "isort-5.0.4-py38h32f6830_0"
+  ]
+ },
+ "tests.test_settings.VERSATILEIMAGEFIELD_RENDITION_KEY_SETS":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_settings.VERSATILEIMAGEFIELD_SETTINGS":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
   ]
  },
  "tests.test_settings.test_as_list":{
@@ -86447,6 +86863,7 @@
  "tests.tests":{
   "__set__":true,
   "elements":[
+   "django-versatileimagefield-1.7.1-py35_0",
    "ffx-1.3.4-py27_0",
    "moviepy-0.2.3.2-py27_0",
    "portalocker-1.4.0-py36_1"
@@ -86456,6 +86873,18 @@
   "__set__":true,
   "elements":[
    "ffx-1.3.4-py27_0"
+  ]
+ },
+ "tests.tests.VersatileImageFieldBaseTestCase":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.tests.VersatileImageFieldTestCase":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
   ]
  },
  "tests.tests.similar":{
@@ -90943,6 +91372,18 @@
    "acorns-0.0.1-py36h863e41a_0",
    "acorns-0.0.1-py37h99015e2_0",
    "acorns-0.0.1-py37ha1cc60f_0"
+  ]
+ },
+ "tests.urls":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.urls.urlpatterns":{
+  "__set__":true,
+  "elements":[
+   "django-versatileimagefield-1.7.1-py35_0"
   ]
  },
  "tests.util":{
