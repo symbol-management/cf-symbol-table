@@ -57016,6 +57016,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -57433,6 +57434,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -57648,6 +57650,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -57724,6 +57727,7 @@
    "importlib-metadata-1.5.2-py36h9f0ad1d_0",
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -58414,6 +58418,7 @@
  "importlib_metadata._hooks":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58424,13 +58429,27 @@
  "importlib_metadata._hooks.DistributionFinder":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.9-py36_1",
    "importlib_metadata-0.9-py37_0"
+  ]
+ },
+ "importlib_metadata._hooks.MetadataPathBaseFinder":{
+  "__set__":true,
+  "elements":[
+   "importlib_metadata-0.10-py27_0"
+  ]
+ },
+ "importlib_metadata._hooks.MetadataPathEggInfoFileFinder":{
+  "__set__":true,
+  "elements":[
+   "importlib_metadata-0.10-py27_0"
   ]
  },
  "importlib_metadata._hooks.MetadataPathFinder":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58441,6 +58460,7 @@
  "importlib_metadata._hooks.NullFinder":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58451,6 +58471,7 @@
  "importlib_metadata._hooks.PathDistribution":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58461,6 +58482,7 @@
  "importlib_metadata._hooks.WheelDistribution":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.8-py37_0",
    "importlib_metadata-0.9-py36_1",
    "importlib_metadata-0.9-py37_0"
@@ -58469,6 +58491,7 @@
  "importlib_metadata._hooks.WheelMetadataFinder":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.8-py37_0",
    "importlib_metadata-0.9-py36_1",
    "importlib_metadata-0.9-py37_0"
@@ -58477,6 +58500,7 @@
  "importlib_metadata._hooks.entry_points":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58487,6 +58511,7 @@
  "importlib_metadata._hooks.files":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58497,6 +58522,7 @@
  "importlib_metadata._hooks.install":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58507,6 +58533,7 @@
  "importlib_metadata._hooks.metadata":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58517,6 +58544,7 @@
  "importlib_metadata._hooks.requires":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58527,6 +58555,7 @@
  "importlib_metadata._hooks.version":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58544,6 +58573,7 @@
  "importlib_metadata.abc":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.9-py36_1",
@@ -58553,6 +58583,7 @@
  "importlib_metadata.abc.DistributionFinder":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.9-py36_1",
@@ -58562,6 +58593,7 @@
  "importlib_metadata.api":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.5-py27_1",
@@ -58574,6 +58606,7 @@
  "importlib_metadata.api.BaseClass":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.5-py27_1",
@@ -58586,6 +58619,7 @@
  "importlib_metadata.api.Distribution":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.5-py27_1",
@@ -58598,6 +58632,7 @@
  "importlib_metadata.api.Distribution.entry_points":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58608,6 +58643,7 @@
  "importlib_metadata.api.Distribution.files":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58618,6 +58654,7 @@
  "importlib_metadata.api.Distribution.metadata":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58628,6 +58665,7 @@
  "importlib_metadata.api.Distribution.requires":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58638,6 +58676,7 @@
  "importlib_metadata.api.Distribution.version":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58648,6 +58687,7 @@
  "importlib_metadata.api.EntryPoint":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58658,6 +58698,7 @@
  "importlib_metadata.api.FileHash":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58668,6 +58709,7 @@
  "importlib_metadata.api.PackageNotFoundError":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.5-py27_1",
@@ -58680,6 +58722,7 @@
  "importlib_metadata.api.PackagePath":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58690,6 +58733,7 @@
  "importlib_metadata.api.__metaclass__":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58700,6 +58744,7 @@
  "importlib_metadata.api._email_message_from_string":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58710,6 +58755,7 @@
  "importlib_metadata.api.distribution":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58720,6 +58766,7 @@
  "importlib_metadata.api.entry_points":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58730,6 +58777,7 @@
  "importlib_metadata.api.files":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58740,6 +58788,7 @@
  "importlib_metadata.api.local_distribution":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58750,6 +58799,7 @@
  "importlib_metadata.api.metadata":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58760,6 +58810,7 @@
  "importlib_metadata.api.requires":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58770,6 +58821,7 @@
  "importlib_metadata.api.version":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.8-py37_0",
@@ -58796,6 +58848,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -58838,6 +58891,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -58880,6 +58934,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -58922,6 +58977,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -58964,6 +59020,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59006,6 +59063,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59048,6 +59106,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59090,6 +59149,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59119,6 +59179,7 @@
  "importlib_metadata.docs.conf.html_static_path":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59150,6 +59211,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59192,6 +59254,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59234,6 +59297,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59276,6 +59340,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59318,6 +59383,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59360,6 +59426,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59402,6 +59469,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59442,6 +59510,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59484,6 +59553,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59526,6 +59596,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59568,6 +59639,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59610,6 +59682,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59652,6 +59725,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59694,6 +59768,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59736,6 +59811,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59778,6 +59854,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59820,6 +59897,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59913,6 +59991,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -59958,6 +60037,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60080,6 +60160,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60158,6 +60239,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60247,6 +60329,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60290,6 +60373,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60333,6 +60417,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60374,6 +60459,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60414,6 +60500,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60473,6 +60560,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60511,6 +60599,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60537,6 +60626,7 @@
  "importlib_metadata.tests.fixtures.EggInfoPkg.files":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60573,6 +60663,7 @@
   "elements":[
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60655,6 +60746,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60696,6 +60788,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60737,6 +60830,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60793,6 +60887,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60833,6 +60928,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60873,6 +60969,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60916,6 +61013,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -60945,6 +61043,7 @@
  "importlib_metadata.tests.test_api.LocalProjectTests":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61106,6 +61205,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61149,6 +61249,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61226,6 +61327,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61274,6 +61376,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61349,6 +61452,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61390,6 +61494,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61443,6 +61548,7 @@
  "importlib_metadata.tests.test_main._hooks":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.8-py37_0",
    "importlib_metadata-0.9-py36_1",
    "importlib_metadata-0.9-py37_0"
@@ -61451,6 +61557,7 @@
  "importlib_metadata.tests.test_main.files":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61476,6 +61583,7 @@
    "importlib-metadata-1.6.0-py38h32f6830_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61505,6 +61613,7 @@
  "importlib_metadata.tests.test_zip.BespokeLoader":{
   "__set__":true,
   "elements":[
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.5-py27_1",
    "importlib_metadata-0.5-py36_1",
@@ -61565,6 +61674,7 @@
    "importlib-metadata-1.6.0-py36hc560c46_0",
    "importlib-metadata-1.7.0-py38h32f6830_0",
    "importlib-metadata-2.0.0-py_1",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
@@ -61619,6 +61729,7 @@
    "importlib-metadata-3.3.0-py36h5fab9bb_3",
    "importlib-metadata-3.3.0-py36ha15d459_2",
    "importlib-metadata-3.3.0-py36hd000896_2",
+   "importlib_metadata-0.10-py27_0",
    "importlib_metadata-0.11-py27_0",
    "importlib_metadata-0.12-py36_0",
    "importlib_metadata-0.13-py37_0",
