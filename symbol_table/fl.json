@@ -11104,6 +11104,12 @@
    "flake8-polyfill-1.0.1-py35_0"
   ]
  },
+ "flake8_print.CHECKS":{
+  "__set__":true,
+  "elements":[
+   "flake8-print-2.0.2-py34_0"
+  ]
+ },
  "flake8_print.PPRINT_FUNCTION_NAME":{
   "__set__":true,
   "elements":[
@@ -11149,8 +11155,21 @@
  "flake8_print.__version__":{
   "__set__":true,
   "elements":[
+   "flake8-print-2.0.2-py34_0",
    "flake8-print-3.1.0-py_0",
    "flake8-print-4.0.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flake8_print.flake8ext":{
+  "__set__":true,
+  "elements":[
+   "flake8-print-2.0.2-py34_0"
+  ]
+ },
+ "flake8_print.print_usage":{
+  "__set__":true,
+  "elements":[
+   "flake8-print-2.0.2-py34_0"
   ]
  },
  "flake8_quotes.QuoteChecker":{
@@ -40672,6 +40691,7 @@
  "flask_basicauth.BasicAuth":{
   "__set__":true,
   "elements":[
+   "flask-basicauth-0.2.0-py34_0",
    "flask-basicauth-0.2.0-py34_1",
    "flask-basicauth-0.2.0-py35_0"
   ]
@@ -40679,6 +40699,7 @@
  "flask_basicauth.__version__":{
   "__set__":true,
   "elements":[
+   "flask-basicauth-0.2.0-py34_0",
    "flask-basicauth-0.2.0-py34_1",
    "flask-basicauth-0.2.0-py35_0"
   ]
