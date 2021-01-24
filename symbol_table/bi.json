@@ -1307,7 +1307,9 @@
   "__set__":true,
   "elements":[
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.BidictException":{
@@ -1315,7 +1317,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.BidirectionalMapping":{
@@ -1323,7 +1327,21 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.DROP_NEW":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.DROP_OLD":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.DuplicationBehavior":{
@@ -1338,13 +1356,16 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.DuplicationPolicy":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.FrozenBidictBase":{
@@ -1356,7 +1377,9 @@
  "bidict.FrozenOrderedBidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.IGNORE":{
@@ -1364,7 +1387,8 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.KeyAndValueDuplicationError":{
@@ -1372,7 +1396,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.KeyDuplicationError":{
@@ -1380,7 +1406,33 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.MutableBidict":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.ON_DUP_DEFAULT":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.ON_DUP_DROP_OLD":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.ON_DUP_RAISE":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.OVERWRITE":{
@@ -1388,13 +1440,22 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
+  ]
+ },
+ "bidict.OnDup":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.OrderedBidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.OrderedBidictBase":{
@@ -1414,7 +1475,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.ValueDuplicationError":{
@@ -1422,7 +1485,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__all__":{
@@ -1430,55 +1495,86 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.__author__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__copyright__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__credits__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__description__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__email__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.__keywords__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__license__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__maintainer__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__status__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.__url__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.__version__":{
@@ -1486,49 +1582,72 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.__version_info__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._abc":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._abc.BidirectionalMapping":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._base":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._base.BidictBase":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._base._DedupResult":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._base._NODUP":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._base._WriteResult":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._bidict":{
@@ -1536,7 +1655,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._bidict.__copy__":{
@@ -1586,7 +1707,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._bidict.itervalues":{
@@ -1617,6 +1740,12 @@
   "__set__":true,
   "elements":[
    "bidict-0.12.0-py27_0"
+  ]
+ },
+ "bidict._c":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._common":{
@@ -1886,76 +2015,144 @@
    "bidict-0.13.1-py36_0"
   ]
  },
+ "bidict._delegating":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._delegating._DelegatingMixin":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
  "bidict._dup":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._dup.DROP_NEW":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._dup.DROP_OLD":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._dup.DuplicationPolicy":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._dup.IGNORE":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
+  ]
+ },
+ "bidict._dup.ON_DUP_DEFAULT":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._dup.ON_DUP_DROP_OLD":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._dup.ON_DUP_RAISE":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._dup.OVERWRITE":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
+  ]
+ },
+ "bidict._dup.OnDup":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._dup.RAISE":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._dup._OnDup":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._exc":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._exc.BidictException":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._exc.DuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._exc.KeyAndValueDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._exc.KeyDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._exc.ValueDuplicationError":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._frozen":{
@@ -2104,16 +2301,40 @@
    "bidict-0.13.1-py36_0"
   ]
  },
+ "bidict._frozenbidict":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._frozenbidict.frozenbidict":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
  "bidict._frozenordered":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._frozenordered.FrozenOrderedBidict":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._frozenordered.iteritems":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._loose":{
@@ -2256,31 +2477,42 @@
  "bidict._marker":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._marker._Marker":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._miss":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._miss._MISS":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._mut":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._mut.MutableBidict":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._mut._MutableBidict":{
@@ -2294,7 +2526,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._named._LEGALNAMEPAT":{
@@ -2314,7 +2548,8 @@
  "bidict._named._VALID_NAME":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._named._make_empty":{
@@ -2322,7 +2557,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._named.namedbidict":{
@@ -2330,19 +2567,23 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._noop":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._noop._NOOP":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict._ordered":{
@@ -2538,13 +2779,17 @@
  "bidict._orderedbase":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._orderedbase.OrderedBidictBase":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._orderedbase._DAT":{
@@ -2565,10 +2810,29 @@
    "bidict-0.16.0-py_0"
   ]
  },
+ "bidict._orderedbase._Node":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
  "bidict._orderedbase._PRV":{
   "__set__":true,
   "elements":[
    "bidict-0.16.0-py_0"
+  ]
+ },
+ "bidict._orderedbase._Sentinel":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0"
+  ]
+ },
+ "bidict._orderedbase._SentinelNode":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._orderedbase._get_other":{
@@ -2583,46 +2847,104 @@
    "bidict-0.16.0-py_0"
   ]
  },
+ "bidict._orderedbidict":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._orderedbidict.OrderedBidict":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._sntl":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._sntl._MISS":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._sntl._NOOP":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._sntl._Sentinel":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
+  ]
+ },
  "bidict._util":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._util._NULL_IT":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._util._iteritems_args_kw":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._util._iteritems_mapping_or_iterable":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._util.inverted":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._version":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict._version.version":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict._warn2":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.bidict":{
@@ -2630,7 +2952,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.compat":{
@@ -2638,7 +2962,23 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.compat.CPY":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.compat.DICTS_ORDERED":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.compat.PY2":{
@@ -2646,26 +2986,41 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.compat.PYIMPL":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.compat.PYMAJOR":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.compat.PYMINOR":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.compat.PYPY":{
   "__set__":true,
   "elements":[
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.compat._compose":{
@@ -2673,13 +3028,15 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.compat.abstractproperty":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.compat.ifilter":{
@@ -2699,7 +3056,8 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.compat.iterkeys":{
@@ -2707,7 +3065,8 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.compat.itervalues":{
@@ -2715,7 +3074,8 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.compat.izip":{
@@ -2723,7 +3083,8 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.compat.viewitems":{
@@ -2731,7 +3092,8 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.compat.viewkeys":{
@@ -2739,7 +3101,8 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.compat.viewvalues":{
@@ -2747,7 +3110,8 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0"
   ]
  },
  "bidict.e":{
@@ -2762,7 +3126,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.frozenorderedbidict":{
@@ -2777,7 +3143,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.loosebidict":{
@@ -2797,61 +3165,109 @@
  "bidict.metadata":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__author__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__copyright__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__credits__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__description__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__email__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.metadata.__keywords__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__license__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__maintainer__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__status__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.metadata.__url__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.metadata.__version__":{
   "__set__":true,
   "elements":[
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.metadata.__version_info__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
+  ]
+ },
+ "bidict.metadata.__vesion_info__":{
+  "__set__":true,
+  "elements":[
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.namedbidict":{
@@ -2859,7 +3275,9 @@
   "elements":[
    "bidict-0.12.0-py27_0",
    "bidict-0.13.1-py36_0",
-   "bidict-0.16.0-py_0"
+   "bidict-0.16.0-py_0",
+   "bidict-0.17.4-py_0",
+   "bidict-0.20.0-py_0"
   ]
  },
  "bidict.orderedbidict":{
@@ -36378,7 +36796,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.File":{
@@ -36387,7 +36806,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.InvalidFileError":{
@@ -36396,7 +36816,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.TextFile":{
@@ -36405,7 +36826,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.__all__":{
@@ -36414,7 +36836,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.__author__":{
@@ -36423,13 +36846,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.__version__":{
@@ -36438,7 +36863,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite._create_temp_dir":{
@@ -36447,7 +36873,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite._delete_temp":{
@@ -36456,7 +36883,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite._temp_dir":{
@@ -36465,7 +36893,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application":{
@@ -36474,7 +36903,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.application.AppState":{
@@ -36483,7 +36913,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.application.Application":{
@@ -36492,7 +36923,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.application.TimeoutError":{
@@ -36501,7 +36933,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.application.__all__":{
@@ -36510,7 +36943,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.application.__author__":{
@@ -36519,13 +36953,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.application.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.application.requires_state":{
@@ -36534,7 +36970,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.blast.webapp.BlastWebApp":{
@@ -36543,7 +36980,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.blast.webapp.__all__":{
@@ -36552,7 +36990,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.blast.webapp.__author__":{
@@ -36561,13 +37000,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.blast.webapp.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.blast.webapp._ncbi_url":{
@@ -36576,7 +37017,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.clustalo.app.ClustalOmegaApp":{
@@ -36585,7 +37027,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.clustalo.app.__all__":{
@@ -36594,7 +37037,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.clustalo.app.__author__":{
@@ -36603,13 +37047,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.clustalo.app.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.dssp.app.DsspApp":{
@@ -36618,7 +37064,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.dssp.app.__all__":{
@@ -36627,7 +37074,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.dssp.app.__author__":{
@@ -36636,13 +37084,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.dssp.app.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.localapp.LocalApp":{
@@ -36651,7 +37101,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.localapp.__all__":{
@@ -36660,7 +37111,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.localapp.__author__":{
@@ -36669,13 +37121,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.localapp.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.mafft.app.MafftApp":{
@@ -36684,7 +37138,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.mafft.app.__all__":{
@@ -36693,7 +37148,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.mafft.app.__author__":{
@@ -36702,20 +37158,23 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.mafft.app.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.mafft.app._prefix_pattern":{
   "__set__":true,
   "elements":[
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.msaapp.MSAApp":{
@@ -36724,7 +37183,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.msaapp.__all__":{
@@ -36733,7 +37193,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.msaapp.__author__":{
@@ -36742,13 +37203,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.msaapp.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.muscle.app.MuscleApp":{
@@ -36757,7 +37220,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.muscle.app.__all__":{
@@ -36766,7 +37230,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.muscle.app.__author__":{
@@ -36775,13 +37240,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.application.muscle.app.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.colors":{
@@ -36790,7 +37257,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.copyable":{
@@ -36799,7 +37267,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database":{
@@ -36808,7 +37277,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.fetch.__all__":{
@@ -36870,55 +37340,64 @@
  "biotite.database.entrez.query.CompositeQuery":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.query.Query":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.query.SimpleQuery":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.query.__all__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.query.__author__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.query.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.query._base_url":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.query._search_url":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.query.search":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.entrez.search.CompositeQuery":{
@@ -36988,49 +37467,57 @@
  "biotite.database.rcsb.download.__all__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.rcsb.download.__author__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.rcsb.download.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.rcsb.download._assert_valid_file":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.rcsb.download._fasta_url":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.rcsb.download._mmtf_url":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.rcsb.download._standard_url":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.rcsb.download.fetch":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.database.rcsb.fetch.__all__":{
@@ -37361,7 +37848,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.file.File":{
@@ -37370,7 +37858,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.file.InvalidFileError":{
@@ -37379,7 +37868,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.file.TextFile":{
@@ -37388,7 +37878,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.file.__all__":{
@@ -37397,7 +37888,50 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.file.__author__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.file.__name__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.file.is_binary":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.file.is_text":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.file.wrap_string":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.is_binary":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.is_text":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence":{
@@ -37406,7 +37940,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.align.alignment._identify_terminal_gaps.stop_index":{
@@ -37415,7 +37950,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.align.alignment.stop_index":{
@@ -37424,7 +37960,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.align.matrix.SubstitutionMatrix":{
@@ -37433,7 +37970,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.align.matrix.__all__":{
@@ -37442,7 +37980,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.align.matrix.__author__":{
@@ -37451,13 +37990,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.align.matrix.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.align.matrix._matrix_blosum62":{
@@ -37466,7 +38007,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.align.matrix._matrix_nuc":{
@@ -37475,7 +38017,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon.CodonTable":{
@@ -37484,21 +38027,24 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon._NUC_ALPH":{
   "__set__":true,
   "elements":[
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon._PROT_ALPH":{
   "__set__":true,
   "elements":[
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon.__all__":{
@@ -37507,7 +38053,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon.__author__":{
@@ -37516,13 +38063,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon._default_table":{
@@ -37531,21 +38080,24 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon._radix":{
   "__set__":true,
   "elements":[
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.codon._radix_multiplier":{
   "__set__":true,
   "elements":[
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.CodingPlotter":{
@@ -37554,7 +38106,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.CurvedText":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.FeaturePlotter":{
@@ -37563,7 +38122,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.Feature_Indicator":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.LetterPlotter":{
@@ -37572,7 +38138,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.LetterSimilarityPlotter":{
@@ -37581,7 +38148,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.LetterTypePlotter":{
@@ -37590,7 +38158,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.MiscFeaturePlotter":{
@@ -37599,7 +38168,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.PlasmidMap":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.PromoterPlotter":{
@@ -37608,7 +38184,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.RBSPlotter":{
@@ -37617,7 +38194,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.SymbolPlotter":{
@@ -37626,7 +38204,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.TerminatorPlotter":{
@@ -37635,7 +38214,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.__all__":{
@@ -37644,7 +38224,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.__author__":{
@@ -37653,13 +38234,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics._color_schemes":{
@@ -37668,7 +38251,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics._default_feature_formatter":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics._get_entropy":{
@@ -37677,7 +38267,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics._get_last_valid_index":{
@@ -37686,7 +38277,26 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics._loc_to_rad":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics._merge_over_periodic_boundary":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics._rad_to_loc":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics._scheme_dir":{
@@ -37695,7 +38305,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics._split_into_words":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.alignment":{
@@ -37704,7 +38321,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.alignment.LetterPlotter":{
@@ -37713,7 +38331,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.alignment.LetterSimilarityPlotter":{
@@ -37722,7 +38341,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.alignment.LetterTypePlotter":{
@@ -37731,7 +38351,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.alignment.SymbolPlotter":{
@@ -37740,7 +38361,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.alignment.__all__":{
@@ -37749,7 +38371,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.alignment.__author__":{
@@ -37773,7 +38396,32 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.alignment._get_last_valid_index.index":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.alignment._get_last_valid_index.index_found":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.alignment.index":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.alignment.index_found":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.alignment.plot_alignment":{
@@ -37782,7 +38430,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.colorschemes":{
@@ -37791,7 +38440,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.colorschemes._color_schemes":{
@@ -37800,7 +38450,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.colorschemes._scheme_dir":{
@@ -37809,7 +38460,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.colorschemes.file_name":{
@@ -37818,7 +38470,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.colorschemes.list_color_scheme_names":{
@@ -37827,7 +38480,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.colorschemes.load_color_scheme":{
@@ -37836,7 +38490,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.colorschemes.scheme":{
@@ -37845,7 +38500,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.dendrogram":{
@@ -37854,7 +38510,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.dendrogram.plot_dendrogram":{
@@ -37863,7 +38520,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.features":{
@@ -37872,7 +38530,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.features.CodingPlotter":{
@@ -37881,7 +38540,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.features.FeaturePlotter":{
@@ -37890,7 +38550,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.features.MiscFeaturePlotter":{
@@ -37899,7 +38560,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.features.PromoterPlotter":{
@@ -37908,7 +38570,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.features.RBSPlotter":{
@@ -37917,7 +38580,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.features.TerminatorPlotter":{
@@ -37926,7 +38590,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.features.plot_feature_map":{
@@ -37935,7 +38600,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.file_name":{
@@ -37944,7 +38610,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.list_color_scheme_names":{
@@ -37953,7 +38620,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.load_color_scheme":{
@@ -37962,7 +38630,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.logo":{
@@ -37971,7 +38640,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.logo._get_entropy":{
@@ -37980,7 +38650,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.logo._get_entropy.max_entropy":{
@@ -37989,7 +38660,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.logo.max_entropy":{
@@ -37998,7 +38670,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.logo.plot_sequence_logo":{
@@ -38007,7 +38680,74 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid.CurvedText":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid.Feature_Indicator":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid.PlasmidMap":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid._default_feature_formatter":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid._loc_to_rad":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid._merge_over_periodic_boundary":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid._rad_to_loc":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid._split_into_words":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid.plot_plasmid_map":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plasmid.separators":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.plot_alignment":{
@@ -38016,7 +38756,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.plot_dendrogram":{
@@ -38025,7 +38766,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.plot_feature_map":{
@@ -38034,7 +38776,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.plot_plasmid_map":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.plot_sequence_logo":{
@@ -38043,7 +38792,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.graphics.scheme":{
@@ -38052,7 +38802,92 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.graphics.separators":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.__all__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.__author__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.__name__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert.__all__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert.__author__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert.__name__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert._convert_to_sequence":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert._convert_to_string":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert.get_alignment":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert.get_sequence":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert.set_alignment":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fasta.convert.set_sequence":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.fasta.file.FastaFile":{
@@ -38061,7 +38896,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.fasta.file.__all__":{
@@ -38070,7 +38906,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.fasta.file.__author__":{
@@ -38079,13 +38916,39 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.fasta.file.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fastq":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fastq.convert.scores":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.fastq.convert.set_sequences.scores":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.genbank":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation._KEY_START":{
@@ -38094,7 +38957,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation._QUAL_START":{
@@ -38103,7 +38967,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation.__all__":{
@@ -38112,7 +38977,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation.__author__":{
@@ -38121,13 +38987,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation._convert_to_loc_string":{
@@ -38136,7 +39004,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation._parse_locs":{
@@ -38145,7 +39014,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation._parse_single_loc":{
@@ -38154,7 +39024,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation._set_qual":{
@@ -38163,7 +39034,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation.get_annotation":{
@@ -38172,7 +39044,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.annotation.set_annotation":{
@@ -38181,7 +39054,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.file.MultiFile.__iter__.file":{
@@ -38190,7 +39064,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.file.MultiFile.__iter__.file_content":{
@@ -38199,7 +39074,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.file.file":{
@@ -38208,7 +39084,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.genbank.file.file_content":{
@@ -38217,7 +39094,44 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.general":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.general.__all__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.general.__author__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.general.load_sequence":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.general.save_sequence":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.gff":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.gff.file.GFFFile._parse_attributes.attrib_dict":{
@@ -38225,7 +39139,8 @@
   "elements":[
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.io.gff.file.attrib_dict":{
@@ -38233,7 +39148,20 @@
   "elements":[
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.load_sequence":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.sequence.io.save_sequence":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.search.__all__":{
@@ -38242,7 +39170,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.search.__author__":{
@@ -38251,13 +39180,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.search.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.search.find_subsequence":{
@@ -38266,7 +39197,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.search.find_symbol":{
@@ -38275,7 +39207,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.seqtypes.GeneralSequence":{
@@ -38284,7 +39217,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.seqtypes.NucleotideSequence":{
@@ -38293,7 +39227,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.seqtypes.ProteinSequence":{
@@ -38302,7 +39237,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.seqtypes.__all__":{
@@ -38311,7 +39247,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.seqtypes.__author__":{
@@ -38320,13 +39257,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.seqtypes.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.sequence.Sequence":{
@@ -38335,7 +39274,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.sequence.__all__":{
@@ -38344,7 +39284,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.sequence.__author__":{
@@ -38353,13 +39294,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.sequence.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.sequence._size_uint16":{
@@ -38368,7 +39311,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.sequence._size_uint32":{
@@ -38377,7 +39321,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.sequence.sequence._size_uint8":{
@@ -38386,7 +39331,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.set_font_size_in_coord":{
@@ -38395,7 +39341,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure":{
@@ -38404,7 +39351,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.Atom":{
@@ -38413,7 +39361,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.BadStructureError":{
@@ -38424,13 +39373,26 @@
    "biotite-0.16.0-py36h516909a_1"
   ]
  },
+ "biotite.structure.IncompleteStructureWarning":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.UnexpectedStructureWarning":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
  "biotite.structure._AtomArrayBase":{
   "__set__":true,
   "elements":[
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.__all__":{
@@ -38439,7 +39401,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.__author__":{
@@ -38448,13 +39411,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._a_helix":{
@@ -38463,7 +39428,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._a_strand":{
@@ -38472,7 +39438,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._adenine_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._calculate_edges":{
@@ -38481,7 +39454,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._call_non_index_function":{
@@ -38490,7 +39464,38 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._check_base_stacking":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._check_continuity":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._check_dssr_criteria":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._check_hbonds":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._cytosine_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._d2_helix":{
@@ -38499,7 +39504,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._d2_strand":{
@@ -38508,7 +39514,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._d3_helix":{
@@ -38517,7 +39524,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._d3_strand":{
@@ -38526,7 +39534,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._d4_helix":{
@@ -38535,7 +39544,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._d4_strand":{
@@ -38544,7 +39554,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._dihedral_backbone":{
@@ -38553,7 +39564,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._displacement_orthogonal_box":{
@@ -38562,7 +39574,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._displacement_triclinic_box":{
@@ -38571,7 +39584,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._ext_aa_list":{
@@ -38580,7 +39594,68 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._ext_nucleotide_list":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._filter_atom_type":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._get_1d_boolean_mask":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._get_proximate_basepair_candidates":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._get_std_adenine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._get_std_cytosine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._get_std_guanine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._get_std_thymine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._get_std_uracil":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._guanine_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._hbond":{
@@ -38589,13 +39664,21 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._match_base":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._put_back":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._r_helix":{
@@ -38604,7 +39687,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._r_strand":{
@@ -38613,7 +39697,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._radians_to_angle":{
@@ -38622,7 +39707,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._solvent_list":{
@@ -38631,7 +39717,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._sq_euclidian":{
@@ -38640,7 +39727,98 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_adenine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_adenine_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_adenine_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_cytosine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_cytosine_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_cytosine_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_guanine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_guanine_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_guanine_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_thymine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_thymine_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_thymine_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_uracil":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_uracil_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._std_uracil_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure._superimpose":{
@@ -38649,13 +39827,27 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._thymine_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure._uracil_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.align_vectors":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.angle":{
@@ -38664,7 +39856,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.annotate_sse":{
@@ -38673,7 +39866,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.apply_residue_wise":{
@@ -38682,7 +39876,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.array":{
@@ -38691,7 +39886,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms":{
@@ -38700,7 +39896,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms.Atom":{
@@ -38709,7 +39906,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms._AtomArrayBase":{
@@ -38718,7 +39916,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms.__all__":{
@@ -38727,7 +39926,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms.__author__":{
@@ -38736,13 +39936,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms.array":{
@@ -38751,7 +39953,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms.coord":{
@@ -38760,7 +39963,20 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.atoms.from_template":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.atoms.repeat":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.atoms.stack":{
@@ -38769,7 +39985,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.average":{
@@ -38778,7 +39995,218 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.base_pairs":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._adenine_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._check_base_stacking":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._check_dssr_criteria":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._check_hbonds":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._cytosine_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._filter_atom_type":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._get_1d_boolean_mask":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._get_proximate_basepair_candidates":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._get_std_adenine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._get_std_cytosine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._get_std_guanine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._get_std_thymine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._get_std_uracil":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._guanine_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._match_base":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_adenine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_adenine_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_adenine_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_cytosine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_cytosine_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_cytosine_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_guanine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_guanine_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_guanine_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_thymine":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_thymine_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_thymine_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_uracil":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_uracil_hbond_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._std_uracil_ring_centers":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._thymine_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs._uracil_containing_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.basepairs.base_pairs":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box":{
@@ -38787,7 +40215,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.box_volume":{
@@ -38796,7 +40225,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.coord_to_fraction":{
@@ -38805,7 +40235,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.fraction_to_coord":{
@@ -38814,7 +40245,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.is_orthogonal":{
@@ -38823,7 +40255,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.move_inside_box":{
@@ -38832,7 +40265,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.remove_pbc":{
@@ -38841,7 +40275,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.repeat_box":{
@@ -38850,7 +40285,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.unitcell_from_vectors":{
@@ -38859,7 +40295,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box.vectors_from_unitcell":{
@@ -38868,7 +40305,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.box_volume":{
@@ -38877,7 +40315,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.centroid":{
@@ -38886,7 +40325,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.chains":{
@@ -38895,7 +40335,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.chains.get_chain_count":{
@@ -38904,7 +40345,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.chains.get_chain_starts":{
@@ -38913,7 +40355,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.chains.get_chains":{
@@ -38922,7 +40365,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.check_atom_id_continuity":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.check_bond_continuity":{
@@ -38931,7 +40381,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.check_duplicate_atoms":{
@@ -38940,7 +40391,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.check_id_continuity":{
@@ -38949,7 +40401,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.check_in_box":{
@@ -38958,7 +40411,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.check_res_id_continuity":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.compare":{
@@ -38967,7 +40427,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.compare._sq_euclidian":{
@@ -38976,7 +40437,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.compare.average":{
@@ -38985,7 +40447,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.compare.rmsd":{
@@ -38994,7 +40457,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.compare.rmsf":{
@@ -39003,7 +40467,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.coord":{
@@ -39012,7 +40477,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.coord_to_fraction":{
@@ -39021,139 +40487,162 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.__all__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.__author__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.axis":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.bins":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.coords":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.axis":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.bins":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.coords":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.grid_max":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.grid_min":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.hist":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.is_stack":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.selected_coords":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.density.weights":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.grid_max":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.grid_min":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.hist":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.is_stack":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.selected_coords":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.density.weights":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.dihedral":{
@@ -39162,7 +40651,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.displacement":{
@@ -39171,7 +40661,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.distance":{
@@ -39180,7 +40671,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.error":{
@@ -39189,7 +40681,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.error.BadStructureError":{
@@ -39197,7 +40690,38 @@
   "elements":[
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
-   "biotite-0.16.0-py36h516909a_1"
+   "biotite-0.16.0-py36h516909a_1",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.error.IncompleteStructureWarning":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.error.UnexpectedStructureWarning":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.error.__all__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.error.__author__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.error.__name__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter":{
@@ -39206,7 +40730,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter.__all__":{
@@ -39215,7 +40740,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter.__author__":{
@@ -39224,13 +40750,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter._ext_aa_list":{
@@ -39239,7 +40767,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.filter._ext_nucleotide_list":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter._solvent_list":{
@@ -39248,7 +40783,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter.filter_altloc":{
@@ -39263,7 +40799,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter.filter_backbone":{
@@ -39272,7 +40809,20 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.filter.filter_first_altloc":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.filter.filter_highest_occupancy_altloc":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter.filter_inscode_and_altloc":{
@@ -39289,7 +40839,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter.filter_monoatomic_ions":{
@@ -39298,7 +40849,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.filter.filter_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter.filter_solvent":{
@@ -39307,7 +40865,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter_altloc":{
@@ -39322,7 +40881,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter_backbone":{
@@ -39331,7 +40891,20 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.filter_first_altloc":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.filter_highest_occupancy_altloc":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter_inscode_and_altloc":{
@@ -39348,7 +40921,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter_monoatomic_ions":{
@@ -39357,7 +40931,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.filter_nucleotides":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.filter_solvent":{
@@ -39366,7 +40947,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.fraction_to_coord":{
@@ -39375,7 +40957,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.from_template":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry":{
@@ -39384,7 +40973,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.__all__":{
@@ -39393,7 +40983,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.__author__":{
@@ -39402,13 +40993,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry._call_non_index_function":{
@@ -39417,7 +41010,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry._dihedral_backbone":{
@@ -39426,7 +41020,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry._displacement_orthogonal_box":{
@@ -39435,7 +41030,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry._displacement_triclinic_box":{
@@ -39444,7 +41040,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.angle":{
@@ -39453,7 +41050,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.centroid":{
@@ -39462,7 +41060,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.dihedral":{
@@ -39471,7 +41070,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.displacement":{
@@ -39480,7 +41080,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.distance":{
@@ -39489,7 +41090,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.index_angle":{
@@ -39498,7 +41100,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.index_dihedral":{
@@ -39507,7 +41110,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.index_displacement":{
@@ -39516,7 +41120,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.geometry.index_distance":{
@@ -39525,7 +41130,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.get_chain_count":{
@@ -39534,7 +41140,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.get_chain_starts":{
@@ -39543,7 +41150,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.get_chains":{
@@ -39552,7 +41160,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.get_residue_count":{
@@ -39561,7 +41170,20 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.get_residue_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.get_residue_starts_for":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.get_residues":{
@@ -39570,31 +41192,42 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.graphics":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.graphics.__all__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.graphics.__author__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.graphics.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.graphics._set_box":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.graphics._set_equal_aspect":{
@@ -39606,13 +41239,21 @@
  "biotite.structure.graphics.atoms":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.graphics.atoms.__all__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.graphics.atoms._set_box":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.graphics.atoms._set_equal_aspect":{
@@ -39624,13 +41265,15 @@
  "biotite.structure.graphics.atoms.plot_atoms":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.graphics.plot_atoms":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.gyration_radius":{
@@ -39639,7 +41282,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.hbond":{
@@ -39648,7 +41292,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.hbond.__all__":{
@@ -39657,7 +41302,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.hbond.__author__":{
@@ -39666,13 +41312,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.hbond.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.hbond._hbond":{
@@ -39681,7 +41329,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.hbond.hbond":{
@@ -39690,7 +41339,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.hbond.hbond_frequency":{
@@ -39699,7 +41349,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.hbond_frequency":{
@@ -39708,7 +41359,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.index_angle":{
@@ -39717,7 +41369,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.index_dihedral":{
@@ -39726,7 +41379,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.index_displacement":{
@@ -39735,7 +41389,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.index_distance":{
@@ -39744,7 +41399,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.info":{
@@ -39753,31 +41409,36 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.info.atoms.array":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.info.atoms.array_dict":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.info.atoms.residue.array":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.info.atoms.residue.array_dict":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.info.masses.mass.result_mass":{
@@ -39786,7 +41447,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.info.masses.result_mass":{
@@ -39795,7 +41457,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.integrity":{
@@ -39804,7 +41467,38 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.integrity.__all__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.integrity.__author__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.integrity.__name__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.integrity._check_continuity":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.integrity.check_atom_id_continuity":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.integrity.check_bond_continuity":{
@@ -39813,7 +41507,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.integrity.check_duplicate_atoms":{
@@ -39822,7 +41517,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.integrity.check_id_continuity":{
@@ -39831,7 +41527,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.integrity.check_in_box":{
@@ -39840,7 +41537,26 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.integrity.check_res_id_continuity":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.integrity.renumber_atom_ids":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.integrity.renumber_res_ids":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io":{
@@ -39849,7 +41565,50 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.general.__all__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.general.__author__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.general.__name__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.general._elements":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.general._guess_element":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.general.load_structure":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.general.save_structure":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.gro.file.GROFile":{
@@ -39900,7 +41659,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.mmtf.file.__all__":{
@@ -39909,7 +41669,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.mmtf.file.__author__":{
@@ -39918,13 +41679,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.mmtf.file.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.mmtf.file._encode_numpy":{
@@ -39933,7 +41696,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdb.file.PDBFile":{
@@ -39947,7 +41711,8 @@
  "biotite.structure.io.pdb.file.PDBFile._get_model_length.length":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdb.file.__all__":{
@@ -39977,7 +41742,8 @@
  "biotite.structure.io.pdb.file.length":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert.__all__":{
@@ -39986,7 +41752,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert.__author__":{
@@ -39995,13 +41762,21 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert._convert_string_to_sequence":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert._determine_entity_id":{
@@ -40010,7 +41785,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert._fill_annotations":{
@@ -40019,13 +41795,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert._filter_altloc":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert._filter_inscode_altloc":{
@@ -40042,7 +41820,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert._get_model_dict":{
@@ -40051,7 +41830,50 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert._get_transformations":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert._nucleotideseq_type_list":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert._other_type_list":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert._parse_operation_expression":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert._proteinseq_type_list":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert.get_assembly":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert.get_model_count":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert.get_sequence":{
@@ -40060,7 +41882,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert.get_structure":{
@@ -40069,7 +41892,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.io.pdbx.convert.list_assemblies":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.convert.set_structure":{
@@ -40078,7 +41908,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file.PDBxFile":{
@@ -40087,7 +41918,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file.__all__":{
@@ -40096,7 +41928,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file.__author__":{
@@ -40105,13 +41938,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file._data_block_name":{
@@ -40120,7 +41955,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file._get_category_name":{
@@ -40129,7 +41965,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file._is_empty":{
@@ -40138,7 +41975,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file._is_loop_start":{
@@ -40147,7 +41985,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file._is_multi":{
@@ -40156,7 +41995,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file._process_looped":{
@@ -40165,7 +42005,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file._process_singlevalued":{
@@ -40174,7 +42015,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.pdbx.file._quote":{
@@ -40183,7 +42025,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.tng.file.TNGFile":{
@@ -40192,7 +42035,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.tng.file.__all__":{
@@ -40201,7 +42045,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.tng.file.__author__":{
@@ -40210,13 +42055,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.tng.file.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.trr.file.TRRFile":{
@@ -40225,7 +42072,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.trr.file.__all__":{
@@ -40234,7 +42082,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.trr.file.__author__":{
@@ -40243,13 +42092,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.trr.file.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.xtc.file.XTCFile":{
@@ -40258,7 +42109,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.xtc.file.__all__":{
@@ -40267,7 +42119,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.xtc.file.__author__":{
@@ -40276,13 +42129,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.io.xtc.file.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.is_orthogonal":{
@@ -40291,7 +42146,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.mass_center":{
@@ -40300,7 +42156,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.mechanics":{
@@ -40309,7 +42166,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.mechanics.gyration_radius":{
@@ -40318,7 +42176,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.mechanics.mass_center":{
@@ -40327,7 +42186,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.move_inside_box":{
@@ -40336,7 +42196,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rdf":{
@@ -40345,7 +42206,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rdf.__all__":{
@@ -40354,7 +42216,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rdf.__author__":{
@@ -40363,13 +42226,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rdf.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rdf._calculate_edges":{
@@ -40378,7 +42243,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rdf.rdf":{
@@ -40387,7 +42253,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.remove_pbc":{
@@ -40396,7 +42263,26 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.renumber_atom_ids":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.renumber_res_ids":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.repeat":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.repeat_box":{
@@ -40405,7 +42291,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.residue_iter":{
@@ -40414,7 +42301,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.residues":{
@@ -40423,7 +42311,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.residues.apply_residue_wise":{
@@ -40432,7 +42321,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.residues.get_residue_count":{
@@ -40441,7 +42331,20 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.residues.get_residue_masks":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.residues.get_residue_starts_for":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.residues.get_residues":{
@@ -40450,7 +42353,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.residues.residue_iter":{
@@ -40459,7 +42363,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.residues.spread_residue_wise":{
@@ -40468,7 +42373,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rmsd":{
@@ -40477,7 +42383,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rmsf":{
@@ -40486,7 +42393,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.rotate":{
@@ -40495,7 +42403,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.spread_residue_wise":{
@@ -40504,7 +42413,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse":{
@@ -40513,7 +42423,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse.__all__":{
@@ -40522,7 +42433,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse.__author__":{
@@ -40531,13 +42443,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._a_helix":{
@@ -40546,7 +42460,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._a_strand":{
@@ -40555,7 +42470,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._d2_helix":{
@@ -40564,7 +42480,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._d2_strand":{
@@ -40573,7 +42490,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._d3_helix":{
@@ -40582,7 +42500,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._d3_strand":{
@@ -40591,7 +42510,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._d4_helix":{
@@ -40600,7 +42520,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._d4_strand":{
@@ -40609,7 +42530,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._r_helix":{
@@ -40618,7 +42540,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._r_strand":{
@@ -40627,7 +42550,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse._radians_to_angle":{
@@ -40636,7 +42560,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.sse.annotate_sse":{
@@ -40645,7 +42570,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.stack":{
@@ -40654,7 +42580,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.superimpose":{
@@ -40663,7 +42590,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.superimpose.__all__":{
@@ -40672,7 +42600,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.superimpose.__author__":{
@@ -40681,13 +42610,15 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.superimpose.__name__":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.superimpose._superimpose":{
@@ -40696,7 +42627,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.superimpose.superimpose":{
@@ -40705,7 +42637,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.superimpose.superimpose_apply":{
@@ -40714,7 +42647,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.superimpose_apply":{
@@ -40723,7 +42657,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.transform":{
@@ -40732,19 +42667,22 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.transform._put_back":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.transform.align_vectors":{
   "__set__":true,
   "elements":[
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.transform.rotate":{
@@ -40753,7 +42691,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.transform.rotate_centered.transformed":{
@@ -40778,7 +42717,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.translate":{
@@ -40787,7 +42727,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.unitcell_from_vectors":{
@@ -40796,7 +42737,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.util":{
@@ -40805,7 +42747,50 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.util.__all__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.util.__author__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.util.__name__":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.util.distance":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.util.matrix_rotate":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.util.norm_vector":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.structure.util.vector_dot":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.structure.vectors_from_unitcell":{
@@ -40814,7 +42799,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.temp":{
@@ -40823,7 +42809,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.temp._create_temp_dir":{
@@ -40832,7 +42819,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.temp._delete_temp":{
@@ -40841,7 +42829,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.temp._temp_dir":{
@@ -40850,7 +42839,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.temp.temp_dir":{
@@ -40859,7 +42849,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.temp.temp_file":{
@@ -40868,7 +42859,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.temp_dir":{
@@ -40877,7 +42869,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.temp_file":{
@@ -40886,7 +42879,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.visualize":{
@@ -40895,7 +42889,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.visualize.AdaptiveFancyArrow":{
@@ -40904,7 +42899,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.visualize.colors":{
@@ -40913,7 +42909,8 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "biotite.visualize.set_font_size_in_coord":{
@@ -40922,7 +42919,14 @@
    "biotite-0.14.0-py36hfa6e2cd_1",
    "biotite-0.15.0-py36hfa6e2cd_1",
    "biotite-0.16.0-py36h516909a_1",
-   "biotite-0.19.2-py36h516909a_2"
+   "biotite-0.19.2-py36h516909a_2",
+   "biotite-0.23.0-py36h8c4c3a4_0"
+  ]
+ },
+ "biotite.wrap_string":{
+  "__set__":true,
+  "elements":[
+   "biotite-0.23.0-py36h8c4c3a4_0"
   ]
  },
  "bioviz.InterfacesCollections":{
