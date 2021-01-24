@@ -38494,9 +38494,16 @@
    "dagster-graphql-0.7.15-pyhc8dfbb8_0"
   ]
  },
+ "dagster_k8s.CeleryK8sRunLauncher":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
  "dagster_k8s.DagsterK8sJobConfig":{
   "__set__":true,
   "elements":[
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38505,6 +38512,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38519,6 +38527,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38527,6 +38536,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38589,6 +38599,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38596,7 +38607,14 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
+ "dagster_k8s.construct_dagster_graphql_k8s_job":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.construct_dagster_k8s_job":{
@@ -38609,7 +38627,8 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.job":{
@@ -38617,6 +38636,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38625,6 +38645,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38633,6 +38654,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38641,6 +38663,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38649,6 +38672,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38657,6 +38681,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38665,12 +38690,14 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
  "dagster_k8s.job.K8S_RESOURCE_REQUIREMENTS_KEY":{
   "__set__":true,
   "elements":[
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38680,11 +38707,18 @@
    "dagster-k8s-0.9.5-py_0"
   ]
  },
+ "dagster_k8s.job.K8s_RESOURCE_REQUIREMENTS_VALID_KEYS":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
  "dagster_k8s.job.MAX_K8S_NAME_LEN":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38710,7 +38744,8 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.job.construct_dagster_k8s_job":{
@@ -38734,6 +38769,7 @@
  "dagster_k8s.job.get_k8s_resource_requirements":{
   "__set__":true,
   "elements":[
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38748,7 +38784,14 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.launcher.CeleryK8sRunLauncher":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.launcher.K8sRunLauncher":{
@@ -38756,7 +38799,14 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
+  ]
+ },
+ "dagster_k8s.launcher._get_validated_celery_k8s_executor_config":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.scheduler":{
@@ -38836,6 +38886,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38843,35 +38894,40 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.utils.DEFAULT_WAIT_BETWEEN_ATTEMPTS":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.utils.DEFAULT_WAIT_TIMEOUT":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.utils.DagsterK8sError":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.utils.WaitForPodState":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.utils.delete_job":{
@@ -38891,6 +38947,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38899,6 +38956,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38912,7 +38970,8 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.utils.wait_for_pod":{
@@ -38920,6 +38979,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38928,6 +38988,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38935,7 +38996,8 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s.version.__version__":{
@@ -38943,6 +39005,7 @@
   "elements":[
    "dagster-k8s-0.7.12-py_1",
    "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0",
    "dagster-k8s-0.9.5-py_0"
   ]
  },
@@ -38950,210 +39013,264 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.cluster.ClusterConfig":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.cluster.PG_PORT_FORWARDING_TIMEOUT":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.cluster.dagster_instance":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.cluster.define_cluster_provider_fixture":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.conftest":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.conftest.cluster_provider":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.conftest.dagster_home":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.helm":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
+ "dagster_k8s_tests.helm.TEST_CONFIGMAP_NAME":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
+ "dagster_k8s_tests.helm.TEST_SECRET_NAME":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.helm.helm_chart":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.helm.helm_namespace":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.helm.helm_test_resources":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.helm.test_namespace":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.kind":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.kind.create_kind_cluster":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.kind.kind_cluster":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.kind.kind_kubeconfig":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.kind.kind_load_images":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.kind.kind_sync_dockerconfig":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_integration":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_integration.test_failing_k8s_run_launcher":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_integration.test_k8s_run_launcher_celery":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_integration.test_k8s_run_launcher_default":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_job":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_job.test_job_serialization":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_job_spec":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_job_spec.EXPECTED_JOB_SPEC":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_job_spec.test_failing_k8s_run_launcher":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_job_spec.test_k8s_run_launcher":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_job_spec.test_valid_job_format":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
+ "dagster_k8s_tests.test_launcher":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
+ "dagster_k8s_tests.test_launcher.test_get_validated_celery_k8s_executor_config":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_project":{
@@ -39198,60 +39315,80 @@
    "dagster-k8s-0.7.16-py_0"
   ]
  },
+ "dagster_k8s_tests.test_resource_tags":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
+ "dagster_k8s_tests.test_resource_tags.test_resource_tags":{
+  "__set__":true,
+  "elements":[
+   "dagster-k8s-0.8.4-py_0"
+  ]
+ },
  "dagster_k8s_tests.test_utils":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_utils.construct_job_manifest":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_utils.construct_pod_manifest":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_utils.construct_pod_spec":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_utils.test_wait_for_job":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_utils.test_wait_for_pod":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_version":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.test_version.test_version":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.unit_tests":{
@@ -39498,70 +39635,80 @@
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.IS_BUILDKITE":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.check_output":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.find_free_port":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.get_test_namespace":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.image_pull_policy":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.remove_none_recursively":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.wait_for_job_and_get_logs":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.which_":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_k8s_tests.utils.within_docker":{
   "__set__":true,
   "elements":[
    "dagster-k8s-0.7.12-py_1",
-   "dagster-k8s-0.7.16-py_0"
+   "dagster-k8s-0.7.16-py_0",
+   "dagster-k8s-0.8.4-py_0"
   ]
  },
  "dagster_pagerduty.__all__":{
