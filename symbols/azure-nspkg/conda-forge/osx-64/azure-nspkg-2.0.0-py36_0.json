@@ -1,0 +1,25 @@
+{
+ "errors": {
+  "azure": {
+   "exception": "Please provide a position that exists within this node.",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 34, in single_file_extraction",
+    "    data = jedi.Script(path=file_name, project=jedi.Project(''.join(top_dir))).complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 488, in wrapper",
+    "    return func(self, line, column, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 211, in complete",
+    "    (line, column), self.get_signatures, fuzzy=fuzzy,",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 132, in __init__",
+    "    self._like_name = helpers.get_on_completion_name(self._module_node, code_lines, position)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 54, in get_on_completion_name",
+    "    leaf = module_node.get_leaf_for_position(position)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/parso/tree.py\", line 322, in get_leaf_for_position",
+    "    raise ValueError('Please provide a position that exists within this node.')",
+    "ValueError: Please provide a position that exists within this node.",
+    ""
+   ]
+  }
+ },
+ "symbols": []
+}
