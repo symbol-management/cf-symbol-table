@@ -59099,7 +59099,8 @@
    "trio_asyncio-0.11.0-py38h32f6830_1",
    "trio_asyncio-0.11.0-py38h32f6830_2",
    "trio_asyncio-0.11.0-py39hde42818_2",
-   "trio_asyncio-0.8.0-py36_0"
+   "trio_asyncio-0.8.0-py36_0",
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.conftest.BASE_PATH":{
@@ -59731,7 +59732,8 @@
   "elements":[
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py36h9f0ad1d_0",
-   "clisops-0.3.1-py38h32f6830_0"
+   "clisops-0.3.1-py38h32f6830_0",
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.conftest.nonmeta_checks":{
@@ -59750,6 +59752,12 @@
   "__set__":true,
   "elements":[
    "scikit-lego-0.6.2-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.conftest.per_doy":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.conftest.pkg_pytest":{
@@ -59779,7 +59787,8 @@
   "elements":[
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py36h9f0ad1d_0",
-   "clisops-0.3.1-py38h32f6830_0"
+   "clisops-0.3.1-py38h32f6830_0",
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.conftest.project":{
@@ -59925,7 +59934,8 @@
   "elements":[
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py36h9f0ad1d_0",
-   "clisops-0.3.1-py38h32f6830_0"
+   "clisops-0.3.1-py38h32f6830_0",
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.conftest.random_xy_dataset_clf":{
@@ -60110,7 +60120,8 @@
   "elements":[
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py36h9f0ad1d_0",
-   "clisops-0.3.1-py38h32f6830_0"
+   "clisops-0.3.1-py38h32f6830_0",
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.conftest.tasmax_series":{
@@ -60118,7 +60129,8 @@
   "elements":[
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py36h9f0ad1d_0",
-   "clisops-0.3.1-py38h32f6830_0"
+   "clisops-0.3.1-py38h32f6830_0",
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.conftest.tasmin_series":{
@@ -60126,7 +60138,8 @@
   "elements":[
    "clisops-0.2.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py36h9f0ad1d_0",
-   "clisops-0.3.1-py38h32f6830_0"
+   "clisops-0.3.1-py38h32f6830_0",
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.conftest.temp_container":{
@@ -77986,6 +77999,42 @@
    "hydrofunctions-0.1.7-py_1"
   ]
  },
+ "tests.test_checks":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_checks.K2C":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_checks.TESTS_DATA":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_checks.TESTS_HOME":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_checks.TestDateHandling":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_checks.TestMissingAnyFills":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
  "tests.test_classifier_base":{
   "__set__":true,
   "elements":[
@@ -83384,6 +83433,24 @@
    "jupyter_server-1.1.1-py39hf3d152e_0"
   ]
  },
+ "tests.test_generic":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_generic.TestFA":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_generic.TestSelectResampleOp":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
  "tests.test_geoarray":{
   "__set__":true,
   "elements":[
@@ -83983,6 +84050,252 @@
    "pyrobuf-0.9.3-py38h11c0d25_1",
    "pyrobuf-0.9.3-py38h950e882_1",
    "pyrobuf-0.9.3-py39he80948d_1"
+  ]
+ },
+ "tests.test_indices":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.K2C":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TESTS_DATA":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TESTS_HOME":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestBaseFlowIndex":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestColdSpellDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestColdSpellDurationIndex":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestConsecutiveFrostDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestCoolingDegreeDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestDailyFreezeThawCycles":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestDailyPrIntensity":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestDaysOverPrecipThresh":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestFreshetStart":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestGrowingDegreeDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestGrowingSeasonLength":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestHeatWaveFrequency":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestHeatWaveIndex":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestHeatWaveMaxLength":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestHeatingDegreeDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestLiquidPrecipitationRatio":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestMax1DayPrecipitationAmount":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestMaxNDayPrecipitationAmount":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestMaximumConsecutiveDryDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestMaximumConsecutiveTxDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestPrecipAccumulation":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestRainOnFrozenGround":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestTG":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestTgMaxTgMinIndices":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestTnDaysBelow":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestTxDaysAbove":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestTxMax":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestTxMean":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestTxMin":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestTxTnDaysAbove":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestWarmDayFrequency":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestWarmNightFrequency":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestWarmSpellDurationIndex":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.TestWinterRainRatio":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.cmip3_day_tas":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.response":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_indices.test_content":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.test_input_parameters":{
@@ -89041,6 +89354,24 @@
    "oddt-0.7-pyh500f238_0"
   ]
  },
+ "tests.test_modules":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_modules.TestBuildModules":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_modules.TestICCLIM":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
  "tests.test_motion":{
   "__set__":true,
   "elements":[
@@ -91381,6 +91712,78 @@
   "elements":[
    "flask-restplus-0.9.2-py27_0",
    "flask-restplus-0.9.2-py34_0"
+  ]
+ },
+ "tests.test_precip":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.K2C":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TESTS_DATA":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TESTS_HOME":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TestDailyIntensity":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TestMax1Day":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TestMaxConsecDryDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TestMaxConsecWetDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TestMaxNDay":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TestPrecipAccumulation":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TestRainOnFrozenGround":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_precip.TestWetDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.test_preprocess":{
@@ -94304,6 +94707,60 @@
    "propka-3.3.0-py38h23f93f0_0"
   ]
  },
+ "tests.test_run_length":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_run_length.K2C":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_run_length.TESTS_DATA":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_run_length.TESTS_HOME":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_run_length.TestFirstRun":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_run_length.TestLongestRun":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_run_length.TestRLE":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_run_length.TestWindowedRunCount":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_run_length.TestWindowedRunEvents":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
  "tests.test_s3_specific":{
   "__set__":true,
   "elements":[
@@ -95885,6 +96342,42 @@
    "tinydb-3.2.0-py34_0"
   ]
  },
+ "tests.test_streamflow":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_streamflow.TestFit":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_streamflow.TestStats":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_streamflow.Test_FA":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_streamflow.test_base_flow_index":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_streamflow.test_qdoy_max":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
  "tests.test_streaming":{
   "__set__":true,
   "elements":[
@@ -96877,6 +97370,162 @@
    "andes-1.1.2-py37hc8dfbb8_0",
    "andes-1.1.3-py37hc8dfbb8_0",
    "andes-1.1.5-py38h32f6830_0"
+  ]
+ },
+ "tests.test_temperature":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.K2C":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TESTS_DATA":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TESTS_HOME":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestCSDI":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestColdSpellDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestConsecutiveFrostDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestCoolingDegreeDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestDTR":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestDailyFreezeThaw":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestETR":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestFrostDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestGrowingDegreeDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestGrowingSeasonLength":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestHeatWaveFrequency":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestHeatWaveIndex":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestHeatWaveMaxLength":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestHeatingDegreeDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestIceDays":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestT10p":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestT90p":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestTmean":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestTn":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestTropicalNights":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.TestTx":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_temperature.test_freshet_start":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.test_templatetags":{
@@ -99334,7 +99983,8 @@
    "tomlkit-0.7.0-py36hc560c46_1",
    "tomlkit-0.7.0-py38h32f6830_0",
    "tomlkit-0.7.0-py38h32f6830_1",
-   "tomlkit-0.7.0-py39h2804cbe_2"
+   "tomlkit-0.7.0-py39h2804cbe_2",
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.test_utils.COMPRESSION_ALGORITHMS_TO_TEST":{
@@ -99381,10 +100031,124 @@
    "django-controlcenter-0.2.8-py_0"
   ]
  },
+ "tests.test_utils.TESTS_DATA":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TESTS_HOME":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestAdjustDoyCalendar":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestCheckUnits":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestConvertUnitsTo":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestDailyDownsampler":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestEnsembleStats":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestIndicator":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestKwargs":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestParseDoc":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestPercentileDOY":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestSubsetBbox":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestSubsetGridPoint":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestThresholdCount":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestUnitConversion":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.TestUnits":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
  "tests.test_utils.TestUtils":{
   "__set__":true,
   "elements":[
    "stuf-0.9.16-py_0"
+  ]
+ },
+ "tests.test_utils.TestWalkMap":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.UniIndPr":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.test_utils.UniIndTemp":{
+  "__set__":true,
+  "elements":[
+   "xclim-0.10.8b0-py_0"
   ]
  },
  "tests.test_utils.UnpackTest":{
