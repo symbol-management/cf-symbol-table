@@ -51223,7 +51223,8 @@
    "regex-2018.11.06-py37h1de35cc_1000",
    "regex-2018.11.07-py37h470a237_0",
    "regex-2019.01.24-py36hfa6e2cd_0",
-   "regex-2019.02.03-py36h1de35cc_0"
+   "regex-2019.02.03-py36h1de35cc_0",
+   "regex-2019.02.18-py36hfa6e2cd_0"
   ]
  },
  "test_regex.RegexTests":{
@@ -51274,7 +51275,8 @@
    "regex-2018.11.07-py37h470a237_0",
    "regex-2019.01.24-py36hfa6e2cd_0",
    "regex-2019.02.03-py36h1de35cc_0",
-   "regex-2019.02.06-py27h14c3975_0"
+   "regex-2019.02.06-py27h14c3975_0",
+   "regex-2019.02.18-py36hfa6e2cd_0"
   ]
  },
  "test_regex.StrSubclass":{
@@ -51312,7 +51314,8 @@
    "regex-2018.11.06-py37h1de35cc_1000",
    "regex-2018.11.07-py37h470a237_0",
    "regex-2019.01.24-py36hfa6e2cd_0",
-   "regex-2019.02.03-py36h1de35cc_0"
+   "regex-2019.02.03-py36h1de35cc_0",
+   "regex-2019.02.18-py36hfa6e2cd_0"
   ]
  },
  "test_regex._AssertRaisesContext":{
@@ -51381,7 +51384,8 @@
    "regex-2018.11.07-py37h470a237_0",
    "regex-2019.01.24-py36hfa6e2cd_0",
    "regex-2019.02.03-py36h1de35cc_0",
-   "regex-2019.02.06-py27h14c3975_0"
+   "regex-2019.02.06-py27h14c3975_0",
+   "regex-2019.02.18-py36hfa6e2cd_0"
   ]
  },
  "test_snappy.SnappyCompressionTest":{
@@ -59002,8 +59006,10 @@
    "clisops-0.3.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py38h32f6830_0",
    "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0",
    "deepforest-0.3.2-py36h0130604_1",
    "disk-objectstore-0.5.0-pyhd8ed1ab_0",
+   "esmlab-2019.2.28-py_0",
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0",
    "ipywebrtc-0.4.0-py27_2",
@@ -59105,7 +59111,8 @@
  "tests.conftest.CloudProviderTestRig":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.conftest.DBD_FILE":{
@@ -59178,7 +59185,8 @@
  "tests.conftest.SESSION_UUID":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.conftest.TEST_DIR":{
@@ -59246,7 +59254,8 @@
  "tests.conftest.UPLOAD_IGNORE_LIST":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.conftest.Vars":{
@@ -59357,13 +59366,15 @@
  "tests.conftest.assets_dir":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.conftest.azure_rig":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.conftest.band_structure_data":{
@@ -59422,7 +59433,8 @@
  "tests.conftest.create_test_dir_name":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.conftest.current_task":{
@@ -59458,6 +59470,12 @@
   "__set__":true,
   "elements":[
    "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.conftest.dset":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.conftest.each_session":{
@@ -59951,7 +59969,8 @@
  "tests.conftest.rig":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.conftest.run":{
@@ -59973,7 +59992,8 @@
  "tests.conftest.s3_rig":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.conftest.scale_ordinal":{
@@ -76404,13 +76424,15 @@
  "tests.test_azure_specific":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_azure_specific.test_azureblobpath_properties":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_base":{
@@ -78271,6 +78293,7 @@
   "__set__":true,
   "elements":[
    "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0",
    "yarg-0.1.9-py27_0",
    "yarg-0.1.9-py35_0"
   ]
@@ -78299,13 +78322,15 @@
  "tests.test_client.test_default_client_instantiation":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_client.test_different_clients":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_client_cache":{
@@ -78363,7 +78388,8 @@
  "tests.test_climatology":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_climatology.get_dataset_1":{
@@ -78384,88 +78410,132 @@
    "esmlab-0.0.1-py_0"
   ]
  },
+ "tests.test_climatology.test_compute_ann_mean":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.test_climatology.test_compute_climatology_multi":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
  "tests.test_climatology.test_compute_mon_anomaly":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_climatology.test_compute_mon_climatology":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_cloudpath_file_io":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_file_io.test_file_discovery":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_file_io.test_file_read_writes":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_file_io.test_fspath":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_file_io.test_os_open":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_instantiation":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_instantiation.test_dependencies_not_loaded":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_instantiation.test_dispatch":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
+  ]
+ },
+ "tests.test_cloudpath_instantiation.test_idempotency":{
+  "__set__":true,
+  "elements":[
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_instantiation.test_instantiation":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_instantiation.test_is_pathlike":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
+  ]
+ },
+ "tests.test_cloudpath_internal":{
+  "__set__":true,
+  "elements":[
+   "cloudpathlib-0.1.2-py39ha770c72_0"
+  ]
+ },
+ "tests.test_cloudpath_internal.test_resolve":{
+  "__set__":true,
+  "elements":[
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_manipulation":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cloudpath_manipulation.test_joins":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_cmreshandler":{
@@ -80213,6 +80283,7 @@
  "tests.test_datasets":{
   "__set__":true,
   "elements":[
+   "esmlab-2019.2.28-py_0",
    "oddt-0.7-pyh500f238_0",
    "scikit-lego-0.6.2-pyhd8ed1ab_0"
   ]
@@ -80257,6 +80328,12 @@
   "__set__":true,
   "elements":[
    "scikit-lego-0.6.2-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.test_datasets.test_open_dataset":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_datasets.test_pdbbind":{
@@ -93416,6 +93493,24 @@
    "isort-5.0.4-py38h32f6830_0"
   ]
  },
+ "tests.test_regrid":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.test_regrid.test_regrid_init":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.test_regrid.test_regrid_regrid":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
  "tests.test_relational":{
   "__set__":true,
   "elements":[
@@ -94212,13 +94307,15 @@
  "tests.test_s3_specific":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_s3_specific.test_s3path_properties":{
   "__set__":true,
   "elements":[
-   "cloudpathlib-0.1.1-py36h9f0ad1d_0"
+   "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
  "tests.test_saturate_cpu":{
@@ -95670,7 +95767,14 @@
  "tests.test_statistics":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.test_statistics.N":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_statistics._generate_data":{
@@ -95694,37 +95798,61 @@
  "tests.test_statistics.test_weighted_corr":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_statistics.test_weighted_cov":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_statistics.test_weighted_mean":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_statistics.test_weighted_rmsd":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_statistics.test_weighted_std":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_statistics.test_weighted_sum":{
   "__set__":true,
   "elements":[
-   "esmlab-0.0.1-py_0"
+   "esmlab-0.0.1-py_0",
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.test_statistics.valid":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.test_statistics.x":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.test_statistics.y":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.test_storages":{
@@ -105601,6 +105729,7 @@
  "tests.utils":{
   "__set__":true,
   "elements":[
+   "esmlab-2019.2.28-py_0",
    "intake-parquet-0.2.3-py_0",
    "jupyter_server-1.0.1-py37hc8dfbb8_0",
    "jupyter_server-1.0.1-py38h32f6830_0",
@@ -106133,6 +106262,48 @@
   "__set__":true,
   "elements":[
    "pyoos-0.7.0-py27_0"
+  ]
+ },
+ "tests.utils.test_time":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.utils.test_time.test_compute_time_var":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.utils.test_time.test_get_time_attrs":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.utils.test_time.test_sel_time":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.utils.test_time.test_time_bound_var":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.utils.test_time.test_time_year_to_midyeardate":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
+  ]
+ },
+ "tests.utils.test_time.test_uncompute_time_var":{
+  "__set__":true,
+  "elements":[
+   "esmlab-2019.2.28-py_0"
   ]
  },
  "tests.utils.test_to_from_dict":{
