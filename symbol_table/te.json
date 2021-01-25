@@ -57890,6 +57890,7 @@
    "clisops-0.3.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py38h32f6830_0",
    "cloudpathlib-0.1.1-py36h9f0ad1d_0",
+   "deepforest-0.3.2-py36h0130604_1",
    "disk-objectstore-0.5.0-pyhd8ed1ab_0",
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0",
@@ -58336,6 +58337,12 @@
   "__set__":true,
   "elements":[
    "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.conftest.download_release":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
   ]
  },
  "tests.conftest.each_session":{
@@ -72028,6 +72035,7 @@
   "elements":[
    "jaws-0.3.1-py_0",
    "jaws-0.3.3-py27_2",
+   "jaws-0.3.4-py27_0",
    "jaws-0.3.4-py36_0",
    "jaws-0.4.1-py27_0",
    "jaws-0.4.3-py35_0",
@@ -72069,6 +72077,7 @@
   "elements":[
    "jaws-0.3.1-py_0",
    "jaws-0.3.3-py27_2",
+   "jaws-0.3.4-py27_0",
    "jaws-0.3.4-py36_0",
    "jaws-0.4.1-py27_0",
    "jaws-0.4.3-py35_0",
@@ -72098,6 +72107,7 @@
   "elements":[
    "jaws-0.3.1-py_0",
    "jaws-0.3.3-py27_2",
+   "jaws-0.3.4-py27_0",
    "jaws-0.3.4-py36_0",
    "jaws-0.4.1-py27_0",
    "jaws-0.4.3-py35_0",
@@ -72127,6 +72137,7 @@
   "elements":[
    "jaws-0.3.1-py_0",
    "jaws-0.3.3-py27_2",
+   "jaws-0.3.4-py27_0",
    "jaws-0.3.4-py36_0",
    "jaws-0.4.1-py27_0",
    "jaws-0.4.3-py35_0",
@@ -72156,6 +72167,7 @@
   "elements":[
    "jaws-0.3.1-py_0",
    "jaws-0.3.3-py27_2",
+   "jaws-0.3.4-py27_0",
    "jaws-0.3.4-py36_0",
    "jaws-0.4.1-py27_0",
    "jaws-0.4.3-py35_0",
@@ -72185,6 +72197,7 @@
   "elements":[
    "jaws-0.3.1-py_0",
    "jaws-0.3.3-py27_2",
+   "jaws-0.3.4-py27_0",
    "jaws-0.3.4-py36_0",
    "jaws-0.4.1-py27_0",
    "jaws-0.4.3-py35_0",
@@ -72214,6 +72227,7 @@
   "elements":[
    "jaws-0.3.1-py_0",
    "jaws-0.3.3-py27_2",
+   "jaws-0.3.4-py27_0",
    "jaws-0.3.4-py36_0",
    "jaws-0.4.1-py27_0",
    "jaws-0.4.3-py35_0",
@@ -72243,6 +72257,7 @@
   "elements":[
    "jaws-0.3.1-py_0",
    "jaws-0.3.3-py27_2",
+   "jaws-0.3.4-py27_0",
    "jaws-0.3.4-py36_0",
    "jaws-0.4.1-py27_0",
    "jaws-0.4.3-py35_0",
@@ -78038,6 +78053,7 @@
  "tests.test_data":{
   "__set__":true,
   "elements":[
+   "deepforest-0.3.2-py36h0130604_1",
    "hydrofunctions-0.1.7-py_1"
   ]
  },
@@ -78045,6 +78061,12 @@
   "__set__":true,
   "elements":[
    "hydrofunctions-0.1.7-py_1"
+  ]
+ },
+ "tests.test_data.test_get_data":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
   ]
  },
  "tests.test_data_transfer":{
@@ -78377,6 +78399,102 @@
   "__set__":true,
   "elements":[
    "tranquilizer-0.4.0-py_0"
+  ]
+ },
+ "tests.test_deepforest":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.annotations":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.multi_annotations":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.prepare_tfdataset":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_deepforest":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_evaluate_generator":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_multi_train":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_predict_generator":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_predict_image":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_predict_tile":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_random_transform":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_reload_model":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_reload_weights":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_retrain_release":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_train":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_deepforest.test_use_release":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
   ]
  },
  "tests.test_deleting":{
@@ -84460,6 +84578,12 @@
    "jupytext-0.8.6-0"
   ]
  },
+ "tests.test_keras_retinanet":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
  "tests.test_keys":{
   "__set__":true,
   "elements":[
@@ -89025,6 +89149,42 @@
   "elements":[
    "flask-restplus-0.9.2-py27_0",
    "flask-restplus-0.9.2-py34_0"
+  ]
+ },
+ "tests.test_preprocess":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_preprocess.numpy_image":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_preprocess.test_compute_windows":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_preprocess.test_select_annotations":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_preprocess.test_split_raster":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_preprocess.test_split_size_error":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
   ]
  },
  "tests.test_preprocessing":{
@@ -94448,6 +94608,60 @@
    "jupyter_server-1.1.1-py39hf3d152e_0"
   ]
  },
+ "tests.test_tfrecords":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_tfrecords.config":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_tfrecords.find_tf_filenames":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_tfrecords.setup_create_tensors":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_tfrecords.test_create_dataset":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_tfrecords.test_create_tensors":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_tfrecords.test_create_tfrecords":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_tfrecords.test_equivalence":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_tfrecords.test_lengths":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
  "tests.test_tie_point_grid":{
   "__set__":true,
   "elements":[
@@ -96639,6 +96853,48 @@
    "larch-5.4.7-py38h347fdf6_1",
    "larch-5.4.7-py38hc7193ba_2",
    "larch-5.4.9-py39hce5d2b2_0"
+  ]
+ },
+ "tests.test_utilities":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_utilities.test_create_classes":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_utilities.test_float_warning":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_utilities.test_format_args":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_utilities.test_number_of_images":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_utilities.test_use_release":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_utilities.test_xml_to_annotations":{
+  "__set__":true,
+  "elements":[
+   "deepforest-0.3.2-py36h0130604_1"
   ]
  },
  "tests.test_utility":{
