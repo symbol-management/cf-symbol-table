@@ -53545,6 +53545,7 @@
    "regex-2018.06.06-py35_0",
    "regex-2018.06.09-py36h470a237_0",
    "regex-2018.07.11-py36h470a237_0",
+   "regex-2018.08.17-py35h470a237_0",
    "regex-2018.08.17-py36h470a237_0",
    "regex-2018.08.29-py36h1de35cc_1000",
    "regex-2018.08.29-py37h1de35cc_1000",
@@ -53596,6 +53597,7 @@
    "regex-2018.06.06-py35_0",
    "regex-2018.06.09-py36h470a237_0",
    "regex-2018.07.11-py36h470a237_0",
+   "regex-2018.08.17-py35h470a237_0",
    "regex-2018.08.17-py36h470a237_0",
    "regex-2018.08.29-py27h0c8e037_0",
    "regex-2018.08.29-py36h1de35cc_1000",
@@ -53641,6 +53643,7 @@
    "regex-2018.06.06-py35_0",
    "regex-2018.06.09-py36h470a237_0",
    "regex-2018.07.11-py36h470a237_0",
+   "regex-2018.08.17-py35h470a237_0",
    "regex-2018.08.17-py36h470a237_0",
    "regex-2018.08.29-py36h1de35cc_1000",
    "regex-2018.08.29-py37h1de35cc_1000",
@@ -53711,6 +53714,7 @@
    "regex-2018.06.06-py35_0",
    "regex-2018.06.09-py36h470a237_0",
    "regex-2018.07.11-py36h470a237_0",
+   "regex-2018.08.17-py35h470a237_0",
    "regex-2018.08.17-py36h470a237_0",
    "regex-2018.08.29-py27h0c8e037_0",
    "regex-2018.08.29-py36h1de35cc_1000",
@@ -74983,6 +74987,30 @@
    "trio_asyncio-0.8.0-py36_0"
   ]
  },
+ "tests.reference":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.reference.referenceArcCosineKernel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.reference.referencePeriodicKernel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.reference.referenceRbfKernel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.resources":{
   "__set__":true,
   "elements":[
@@ -77168,9 +77196,11 @@
    "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.7.4-py36_0",
+   "jaws-0.7.6-py37_0",
    "jaws-0.7.7-py37_0",
    "jaws-0.8.2-py27_0",
    "jaws-0.8.2-py36_0",
+   "jaws-0.8.2-py37_0",
    "jaws-0.8.3-py37_0",
    "jaws-0.9.1-py37_0",
    "jaws-0.9.2-py37_0",
@@ -77214,9 +77244,11 @@
    "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.7.4-py36_0",
+   "jaws-0.7.6-py37_0",
    "jaws-0.7.7-py37_0",
    "jaws-0.8.2-py27_0",
    "jaws-0.8.2-py36_0",
+   "jaws-0.8.2-py37_0",
    "jaws-0.8.3-py37_0",
    "jaws-0.9.1-py37_0",
    "jaws-0.9.2-py37_0",
@@ -77248,9 +77280,11 @@
    "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.7.4-py36_0",
+   "jaws-0.7.6-py37_0",
    "jaws-0.7.7-py37_0",
    "jaws-0.8.2-py27_0",
    "jaws-0.8.2-py36_0",
+   "jaws-0.8.2-py37_0",
    "jaws-0.8.3-py37_0",
    "jaws-0.9.1-py37_0",
    "jaws-0.9.2-py37_0",
@@ -77282,9 +77316,11 @@
    "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.7.4-py36_0",
+   "jaws-0.7.6-py37_0",
    "jaws-0.7.7-py37_0",
    "jaws-0.8.2-py27_0",
    "jaws-0.8.2-py36_0",
+   "jaws-0.8.2-py37_0",
    "jaws-0.8.3-py37_0",
    "jaws-0.9.1-py37_0",
    "jaws-0.9.2-py37_0",
@@ -77316,9 +77352,11 @@
    "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.7.4-py36_0",
+   "jaws-0.7.6-py37_0",
    "jaws-0.7.7-py37_0",
    "jaws-0.8.2-py27_0",
    "jaws-0.8.2-py36_0",
+   "jaws-0.8.2-py37_0",
    "jaws-0.8.3-py37_0",
    "jaws-0.9.1-py37_0",
    "jaws-0.9.2-py37_0",
@@ -77350,9 +77388,11 @@
    "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.7.4-py36_0",
+   "jaws-0.7.6-py37_0",
    "jaws-0.7.7-py37_0",
    "jaws-0.8.2-py27_0",
    "jaws-0.8.2-py36_0",
+   "jaws-0.8.2-py37_0",
    "jaws-0.8.3-py37_0",
    "jaws-0.9.1-py37_0",
    "jaws-0.9.2-py37_0",
@@ -77384,9 +77424,11 @@
    "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.7.4-py36_0",
+   "jaws-0.7.6-py37_0",
    "jaws-0.7.7-py37_0",
    "jaws-0.8.2-py27_0",
    "jaws-0.8.2-py36_0",
+   "jaws-0.8.2-py37_0",
    "jaws-0.8.3-py37_0",
    "jaws-0.9.1-py37_0",
    "jaws-0.9.2-py37_0",
@@ -77418,9 +77460,11 @@
    "jaws-0.7.1-py36_0",
    "jaws-0.7.3-py37_0",
    "jaws-0.7.4-py36_0",
+   "jaws-0.7.6-py37_0",
    "jaws-0.7.7-py37_0",
    "jaws-0.8.2-py27_0",
    "jaws-0.8.2-py36_0",
+   "jaws-0.8.2-py37_0",
    "jaws-0.8.3-py37_0",
    "jaws-0.9.1-py37_0",
    "jaws-0.9.2-py37_0",
@@ -78170,6 +78214,36 @@
   "elements":[
    "flask-restplus-0.9.2-py27_0",
    "flask-restplus-0.9.2-py34_0"
+  ]
+ },
+ "tests.test_actions":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_actions.loop":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_actions.test_loop_condition_break":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_actions.test_loop_condition_continue":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_actions.test_loop_simple":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_active_cells":{
@@ -79601,6 +79675,66 @@
   "__set__":true,
   "elements":[
    "django-versatileimagefield-1.7.1-py35_0"
+  ]
+ },
+ "tests.test_autoflow":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.AddModel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.DumbModel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.IncrementModel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.NoArgsModel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.TestDataHolder":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.TestFixAndPredict":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.TestGPmodel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.TestNoArgs":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autoflow.TestShareArgs":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_azure_specific":{
@@ -82405,6 +82539,48 @@
    "trio_asyncio-0.8.0-py36_0"
   ]
  },
+ "tests.test_conditionals":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_conditionals.DiagsTest":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_conditionals.WhitenTest":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_config":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_config.CONFIG_TXT":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_config.TestConfigParsing":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_config.TestSettingsManager":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_config_manager":{
   "__set__":true,
   "elements":[
@@ -83082,7 +83258,8 @@
   "__set__":true,
   "elements":[
    "emperor-1.0.0-py27_0",
-   "emperor-1.0.1-py37hc8dfbb8_0"
+   "emperor-1.0.1-py37hc8dfbb8_0",
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_core.EmperorSettingsTests":{
@@ -83092,11 +83269,29 @@
    "emperor-1.0.1-py37hc8dfbb8_0"
   ]
  },
+ "tests.test_core.TestTensorConverter":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_core.TopLevelTests":{
   "__set__":true,
   "elements":[
    "emperor-1.0.0-py27_0",
    "emperor-1.0.1-py37hc8dfbb8_0"
+  ]
+ },
+ "tests.test_coregion":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_coregion.TestEquivalence":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_correctness":{
@@ -83395,6 +83590,36 @@
    "deepforest-0.3.2-py36h0130604_1"
   ]
  },
+ "tests.test_data_object":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_data_object.Foo":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_data_object.TestDataHolderIntegers":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_data_object.TestDataHolderModels":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_data_object.TestDataHolderSimple":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_data_transfer":{
   "__set__":true,
   "elements":[
@@ -83503,6 +83728,24 @@
    "larch-5.4.7-py38h347fdf6_1",
    "larch-5.4.7-py38hc7193ba_2",
    "larch-5.4.9-py39hce5d2b2_0"
+  ]
+ },
+ "tests.test_dataholders":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_dataholders.TestDataholder":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_dataholders.TestMinibatch":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_dataloader":{
@@ -83859,6 +84102,24 @@
   "elements":[
    "flask-restless-1.0.0b1-py27_0",
    "flask-restless-1.0.0b1-py36_0"
+  ]
+ },
+ "tests.test_densities":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_densities.rng":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_densities.test_multivariate_normal":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_deprecated_field":{
@@ -85260,6 +85521,198 @@
    "qme-0.0.11-py_0"
   ]
  },
+ "tests.test_expectations":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.Data":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.RTOL":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations._check":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.const_mean":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.dirac_diag":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.dirac_gauss":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.dirac_markov_gauss":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.gauss":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.identity_mean":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.lin_kern":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.lin_mean":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.markov_gauss":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.matern_kern":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.rbf_kern":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.rbf_lin_prod_kern":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.rbf_lin_sum_kern":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.rng":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_RBF_eKzxKxz_gradient_notNaN":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_cov_shape_inference":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_eKdiag_no_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_eKxz_no_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_eKzxKxz_different_sum_kernels":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_eKzxKxz_no_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_eKzxKxz_same_vs_different_sum_kernels":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_eKzxKxz_separate_dims_simplification":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_eMxKxz_no_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_exKxz_markov":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_kernel_mean_function_expectations":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_kernel_only_expectations":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.test_mean_function_only_expectations":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_expectations.zero_mean":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_extra":{
   "__set__":true,
   "elements":[
@@ -85286,6 +85739,30 @@
   "elements":[
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0"
+  ]
+ },
+ "tests.test_features":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_features.TestFeaturesPsdSchur":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_features.TestInducingPoints":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_features.TestMultiScaleInducing":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_fetching":{
@@ -86810,6 +87287,24 @@
    "geoarray-0.9.1-py37hc8dfbb8_0"
   ]
  },
+ "tests.test_gplvm":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_gplvm.TestBayesianGPLVM":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_gplvm.TestGPLVM":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_grids":{
   "__set__":true,
   "elements":[
@@ -87124,6 +87619,36 @@
    "larch-5.4.7-py38h347fdf6_1",
    "larch-5.4.7-py38hc7193ba_2",
    "larch-5.4.9-py39hce5d2b2_0"
+  ]
+ },
+ "tests.test_hmc":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_hmc.CheckTrainingVariableState":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_hmc.Quadratic":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_hmc.SampleGaussianTest":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_hmc.SampleModelTest":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_hooks.test_git_hook":{
@@ -90369,6 +90894,96 @@
    "deepforest-0.3.2-py36h0130604_1"
   ]
  },
+ "tests.test_kerns":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestARDActiveProd":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestARDInit":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestAdd":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestArcCosine":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestCoregion":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestKernDiags":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestKernNaming":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestKernSymmetry":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestPeriodic":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestProd":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestRQ":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestRbf":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestSlice":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kerns.TestWhite":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_keys":{
   "__set__":true,
   "elements":[
@@ -90388,6 +91003,90 @@
   "elements":[
    "saws-0.4.3-py37_0",
    "saws-0.4.3-py38_1"
+  ]
+ },
+ "tests.test_kldiv":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.Datum":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.I":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.K":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.make_K_batch_data":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.make_sqrt_data":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.mu":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.sqrt":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.squareT":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.test_diags":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.test_oned":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.test_sumkl_equals_batchkl":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.test_whitened":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_kldiv.tf_kl_1d":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_knitr_spin":{
@@ -90589,6 +91288,54 @@
   "__set__":true,
   "elements":[
    "hickle-3.4.5-py_0"
+  ]
+ },
+ "tests.test_likelihoods":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_likelihoods.LikelihoodSetup":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_likelihoods.TestMulticlassIndexFix":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_likelihoods.TestPredictConditional":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_likelihoods.TestQuadrature":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_likelihoods.TestRobustMaxMulticlass":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_likelihoods.TestSwitchedLikelihood":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_likelihoods.getLikelihoodSetups":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_linear":{
@@ -90925,6 +91672,42 @@
   "elements":[
    "flask-restplus-0.9.2-py27_0",
    "flask-restplus-0.9.2-py34_0"
+  ]
+ },
+ "tests.test_mean_functions":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_mean_functions.TestBug277Regression":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_mean_functions.TestMeanFuncs":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_mean_functions.TestModelCompositionOperations":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_mean_functions.TestModelsWithMeanFuncs":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_mean_functions.TestSwitchedMeanFunction":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_merge_from":{
@@ -92010,6 +92793,60 @@
    "jupytext-0.8.6-0"
   ]
  },
+ "tests.test_method_equivalence":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_method_equivalence.TestEquivalence":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_method_equivalence.TestUpperBound":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_method_equivalence.VGPTest":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_methods":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_methods.TestMethods":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_methods.TestSVGP":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_methods.TestSparseMCMC":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_methods.TestStochasticGradients":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_metrics":{
   "__set__":true,
   "elements":[
@@ -92356,6 +93193,7 @@
  "tests.test_misc":{
   "__set__":true,
   "elements":[
+   "gpflow-1.1.1-py36_0",
    "moviepy-0.2.3.2-py27_0",
    "trio-asyncio-0.10.0-py36_0",
    "trio-asyncio-0.11.0-py37hc8dfbb8_0",
@@ -92403,6 +93241,12 @@
    "trio_asyncio-0.11.0-py38h32f6830_2",
    "trio_asyncio-0.11.0-py39hde42818_2",
    "trio_asyncio-0.8.0-py36_0"
+  ]
+ },
+ "tests.test_misc.TestPublicMethods":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_misc.test_cuts1":{
@@ -92465,7 +93309,26 @@
   "__set__":true,
   "elements":[
    "flask-restplus-0.9.2-py27_0",
-   "flask-restplus-0.9.2-py34_0"
+   "flask-restplus-0.9.2-py34_0",
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.Empty":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.EvalDataSVGP":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.KeyboardRaiser":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_model.ModelDeprecattionsTest":{
@@ -92480,6 +93343,48 @@
   "elements":[
    "flask-restplus-0.9.2-py27_0",
    "flask-restplus-0.9.2-py34_0"
+  ]
+ },
+ "tests.test_model.Quadratic":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.ReplaceParameterTest":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.TestLikelihoodAutoflow":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.TestMinibatchSVGP":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.TestName":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.TestOptimize":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_model.setup_sgpr":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_model5":{
@@ -93652,6 +94557,42 @@
    "stitchm-1.0.3-py38h32f6830_1"
   ]
  },
+ "tests.test_notebooks":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_notebooks.NOTEBOOK_FILES":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_notebooks._exec_notebook":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_notebooks._nbpath":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_notebooks._preproc":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_notebooks.test_notebook":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_notinstalled":{
   "__set__":true,
   "elements":[
@@ -93740,6 +94681,126 @@
   "__set__":true,
   "elements":[
    "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.test_optimizers":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.CombinationOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.Datum":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.Demo":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.Empty":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.NonOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.OptimizerCase":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.TestAdadeltaOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.TestAdamOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.TestFtrlOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.TestGradientDescentOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.TestMomentumOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.TestRMSPropOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.TestScipyOptimizer":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.TestSimpleOptimizerInterface":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.test_SVGP_vs_SGPR":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.test_VGP_vs_GPR":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.test_XiEtas_VGP_vs_GPR":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.test_hypers_SVGP_vs_SGPR":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_optimizers.test_other_XiTransform_VGP_vs_GPR":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_options":{
@@ -93897,6 +94958,120 @@
   "__set__":true,
   "elements":[
    "pyathena-1.5.0-py27_0"
+  ]
+ },
+ "tests.test_param":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.Foo":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.TestAutobuild":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.TestFixWithPrior":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.TestNaming":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.TestParamLikeInvariant":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.TestParamList":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.TestParameter":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.TestScopes":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.TestType":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param._check_trainable_flag":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.failures":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.param":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.test_parentable_childname_failures":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.test_parentable_childname_not_found":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.test_parentable_set_child_failure":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.test_parentable_set_parent_failures":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.test_parentable_set_parent_self_reference":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_param.test_parentable_unset_child_not_found":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_parse":{
@@ -95042,6 +96217,24 @@
    "xclim-0.10.8b0-py_0"
   ]
  },
+ "tests.test_predict":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_predict.TestFullCov":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_predict.TestGaussian":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_preprocess":{
   "__set__":true,
   "elements":[
@@ -95750,10 +96943,40 @@
    "jupytext-0.8.6-0"
   ]
  },
+ "tests.test_priors":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_priors.FlatModel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_priors.TestPriorMode":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_privateMath":{
   "__set__":true,
   "elements":[
    "magpylib-1.0.2b0-py_0"
+  ]
+ },
+ "tests.test_profiling":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_profiling.TestProfiling":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_project":{
@@ -98857,6 +100080,7 @@
  "tests.test_session":{
   "__set__":true,
   "elements":[
+   "gpflow-1.1.1-py36_0",
    "quilt-3.0.6-py37_0",
    "quilt3-3.0.6-py37_1",
    "quilt3-3.1.11-py36h9f0ad1d_0",
@@ -98880,6 +100104,12 @@
    "quilt3-3.1.7-py36_0",
    "quilt3-3.1.9-py36_0",
    "quilt3-3.1.9-py37_0"
+  ]
+ },
+ "tests.test_session.TestSessionConfiguration":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_settings":{
@@ -102169,6 +103399,42 @@
    "jupyter_telemetry-0.0.4-py_0"
   ]
  },
+ "tests.test_transforms":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_transforms.TestChainIdentity":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_transforms.TestDiagMatrixTransform":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_transforms.TestMatrixTransforms":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_transforms.TestOverflow":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_transforms.TransformTests":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
  "tests.test_transport":{
   "__set__":true,
   "elements":[
@@ -102401,6 +103667,18 @@
    "suds-jurko-0.6-py36hc560c46_1002",
    "suds-jurko-0.6-py37hc8dfbb8_1002",
    "suds-jurko-0.6-py38_1001"
+  ]
+ },
+ "tests.test_triang":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_triang.TestVecToTri":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_trust_notebook":{
@@ -102723,6 +104001,72 @@
   "__set__":true,
   "elements":[
    "hydrofunctions-0.1.7-py_1"
+  ]
+ },
+ "tests.test_uncertain_conditional":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.Data":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.MEANS":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.MomentMatchingSVGP":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.gen_L":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.gen_q_sqrt":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.mean_function_factory":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.test_monte_carlo_1_din":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.test_monte_carlo_2_din":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.test_no_uncertainty":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_uncertain_conditional.test_quadrature":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_unicode":{
@@ -104043,6 +105387,54 @@
   "elements":[
    "flask-restless-1.0.0b1-py27_0",
    "flask-restless-1.0.0b1-py36_0"
+  ]
+ },
+ "tests.test_variational":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_variational.VariationalMultivariateTest":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_variational.VariationalUnivariateTest":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_variational.kernel":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_variational.multivariate_prior_KL":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_variational.univariate_log_marginal_likelihood":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_variational.univariate_posterior":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_variational.univariate_prior_KL":{
+  "__set__":true,
+  "elements":[
+   "gpflow-1.1.1-py36_0"
   ]
  },
  "tests.test_varint_encoding":{
