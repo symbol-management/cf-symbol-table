@@ -2393,7 +2393,20 @@
  "jsonpickle.JSONBackend":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.Pickler":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.Unpickler":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.VERSION":{
@@ -2411,43 +2424,56 @@
  "jsonpickle.__all__":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.__version__":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.backend":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.backend.JSONBackend":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.backend.json":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.compat":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.compat.PY2":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.compat.PY3":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.compat.PY32":{
@@ -2459,7 +2485,8 @@
  "jsonpickle.compat.PY_MAJOR":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.compat.PY_MINOR":{
@@ -2474,10 +2501,40 @@
    "jsonpickle-0.9.5-py36_0"
   ]
  },
+ "jsonpickle.compat.builtins":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
  "jsonpickle.compat.bytes":{
   "__set__":true,
   "elements":[
    "jsonpickle-0.9.5-py36_0"
+  ]
+ },
+ "jsonpickle.compat.class_types":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.compat.decodebytes":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.compat.encodebytes":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.compat.iterator":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.compat.long":{
@@ -2489,13 +2546,26 @@
  "jsonpickle.compat.numeric_types":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.compat.queue":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.compat.set":{
   "__set__":true,
   "elements":[
    "jsonpickle-0.9.5-py36_0"
+  ]
+ },
+ "jsonpickle.compat.string_types":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.compat.unichr":{
@@ -2510,196 +2580,288 @@
    "jsonpickle-0.9.5-py36_0"
   ]
  },
+ "jsonpickle.compat.ustr":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
  "jsonpickle.decode":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.dumps":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.enable_fallthrough":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.encode":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.NumpyBaseHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.NumpyDTypeHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.NumpyGenericHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.NumpyNDArrayHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.__all__":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.get_byteorder":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.native_byteorder":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.register_handlers":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.ext.numpy.unregister_handlers":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas.PandasDfHandler":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas.PandasIndexHandler":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas.PandasProcessor":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas.PandasSeriesHandler":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas.__all__":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas.make_read_csv_params":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas.register_handlers":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.ext.pandas.unregister_handlers":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.BaseHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.CloneFactory":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.DatetimeHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.QueueHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.RegexHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.Registry":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.UUIDHandler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.get":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.register":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.registry":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.handlers.unregister":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.json":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.load_backend":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.loads":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.pickler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.pickler.Pickler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.pickler._make_backend":{
@@ -2711,193 +2873,231 @@
  "jsonpickle.pickler._mktyperef":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.pickler._wrap_string_slot":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.pickler.encode":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.register":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.remove_backend":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.set_decoder_options":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.set_encoder_options":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.set_preferred_backend":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.B64":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.BYTES":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.FUNCTION":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.ID":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.INITARGS":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.ITERATOR":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.JSON_KEY":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.NEWARGS":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.NEWARGSEX":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.NEWOBJ":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.OBJECT":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.REDUCE":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.REF":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.REPR":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.RESERVED":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.SEQ":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.SET":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.STATE":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.TUPLE":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.tags.TYPE":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler.Unpickler":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler._IDProxy":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler._Proxy":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler._make_backend":{
@@ -2909,61 +3109,83 @@
  "jsonpickle.unpickler._obj_setattr":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler._obj_setvalue":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.unpickler._safe_hasattr":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler._trivialclassic":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler.decode":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler.getargs":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler.has_tag":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler.loadclass":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler.loadrepr":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.unpickler.make_blank_classic":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
+  ]
+ },
+ "jsonpickle.unregister":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.IteratorType":{
@@ -2975,13 +3197,15 @@
  "jsonpickle.util.PRIMITIVES":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.SEQUENCES":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.SEQUENCES_SET":{
@@ -2990,184 +3214,225 @@
    "jsonpickle-0.9.5-py36_0"
   ]
  },
+ "jsonpickle.util._0_9_6_compat_untranslate":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
+  ]
+ },
  "jsonpickle.util.b64decode":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.b64encode":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.has_method":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.has_reduce":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.importable_name":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.in_dict":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.in_slots":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_bytes":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_collections":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_dictionary":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_function":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_installed":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_iterator":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_list":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_module":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_noncomplex":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_object":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_picklable":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_primitive":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_reducible":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_sequence":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_set":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_tuple":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_type":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.is_unicode":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.itemgetter":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.translate_module_name":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.util.untranslate_module_name":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.version":{
   "__set__":true,
   "elements":[
-   "jsonpickle-0.9.5-py36_0"
+   "jsonpickle-0.9.5-py36_0",
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpickle.version.VERSION":{
   "__set__":true,
   "elements":[
    "jsonpickle-0.9.5-py36_0"
+  ]
+ },
+ "jsonpickle.version.__version__":{
+  "__set__":true,
+  "elements":[
+   "jsonpickle-1.1-py_0"
   ]
  },
  "jsonpointer.EndOfList":{

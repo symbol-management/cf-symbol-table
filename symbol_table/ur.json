@@ -2464,61 +2464,77 @@
  "urlchecker.__version__":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.client.check.UrlChecker":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check.clone_repo":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check.delete_repo":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check.logger":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check.main":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check.print_failure":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check.print_success":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check.remove_empty":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.check.run_urlchecker":{
@@ -2536,25 +2552,41 @@
  "urlchecker.client.get_parser":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.client.main":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.check":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.core.check.UrlCheckResult":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.core.check.UrlChecker":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.check.check_files":{
@@ -2566,7 +2598,8 @@
  "urlchecker.core.check.fileproc":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.check.run_urlchecker":{
@@ -2590,37 +2623,43 @@
  "urlchecker.core.fileproc":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.fileproc.check_file_type":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.fileproc.collect_links_from_file":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.fileproc.get_file_paths":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.fileproc.include_file":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.fileproc.remove_empty":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.fileproc.save_results":{
@@ -2632,31 +2671,54 @@
  "urlchecker.core.fileproc.urlmarker":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.urlmarker":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.core.urlmarker.FINAL_REGEX":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.urlmarker.URL_REGEX":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.core.urlmarker.domain_extensions":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.urlproc":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.core.urlproc.UrlCheckResult":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.urlproc.check_response_status_code":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.urlproc.check_urls":{
@@ -2665,22 +2727,31 @@
    "urlchecker-0.0.15-py_0"
   ]
  },
+ "urlchecker.core.urlproc.fileproc":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
  "urlchecker.core.urlproc.get_user_agent":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.urlproc.print_failure":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.urlproc.print_success":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.urlproc.record_response":{
@@ -2692,157 +2763,207 @@
  "urlchecker.core.urlproc.urlmarker":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.core.urlproc.white_listed":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.whitelist":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.core.whitelist.white_listed":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.logger":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.logger.get_logger":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.logger.print_failure":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.logger.print_success":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.main":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.main.github":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.main.github.clone_repo":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.main.github.delete_repo":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.main.github.fileproc":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.main.github.get_branch":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.main.github.get_tmpdir":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.main.github.urlproc":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.main.utils":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
+  ]
+ },
+ "urlchecker.main.utils.get_tmpdir":{
+  "__set__":true,
+  "elements":[
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.AUTHOR":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.AUTHOR_EMAIL":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.DESCRIPTION":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.INSTALL_REQUIRES":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.INSTALL_REQUIRES_ALL":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.KEYWORDS":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.LICENSE":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.NAME":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.PACKAGE_URL":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.TESTS_REQUIRES":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urlchecker.version.__version__":{
   "__set__":true,
   "elements":[
-   "urlchecker-0.0.15-py_0"
+   "urlchecker-0.0.15-py_0",
+   "urlchecker-0.0.20-py_0"
   ]
  },
  "urllib3.HTTPConnectionPool":{
