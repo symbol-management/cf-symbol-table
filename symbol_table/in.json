@@ -21080,6 +21080,7 @@
  "intake_esm.__version__":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2019.4.26.1-py_0",
    "intake-esm-2019.5.11-py_0",
    "intake-esm-2020.5.1-py_0",
@@ -21411,6 +21412,7 @@
  "intake_esm.core":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2019.4.26.1-py_0",
    "intake-esm-2019.5.11-py_0",
    "intake-esm-2020.5.1-py_0",
@@ -21436,6 +21438,12 @@
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
  },
+ "intake_esm.core._fetch_and_parse_file":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
+  ]
+ },
  "intake_esm.core._flatten_list":{
   "__set__":true,
   "elements":[
@@ -21446,6 +21454,18 @@
   "__set__":true,
   "elements":[
    "intake-esm-2020.5.1-py_0"
+  ]
+ },
+ "intake_esm.core._is_valid_url":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
+  ]
+ },
+ "intake_esm.core._load_group_dataset":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
   ]
  },
  "intake_esm.core._make_entry":{
@@ -21461,17 +21481,31 @@
    "intake-esm-2020.5.1-py_0"
   ]
  },
+ "intake_esm.core._path_to_mapper":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
+  ]
+ },
  "intake_esm.core._unique":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0"
   ]
  },
  "intake_esm.core.esm_datastore":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0",
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
+  ]
+ },
+ "intake_esm.core.logger":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
   ]
  },
  "intake_esm.era5":{
@@ -21495,6 +21529,7 @@
  "intake_esm.esm_datastore":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0",
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
@@ -21526,6 +21561,7 @@
  "intake_esm.merge_util":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0",
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
@@ -21546,6 +21582,7 @@
  "intake_esm.merge_util._create_asset_info_lookup":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0"
   ]
  },
@@ -21563,6 +21600,18 @@
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
  },
+ "intake_esm.merge_util._restore_non_dim_coords":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
+  ]
+ },
+ "intake_esm.merge_util._set_coords":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
+  ]
+ },
  "intake_esm.merge_util._to_nested_dict":{
   "__set__":true,
   "elements":[
@@ -21570,9 +21619,16 @@
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
  },
+ "intake_esm.merge_util.aggregate":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
+  ]
+ },
  "intake_esm.merge_util.dict_union":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0",
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
@@ -21580,6 +21636,7 @@
  "intake_esm.merge_util.join_existing":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0",
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
@@ -21587,6 +21644,7 @@
  "intake_esm.merge_util.join_new":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0",
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
@@ -21597,9 +21655,22 @@
    "intake-esm-2020.5.1-py_0"
   ]
  },
+ "intake_esm.merge_util.open_dataset":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
+  ]
+ },
+ "intake_esm.merge_util.to_nested_dict":{
+  "__set__":true,
+  "elements":[
+   "intake-esm-2019.10.15-py_0"
+  ]
+ },
  "intake_esm.merge_util.union":{
   "__set__":true,
   "elements":[
+   "intake-esm-2019.10.15-py_0",
    "intake-esm-2020.5.1-py_0",
    "intake-esm-2021.1.15-pyhd8ed1ab_0"
   ]
