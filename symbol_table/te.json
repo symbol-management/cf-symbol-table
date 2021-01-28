@@ -32399,61 +32399,77 @@
  "test.notebooks":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks.ScrapSpec":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks.append_scrapbook_commands":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks.assay_one_notebook":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks.test_binary_classification_on_compas_dataset":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.notebooks.test_notebooks.test_binary_classification_with_the_uci_credit_card_default_dataset":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks.test_grid_search_for_binary_classification":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks.test_grid_search_with_census_data":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks.test_group_metrics_notebook":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.notebooks.test_notebooks.test_mitigating_disparities_in_ranking_from_binary_data":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.parsing_test":{
@@ -48115,6 +48131,7 @@
    "dsub-0.3.6-py38h50d1736_2",
    "dsub-0.3.6-py39hf3d152e_2",
    "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0",
    "label-maker-0.5.1-py36_0",
    "label-maker-0.5.1-py37_1",
    "label-maker-0.9.1-pyhd3deb0d_0"
@@ -48158,6 +48175,36 @@
    "dsub-0.3.6-py38_0",
    "dsub-0.3.6-py38h50d1736_2",
    "dsub-0.3.6-py39hf3d152e_2"
+  ]
+ },
+ "test.unit.conftest":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.conftest.pytest_collection_modifyitems":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.conftest.pytest_configure":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.constants":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.constants.MULTIPLE_SENSITIVE_FEATURE_COMPRESSION_SKIP_REASON":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.custom_machine_test":{
@@ -48371,37 +48418,55 @@
  "test.unit.input_convertors":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.input_convertors._map_into_single_column":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.input_convertors.conversions_for_1d":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.input_convertors.ensure_dataframe":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.input_convertors.ensure_list":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.input_convertors.ensure_list_1d":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.input_convertors.ensure_ndarray":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.input_convertors.ensure_series":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.job_model_test":{
@@ -48717,49 +48782,135 @@
  "test.unit.metrics":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.sample_loader":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.sample_loader._DATA_DIR":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.sample_loader._TEST_DIR":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.sample_loader.load_sample_dashboard":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.sample_loader.test_logger":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_balanced_root_mean_squared_error":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_balanced_root_mean_squared_error.test_all_correct":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_balanced_root_mean_squared_error.test_all_incorrect":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_balanced_root_mean_squared_error.test_probability_predict":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_balanced_root_mean_squared_error.test_weighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_balanced_root_mean_squared_error.test_y_true_not_0_1":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_create_group_metric_set":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_create_group_metric_set.TestCreateGroupMetricSet":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_create_group_metric_set.TestProcessPredictions":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_create_group_metric_set.TestProcessSensitiveFeatures":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_create_group_metric_set._BC_1P_1F":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_create_group_metric_set._BC_2P_3F":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_create_group_metric_set.conversions_for_1d":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_create_group_metric_set.validate_dashboard_dictionary":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_extra_metrics":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_extra_metrics.test_fallout_all_correct":{
@@ -48778,6 +48929,48 @@
   "__set__":true,
   "elements":[
    "fairlearn-0.4.2-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_fnr_all_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_fnr_none_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_fnr_some_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_fnr_with_false_positive":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_fpr_all_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_fpr_none_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_fpr_some_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_extra_metrics.test_miss_all_correct":{
@@ -48820,6 +49013,24 @@
   "__set__":true,
   "elements":[
    "fairlearn-0.4.2-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_tnr_all_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_tnr_none_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_extra_metrics.test_tnr_some_correct":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_metric_set":{
@@ -48903,253 +49114,312 @@
  "test.unit.metrics.test_group_sklearn_wrappers":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.Y_pred":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.Y_pred_ternary":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.Y_true":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.Y_true_ternary":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.a":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.b":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.c":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.group2":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.groups":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.metrics_no_sample_weights":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.supported_metrics_unweighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.supported_metrics_weighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.supported_metrics_weighted_binary":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_accuracy_score_unnormalized":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_confusion_matrix_labels":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_mean_squared_error_multioutput_list_ndarray":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_mean_squared_error_multioutput_single_ndarray":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_precision_score_pos_label":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_precision_score_ternary":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_r2_score_multioutput":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_recall_score_pos_label":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_recall_score_ternary":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_roc_auc_score_average":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_roc_auc_score_max_fpr":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_group_zero_one_loss_unnormalized":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_metric_unweighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.test_metric_weighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_group_sklearn_wrappers.weight":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_input_manipulations":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_input_manipulations.TestConvertToNDArray1D":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_input_manipulations.TestConvertToNDArrayAndSqueeze":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_mean_predictions":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_mean_predictions.test_mean_overprediction_unweighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_mean_predictions.test_mean_overprediction_weighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_mean_predictions.test_mean_prediction_single":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_mean_predictions.test_mean_prediction_unweighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_mean_predictions.test_mean_prediction_weighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_mean_predictions.test_mean_underprediction_unweighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_mean_predictions.test_mean_underprediction_weighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_metrics_engine":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine.TestGroupSummary":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine.TestMakeDerivedMetric":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_metrics_engine.TestMakeGroupMetric":{
   "__set__":true,
   "elements":[
    "fairlearn-0.4.2-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine.TestMakeMetricGroupSummary":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_metrics_engine.TestMetricByGroup":{
@@ -49161,19 +49431,76 @@
  "test.unit.metrics.test_metrics_engine.conversions_for_1d":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_metrics_engine.mock_func":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts.derived_metric_results":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts.metric_group_summary_results":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts.sf_binary":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts.test_derived_metrics_smoke":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts.test_dict_sizes":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts.test_metric_group_summary_smoke":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts.y_pred":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.metrics.test_metrics_engine_dicts.y_true":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_selection_rate":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_selection_rate.test_group_selection_rate":{
@@ -49182,22 +49509,31 @@
    "fairlearn-0.4.2-py_0"
   ]
  },
+ "test.unit.metrics.test_selection_rate.test_selection_rate_group_summary":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
  "test.unit.metrics.test_selection_rate.test_selection_rate_non_numeric":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_selection_rate.test_selection_rate_unweighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.metrics.test_selection_rate.test_selection_rate_weighted":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.param_util_test":{
@@ -49283,85 +49619,351 @@
  "test.unit.postprocessing":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ExampleEstimator":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ExampleNotEstimator1":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ExampleNotEstimator2":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ExampleNotPredictor":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ExamplePredictor":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.LabelAndPrediction":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.X_ex":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest._data":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest._data_ex1":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest._data_ex2":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest._data_ex3":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest._get_grouped_data_and_base_points":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest._get_predictions_by_sensitive_feature":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest._map_into_single_column":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.candidate_A_transforms":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.candidate_X_transforms":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.candidate_Y_transforms":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.data":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.degenerate_labels_ex":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ensure_dataframe":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ensure_list_1d":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ensure_ndarray":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.ensure_series":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.is_invalid_transformation":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.labels_ex":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.scores_ex":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.sensitive_feature_names_ex1":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.sensitive_feature_names_ex2":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.sensitive_feature_names_ex3":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.sensitive_features_ex1":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.sensitive_features_ex2":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.conftest.sensitive_features_ex3":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_curve_utilities":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_curve_utilities._assert_equal_points":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_curve_utilities._assert_interpolated_points_are_between_base_points":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_curve_utilities.test_assert_interpolated_curve":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_curve_utilities.test_calculate_roc_points":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_curve_utilities.test_convex_hull":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_curve_utilities.test_get_roc":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_curve_utilities.test_interpolate_curve":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_plots":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_plots.PYTEST_MPL_NOT_INSTALLED_MSG":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_plots.TestPlots":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_plots._fit_and_plot":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_plots.is_mpl_installed":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_plots.is_py35_on_macos":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_smoke":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_smoke._ESTIMATORS":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_smoke.test_smoke":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_operation":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_operation.test_predict_from_operation_invalid_operator":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_operation.test_predict_from_operation_less":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_operation.test_predict_from_operation_more":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.ALLOWED_INPUT_DATA_TYPES":{
@@ -49370,10 +49972,71 @@
    "fairlearn-0.4.2-py_0"
   ]
  },
+ "test.unit.postprocessing.test_threshold_optimization._NEG_P0":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._NEG_P1":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._P0":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._P1":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._POS_P0":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._POS_P1":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._degenerate_labels_feature_name":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._expected_ps_demographic_parity":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._expected_ps_equalized_odds":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization._map_into_single_column":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
  "test.unit.postprocessing.test_threshold_optimization.create_adjusted_predictor":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_both_predictor_and_estimator_error":{
@@ -49385,7 +50048,8 @@
  "test.unit.postprocessing.test_threshold_optimization.test_constraints_not_supported":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_inconsistent_input_data_types":{
@@ -49394,10 +50058,22 @@
    "fairlearn-0.4.2-py_0"
   ]
  },
+ "test.unit.postprocessing.test_threshold_optimization.test_no_estimator_error":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
  "test.unit.postprocessing.test_threshold_optimization.test_no_predictor_or_estimator_error":{
   "__set__":true,
   "elements":[
    "fairlearn-0.4.2-py_0"
+  ]
+ },
+ "test.unit.postprocessing.test_threshold_optimization.test_none_input_data":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_not_estimator":{
@@ -49415,13 +50091,15 @@
  "test.unit.postprocessing.test_threshold_optimization.test_predict_before_fit_error":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_predict_different_argument_lengths":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_predict_multiple_sensitive_features_columns_error":{
@@ -49433,37 +50111,43 @@
  "test.unit.postprocessing.test_threshold_optimization.test_predict_output_0_or_1":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_threshold_optimization_degenerate_labels":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_threshold_optimization_demographic_parity":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_threshold_optimization_different_input_lengths":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_threshold_optimization_equalized_odds":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_threshold_optimization.test_threshold_optimization_non_binary_labels":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.postprocessing.test_utilities":{
@@ -49571,349 +50255,575 @@
  "test.unit.reductions":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.conftest":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.conftest.ensure_list":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.conftest.ensure_series":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.conftest.is_invalid_transformation":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.simple_learners":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.simple_learners.LeastSquaresBinaryClassifierLearner":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.simple_learners.LeastSquaresRegressor":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments.TestExponentiatedGradientArguments":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments._PRECISION":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments._map_into_single_column":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments.candidate_A_transforms":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments.candidate_X_transforms":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments.candidate_Y_transforms":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments.conversions_for_1d":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments.ensure_dataframe":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments.ensure_ndarray":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_arguments.is_invalid_transformation":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_smoke":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_exponentiatedgradient_smoke.TestExponentiatedGradientSmoke":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.exponentiated_gradient.test_lagrangian":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.exponentiated_gradient.test_lagrangian.test_call_oracle":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.exponentiated_gradient.test_lagrangian.test_lagrangian_eval":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_utilities":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_utilities.X1":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_utilities.X2":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_utilities.X3":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.exponentiated_gradient.test_utilities._get_data":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_utilities.labels":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.exponentiated_gradient.test_utilities.sensitive_features":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_generator":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_generator._quick_data":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_generator.calculate_grid":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_generator.test_grid_generator_demographic_parity":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_generator.test_grid_generator_equalized_odds":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.ArgumentTests":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.ConditionalOpportunityTests":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.TestBoundedGroupLoss":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.TestDemographicParity":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.TestEqualizedOdds":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_search_arguments._quick_data":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_search_arguments.assert_n_grid_search_results":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.candidate_A_transforms":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.candidate_X_transforms":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.candidate_Y_transforms":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.conversions_for_1d":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.ensure_dataframe":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_arguments.ensure_ndarray":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_search_arguments.is_invalid_transformation":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_demographicparity":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_demographicparity._simple_threshold_data":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_search_demographicparity.assert_n_grid_search_results":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_demographicparity.test_can_specify_and_generate_lambda_vecs":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_demographicparity.test_demographicparity_fair_uneven_populations":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_demographicparity.test_lambda_vec_zero_unchanged_model":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_search_demographicparity.test_single_y_class":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_regression":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_regression._simple_regression_data":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.test_grid_search_regression.assert_n_grid_search_results":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_regression.logging_all_close":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_regression.test_bgl_lagrange_specifications":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_regression.test_bgl_unfair":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.grid_search.test_grid_search_regression.test_bgl_unmitigated_same":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.utilities":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.utilities._quick_data":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.grid_search.utilities.assert_n_grid_search_results":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.data_generator":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.data_generator.simple_binary_threshold_data":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_demographic_parity":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_demographic_parity.test_construct_and_load":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_demographic_parity.test_project_lambda_smoke_negatives":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_demographic_parity.test_project_lambda_smoke_positives":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_demographic_parity.test_signed_weights":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_equalized_odds":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_equalized_odds.test_construct_and_load":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_equalized_odds.test_project_lambda_smoke_negatives":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_equalized_odds.test_project_lambda_smoke_positives":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.reductions.moments.test_moments_equalized_odds.test_signed_weights":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.test_smoke":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.test_smoke._ESTIMATORS":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
+  ]
+ },
+ "test.unit.reductions.test_smoke.test_smoke":{
+  "__set__":true,
+  "elements":[
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.retrying_test":{
@@ -52205,13 +53115,15 @@
  "test.unit.utility_functions":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.utility_functions.logging_all_close":{
   "__set__":true,
   "elements":[
-   "fairlearn-0.4.2-py_0"
+   "fairlearn-0.4.2-py_0",
+   "fairlearn-0.4.6-py_0"
   ]
  },
  "test.unit.wait_and_retry_test":{
