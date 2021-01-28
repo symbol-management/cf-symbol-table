@@ -41872,7 +41872,8 @@
  "streamer.DictStream":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.Dragon":{
@@ -41884,49 +41885,183 @@
  "streamer.ItemStream":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.MapStream":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.Stream":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.collector":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.collector.A":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.collector.Collector":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.collector.CountCollector":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.collector.OneTimeCollector":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.collector.R":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.collector.T":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.operator":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.Collapser":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.ContantOf":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.Deduplicator":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.Grouper":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.Inserter":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.K":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.PairUp":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.RepeatApply":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.T":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.V":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator.Zipper":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator._AbstractOperator":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.operator._EmptyReference":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.stream":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.stream.DictStream":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.stream.ElementOrIter":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.stream.K":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
+  ]
+ },
+ "streamer.stream.R":{
+  "__set__":true,
+  "elements":[
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.stream.S":{
@@ -41938,37 +42073,43 @@
  "streamer.stream.Stream":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.stream.T":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.stream.V":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.util":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.util.T":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamer.util.to_iterator":{
   "__set__":true,
   "elements":[
-   "pystreamer-0.2.0-pyhd8ed1ab_0"
+   "pystreamer-0.2.0-pyhd8ed1ab_0",
+   "pystreamer-0.4.0-pyhd8ed1ab_0"
   ]
  },
  "streamz.DaskStream":{
@@ -44534,6 +44675,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44543,6 +44685,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44552,6 +44695,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44561,6 +44705,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44570,6 +44715,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44579,6 +44725,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44588,6 +44735,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44597,6 +44745,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44606,6 +44755,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44615,6 +44765,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44624,6 +44775,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44633,6 +44785,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44642,6 +44795,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44651,6 +44805,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44660,6 +44815,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44669,6 +44825,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44678,6 +44835,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44687,6 +44845,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44696,6 +44855,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44705,6 +44865,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44714,6 +44875,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44735,6 +44897,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44744,6 +44907,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44753,6 +44917,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44762,6 +44927,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44777,6 +44943,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0"
   ]
@@ -44785,6 +44952,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44794,6 +44962,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44803,6 +44972,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44830,6 +45000,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0"
   ]
@@ -44838,6 +45009,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0"
   ]
@@ -44852,6 +45024,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44867,6 +45040,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44876,6 +45050,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44885,6 +45060,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44894,6 +45070,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44903,6 +45080,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44912,6 +45090,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44921,6 +45100,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44930,6 +45110,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44939,6 +45120,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44948,6 +45130,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44957,6 +45140,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44966,6 +45150,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44975,6 +45160,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44984,6 +45170,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -44993,6 +45180,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45002,6 +45190,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45011,6 +45200,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45020,6 +45210,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45029,6 +45220,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45038,6 +45230,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45047,6 +45240,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45056,6 +45250,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45065,6 +45260,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45074,6 +45270,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45083,6 +45280,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45092,6 +45290,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45101,6 +45300,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45110,6 +45310,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45119,6 +45320,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45128,6 +45330,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45137,6 +45340,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45146,6 +45350,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45155,6 +45360,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45164,6 +45370,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45173,6 +45380,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45182,6 +45390,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45191,6 +45400,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45200,6 +45410,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45209,6 +45420,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45218,6 +45430,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45227,6 +45440,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45236,6 +45450,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45245,6 +45460,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45254,6 +45470,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45263,6 +45480,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
@@ -45272,6 +45490,7 @@
   "__set__":true,
   "elements":[
    "strec-2.0-py35_0",
+   "strec-2.0.1-py35_0",
    "strec-2.0.2-py35_0",
    "strec-2.1.1-py36_0",
    "strec-2.1.2-py36_0"
