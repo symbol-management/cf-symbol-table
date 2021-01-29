@@ -70245,34 +70245,122 @@
    "flask-testing-0.8.1-pyhd8ed1ab_0"
   ]
  },
+ "flask_user.ConfigError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.DBAdapter":{
   "__set__":true,
   "elements":[
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.DbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.EmailError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.EmailManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.PasswordManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.SQLAlchemyAdapter":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.TokenManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.UserManager":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.UserMixin":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.__author__":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.__author_email__":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.__copyright__":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.__description__":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.__license__":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.__maintainer__":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.__title__":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.__url__":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.__version__":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user._call_or_get":{
@@ -70287,10 +70375,17 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user._is_logged_in_with_confirmed_email":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user._signals":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.access":{
@@ -70317,16 +70412,35 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.allow_unconfirmed_email":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.confirm_email_required":{
   "__set__":true,
   "elements":[
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.current_app":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.current_user":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.db_adapters":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.db_adapters.DBAdapter":{
@@ -70335,22 +70449,173 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.db_adapters.DbAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.DynamoDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.MongoDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.PynamoDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.db_adapters.SQLAlchemyAdapter":{
   "__set__":true,
   "elements":[
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.db_adapters.SQLDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.db_adapter_interface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.db_adapter_interface.DbAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.dynamo_db_adapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.dynamo_db_adapter.DbAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.dynamo_db_adapter.DynamoDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.mongo_db_adapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.mongo_db_adapter.DbAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.mongo_db_adapter.MongoDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.pynamo_db_adapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.pynamo_db_adapter.DbAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.pynamo_db_adapter.PynamoDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.sql_db_adapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.sql_db_adapter.DbAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_adapters.sql_db_adapter.SQLDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_manager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_manager.ConfigError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_manager.DBManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.db_manager.current_user":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.decorators":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.decorators._call_or_get":{
   "__set__":true,
   "elements":[
    "flask-user-0.6.20-py_0"
+  ]
+ },
+ "flask_user.decorators._is_logged_in_with_confirmed_email":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.decorators.allow_unconfirmed_email":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.decorators.confirm_email_required":{
@@ -70362,19 +70627,148 @@
  "flask_user.decorators.login_required":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.decorators.roles_accepted":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.decorators.roles_required":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.EmailAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.SendgridEmailAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.email_adapter_interface.ConfigError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.email_adapter_interface.EmailAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendgrid_email_adapter.ConfigError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendgrid_email_adapter.EmailAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendgrid_email_adapter.SENDGRID_IMPORT_ERROR_MESSAGE":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendgrid_email_adapter.SendgridEmailAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendgrid_email_adapter.current_app":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendmail_email_adapter.ConfigError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendmail_email_adapter.EmailAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendmail_email_adapter.SendmailEmailAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.sendmail_email_adapter.current_app":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.smtp_email_adapter.ConfigError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.smtp_email_adapter.EmailAdapterInterface":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.smtp_email_adapter.EmailError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_adapters.smtp_email_adapter.SMTPEmailAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_manager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_manager.ConfigError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.email_manager.EmailManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.emails":{
@@ -70440,31 +70834,42 @@
  "flask_user.forms":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.AddEmailForm":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.ChangePasswordForm":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.ChangeUsernameForm":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.forms.EditUserProfileForm":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.ForgotPasswordForm":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.InviteForm":{
@@ -70473,16 +70878,24 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.forms.InviteUserForm":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.forms.LoginForm":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.RegisterForm":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.ResendConfirmEmailForm":{
@@ -70491,34 +70904,81 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.forms.ResendEmailConfirmationForm":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.forms.ResetPasswordForm":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.forms._admin_page":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.forms._home_page":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.forms._member_page":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.forms._profile_page":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.forms._sign_in":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.forms._sign_out":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.password_validator":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.unique_email_validator":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.unique_username_validator":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.forms.username_validator":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.get_translations":{
@@ -70527,10 +70987,47 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.legacy_error":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.legacy_error.DbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.legacy_error.LEGACY_ERROR":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.legacy_error.SQLAlchemyAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.login_required":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.password_manager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.password_manager.PasswordManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.passwords":{
@@ -70560,13 +71057,15 @@
  "flask_user.roles_accepted":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.roles_required":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.settings":{
@@ -70590,121 +71089,141 @@
  "flask_user.signals":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals._signals":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_changed_password":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_changed_username":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_confirmed_email":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_forgot_password":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_logged_in":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_logged_out":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_registered":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_reset_password":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.signals.user_sent_invitation":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.__author__":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.conftest":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.conftest.TstClient":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.conftest.app":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.conftest.client":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.conftest.db":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.conftest.init_app":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.conftest.session":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.test_authorization":{
@@ -70728,7 +71247,8 @@
  "flask_user.tests.test_invalid_forms":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.test_invalid_forms.INVALID_EMAIL":{
@@ -70746,13 +71266,15 @@
  "flask_user.tests.test_invalid_forms.invalid_passwords":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.test_invalid_forms.invalid_usernames":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.test_invalid_forms.response_has_string":{
@@ -70797,6 +71319,12 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.tests.test_invalid_forms.test_invalid_login":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.tests.test_invalid_forms.test_invalid_login_with_email_form":{
   "__set__":true,
   "elements":[
@@ -70807,6 +71335,18 @@
   "__set__":true,
   "elements":[
    "flask-user-0.6.20-py_0"
+  ]
+ },
+ "flask_user.tests.test_invalid_forms.test_invalid_misc":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_invalid_forms.test_invalid_register":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.test_invalid_forms.test_invalid_register_with_email_form":{
@@ -70869,6 +71409,12 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.tests.test_misc":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.tests.test_multiple_emails":{
   "__set__":true,
   "elements":[
@@ -70890,7 +71436,38 @@
  "flask_user.tests.test_roles":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_roles.allow_unconfirmed_email":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_roles.login_required":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_roles.roles_accepted":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_roles.roles_required":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_roles.test_decorators":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.test_roles.test_roles":{
@@ -71025,22 +71602,139 @@
    "flask-user-0.6.20-py_0"
   ]
  },
+ "flask_user.tests.test_views":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_change_password_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_change_username_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_confirm_email_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_edit_user_profile":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_email_action_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_forgot_password_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_invite_user_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_login_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_logout_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_register_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_resend_email_confirmation_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_views.test_reset_password_view":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_zzz_db_adapters":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_zzz_db_adapters.DBManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_zzz_db_adapters.MongoDbAdapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.test_zzz_db_adapters.test_mongoengine_db_adapter":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
  "flask_user.tests.tst_app":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.ConfigClass":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.tst_app.CustomUserManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.tst_app.ORM_type":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.Role":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.SQLAlchemyAdapter":{
@@ -71052,25 +71746,35 @@
  "flask_user.tests.tst_app.User":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.UserManager":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.UserMixin":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.app":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.tst_app.babel":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.confirm_email_required":{
@@ -71082,55 +71786,94 @@
  "flask_user.tests.tst_app.db":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.init_app":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.login_required":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_app.roles_required":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_utils":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_utils.TstClient":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_utils.response_has_errors":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_utils.response_has_no_errors":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tests.tst_utils.response_has_string":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.utils":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.tests.utils.utils_prepare_user":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.token_manager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.token_manager.ConfigError":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.token_manager.TokenManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.tokens":{
@@ -71143,6 +71886,48 @@
   "__set__":true,
   "elements":[
    "flask-user-0.6.20-py_0"
+  ]
+ },
+ "flask_user.translation_utils":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.translation_utils._translations_dir":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.translation_utils.domain_translations":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.translation_utils.get_language_codes":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.translation_utils.gettext":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.translation_utils.init_translations":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.translation_utils.lazy_gettext":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.translations":{
@@ -71196,55 +71981,124 @@
  "flask_user.user_changed_password":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.user_changed_username":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.user_confirmed_email":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.user_forgot_password":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.user_logged_in":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.user_logged_out":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_manager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_manager.UserManager":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_manager__settings":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_manager__settings.UserManager__Settings":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_manager__utils":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_manager__utils.UserManager__Utils":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_manager__views":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_manager__views.UserManager__Views":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_mixin":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
+  ]
+ },
+ "flask_user.user_mixin.UserMixin":{
+  "__set__":true,
+  "elements":[
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.user_registered":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.user_reset_password":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.user_sent_invitation":{
   "__set__":true,
   "elements":[
-   "flask-user-0.6.20-py_0"
+   "flask-user-0.6.20-py_0",
+   "flask-user-1.0.1.2-py_0"
   ]
  },
  "flask_user.views":{
