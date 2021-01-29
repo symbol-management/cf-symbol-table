@@ -81901,13 +81901,62 @@
  "tests.system":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
+  ]
+ },
+ "tests.system.Config":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.system.TestBigQuery":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
   ]
  },
  "tests.system.TestMonitoring":{
   "__set__":true,
   "elements":[
    "google-cloud-monitoring-0.24.0-py36_0"
+  ]
+ },
+ "tests.system.WHERE":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.system._has_rows":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.system._load_json_schema":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.system._make_dataset_name":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.system._rate_limit_exceeded":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.system.retry_403":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
   ]
  },
  "tests.system.retry_404":{
@@ -81932,6 +81981,12 @@
   "__set__":true,
   "elements":[
    "google-cloud-monitoring-0.24.0-py36_0"
+  ]
+ },
+ "tests.system.setUpModule":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
   ]
  },
  "tests.tapenade_tests":{
@@ -113876,6 +113931,7 @@
  "tests.unit":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0",
    "jupyterlab-git-0.5.0-py_0",
    "pyproprop-0.3.0-py_0",
@@ -115126,15 +115182,215 @@
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
+ "tests.unit.test__helpers":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_AbstractQueryParameter":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_ArrayQueryParameter":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_ConfigurationProperty":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_EnumProperty":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_QueryParametersProperty":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_ScalarQueryParameter":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_StructQueryParameter":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_TypedProperty":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_UDFResourcesProperty":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_bool_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_bool_to_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_bytes_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_bytes_to_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_date_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_date_to_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_datetime_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_datetime_to_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_float_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_float_to_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_int_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_int_to_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_not_null":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_record_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_row_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_rows_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_string_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_time_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_time_to_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_timestamp_from_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers.Test_timestamp_to_json":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers._Field":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test__helpers._make_subparam":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
  "tests.unit.test__http":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
  "tests.unit.test__http.TestConnection":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
@@ -115253,6 +115509,7 @@
  "tests.unit.test_client":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
@@ -115265,18 +115522,21 @@
  "tests.unit.test_client.TestClient":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
  "tests.unit.test_client._Connection":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
  "tests.unit.test_client._make_credentials":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
@@ -115317,6 +115577,36 @@
   "__set__":true,
   "elements":[
    "jupyterlab-git-0.8-py_0"
+  ]
+ },
+ "tests.unit.test_dataset":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_dataset.TestAccessGrant":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_dataset.TestDataset":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_dataset._Client":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_dataset._Connection":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
   ]
  },
  "tests.unit.test_diff":{
@@ -115424,6 +115714,60 @@
   "elements":[
    "jupyterlab-git-0.5.0-py_0",
    "jupyterlab-git-0.8-py_0"
+  ]
+ },
+ "tests.unit.test_job":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_job.TestCopyJob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_job.TestExtractTableToStorageJob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_job.TestLoadTableFromStorageJob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_job.TestQueryJob":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_job._Base":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_job._Client":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_job._Connection":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_job._Table":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
   ]
  },
  "tests.unit.test_key":{
@@ -115580,6 +115924,7 @@
  "tests.unit.test_query":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
@@ -115661,6 +116006,12 @@
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
+ "tests.unit.test_query.TestQueryResults":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
  "tests.unit.test_query.TestReducer":{
   "__set__":true,
   "elements":[
@@ -115688,12 +116039,14 @@
  "tests.unit.test_query._Client":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
  "tests.unit.test_query._Connection":{
   "__set__":true,
   "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0",
    "google-cloud-monitoring-0.24.0-py36_0"
   ]
  },
@@ -115737,6 +116090,18 @@
   "__set__":true,
   "elements":[
    "google-cloud-monitoring-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_schema":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_schema.TestSchemaField":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
   ]
  },
  "tests.unit.test_str_format_function":{
@@ -115889,6 +116254,78 @@
    "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.3-pyhd8ed1ab_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.unit.test_table":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table.TestTable":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table.Test_build_schema_resource":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table.Test_parse_schema_resource":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table._Client":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table._Connection":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table._Dataset":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table._HTTP":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table._Query":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table._Responder":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table._SchemaBase":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
+  ]
+ },
+ "tests.unit.test_table._email_chunk_parser":{
+  "__set__":true,
+  "elements":[
+   "google-cloud-bigquery-0.24.0-py36_0"
   ]
  },
  "tests.unit.test_timeseries":{
