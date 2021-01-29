@@ -66624,6 +66624,7 @@
    "trio_asyncio-0.11.0-py38h32f6830_2",
    "trio_asyncio-0.11.0-py39hde42818_2",
    "trio_asyncio-0.8.0-py36_0",
+   "typhos-1.0.1-py_0",
    "xclim-0.10.8b0-py_0"
   ]
  },
@@ -66641,10 +66642,22 @@
    "cloudpathlib-0.1.2-py39ha770c72_0"
   ]
  },
+ "tests.conftest.ConfiguredSynAxis":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.conftest.DBD_FILE":{
   "__set__":true,
   "elements":[
    "pytmc-2.6.6-py_0"
+  ]
+ },
+ "tests.conftest.DeadSignal":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.ENV":{
@@ -66678,10 +66691,22 @@
    "pytmc-2.6.6-py_0"
   ]
  },
+ "tests.conftest.MODULE_PATH":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.conftest.MockComm":{
   "__set__":true,
   "elements":[
    "pydeck-0.4.1-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.conftest.MockDevice":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.PROJ_ROOT":{
@@ -66695,6 +66720,18 @@
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0"
+  ]
+ },
+ "tests.conftest.RandomSignal":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.conftest.RichSignal":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.S3_PREFIX":{
@@ -66860,6 +66897,12 @@
    "pyathena-1.5.0-py27_0"
   ]
  },
+ "tests.conftest._show_widgets":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.conftest._structure_dir":{
   "__set__":true,
   "elements":[
@@ -66887,6 +66930,12 @@
    "trio_asyncio-0.11.0-py38h32f6830_2",
    "trio_asyncio-0.11.0-py39hde42818_2",
    "trio_asyncio-0.8.0-py36_0"
+  ]
+ },
+ "tests.conftest.application":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.areacella":{
@@ -66941,6 +66990,18 @@
   "__set__":true,
   "elements":[
    "amset-0.4.6-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.conftest.clear_handlers":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.conftest.client":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.connection_creator":{
@@ -67003,6 +67064,12 @@
   "__set__":true,
   "elements":[
    "tinydb-3.2.0-py34_0"
+  ]
+ },
+ "tests.conftest.device":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.download_release":{
@@ -67126,6 +67193,12 @@
    "tomlkit-0.7.0-py39h2804cbe_2"
   ]
  },
+ "tests.conftest.happi_cfg":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.conftest.huss_series":{
   "__set__":true,
   "elements":[
@@ -67225,7 +67298,8 @@
  "tests.conftest.logger":{
   "__set__":true,
   "elements":[
-   "pytmc-2.6.6-py_0"
+   "pytmc-2.6.6-py_0",
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.loop":{
@@ -67255,6 +67329,12 @@
   "__set__":true,
   "elements":[
    "pydeck-0.4.1-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.conftest.motor":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.mp_id":{
@@ -67363,7 +67443,8 @@
  "tests.conftest.pytest_addoption":{
   "__set__":true,
   "elements":[
-   "disk-objectstore-0.5.0-pyhd8ed1ab_0"
+   "disk-objectstore-0.5.0-pyhd8ed1ab_0",
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.pytest_generate_tests":{
@@ -67505,6 +67586,12 @@
    "xclim-0.10.8b0-py_0"
   ]
  },
+ "tests.conftest.qapp":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.conftest.random_xy_dataset_clf":{
   "__set__":true,
   "elements":[
@@ -67574,6 +67661,12 @@
    "cloudpathlib-0.1.1-py36h9f0ad1d_0",
    "cloudpathlib-0.1.1-py38h32f6830_0",
    "cloudpathlib-0.1.2-py39ha770c72_0"
+  ]
+ },
+ "tests.conftest.save_image":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.scale_ordinal":{
@@ -67671,6 +67764,12 @@
    "quilt3-3.1.9-py37_0"
   ]
  },
+ "tests.conftest.show_widget":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.conftest.storage":{
   "__set__":true,
   "elements":[
@@ -67733,6 +67832,12 @@
   "__set__":true,
   "elements":[
    "amset-0.4.6-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.conftest.test_images":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.conftest.tmc_arbiter_plc":{
@@ -78067,6 +78172,72 @@
    "pybtex-0.23.0-py39hde42818_0"
   ]
  },
+ "tests.plugins":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_core":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_core.test_array_signal_put_value":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_core.test_array_signal_send_value":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_core.test_disconnection":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_core.test_metadata":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_core.test_signal_connection":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_happi":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_happi.test_bad_address_smoke":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_happi.test_connection":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.plugins.test_happi.test_happi_is_optional":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.post_processor":{
   "__set__":true,
   "elements":[
@@ -86974,7 +87145,20 @@
  "tests.test_benchmark":{
   "__set__":true,
   "elements":[
-   "disk-objectstore-0.5.0-pyhd8ed1ab_0"
+   "disk-objectstore-0.5.0-pyhd8ed1ab_0",
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_benchmark.inner_benchmark":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_benchmark.test_benchmark":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_benchmark.test_has_objects":{
@@ -87017,6 +87201,12 @@
   "__set__":true,
   "elements":[
    "disk-objectstore-0.5.0-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.test_benchmark.test_profiler":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_bitbucket_cloud":{
@@ -87472,7 +87662,8 @@
    "suds-jurko-0.6-py36h9f0ad1d_1002",
    "suds-jurko-0.6-py36hc560c46_1002",
    "suds-jurko-0.6-py37hc8dfbb8_1002",
-   "suds-jurko-0.6-py38_1001"
+   "suds-jurko-0.6-py38_1001",
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_cache.InvisibleMan":{
@@ -87501,6 +87692,18 @@
    "suds-jurko-0.6-py36hc560c46_1002",
    "suds-jurko-0.6-py37hc8dfbb8_1002",
    "suds-jurko-0.6-py38_1001"
+  ]
+ },
+ "tests.test_cache.describe_cache":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_cache.ensure_cache_clear":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_cache.test_Cache":{
@@ -87571,6 +87774,18 @@
    "suds-jurko-0.6-py36hc560c46_1002",
    "suds-jurko-0.6-py37hc8dfbb8_1002",
    "suds-jurko-0.6-py38_1001"
+  ]
+ },
+ "tests.test_cache.test_describe_cache_signal":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_cache.test_widget_type_signal":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_cache.value_empty":{
@@ -88193,7 +88408,8 @@
    "quilt3-3.1.9-py36_0",
    "quilt3-3.1.9-py37_0",
    "saws-0.4.3-py37_0",
-   "saws-0.4.3-py38_1"
+   "saws-0.4.3-py38_1",
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_cli.CliTest":{
@@ -88273,6 +88489,30 @@
    "quilt3-3.1.9-py37_0"
   ]
  },
+ "tests.test_cli.test_cli_bad_entry":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_cli.test_cli_benchmark":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_cli.test_cli_class":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_cli.test_cli_happi_cfg":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_cli.test_cli_multiple_files":{
   "__set__":true,
   "elements":[
@@ -88285,10 +88525,40 @@
    "jupytext-0.8.6-0"
   ]
  },
+ "tests.test_cli.test_cli_no_entry":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_cli.test_cli_profile_modules":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_cli.test_cli_profile_output":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_cli.test_cli_single_file":{
   "__set__":true,
   "elements":[
    "jupytext-0.8.6-0"
+  ]
+ },
+ "tests.test_cli.test_cli_stylesheet":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_cli.test_cli_version":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_cli.test_combine_lower_version_raises":{
@@ -89491,6 +89761,36 @@
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0"
+  ]
+ },
+ "tests.test_console":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_console.test_add_fake_device":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_console.test_add_happi_device":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_console.test_add_importable_device":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_console.test_base_console":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_constraints":{
@@ -91172,6 +91472,18 @@
    "oddt-0.7-pyh500f238_0"
   ]
  },
+ "tests.test_designer":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_designer.test_typhos_panel_plugin_smoke":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_dictcursor":{
   "__set__":true,
   "elements":[
@@ -91306,6 +91618,84 @@
    "andes-1.1.2-py37hc8dfbb8_0",
    "andes-1.1.3-py37hc8dfbb8_0",
    "andes-1.1.5-py38h32f6830_0"
+  ]
+ },
+ "tests.test_display":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.show_switcher":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_device_display":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_device_title":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_device_class_property":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_device_name_property":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_force_template":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_modified_templates":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_type_change":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_with_channel":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_with_md":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_with_py_file":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_display.test_display_without_md":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_doclets":{
@@ -93705,6 +94095,78 @@
   "__set__":true,
   "elements":[
    "pyathena-1.5.0-py27_0"
+  ]
+ },
+ "tests.test_func":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.MyDevice":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.func_display":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.kwargs":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.method_button":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.test_func_display_creation":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.test_func_docstrings":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.test_func_exceptions":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.test_func_execution":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.test_func_panel":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.test_method_button_execute":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_func.test_method_button_use_status":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_functions":{
@@ -98935,6 +99397,24 @@
    "jupytext-0.8.6-0"
   ]
  },
+ "tests.test_log":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_log.get_handlers":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_log.test_log_display":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_logger.TestLoggerMethods":{
   "__set__":true,
   "elements":[
@@ -102664,6 +103144,78 @@
    "pyathena-1.5.0-py27_0"
   ]
  },
+ "tests.test_panel":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.panel":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.test_add_dead_signal":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.test_add_pv":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.test_panel_add_enum":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.test_panel_creation":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.test_signal_widget_image":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.test_signal_widget_waveform":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.test_typhos_panel":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.type_cache":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.typhos_signal_panel":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_panel.wait_panel":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_param":{
   "__set__":true,
   "elements":[
@@ -103743,6 +104295,42 @@
    "bamnostic-0.8.4-py_0"
   ]
  },
+ "tests.test_plot":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_plot.sim_signal":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_plot.test_add_signal":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_plot.test_curve_creation_button":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_plot.test_curve_methods":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_plot.test_device_plot":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_pool":{
   "__set__":true,
   "elements":[
@@ -103909,6 +104497,78 @@
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0"
+  ]
+ },
+ "tests.test_positioner":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.SimMotor":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_fixed_limits":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_last_move":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_moving_property":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_negative_tweak":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_no_limits":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_positive_tweak":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_readback":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_set":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_stop":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_positioner.test_positioner_widget_with_signal_limits":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_postman":{
@@ -109053,6 +109713,36 @@
    "esmlab-2019.2.28-py_0"
   ]
  },
+ "tests.test_status":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_status.Listener":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_status.test_previously_done_status_in_thread":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_status.test_status_thread_completed":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_status.test_status_thread_timeout":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_stomp":{
   "__set__":true,
   "elements":[
@@ -110054,6 +110744,102 @@
   "__set__":true,
   "elements":[
    "sphinx-js-3.0.1-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.test_suite":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_device_parameter_tree":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_hide_embedded_display":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_embed_device":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_get_subdisplay_by_device":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_get_subdisplay_by_name":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_hide_subdisplay_by_device":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_hide_subdisplay_by_parameter":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_hide_subdisplays":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_save":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_show_display_by_device":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_show_display_by_parameter":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_subdisplay_parentage":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_tools":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_with_child_devices":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_suite.test_suite_without_children":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_supercell":{
@@ -113217,6 +114003,7 @@
    "tomlkit-0.7.0-py38h32f6830_0",
    "tomlkit-0.7.0-py38h32f6830_1",
    "tomlkit-0.7.0-py39h2804cbe_2",
+   "typhos-1.0.1-py_0",
    "xclim-0.10.8b0-py_0"
   ]
  },
@@ -113231,6 +114018,12 @@
   "elements":[
    "flask-restplus-0.9.2-py27_0",
    "flask-restplus-0.9.2-py34_0"
+  ]
+ },
+ "tests.test_utils.Class1":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_utils.LEFT_RIGHT_PAIRS":{
@@ -113251,11 +114044,23 @@
    "disk-objectstore-0.5.0-pyhd8ed1ab_0"
   ]
  },
+ "tests.test_utils.LayeredDevice":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_utils.MergeTestCase":{
   "__set__":true,
   "elements":[
    "flask-restplus-0.9.2-py27_0",
    "flask-restplus-0.9.2-py34_0"
+  ]
+ },
+ "tests.test_utils.NestedDevice":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_utils.SampleTest":{
@@ -113409,6 +114214,12 @@
    "great-expectations-0.4.3-py_0"
   ]
  },
+ "tests.test_utils.channel":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_utils.check_help_all_output":{
   "__set__":true,
   "elements":[
@@ -113441,6 +114252,12 @@
    "great-expectations-0.4.3-py_0"
   ]
  },
+ "tests.test_utils.is_conda_installed":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_utils.test_callback_stream_wrapper":{
   "__set__":true,
   "elements":[
@@ -113469,6 +114286,12 @@
   "__set__":true,
   "elements":[
    "oddt-0.7-pyh500f238_0"
+  ]
+ },
+ "tests.test_utils.test_clean_name":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_utils.test_combinations_of_len":{
@@ -113610,6 +114433,12 @@
    "disk-objectstore-0.5.0-pyhd8ed1ab_0"
   ]
  },
+ "tests.test_utils.test_load_suite":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_utils.test_lru_cache":{
   "__set__":true,
   "elements":[
@@ -113628,6 +114457,12 @@
   "__set__":true,
   "elements":[
    "disk-objectstore-0.5.0-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.test_utils.test_no_device_lazy_load":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_utils.test_nullcontext":{
@@ -113706,6 +114541,18 @@
    "tomlkit-0.7.0-py39h2804cbe_2"
   ]
  },
+ "tests.test_utils.test_path_search":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_utils.test_qtdesigner_env":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_utils.test_rename_callback":{
   "__set__":true,
   "elements":[
@@ -113716,6 +114563,18 @@
   "__set__":true,
   "elements":[
    "disk-objectstore-0.5.0-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.test_utils.test_stylesheet":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_utils.test_typhosbase_repaint_smoke":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
   ]
  },
  "tests.test_utils.test_unknown_compressers":{
@@ -114606,6 +115465,54 @@
    "matrixprofile-1.1.10-py38h347fdf6_0"
   ]
  },
+ "tests.test_widgets":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_widgets.DialogButton":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_widgets.test_dialog_button_instances_smoke":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_widgets.test_line_edit_history":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_widgets.test_sidebar_item":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_widgets.test_signal_dialog_button_repeated_show":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_widgets.test_signal_dialog_button_show":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.test_widgets.widget_button":{
+  "__set__":true,
+  "elements":[
+   "typhos-1.0.1-py_0"
+  ]
+ },
  "tests.test_widgets_charts":{
   "__set__":true,
   "elements":[
@@ -115418,7 +116325,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.basiclayer_test.DummyLayer":{
@@ -115428,7 +116336,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.basiclayer_test.DummyParameters":{
@@ -115438,7 +116347,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.basiclayer_test.TestBasicLayer":{
@@ -115448,7 +116358,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.classdistribution_test":{
@@ -115457,7 +116368,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.classdistribution_test.TestClassDistribution":{
@@ -115466,7 +116378,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.iterators_test":{
@@ -115476,7 +116389,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.iterators_test.TestIterators":{
@@ -115486,7 +116400,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.lattice_test":{
@@ -115496,7 +116411,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.lattice_test.TestLattice":{
@@ -115506,7 +116422,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.latticedecoder_test":{
@@ -115516,7 +116433,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.latticedecoder_test.DummyLatticeDecoder":{
@@ -115526,7 +116444,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.latticedecoder_test.DummyNetwork":{
@@ -115536,7 +116455,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.latticedecoder_test.TestLatticeDecoder":{
@@ -115546,7 +116466,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.operations_test":{
@@ -115555,14 +116476,16 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.operations_test.Test":{
   "__set__":true,
   "elements":[
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.probfunctions_test":{
@@ -115572,7 +116495,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.probfunctions_test.TestProbFunctions":{
@@ -115582,7 +116506,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.recurrentstate_test":{
@@ -115592,7 +116517,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.recurrentstate_test.TestRecurrentState":{
@@ -115602,7 +116528,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.score_test":{
@@ -115612,7 +116539,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.score_test.TestScore":{
@@ -115622,7 +116550,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.statistics_test":{
@@ -115632,7 +116561,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.statistics_test.TestStatistics":{
@@ -115642,7 +116572,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.textsampler_test":{
@@ -115652,7 +116583,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.textsampler_test.DummyNetwork":{
@@ -115662,7 +116594,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.textsampler_test.TestTextSampler":{
@@ -115672,7 +116605,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.textscorer_test":{
@@ -115682,7 +116616,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.textscorer_test.DummyNetwork":{
@@ -115692,7 +116627,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.textscorer_test.TestTextScorer":{
@@ -115702,7 +116638,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.trainers_test":{
@@ -115712,7 +116649,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.trainers_test.DummyTrainer":{
@@ -115722,7 +116660,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.trainers_test.TestTrainers":{
@@ -115732,7 +116671,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.vocabulary_test":{
@@ -115742,7 +116682,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.vocabulary_test.TestVocabulary":{
@@ -115752,7 +116693,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.wordclass_test":{
@@ -115762,7 +116704,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.theanolm.wordclass_test.TestWordClass":{
@@ -115772,7 +116715,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.tools":{
@@ -121674,7 +122618,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.wordclasses.bigramoptimizer_test.TestBigramOptimizer":{
@@ -121684,7 +122629,8 @@
    "theanolm-1.2.2-py36_0",
    "theanolm-1.2.3-py35_0",
    "theanolm-1.3.0-py35_0",
-   "theanolm-1.3.0-py36_1000"
+   "theanolm-1.3.0-py36_1000",
+   "theanolm-1.3.0-py38_1000"
   ]
  },
  "tests.wsdl_input":{
