@@ -59158,6 +59158,7 @@
    "regex-2017.04.05-py36_0",
    "regex-2017.04.23-py36_0",
    "regex-2017.04.29-py35_0",
+   "regex-2017.05.26-py35_0",
    "regex-2017.06.07-py36_0",
    "regex-2017.06.20-py36_0",
    "regex-2017.06.23-py35_0",
@@ -59213,6 +59214,7 @@
    "regex-2017.04.23-py36_0",
    "regex-2017.04.29-py35_0",
    "regex-2017.05.26-py27_0",
+   "regex-2017.05.26-py35_0",
    "regex-2017.06.07-py27_0",
    "regex-2017.06.07-py36_0",
    "regex-2017.06.20-py36_0",
@@ -59274,6 +59276,7 @@
    "regex-2017.04.05-py36_0",
    "regex-2017.04.23-py36_0",
    "regex-2017.04.29-py35_0",
+   "regex-2017.05.26-py35_0",
    "regex-2017.06.07-py36_0",
    "regex-2017.06.20-py36_0",
    "regex-2017.06.23-py35_0",
@@ -59352,6 +59355,7 @@
    "regex-2017.04.23-py36_0",
    "regex-2017.04.29-py35_0",
    "regex-2017.05.26-py27_0",
+   "regex-2017.05.26-py35_0",
    "regex-2017.06.07-py27_0",
    "regex-2017.06.07-py36_0",
    "regex-2017.06.20-py36_0",
@@ -68853,6 +68857,7 @@
    "pykafka-2.8.0-py36h779f372_1002",
    "pykafka-2.8.0-py36hfa6e2cd_1000",
    "pykafka-2.8.0-py38h1290c3a_1002",
+   "pymapd-0.15.0-py_0",
    "pyproprop-0.3.0-py_0",
    "pyproprop-0.4.3-pyhd8ed1ab_0",
    "pyproprop-0.4.4-pyhd8ed1ab_0",
@@ -69149,6 +69154,12 @@
    "quilt3-3.1.9-py37_0"
   ]
  },
+ "tests.conftest._check_open":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
  "tests.conftest._create_database":{
   "__set__":true,
   "elements":[
@@ -69220,6 +69231,12 @@
   "__set__":true,
   "elements":[
    "pyathena-1.5.0-py27_0"
+  ]
+ },
+ "tests.conftest._tests_table_no_nulls":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.conftest.all_tasks":{
@@ -69315,6 +69332,12 @@
   "__set__":true,
   "elements":[
    "typhos-1.0.1-py_0"
+  ]
+ },
+ "tests.conftest.con":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.conftest.connection_creator":{
@@ -69518,6 +69541,12 @@
    "autouri-0.2.2-py_0"
   ]
  },
+ "tests.conftest.gen_string":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
  "tests.conftest.general_checks":{
   "__set__":true,
   "elements":[
@@ -69717,6 +69746,12 @@
    "trio_asyncio-0.8.0-py36_0"
   ]
  },
+ "tests.conftest.mapd_server":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
  "tests.conftest.materials":{
   "__set__":true,
   "elements":[
@@ -69777,6 +69812,12 @@
    "autouri-0.2.2-py_0"
   ]
  },
+ "tests.conftest.mock_client":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
  "tests.conftest.mock_comm":{
   "__set__":true,
   "elements":[
@@ -69821,6 +69862,12 @@
    "clisops-0.3.1-py36h9f0ad1d_0",
    "clisops-0.3.1-py38h32f6830_0",
    "xclim-0.10.8b0-py_0"
+  ]
+ },
+ "tests.conftest.no_gpu":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.conftest.nonmeta_checks":{
@@ -92884,7 +92931,8 @@
   "__set__":true,
   "elements":[
    "aiomysql-0.0.9-py35_0",
-   "aiomysql-0.0.9-py36_0"
+   "aiomysql-0.0.9-py36_0",
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_connection.AIOPyMySQLTestCase":{
@@ -92901,11 +92949,29 @@
    "aiomysql-0.0.9-py36_0"
   ]
  },
+ "tests.test_connection.TestConnect":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
  "tests.test_connection.TestConnection":{
   "__set__":true,
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0"
+  ]
+ },
+ "tests.test_connection.TestExtras":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_connection.TestURI":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_connection.run_until_complete":{
@@ -93733,7 +93799,8 @@
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0",
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_cursor.ENV":{
@@ -93759,7 +93826,8 @@
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0",
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_cursor.base":{
@@ -93767,6 +93835,12 @@
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0"
+  ]
+ },
+ "tests.test_cursor.mock_connection":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_cursor.run_until_complete":{
@@ -93883,6 +93957,30 @@
   "__set__":true,
   "elements":[
    "deepforest-0.3.2-py36h0130604_1"
+  ]
+ },
+ "tests.test_data_no_nulls_cpu":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_data_no_nulls_cpu.TestCPUDataNoNulls":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_data_no_nulls_gpu":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_data_no_nulls_gpu.TestGPUDataNoNulls":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_data_object":{
@@ -94249,6 +94347,18 @@
    "suds-jurko-0.6-py36hc560c46_1002",
    "suds-jurko-0.6-py37hc8dfbb8_1002",
    "suds-jurko-0.6-py38_1001"
+  ]
+ },
+ "tests.test_deallocate":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_deallocate.TestDeallocate":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_decisiontrees":{
@@ -99422,6 +99532,36 @@
    "flask-restplus-0.9.2-py34_0"
   ]
  },
+ "tests.test_integration":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_integration.TestExtras":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_integration.TestIntegration":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_integration.TestLoaders":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_integration.TestOptionalImports":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
  "tests.test_integrations":{
   "__set__":true,
   "elements":[
@@ -99530,6 +99670,54 @@
   "__set__":true,
   "elements":[
    "amset-0.4.6-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.test_ipc":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_ipc.TestIPC":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_ipc.arrdelay":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_ipc.batch":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_ipc.data_data":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_ipc.depdelay":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_ipc.make_data_batch":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_ipc.schema_data":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_ipynb_to_R":{
@@ -102865,6 +103053,24 @@
   "__set__":true,
   "elements":[
    "jupytext-0.8.6-0"
+  ]
+ },
+ "tests.test_loaders":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_loaders.TestLoaders":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_loaders.assert_columnar_equal":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_log":{
@@ -111361,6 +111567,18 @@
   "__set__":true,
   "elements":[
    "pyathena-1.5.0-py27_0"
+  ]
+ },
+ "tests.test_results_set":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
+  ]
+ },
+ "tests.test_results_set.TestRowResults":{
+  "__set__":true,
+  "elements":[
+   "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_rmd_to_ipynb":{
