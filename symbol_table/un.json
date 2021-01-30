@@ -6931,6 +6931,12 @@
    "unittest2pytest-0.3-py35_0"
   ]
  },
+ "unyt.K":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
  "unyt.Unit":{
   "__set__":true,
   "elements":[
@@ -6942,7 +6948,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.UnitRegistry":{
@@ -6956,7 +6963,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.UnitSystem":{
@@ -6970,7 +6978,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.__version__":{
@@ -6984,7 +6993,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._on_demand_imports":{
@@ -6998,7 +7008,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._on_demand_imports.NotAModule":{
@@ -7012,7 +7023,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._on_demand_imports._astropy":{
@@ -7026,7 +7038,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._on_demand_imports._h5py":{
@@ -7040,7 +7053,14 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt._on_demand_imports._matplotlib":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._on_demand_imports._pint":{
@@ -7054,7 +7074,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._on_demand_imports.astropy_imports":{
@@ -7068,7 +7089,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._on_demand_imports.h5py_imports":{
@@ -7082,7 +7104,14 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt._on_demand_imports.matplotlib_imports":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._on_demand_imports.pint_imports":{
@@ -7096,49 +7125,57 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._parsing":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._parsing.UnitParseError":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._parsing._auto_positive_symbol":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._parsing.global_dict":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._parsing.inv_name_alternatives":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._parsing.parse_unyt_expr":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._parsing.unit_text_transform":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios":{
@@ -7152,7 +7189,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.HUGE":{
@@ -7166,7 +7204,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.J_per_eV":{
@@ -7180,7 +7219,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.J_per_keV":{
@@ -7194,7 +7234,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.K_per_keV":{
@@ -7208,7 +7249,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.TINY":{
@@ -7222,7 +7264,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.amu_grams":{
@@ -7236,7 +7279,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.amu_kg":{
@@ -7250,7 +7294,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.ang_per_m":{
@@ -7264,7 +7309,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.au_per_m":{
@@ -7278,7 +7324,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.au_per_mpc":{
@@ -7292,14 +7339,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.avogadros_number":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.boltzmann_constant_J_per_K":{
@@ -7313,7 +7362,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.cm_per_km":{
@@ -7327,7 +7377,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.cm_per_m":{
@@ -7341,7 +7392,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.cm_per_mpc":{
@@ -7355,7 +7407,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.cm_per_pc":{
@@ -7369,7 +7422,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.day_per_year":{
@@ -7383,7 +7437,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.eV_per_erg":{
@@ -7397,7 +7452,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.eps_0":{
@@ -7411,7 +7467,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.erg_per_eV":{
@@ -7425,7 +7482,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.erg_per_keV":{
@@ -7439,7 +7497,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.erg_per_s_per_watt":{
@@ -7453,7 +7512,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.hbar_mks":{
@@ -7467,7 +7527,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.jansky_mks":{
@@ -7481,7 +7542,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.keV_per_K":{
@@ -7495,7 +7557,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.keV_per_erg":{
@@ -7509,7 +7572,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.kelvin_per_rankine":{
@@ -7523,7 +7587,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.kg_per_pound":{
@@ -7537,7 +7602,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.km_per_cm":{
@@ -7551,7 +7617,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.km_per_m":{
@@ -7565,7 +7632,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.km_per_mpc":{
@@ -7579,7 +7647,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.km_per_pc":{
@@ -7593,7 +7662,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.kpc_per_m":{
@@ -7607,7 +7677,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.kpc_per_mpc":{
@@ -7621,7 +7692,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.luminosity_sun_watts":{
@@ -7635,7 +7707,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.ly_per_m":{
@@ -7649,7 +7722,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_ang":{
@@ -7663,7 +7737,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_au":{
@@ -7677,7 +7752,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_cm":{
@@ -7691,7 +7767,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_fpc":{
@@ -7705,7 +7782,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_ft":{
@@ -7719,7 +7797,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_inch":{
@@ -7733,7 +7812,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_km":{
@@ -7747,7 +7827,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_kpc":{
@@ -7761,7 +7842,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_ly":{
@@ -7775,7 +7857,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_mpc":{
@@ -7789,7 +7872,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_pc":{
@@ -7803,7 +7887,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_rearth":{
@@ -7817,7 +7902,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_rjup":{
@@ -7831,7 +7917,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.m_per_rsun":{
@@ -7845,7 +7932,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_earth_kg":{
@@ -7859,7 +7947,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_electron_kg":{
@@ -7873,7 +7962,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_hydrogen_kg":{
@@ -7887,7 +7977,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_jupiter_kg":{
@@ -7901,7 +7992,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_mars_kg":{
@@ -7915,7 +8007,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_mean_atomic_cosmology":{
@@ -7929,7 +8022,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_mean_atomic_galactic":{
@@ -7943,7 +8037,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_mercury_kg":{
@@ -7957,7 +8052,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_neptune_kg":{
@@ -7971,14 +8067,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_proton_kg":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_saturn_kg":{
@@ -7992,7 +8090,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_sun_kg":{
@@ -8006,7 +8105,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_uranus_kg":{
@@ -8020,7 +8120,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mass_venus_kg":{
@@ -8034,7 +8135,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.metallicity_sun":{
@@ -8048,7 +8150,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.miles_per_mpc":{
@@ -8062,7 +8165,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_au":{
@@ -8076,7 +8180,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_km":{
@@ -8090,7 +8195,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_kpc":{
@@ -8104,7 +8210,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_m":{
@@ -8118,7 +8225,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_miles":{
@@ -8132,7 +8240,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_mpc":{
@@ -8146,7 +8255,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_pc":{
@@ -8160,7 +8270,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_rearth":{
@@ -8174,7 +8285,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_rjup":{
@@ -8188,7 +8300,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mpc_per_rsun":{
@@ -8202,7 +8315,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.mu_0":{
@@ -8216,7 +8330,14 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt._physical_ratios.neper_per_bel":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.newton_mks":{
@@ -8230,7 +8351,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.pascal_per_atm":{
@@ -8244,7 +8366,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.pc_per_km":{
@@ -8258,7 +8381,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.pc_per_m":{
@@ -8272,7 +8396,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.pc_per_mpc":{
@@ -8286,7 +8411,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.planck_charge_C":{
@@ -8300,7 +8426,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.planck_energy_J":{
@@ -8314,7 +8441,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.planck_length_m":{
@@ -8328,7 +8456,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.planck_mass_kg":{
@@ -8342,7 +8471,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.planck_mks":{
@@ -8356,7 +8486,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.planck_temperature_K":{
@@ -8370,7 +8501,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.planck_time_s":{
@@ -8384,7 +8516,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.primordial_H_mass_fraction":{
@@ -8398,7 +8531,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.rearth_per_m":{
@@ -8412,7 +8546,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.rearth_per_mpc":{
@@ -8426,7 +8561,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.rho_crit_g_cm3_h2":{
@@ -8440,7 +8576,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.rjup_per_m":{
@@ -8454,7 +8591,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.rjup_per_mpc":{
@@ -8468,7 +8606,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.rsun_per_m":{
@@ -8482,7 +8621,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.rsun_per_mpc":{
@@ -8496,7 +8636,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.sec_per_Gyr":{
@@ -8510,7 +8651,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.sec_per_Myr":{
@@ -8524,7 +8666,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.sec_per_day":{
@@ -8538,7 +8681,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.sec_per_hr":{
@@ -8552,7 +8696,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.sec_per_kyr":{
@@ -8566,7 +8711,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.sec_per_min":{
@@ -8580,7 +8726,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.sec_per_year":{
@@ -8594,7 +8741,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.speed_of_light_cm_per_s":{
@@ -8608,7 +8756,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.speed_of_light_m_per_s":{
@@ -8622,7 +8771,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.standard_gravity_m_per_s2":{
@@ -8636,7 +8786,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.temp_sun_kelvin":{
@@ -8650,7 +8801,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._physical_ratios.watt_per_horsepower":{
@@ -8664,7 +8816,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._pint_conversions":{
@@ -8678,7 +8831,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._pint_conversions.convert_pint_units":{
@@ -8692,7 +8846,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._pint_conversions.pint_aliases":{
@@ -8706,7 +8861,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._pint_conversions.pint_prefixes":{
@@ -8720,7 +8876,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._testing":{
@@ -8818,7 +8975,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.J_per_eV":{
@@ -8832,7 +8990,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.amu_grams":{
@@ -8846,7 +9005,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.amu_kg":{
@@ -8860,21 +9020,24 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.avogadros_number":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.boltzmann_constant_J_per_K":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.default_base_units":{
@@ -8888,14 +9051,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.default_unit_name_alternatives":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.default_unit_symbol_lut":{
@@ -8909,7 +9074,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.dimensions":{
@@ -8923,28 +9089,32 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.eps_0":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.generate_name_alternatives":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.inv_name_alternatives":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.jansky_mks":{
@@ -8958,7 +9128,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.kelvin_per_rankine":{
@@ -8972,7 +9143,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.kg_per_pound":{
@@ -8986,7 +9158,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.latex_prefixes":{
@@ -9012,7 +9185,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_ang":{
@@ -9026,7 +9200,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_au":{
@@ -9040,7 +9215,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_ft":{
@@ -9054,7 +9230,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_inch":{
@@ -9068,7 +9245,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_ly":{
@@ -9082,7 +9260,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_pc":{
@@ -9096,7 +9275,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_rearth":{
@@ -9110,7 +9290,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_rjup":{
@@ -9124,7 +9305,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.m_per_rsun":{
@@ -9138,7 +9320,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_earth_kg":{
@@ -9152,7 +9335,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_electron_kg":{
@@ -9166,7 +9350,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_hydrogen_kg":{
@@ -9180,7 +9365,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_jupiter_kg":{
@@ -9194,42 +9380,48 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_mars_kg":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_mercury_kg":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_neptune_kg":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_proton_kg":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_saturn_kg":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_sun_kg":{
@@ -9243,21 +9435,24 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_uranus_kg":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mass_venus_kg":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.metallicity_sun":{
@@ -9271,21 +9466,30 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.mu_0":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.name_alternatives":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt._unit_lookup_table.neper_per_bel":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.newton_mks":{
@@ -9299,7 +9503,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.pascal_per_atm":{
@@ -9313,14 +9518,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.physical_constants":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.planck_charge_C":{
@@ -9334,7 +9541,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.planck_energy_J":{
@@ -9348,7 +9556,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.planck_length_m":{
@@ -9362,7 +9571,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.planck_mass_kg":{
@@ -9376,14 +9586,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.planck_mks":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.planck_temperature_K":{
@@ -9397,7 +9609,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.planck_time_s":{
@@ -9411,7 +9624,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.prefixable_units":{
@@ -9434,7 +9648,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.sec_per_hr":{
@@ -9448,7 +9663,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.sec_per_min":{
@@ -9462,7 +9678,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.sec_per_year":{
@@ -9476,7 +9693,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.speed_of_light_m_per_s":{
@@ -9490,7 +9708,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.standard_gravity_m_per_s2":{
@@ -9504,7 +9723,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.temp_sun_kelvin":{
@@ -9518,7 +9738,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.unit_prefixes":{
@@ -9532,7 +9753,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._unit_lookup_table.watt_per_horsepower":{
@@ -9546,7 +9768,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._version":{
@@ -9560,7 +9783,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._version.get_versions":{
@@ -9574,7 +9798,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt._version.version_json":{
@@ -9588,19 +9813,22 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.accepts":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.allclose_units":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array":{
@@ -9614,7 +9842,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.InvalidUnitEquivalence":{
@@ -9628,7 +9857,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.InvalidUnitOperation":{
@@ -9642,7 +9872,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.IterableUnitCoercionError":{
@@ -9656,14 +9887,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.LARGE_INPUT":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.MKSCGSConversionError":{
@@ -9677,7 +9910,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.NULL_UNIT":{
@@ -9691,7 +9925,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.POWER_SIGN_MAPPING":{
@@ -9705,7 +9940,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.Unit":{
@@ -9719,7 +9955,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.UnitConversionError":{
@@ -9733,7 +9970,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.UnitOperationError":{
@@ -9747,7 +9985,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.UnitRegistry":{
@@ -9761,7 +10000,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.UnitsNotReducible":{
@@ -9775,14 +10015,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.__doctest_requires__":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._arctan2_unit":{
@@ -9796,7 +10038,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._astropy":{
@@ -9810,7 +10053,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._bitop_units":{
@@ -9824,7 +10068,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._check_em_conversion":{
@@ -9838,7 +10083,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._coerce_iterable_units":{
@@ -9852,7 +10098,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._comparison_unit":{
@@ -9866,7 +10113,14 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.array._correct_old_unit_registry":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._divide_units":{
@@ -9880,7 +10134,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._em_conversion":{
@@ -9894,7 +10149,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._get_binary_op_return_class":{
@@ -9908,7 +10164,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._invert_units":{
@@ -9922,7 +10179,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._iterable":{
@@ -9936,7 +10194,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._multiply_units":{
@@ -9950,7 +10209,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._passthrough_unit":{
@@ -9964,7 +10224,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._pint":{
@@ -9978,7 +10239,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._power_unit":{
@@ -9992,7 +10254,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._preserve_units":{
@@ -10006,7 +10269,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._reciprocal_unit":{
@@ -10020,7 +10284,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._return_arr":{
@@ -10047,7 +10312,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._sanitize_unit_system":{
@@ -10057,7 +10323,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._sanitize_units_convert":{
@@ -10071,7 +10338,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._sqrt_unit":{
@@ -10085,7 +10353,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._square_unit":{
@@ -10099,7 +10368,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array._unit_repr_check_same":{
@@ -10125,13 +10395,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.allclose_units":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.angle":{
@@ -10145,7 +10417,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.binary_operators":{
@@ -10159,13 +10432,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.clip":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.convert_pint_units":{
@@ -10179,19 +10454,22 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.default_unit_registry":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.default_unit_symbol_lut":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.equivalence_registry":{
@@ -10205,7 +10483,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.loadtxt":{
@@ -10219,13 +10498,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.multiple_output_operators":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.savetxt":{
@@ -10239,7 +10520,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.temperature":{
@@ -10253,7 +10535,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.trigonometric_operators":{
@@ -10267,7 +10550,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.uconcatenate":{
@@ -10281,7 +10565,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.ucross":{
@@ -10295,7 +10580,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.udot":{
@@ -10309,7 +10595,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.uhstack":{
@@ -10323,7 +10610,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.uintersect1d":{
@@ -10337,7 +10625,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.unary_operators":{
@@ -10351,7 +10640,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.unorm":{
@@ -10365,7 +10655,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.unyt_array":{
@@ -10379,7 +10670,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.unyt_quantity":{
@@ -10393,7 +10685,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.ustack":{
@@ -10407,7 +10700,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.uunion1d":{
@@ -10421,7 +10715,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.array.uvstack":{
@@ -10435,7 +10730,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.define_unit":{
@@ -10449,7 +10745,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions":{
@@ -10463,13 +10760,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions._has_dimensions":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.acceleration":{
@@ -10483,13 +10782,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.accepts":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.angle":{
@@ -10503,7 +10804,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.angular_momentum":{
@@ -10517,7 +10819,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.area":{
@@ -10531,7 +10834,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.base_dimensions":{
@@ -10545,21 +10849,24 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.capacitance":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.capacitance_mks":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.charge":{
@@ -10573,7 +10880,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.charge_cgs":{
@@ -10587,7 +10895,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.charge_mks":{
@@ -10601,7 +10910,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.count_flux":{
@@ -10615,7 +10925,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.count_intensity":{
@@ -10629,7 +10940,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.crackle":{
@@ -10643,7 +10955,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.current_cgs":{
@@ -10657,7 +10970,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.current_mks":{
@@ -10671,7 +10985,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.density":{
@@ -10685,7 +11000,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.derived_dimensions":{
@@ -10699,7 +11015,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.dimensionless":{
@@ -10713,7 +11030,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.dimensions":{
@@ -10727,7 +11045,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.electric_field":{
@@ -10741,7 +11060,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.electric_field_cgs":{
@@ -10755,7 +11075,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.electric_field_mks":{
@@ -10769,7 +11090,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.electric_potential":{
@@ -10783,7 +11105,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.electric_potential_cgs":{
@@ -10797,7 +11120,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.electric_potential_mks":{
@@ -10811,7 +11135,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.em_dimensions":{
@@ -10825,7 +11150,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.energy":{
@@ -10839,7 +11165,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.flux":{
@@ -10853,7 +11180,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.force":{
@@ -10867,7 +11195,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.frequency":{
@@ -10881,7 +11210,20 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.dimensions.inductance":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.dimensions.inductance_mks":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.jerk":{
@@ -10895,7 +11237,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.k":{
@@ -10909,7 +11252,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.length":{
@@ -10923,7 +11267,14 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.dimensions.logarithmic":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.luminance":{
@@ -10937,7 +11288,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.luminous_flux":{
@@ -10951,7 +11303,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.luminous_intensity":{
@@ -10965,7 +11318,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.magnetic_field":{
@@ -10979,7 +11333,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.magnetic_field_cgs":{
@@ -10993,7 +11348,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.magnetic_field_mks":{
@@ -11007,7 +11363,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.magnetic_flux":{
@@ -11021,7 +11378,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.magnetic_flux_cgs":{
@@ -11035,7 +11393,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.magnetic_flux_mks":{
@@ -11049,7 +11408,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.mass":{
@@ -11063,7 +11423,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.momentum":{
@@ -11077,7 +11438,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.number_density":{
@@ -11091,7 +11453,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.pop":{
@@ -11105,7 +11468,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.power":{
@@ -11119,7 +11483,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.pressure":{
@@ -11133,7 +11498,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.rate":{
@@ -11147,7 +11513,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.resistance":{
@@ -11161,7 +11528,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.resistance_cgs":{
@@ -11175,7 +11543,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.resistance_mks":{
@@ -11189,13 +11558,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.returns":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.snap":{
@@ -11209,7 +11580,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.solid_angle":{
@@ -11223,7 +11595,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.spatial_frequency":{
@@ -11233,7 +11606,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.specific_angular_momentum":{
@@ -11247,7 +11621,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.specific_energy":{
@@ -11261,7 +11636,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.specific_flux":{
@@ -11275,7 +11651,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.temperature":{
@@ -11289,7 +11666,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.time":{
@@ -11303,7 +11681,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.v":{
@@ -11317,7 +11696,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.velocity":{
@@ -11331,7 +11711,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.dimensions.volume":{
@@ -11345,7 +11726,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.electrostatic_unit":{
@@ -11375,7 +11757,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.ComptonEquivalence":{
@@ -11389,7 +11772,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.EffectiveTemperatureEquivalence":{
@@ -11403,7 +11787,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.Equivalence":{
@@ -11417,7 +11802,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.InvalidUnitEquivalence":{
@@ -11431,7 +11817,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.LorentzEquivalence":{
@@ -11445,7 +11832,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.MassEnergyEquivalence":{
@@ -11459,7 +11847,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.NumberDensityEquivalence":{
@@ -11473,7 +11862,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.SchwarzschildEquivalence":{
@@ -11487,7 +11877,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.SoundSpeedEquivalence":{
@@ -11501,7 +11892,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.SpectralEquivalence":{
@@ -11515,7 +11907,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.ThermalEquivalence":{
@@ -11529,7 +11922,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies._RegisteredEquivalence":{
@@ -11543,7 +11937,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.density":{
@@ -11557,7 +11952,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.dimensionless":{
@@ -11571,7 +11967,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.energy":{
@@ -11585,7 +11982,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.equivalence_registry":{
@@ -11599,7 +11997,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.flux":{
@@ -11613,7 +12012,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.length":{
@@ -11627,7 +12027,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.mass":{
@@ -11641,7 +12042,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.number_density":{
@@ -11655,7 +12057,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.rate":{
@@ -11669,7 +12072,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.spatial_frequency":{
@@ -11679,7 +12083,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.temperature":{
@@ -11693,7 +12098,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.equivalencies.velocity":{
@@ -11707,7 +12113,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions":{
@@ -11721,7 +12128,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.EquivalentDimsError":{
@@ -11744,7 +12152,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.InvalidUnitEquivalence":{
@@ -11758,7 +12167,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.InvalidUnitOperation":{
@@ -11772,7 +12182,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.IterableUnitCoercionError":{
@@ -11786,7 +12197,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.MKSCGSConversionError":{
@@ -11800,7 +12212,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.MissingMKSCurrent":{
@@ -11814,7 +12227,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.SymbolNotFoundError":{
@@ -11828,7 +12242,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.UnitConversionError":{
@@ -11842,7 +12257,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.UnitDtypeError":{
@@ -11862,7 +12278,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.UnitParseError":{
@@ -11876,7 +12293,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.exceptions.UnitsNotReducible":{
@@ -11890,7 +12308,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.km":{
@@ -11913,7 +12332,62 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.m":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.matplotlib_support":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.mpl_interface":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.mpl_interface.Unit":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.mpl_interface.__all__":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.mpl_interface.matplotlib_support":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.mpl_interface.unyt_array":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.mpl_interface.unyt_arrayConverter":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.mpl_interface.unyt_quantity":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.physical_constants":{
@@ -11927,7 +12401,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.physical_constants.CMD_temperature":{
@@ -12030,7 +12505,8 @@
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.physical_constants.amu":{
@@ -12241,7 +12717,8 @@
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.physical_constants.earth_mass":{
@@ -13411,7 +13888,14 @@
  "unyt.returns":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.s":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.savetxt":{
@@ -13425,7 +13909,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.test":{
@@ -13435,25 +13920,29 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.testing._process_warning":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.testing.allclose_units":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.testing.assert_allclose_units":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_define_unit":{
@@ -13463,14 +13952,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_define_unit.UnitRegistry":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_define_unit.define_unit":{
@@ -13480,7 +13971,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_define_unit.test_define_unit":{
@@ -13490,7 +13982,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_define_unit.unyt_quantity":{
@@ -13500,7 +13993,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_flake8":{
@@ -13523,21 +14017,174 @@
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_linters.test_black":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_linters.test_flake8":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.K":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.NotAModule":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.UnitConversionError":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface._matplotlib":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.check_matplotlib":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.m":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.matplotlib_support":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.s":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_conversionerror":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_convert_equivalency":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_convert_unit":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_dimensionless":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_errorbar":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_hist":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_imshow":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_label":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_list_label":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_matplotlib_support":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_multiple_subplots":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_name":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.test_ndarray_label":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.unyt_array":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.unyt_arrayConverter":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_mpl_interface.unyt_quantity":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry":{
@@ -13547,7 +14194,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.SymbolNotFoundError":{
@@ -13557,7 +14205,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.Unit":{
@@ -13567,7 +14216,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.UnitParseError":{
@@ -13577,7 +14227,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.UnitRegistry":{
@@ -13587,13 +14238,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.energy":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.length":{
@@ -13603,7 +14256,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.test_add_modify_error":{
@@ -13613,7 +14267,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.test_keys":{
@@ -13623,13 +14278,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.test_old_registry_json":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.test_prefixable_units":{
@@ -13639,7 +14296,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.test_registry_contains":{
@@ -13649,13 +14307,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_registry.test_registry_json":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems":{
@@ -13665,7 +14325,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.IllDefinedUnitSystem":{
@@ -13675,7 +14336,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.MissingMKSCurrent":{
@@ -13685,7 +14347,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.Unit":{
@@ -13695,7 +14358,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.UnitRegistry":{
@@ -13705,7 +14369,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.UnitSystem":{
@@ -13715,14 +14380,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.cgs_unit_system":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.dimensions":{
@@ -13732,14 +14399,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.mks_unit_system":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.test_bad_unit_system":{
@@ -13749,27 +14418,31 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.test_code_unit_system":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.test_create_unit_system_from_quantity":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.test_create_unit_system_from_unit_objects":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.test_mks_current":{
@@ -13779,7 +14452,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.test_unit_system_id":{
@@ -13789,7 +14463,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.test_unit_systems":{
@@ -13799,14 +14474,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.unit_symbols":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unit_systems.unit_system_registry":{
@@ -13816,7 +14493,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units":{
@@ -13826,7 +14504,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.InvalidUnitOperation":{
@@ -13836,7 +14515,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.Unit":{
@@ -13846,7 +14526,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.UnitConversionError":{
@@ -13856,7 +14537,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.UnitParseError":{
@@ -13872,7 +14554,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.UnitSystem":{
@@ -13882,7 +14565,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.UnitsNotReducible":{
@@ -13892,7 +14576,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.assert_allclose_units":{
@@ -13902,14 +14587,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.cgs_unit_system":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.default_unit_registry":{
@@ -13919,7 +14606,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.default_unit_symbol_lut":{
@@ -13929,7 +14617,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.electrostatic_unit":{
@@ -13955,7 +14644,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.length":{
@@ -13965,7 +14655,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.m_per_km":{
@@ -13975,7 +14666,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.m_per_mpc":{
@@ -13985,7 +14677,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.m_per_pc":{
@@ -13995,7 +14688,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.magnetic_field_cgs":{
@@ -14005,7 +14699,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.magnetic_field_mks":{
@@ -14015,7 +14710,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.mass":{
@@ -14025,7 +14721,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.mass_sun_kg":{
@@ -14035,13 +14732,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.name_alternatives":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.power":{
@@ -14051,7 +14750,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.rate":{
@@ -14061,7 +14761,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.sec_per_year":{
@@ -14071,7 +14772,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.temperature":{
@@ -14081,14 +14783,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_attosecond":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_bad_equivalence":{
@@ -14098,7 +14802,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_base_equivalent":{
@@ -14108,7 +14813,14 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_units.test_bel_neper":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_code_unit":{
@@ -14118,7 +14830,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_fail_on_bad_dimensions_type":{
@@ -14128,7 +14841,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_fail_on_bad_symbol_type":{
@@ -14138,7 +14852,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_fail_on_base_value_type":{
@@ -14148,7 +14863,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_fail_on_dimensions_content":{
@@ -14158,7 +14874,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_fail_on_unknown_symbol":{
@@ -14168,7 +14885,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_from_expr":{
@@ -14178,7 +14896,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_from_string":{
@@ -14188,7 +14907,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_new_symbol":{
@@ -14198,7 +14918,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_create_with_duplicate_dimensions":{
@@ -14208,7 +14929,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_creation_from_ytarray":{
@@ -14218,7 +14940,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_decagram":{
@@ -14228,7 +14951,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_define_unit_error":{
@@ -14246,7 +14970,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_division":{
@@ -14256,7 +14981,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_em_unit_base_equivalent":{
@@ -14266,13 +14992,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_equal_has_same_hash":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_equality":{
@@ -14282,13 +15010,21 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_hPa_mbar":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_units.test_henry":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_invalid_operations":{
@@ -14298,7 +15034,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_latex_repr":{
@@ -14308,7 +15045,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_latitude_longitude":{
@@ -14318,7 +15056,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_list_same_dimensions":{
@@ -14328,14 +15067,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_micro":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_multiplication":{
@@ -14345,14 +15086,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_name_alternatives":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_no_conflicting_symbols":{
@@ -14362,13 +15105,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_percent":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_pickle":{
@@ -14378,7 +15123,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_power":{
@@ -14388,7 +15134,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_preserve_offset":{
@@ -14398,7 +15145,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_registry_json":{
@@ -14413,14 +15161,16 @@
  "unyt.tests.test_units.test_show_all_units_doc_table_ops":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_simplify":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_string_representation":{
@@ -14430,7 +15180,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_symbol_lut_length":{
@@ -14440,7 +15191,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.test_temperature_offsets":{
@@ -14450,7 +15202,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.time":{
@@ -14460,7 +15213,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.unit_prefixes":{
@@ -14470,7 +15224,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_units.unit_symbols":{
@@ -14480,7 +15235,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array":{
@@ -14490,7 +15246,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.InvalidUnitEquivalence":{
@@ -14500,7 +15257,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.InvalidUnitOperation":{
@@ -14510,7 +15268,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.IterableUnitCoercionError":{
@@ -14520,7 +15279,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.NotAModule":{
@@ -14530,7 +15290,14 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_unyt_array.Unit":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.UnitConversionError":{
@@ -14540,7 +15307,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.UnitOperationError":{
@@ -14550,7 +15318,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.UnitParseError":{
@@ -14560,7 +15329,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.UnitRegistry":{
@@ -14570,7 +15340,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.UnitsNotReducible":{
@@ -14580,7 +15351,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array._astropy":{
@@ -14590,7 +15362,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array._h5py":{
@@ -14600,7 +15373,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array._pint":{
@@ -14610,13 +15384,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array._process_warning":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.assert_allclose_units":{
@@ -14626,7 +15402,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.assert_isinstance":{
@@ -14636,7 +15413,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.binary_operators":{
@@ -14646,7 +15424,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.binary_ufunc_comparison":{
@@ -14656,7 +15435,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.cm":{
@@ -14666,7 +15446,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.degree":{
@@ -14676,7 +15457,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.dimensions":{
@@ -14686,7 +15468,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.g":{
@@ -14696,7 +15479,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.km":{
@@ -14715,7 +15499,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.m":{
@@ -14725,7 +15510,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.metallicity_sun":{
@@ -14735,7 +15521,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.operate_and_compare":{
@@ -14745,7 +15532,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.process_warning":{
@@ -14761,7 +15549,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.speed_of_light_cm_per_s":{
@@ -14771,7 +15560,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_addition":{
@@ -14781,7 +15571,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_astropy":{
@@ -14791,7 +15582,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_builtin_sum":{
@@ -14801,7 +15593,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_bypass_validation":{
@@ -14811,13 +15604,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_clip":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_coerce_iterable":{
@@ -14827,7 +15622,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_comparisons":{
@@ -14837,7 +15633,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_convenience":{
@@ -14847,7 +15644,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_copy":{
@@ -14857,7 +15655,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_creation":{
@@ -14867,7 +15666,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_dimensionless_conversion":{
@@ -14877,7 +15677,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_division":{
@@ -14887,14 +15688,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_dot_matmul":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_electromagnetic":{
@@ -14904,7 +15707,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_equivalencies":{
@@ -14914,7 +15718,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_h5_io":{
@@ -14924,7 +15729,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_initialization_different_registries":{
@@ -14934,21 +15740,24 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_input_units_deprecation":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_integer_arrays":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_iteration":{
@@ -14958,7 +15767,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_loadtxt_and_savetxt":{
@@ -14968,7 +15778,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_modified_unit_division":{
@@ -14978,7 +15789,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_multiplication":{
@@ -14988,7 +15800,20 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_unyt_array.test_name_attribute":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.tests.test_unyt_array.test_neper_bel":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_numpy_wrappers":{
@@ -14998,7 +15823,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_ones_and_zeros_like":{
@@ -15008,14 +15834,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_overflow_warnings":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_pint":{
@@ -15025,7 +15853,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_power":{
@@ -15035,7 +15864,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_reductions":{
@@ -15045,7 +15875,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_registry_association":{
@@ -15055,7 +15886,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_round":{
@@ -15065,7 +15897,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_selecting":{
@@ -15075,7 +15908,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_subclass":{
@@ -15085,7 +15919,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_subtraction":{
@@ -15095,7 +15930,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_temperature_conversions":{
@@ -15105,7 +15941,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_to_value":{
@@ -15115,7 +15952,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_trig_ufunc_degrees":{
@@ -15125,7 +15963,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_ufuncs":{
@@ -15135,7 +15974,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_unit_conversions":{
@@ -15145,7 +15985,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_unyt_array_unyt_quantity_ops":{
@@ -15155,7 +15996,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_ytarray_coercion":{
@@ -15165,7 +16007,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.test_ytarray_pickle":{
@@ -15175,7 +16018,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.uconcatenate":{
@@ -15185,7 +16029,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.ucross":{
@@ -15195,7 +16040,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.udot":{
@@ -15205,7 +16051,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.uintersect1d":{
@@ -15215,7 +16062,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.unary_operators":{
@@ -15225,7 +16073,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.unary_ufunc_comparison":{
@@ -15235,7 +16084,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.unorm":{
@@ -15245,7 +16095,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.unyt_array":{
@@ -15255,7 +16106,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.unyt_quantity":{
@@ -15265,14 +16117,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.ustack":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.uunion1d":{
@@ -15282,14 +16136,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.uvstack":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_array.yield_np_ufuncs":{
@@ -15299,61 +16155,71 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing.assert_allclose_units":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing.test_atol_conversion_error":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing.test_conversion_error":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing.test_equality":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing.test_runtime_error":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing.test_unequal_error":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing.unyt_array":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.tests.test_unyt_testing.unyt_quantity":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.uconcatenate":{
@@ -15367,7 +16233,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.ucross":{
@@ -15381,7 +16248,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.udot":{
@@ -15395,7 +16263,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.uhstack":{
@@ -15409,7 +16278,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.uintersect1d":{
@@ -15423,7 +16293,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object":{
@@ -15437,7 +16308,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.InvalidUnitOperation":{
@@ -15451,7 +16323,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.MKSCGSConversionError":{
@@ -15465,21 +16338,24 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.MissingMKSCurrent":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.NULL_UNIT":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.Unit":{
@@ -15493,7 +16369,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.UnitConversionError":{
@@ -15507,7 +16384,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.UnitDtypeError":{
@@ -15527,7 +16405,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.UnitRegistry":{
@@ -15541,7 +16420,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.UnitsNotReducible":{
@@ -15555,13 +16435,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._ImportCache":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._auto_positive_symbol":{
@@ -15581,7 +16463,8 @@
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._check_em_conversion":{
@@ -15595,14 +16478,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._create_unit_from_factor":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._em_conversion":{
@@ -15616,14 +16501,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._factor_pairs":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._get_conversion_factor":{
@@ -15637,7 +16524,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._get_em_base_unit":{
@@ -15660,7 +16548,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._get_system_unit_string":{
@@ -15686,13 +16575,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._import_cache_singleton":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._iterable":{
@@ -15718,7 +16609,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._sanitize_unit_system":{
@@ -15733,7 +16625,8 @@
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object._validate_dimensions":{
@@ -15747,7 +16640,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.angle":{
@@ -15761,7 +16655,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.base_dimensions":{
@@ -15775,7 +16670,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.current_mks":{
@@ -15785,7 +16681,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.default_unit_registry":{
@@ -15799,7 +16696,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.define_unit":{
@@ -15813,7 +16711,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.dimensionless":{
@@ -15827,7 +16726,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.dimensions":{
@@ -15837,13 +16737,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.em_conversion_dims":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.em_conversions":{
@@ -15857,7 +16759,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.equivalence_registry":{
@@ -15871,7 +16774,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.global_dict":{
@@ -15902,10 +16806,17 @@
    "unyt-1.0.4-py27_0"
   ]
  },
+ "unyt.unit_object.logarithmic":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
+  ]
+ },
  "unyt.unit_object.parse_unyt_expr":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.prefixable_units":{
@@ -15928,7 +16839,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.sympy_one":{
@@ -15942,7 +16854,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.temperature":{
@@ -15956,7 +16869,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_object.unit_prefixes":{
@@ -16004,7 +16918,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.SymbolNotFoundError":{
@@ -16018,7 +16933,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.UnitParseError":{
@@ -16032,7 +16948,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.UnitRegistry":{
@@ -16046,7 +16963,14 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.unit_registry._correct_old_unit_registry":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry._lookup_unit_symbol":{
@@ -16056,21 +16980,30 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry._sanitize_unit_system":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry._split_prefix":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
+  ]
+ },
+ "unyt.unit_registry.cached_sympify":{
+  "__set__":true,
+  "elements":[
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.default_unit_registry":{
@@ -16084,7 +17017,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.default_unit_symbol_lut":{
@@ -16098,13 +17032,15 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.dimensions":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.latex_prefixes":{
@@ -16119,7 +17055,8 @@
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.unit_prefixes":{
@@ -16129,14 +17066,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_registry.unit_system_registry":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols":{
@@ -16150,7 +17089,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.A":{
@@ -16883,7 +17823,8 @@
    "unyt-1.0.5-py36_0",
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.V":{
@@ -16997,25 +17938,29 @@
  "unyt.unit_symbols._alt_name":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols._alt_names":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols._canonical_name":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols._namespace":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.add_symbols":{
@@ -17251,7 +18196,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.coulomb":{
@@ -17306,7 +18252,8 @@
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.deg":{
@@ -17356,7 +18303,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.degree_celsius":{
@@ -17658,7 +18606,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.gauss":{
@@ -18272,7 +19221,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.mas":{
@@ -18614,7 +19564,8 @@
  "unyt.unit_symbols.name_alternatives":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_symbols.nanogram":{
@@ -19408,7 +20359,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.IllDefinedUnitSystem":{
@@ -19422,7 +20374,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.MissingMKSCurrent":{
@@ -19436,7 +20389,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.Unit":{
@@ -19462,14 +20416,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.UnitsNotReducible":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems._get_system_unit_string":{
@@ -19483,28 +20439,32 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems._split_prefix":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.add_constants":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.add_symbols":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.cgs_unit_system":{
@@ -19518,7 +20478,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.cmks":{
@@ -19532,14 +20493,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.default_unit_symbol_lut":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.dimensions":{
@@ -19553,7 +20516,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.galactic_unit_system":{
@@ -19567,7 +20531,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.geometrized_unit_system":{
@@ -19581,7 +20546,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.imperial_unit_system":{
@@ -19595,14 +20561,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.inv_name_alternatives":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.mks_unit_system":{
@@ -19616,7 +20584,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.name_alternatives":{
@@ -19628,14 +20597,16 @@
  "unyt.unit_systems.parse_unyt_expr":{
   "__set__":true,
   "elements":[
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.physical_constants":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.planck_unit_system":{
@@ -19649,7 +20620,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.solar_unit_system":{
@@ -19663,14 +20635,16 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.unit_prefixes":{
   "__set__":true,
   "elements":[
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unit_systems.unit_system_registry":{
@@ -19684,7 +20658,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unorm":{
@@ -19698,7 +20673,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unyt_array":{
@@ -19712,7 +20688,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.unyt_quantity":{
@@ -19726,7 +20703,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.ustack":{
@@ -19740,7 +20718,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.uunion1d":{
@@ -19754,7 +20733,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  },
  "unyt.uvstack":{
@@ -19768,7 +20748,8 @@
    "unyt-1.0.7-py27_0",
    "unyt-1.0.7-py35_0",
    "unyt-2.1.0-py_0",
-   "unyt-2.4.1-py_0"
+   "unyt-2.4.1-py_0",
+   "unyt-2.7.1-py_0"
   ]
  }
 }
