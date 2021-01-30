@@ -41975,7 +41975,8 @@
    "otfmi-0.1-py35_0",
    "otfmi-0.2-py27_0",
    "otfmi-0.2-py36_0",
-   "otfmi-0.2-py_2"
+   "otfmi-0.2-py_2",
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_deviation.TestModel":{
@@ -41990,7 +41991,8 @@
    "otfmi-0.1-py35_0",
    "otfmi-0.2-py27_0",
    "otfmi-0.2-py36_0",
-   "otfmi-0.2-py_2"
+   "otfmi-0.2-py_2",
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_deviation.dict_platform":{
@@ -42005,7 +42007,8 @@
    "otfmi-0.1-py35_0",
    "otfmi-0.2-py27_0",
    "otfmi-0.2-py36_0",
-   "otfmi-0.2-py_2"
+   "otfmi-0.2-py_2",
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_deviation.key_platform":{
@@ -42020,7 +42023,8 @@
    "otfmi-0.1-py35_0",
    "otfmi-0.2-py27_0",
    "otfmi-0.2-py36_0",
-   "otfmi-0.2-py_2"
+   "otfmi-0.2-py_2",
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_dft":{
@@ -44032,7 +44036,14 @@
  "test.test_export":{
   "__set__":true,
   "elements":[
-   "abtem-1.0.0b11-pyhd8ed1ab_1"
+   "abtem-1.0.0b11-pyhd8ed1ab_1",
+   "otfmi-0.7-pyhd3deb0d_0"
+  ]
+ },
+ "test.test_export.TestExport":{
+  "__set__":true,
+  "elements":[
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_extensions":{
@@ -49271,7 +49282,8 @@
    "otfmi-0.1-py35_0",
    "otfmi-0.2-py27_0",
    "otfmi-0.2-py36_0",
-   "otfmi-0.2-py_2"
+   "otfmi-0.2-py_2",
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_pyfmi.TestPyfmi":{
@@ -49284,7 +49296,8 @@
    "otfmi-0.1-py35_0",
    "otfmi-0.2-py27_0",
    "otfmi-0.2-py36_0",
-   "otfmi-0.2-py_2"
+   "otfmi-0.2-py_2",
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_pyfmi.dict_platform":{
@@ -49297,7 +49310,8 @@
    "otfmi-0.1-py35_0",
    "otfmi-0.2-py27_0",
    "otfmi-0.2-py36_0",
-   "otfmi-0.2-py_2"
+   "otfmi-0.2-py_2",
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_pyfmi.key_platform":{
@@ -49310,7 +49324,8 @@
    "otfmi-0.1-py35_0",
    "otfmi-0.2-py27_0",
    "otfmi-0.2-py36_0",
-   "otfmi-0.2-py_2"
+   "otfmi-0.2-py_2",
+   "otfmi-0.7-pyhd3deb0d_0"
   ]
  },
  "test.test_qartod_qc":{
@@ -68787,6 +68802,7 @@
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0",
    "amset-0.4.6-pyhd8ed1ab_0",
+   "autouri-0.2.2-py_0",
    "bqplot-0.12.1-py_0",
    "bqplot-0.12.10-pyh9f0ad1d_0",
    "bqplot-0.12.12-pyh9f0ad1d_0",
@@ -68955,6 +68971,12 @@
   "__set__":true,
   "elements":[
    "pyathena-1.5.0-py27_0"
+  ]
+ },
+ "tests.conftest.GCS_ENDPOINT_URL":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.conftest.IGNORED_TESTS":{
@@ -69265,6 +69287,12 @@
    "disk-objectstore-0.5.0-pyhd8ed1ab_0"
   ]
  },
+ "tests.conftest.ci_prefix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
  "tests.conftest.classifier_checks":{
   "__set__":true,
   "elements":[
@@ -69442,6 +69470,54 @@
    "ipywebrtc-0.4.3-py27_1000"
   ]
  },
+ "tests.conftest.gcp_private_key_file":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.gcs_j1_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.gcs_root":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.gcs_test_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.gcs_v41_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.gcs_v421_tsv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.gcs_v5_csv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.gcs_v6_txt":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
  "tests.conftest.general_checks":{
   "__set__":true,
   "elements":[
@@ -69569,6 +69645,42 @@
    "pytmc-2.6.6-py_0"
   ]
  },
+ "tests.conftest.local_j1_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.local_test_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.local_v41_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.local_v421_tsv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.local_v5_csv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.local_v6_txt":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
  "tests.conftest.lock_file_on_windows":{
   "__set__":true,
   "elements":[
@@ -69609,6 +69721,60 @@
   "__set__":true,
   "elements":[
    "amset-0.4.6-pyhd8ed1ab_0"
+  ]
+ },
+ "tests.conftest.mixed_gcs_test_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.mixed_j1_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.mixed_local_test_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.mixed_s3_test_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.mixed_url_test_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.mixed_v41_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.mixed_v421_tsv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.mixed_v5_csv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.mixed_v6_txt":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.conftest.mock_comm":{
@@ -69729,6 +69895,7 @@
  "tests.conftest.pytest_addoption":{
   "__set__":true,
   "elements":[
+   "autouri-0.2.2-py_0",
    "disk-objectstore-0.5.0-pyhd8ed1ab_0",
    "typhos-1.0.1-py_0"
   ]
@@ -69941,12 +70108,60 @@
    "trio_asyncio-0.8.0-py36_0"
   ]
  },
+ "tests.conftest.s3_j1_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.s3_public_url_test_v6_file":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
  "tests.conftest.s3_rig":{
   "__set__":true,
   "elements":[
    "cloudpathlib-0.1.1-py36h9f0ad1d_0",
    "cloudpathlib-0.1.1-py38h32f6830_0",
    "cloudpathlib-0.1.2-py39ha770c72_0"
+  ]
+ },
+ "tests.conftest.s3_root":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.s3_test_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.s3_v41_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.s3_v421_tsv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.s3_v5_csv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.s3_v6_txt":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.conftest.save_image":{
@@ -70178,6 +70393,54 @@
   "__set__":true,
   "elements":[
    "pydeck-0.4.1-pyh9f0ad1d_0"
+  ]
+ },
+ "tests.conftest.url_j1_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.url_test_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.url_v41_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.url_v421_tsv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.url_v5_csv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.url_v6_txt":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.v6_txt_md5_hash":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.conftest.v6_txt_size":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.conftest.ws_series":{
@@ -73034,6 +73297,60 @@
    "suds-jurko-0.6-py36hc560c46_1002",
    "suds-jurko-0.6-py37hc8dfbb8_1002",
    "suds-jurko-0.6-py38_1001"
+  ]
+ },
+ "tests.files":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.files.common_paths":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.files.j1_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.files.make_files_in_dir":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.files.recurse_raise_if_uri_not_exist":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.files.v41_json":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.files.v421_tsv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.files.v5_csv":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.files.v6_txt":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.fixtures":{
@@ -87469,6 +87786,162 @@
    "moviepy-0.2.3.2-py27_0"
   ]
  },
+ "tests.test_abspath":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_basename":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_cp":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_dirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_exists":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_ext":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_find_all_files":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_get_abspath_if_exists":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_get_loc_prefix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_get_loc_suffix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_get_mapped_url":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_get_metadata":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_get_path_sep":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_get_schemes":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_is_valid":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_loc_dirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_localize":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_md5":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_mkdirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_mtime":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_read":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_rm":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_size":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_soft_link":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_uri":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_abspath.test_abspath_write":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
  "tests.test_accept":{
   "__set__":true,
   "elements":[
@@ -89179,6 +89652,42 @@
   "__set__":true,
   "elements":[
    "gpflow-1.1.1-py36_0"
+  ]
+ },
+ "tests.test_autouri_localize":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_autouri_localize.test_localize_mixed":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_autouri_localize.test_localize_self_ref":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_autouri_lock":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_autouri_lock.AutoURIFileLockTestException":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_autouri_lock.test_autouri_lock":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.test_azure_specific":{
@@ -97235,6 +97744,162 @@
    "jupyter_server-1.1.3-py39h6e9494a_0"
   ]
  },
+ "tests.test_gcsuri":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_basename":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_cp":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_dirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_exists":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_ext":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_find_all_files":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_blob":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_bucket_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_loc_prefix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_loc_suffix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_metadata":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_path_sep":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_presigned_url":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_public_url":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_get_schemes":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_is_valid":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_loc_dirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_localize":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_md5":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_mtime":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_read":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_rm":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_size":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_uri":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_gcsuri.test_gcsuri_write":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
  "tests.test_generic":{
   "__set__":true,
   "elements":[
@@ -97801,6 +98466,138 @@
   "elements":[
    "isort-5.0.4-py37hc8dfbb8_0",
    "isort-5.0.4-py38h32f6830_0"
+  ]
+ },
+ "tests.test_httpurl":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_basename":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_cp":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_dirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_exists":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_ext":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_find_all_files":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_get_loc_prefix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_get_loc_suffix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_get_metadata":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_get_path_sep":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_get_schemes":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_is_valid":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_loc_dirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_localize":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_md5":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_mtime":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_read":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_rm":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_size":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_uri":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_httpurl.test_httpurl_write":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.test_hybrid36":{
@@ -103352,6 +104149,7 @@
  "tests.test_metadata":{
   "__set__":true,
   "elements":[
+   "autouri-0.2.2-py_0",
    "flask-restless-1.0.0b1-py27_0",
    "flask-restless-1.0.0b1-py36_0",
    "geoarray-0.8.35-py36h9f0ad1d_0",
@@ -103370,6 +104168,24 @@
   "elements":[
    "geoarray-0.8.35-py36h9f0ad1d_0",
    "geoarray-0.9.1-py37hc8dfbb8_0"
+  ]
+ },
+ "tests.test_metadata.test_base64_to_hex":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_metadata.test_get_seconds_from_epoch":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_metadata.test_parse_md5_str":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.test_metadata.tests_path":{
@@ -109074,6 +109890,42 @@
    "quickle-0.2.0-py39hb5aae12_0"
   ]
  },
+ "tests.test_race_cond":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_race_cond.run_write_v6_txt":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_race_cond.test_race_cond_autouri_write_gcs":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_race_cond.test_race_cond_autouri_write_local":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_race_cond.test_race_cond_autouri_write_s3":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_race_cond.write_v6_txt":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
  "tests.test_randomforest_explainer":{
   "__set__":true,
   "elements":[
@@ -110679,6 +111531,156 @@
    "cloudpathlib-0.1.1-py36h9f0ad1d_0",
    "cloudpathlib-0.1.1-py38h32f6830_0",
    "cloudpathlib-0.1.2-py39ha770c72_0"
+  ]
+ },
+ "tests.test_s3uri":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_basename":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_cp":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_dirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_exists":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_ext":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_find_all_files":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_get_bucket_path":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_get_loc_prefix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_get_loc_suffix":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_get_metadata":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_get_path_sep":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_get_presigned_url":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_get_public_url":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_get_schemes":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_is_valid":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_loc_dirname":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_localize":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_md5":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_mtime":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_read":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_rm":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_size":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_uri":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
+  ]
+ },
+ "tests.test_s3uri.test_s3uri_write":{
+  "__set__":true,
+  "elements":[
+   "autouri-0.2.2-py_0"
   ]
  },
  "tests.test_saturate_cpu":{
