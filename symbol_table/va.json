@@ -3454,7 +3454,8 @@
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
    "vaex-core-2.0.3-py38he6e81aa_0",
-   "vaex-ui-0.3.0-py_0"
+   "vaex-ui-0.3.0-py_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset.DatasetArrays":{
@@ -4163,7 +4164,8 @@
    "vaex-core-0.4.2-py35hf8a1672_0",
    "vaex-core-0.4.2-py36h830ac7b_1000",
    "vaex-core-0.4.3-py27hf8a1672_0",
-   "vaex-core-0.5.1-py36h637b7d7_0"
+   "vaex-core-0.5.1-py36h637b7d7_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset._ensure_string_from_expression":{
@@ -4183,7 +4185,8 @@
    "vaex-core-0.4.2-py35hf8a1672_0",
    "vaex-core-0.4.2-py36h830ac7b_1000",
    "vaex-core-0.4.3-py27hf8a1672_0",
-   "vaex-core-0.5.1-py36h637b7d7_0"
+   "vaex-core-0.5.1-py36h637b7d7_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset._ensure_strings_from_expressions":{
@@ -4201,7 +4204,8 @@
    "vaex-core-0.4.2-py35hf8a1672_0",
    "vaex-core-0.4.2-py36h830ac7b_1000",
    "vaex-core-0.4.3-py27hf8a1672_0",
-   "vaex-core-0.5.1-py36h637b7d7_0"
+   "vaex-core-0.5.1-py36h637b7d7_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset._expand":{
@@ -4227,7 +4231,20 @@
    "vaex-core-0.4.2-py35hf8a1672_0",
    "vaex-core-0.4.2-py36h830ac7b_1000",
    "vaex-core-0.4.3-py27hf8a1672_0",
-   "vaex-core-0.5.1-py36h637b7d7_0"
+   "vaex-core-0.5.1-py36h637b7d7_0",
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.dataset._expand_limits":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.dataset._expand_shape":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset._float":{
@@ -4434,7 +4451,8 @@
    "vaex-core-0.4.2-py35hf8a1672_0",
    "vaex-core-0.4.2-py36h830ac7b_1000",
    "vaex-core-0.4.3-py27hf8a1672_0",
-   "vaex-core-0.5.1-py36h637b7d7_0"
+   "vaex-core-0.5.1-py36h637b7d7_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset._len":{
@@ -4511,7 +4529,8 @@
    "vaex-core-0.4.2-py35hf8a1672_0",
    "vaex-core-0.4.2-py36h830ac7b_1000",
    "vaex-core-0.4.3-py27hf8a1672_0",
-   "vaex-core-0.5.1-py36h637b7d7_0"
+   "vaex-core-0.5.1-py36h637b7d7_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset._parse_n":{
@@ -4537,7 +4556,8 @@
    "vaex-core-0.4.2-py35hf8a1672_0",
    "vaex-core-0.4.2-py36h830ac7b_1000",
    "vaex-core-0.4.3-py27hf8a1672_0",
-   "vaex-core-0.5.1-py36h637b7d7_0"
+   "vaex-core-0.5.1-py36h637b7d7_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset._parse_reduction":{
@@ -4563,7 +4583,8 @@
    "vaex-core-0.4.2-py35hf8a1672_0",
    "vaex-core-0.4.2-py36h830ac7b_1000",
    "vaex-core-0.4.3-py27hf8a1672_0",
-   "vaex-core-0.5.1-py36h637b7d7_0"
+   "vaex-core-0.5.1-py36h637b7d7_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.dataset._rename_expression_string":{
@@ -44397,7 +44418,8 @@
    "vaex-core-2.0.0-py36hcc1bba6_0",
    "vaex-core-2.0.0-py36hcc50265_0",
    "vaex-core-2.0.1-py36hcc1bba6_0",
-   "vaex-core-2.0.3-py38he6e81aa_0"
+   "vaex-core-2.0.3-py38he6e81aa_0",
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.utils.NumpyEncoder":{
@@ -46982,6 +47004,174 @@
    "vaex-core-1.3.0-py38h4f17bb1_0",
    "vaex-core-1.3.0-py38hb3f55d8_0",
    "vaex-core-1.4.0-py36h4f17bb1_0"
+  ]
+ },
+ "vaex.viz.InnerNamespace":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz._version":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz._version.__version__":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz._version.__version_tuple__":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.add_namespace":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl.Dataset":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._ensure_list":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._ensure_string_from_expression":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._ensure_strings_from_expressions":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._expand":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._expand_limits":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._expand_shape":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._issequence":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._parse_f":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._parse_n":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl._parse_reduction":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl.add_plugin":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl.logger":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl.max_labels":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl.patch":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl.plot":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.mpl.scatter":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.tensor":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.tensor.ellipse":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.tensor.plot2d_tensor":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.vector":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
+  ]
+ },
+ "vaex.viz.vector.plot2d_vector":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.0-py_0"
   ]
  },
  "vaex.vrange":{
