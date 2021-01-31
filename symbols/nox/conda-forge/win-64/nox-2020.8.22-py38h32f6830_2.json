@@ -1,0 +1,253 @@
+{
+ "errors": {
+  "nox": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/__init__.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/__init__.py'",
+    ""
+   ]
+  },
+  "nox._decorators": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/_decorators.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/_decorators.py'",
+    ""
+   ]
+  },
+  "nox._option_set": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/_option_set.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/_option_set.py'",
+    ""
+   ]
+  },
+  "nox._parametrize": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/_parametrize.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/_parametrize.py'",
+    ""
+   ]
+  },
+  "nox.logger": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/logger.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/logger.py'",
+    ""
+   ]
+  },
+  "nox.popen": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/popen.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/popen.py'",
+    ""
+   ]
+  },
+  "nox.sessions": {
+   "exception": "The subprocess /usr/share/miniconda/envs/test/bin/python was killed. Maybe out of memory?",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/cache.py\", line 110, in wrapper",
+    "    return dct[key]",
+    "KeyError: (('py__bool__',), frozenset())",
+    "",
+    "During handling of the above exception, another exception occurred:",
+    "",
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 241, in _send",
+    "    pickle_dump(data, self._get_process().stdin, PICKLE_PROTOCOL)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/_compatibility.py\", line 42, in pickle_dump",
+    "    file.flush()",
+    "BrokenPipeError: [Errno 32] Broken pipe",
+    "",
+    "During handling of the above exception, another exception occurred:",
+    "",
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 488, in wrapper",
+    "    return func(self, line, column, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 213, in complete",
+    "    return completion.complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 169, in complete",
+    "    cached_name, completion_names = self._complete_python(leaf)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 310, in _complete_python",
+    "    completion_names += self._complete_global_scope()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 376, in _complete_global_scope",
+    "    completion_names += filter.values()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 243, in values",
+    "    return [n for filter in self._filters for n in filter.values()]",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 243, in <listcomp>",
+    "    return [n for filter in self._filters for n in filter.values()]",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 93, in values",
+    "    for name_key in self._used_names",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 88, in _convert_names",
+    "    return [self.name_class(self.parent_context, name) for name in names]",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 88, in <listcomp>",
+    "    return [self.name_class(self.parent_context, name) for name in names]",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 95, in <genexpr>",
+    "    _get_definition_names(self._used_names, name_key),",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 122, in _filter",
+    "    return list(self._check_flows(names))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 137, in _check_flows",
+    "    origin_scope=self._origin_scope",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/flow_analysis.py\", line 85, in reachability_check",
+    "    return _break_check(context, value_scope, first_flow_scope, node)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/flow_analysis.py\", line 100, in _break_check",
+    "    reachable = _check_if(context, flow_node)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/flow_analysis.py\", line 121, in _check_if",
+    "    values = set(x.py__bool__() for x in types)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/flow_analysis.py\", line 121, in <genexpr>",
+    "    values = set(x.py__bool__() for x in types)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/value.py\", line 95, in py__bool__",
+    "    return self.access_handle.py__bool__()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 386, in _workaround",
+    "    return self._cached_results(name, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/cache.py\", line 112, in wrapper",
+    "    result = method(self, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 390, in _cached_results",
+    "    return self._subprocess.get_compiled_method_return(self.id, name, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 133, in wrapper",
+    "    kwargs=kwargs,",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 226, in run",
+    "    return self._send(id(inference_state), function, args, kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 245, in _send",
+    "    % self._executable)",
+    "jedi.api.exceptions.InternalError: The subprocess /usr/share/miniconda/envs/test/bin/python was killed. Maybe out of memory?",
+    ""
+   ]
+  },
+  "nox.tasks": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/tasks.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/tasks.py'",
+    ""
+   ]
+  },
+  "nox.tox_to_nox": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/tox_to_nox.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/tox_to_nox.py'",
+    ""
+   ]
+  },
+  "nox.virtualenv": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/virtualenv.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/virtualenv.py'",
+    ""
+   ]
+  },
+  "nox.workflow": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/workflow.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpzrzegk3k/Lib/site-packages/nox/workflow.py'",
+    ""
+   ]
+  }
+ },
+ "symbols": [
+  "nox.__main__._options",
+  "nox.__main__.main",
+  "nox.__main__.setup_logging",
+  "nox.__main__.tasks",
+  "nox.__main__.workflow",
+  "nox._decorators.Call",
+  "nox._decorators.Func",
+  "nox._option_set",
+  "nox._options",
+  "nox._options._color_finalizer",
+  "nox._options._default_venv_backend_merge_func",
+  "nox._options._envdir_merge_func",
+  "nox._options._force_venv_backend_merge_func",
+  "nox._options._option_set",
+  "nox._options._posargs_finalizer",
+  "nox._options._session_completer",
+  "nox._options._session_filters_merge_func",
+  "nox._options._sessions_default",
+  "nox._options.discover_manifest",
+  "nox._options.filter_manifest",
+  "nox._options.load_nox_module",
+  "nox._options.noxfile_options",
+  "nox._options.options",
+  "nox._typing.Python",
+  "nox._typing.TYPE_CHECKING",
+  "nox._typing.__all__",
+  "nox.command.CommandFailed",
+  "nox.command._clean_env",
+  "nox.command.logger",
+  "nox.command.popen",
+  "nox.command.run",
+  "nox.command.which",
+  "nox.logger.logger",
+  "nox.logger.setup_logging",
+  "nox.manifest.Call",
+  "nox.manifest.Func",
+  "nox.manifest.KeywordLocals",
+  "nox.manifest.Manifest",
+  "nox.manifest.Session",
+  "nox.manifest.WARN_PYTHONS_IGNORED",
+  "nox.manifest._null_session_func",
+  "nox.manifest._null_session_func_",
+  "nox.manifest.keyword_match",
+  "nox.popen.popen",
+  "nox.registry._REGISTRY",
+  "nox.registry.get",
+  "nox.registry.session_decorator",
+  "nox.sessions.Session",
+  "nox.tasks",
+  "nox.tasks.discover_manifest",
+  "nox.tasks.filter_manifest",
+  "nox.tasks.load_nox_module",
+  "nox.workflow"
+ ]
+}
