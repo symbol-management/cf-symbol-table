@@ -727,35 +727,46 @@
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo._version":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo._version.get_versions":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo._version.version_json":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.algos":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
+  ]
+ },
+ "xtopo.algos._find_stack":{
+  "__set__":true,
+  "elements":[
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.algos._graph_mst":{
@@ -847,6 +858,24 @@
   "elements":[
    "xarray-topo-0.0.10-py35_0",
    "xarray-topo-0.0.11-py36_0"
+  ]
+ },
+ "xtopo.algos.compute_flow_receiver_d8":{
+  "__set__":true,
+  "elements":[
+   "xarray-topo-0.0.9-py35_0"
+  ]
+ },
+ "xtopo.algos.compute_stack":{
+  "__set__":true,
+  "elements":[
+   "xarray-topo-0.0.9-py35_0"
+  ]
+ },
+ "xtopo.algos.compute_stream_power":{
+  "__set__":true,
+  "elements":[
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.algos.flow_routing":{
@@ -975,6 +1004,12 @@
    "xarray-topo-0.0.11-py36_0"
   ]
  },
+ "xtopo.algos.propagate_area":{
+  "__set__":true,
+  "elements":[
+   "xarray-topo-0.0.9-py35_0"
+  ]
+ },
  "xtopo.algos.utils":{
   "__set__":true,
   "elements":[
@@ -993,14 +1028,16 @@
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base.BlockUplift":{
@@ -1013,7 +1050,8 @@
  "xtopo.models.fastscape_base.BoundaryFacesXY":{
   "__set__":true,
   "elements":[
-   "xarray-topo-0.0.10-py35_0"
+   "xarray-topo-0.0.10-py35_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base.ClosedBoundaryFaces":{
@@ -1046,34 +1084,51 @@
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
+  ]
+ },
+ "xtopo.models.fastscape_base.SingleFlowRouterD8":{
+  "__set__":true,
+  "elements":[
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base.StackedGridXY":{
   "__set__":true,
   "elements":[
-   "xarray-topo-0.0.10-py35_0"
+   "xarray-topo-0.0.10-py35_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base.StreamPower":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base.Topography":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base.TotalErosion":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
+  ]
+ },
+ "xtopo.models.fastscape_base.TotalExhumation":{
+  "__set__":true,
+  "elements":[
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base.TotalRockUplift":{
@@ -1083,18 +1138,26 @@
    "xarray-topo-0.0.11-py36_0"
   ]
  },
+ "xtopo.models.fastscape_base.Uplift":{
+  "__set__":true,
+  "elements":[
+   "xarray-topo-0.0.9-py35_0"
+  ]
+ },
  "xtopo.models.fastscape_base.fastscape_base_model":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  },
  "xtopo.models.fastscape_base_model":{
   "__set__":true,
   "elements":[
    "xarray-topo-0.0.10-py35_0",
-   "xarray-topo-0.0.11-py36_0"
+   "xarray-topo-0.0.11-py36_0",
+   "xarray-topo-0.0.9-py35_0"
   ]
  }
 }
