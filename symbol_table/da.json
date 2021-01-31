@@ -73447,6 +73447,7 @@
    "dash-renderer-1.1.0-py_0",
    "dash-renderer-1.1.2-py_0",
    "dash-renderer-1.2.2-py_0",
+   "dash-renderer-1.2.3-py_0",
    "dash-renderer-1.4.0-pyh9f0ad1d_0",
    "dash-renderer-1.7.0-pyh9f0ad1d_0"
   ]
@@ -73458,6 +73459,7 @@
    "dash-renderer-1.1.0-py_0",
    "dash-renderer-1.1.2-py_0",
    "dash-renderer-1.2.2-py_0",
+   "dash-renderer-1.2.3-py_0",
    "dash-renderer-1.4.0-pyh9f0ad1d_0",
    "dash-renderer-1.7.0-pyh9f0ad1d_0"
   ]
@@ -73469,6 +73471,7 @@
    "dash-renderer-1.1.0-py_0",
    "dash-renderer-1.1.2-py_0",
    "dash-renderer-1.2.2-py_0",
+   "dash-renderer-1.2.3-py_0",
    "dash-renderer-1.4.0-pyh9f0ad1d_0",
    "dash-renderer-1.7.0-pyh9f0ad1d_0"
   ]
@@ -84081,6 +84084,7 @@
  "dask_jobqueue.JobQueueCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84093,6 +84097,7 @@
  "dask_jobqueue.MoabCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84105,72 +84110,84 @@
  "dask_jobqueue.PBSCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.SGECluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.SLURMCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.__version__":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue._version":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue._version.get_versions":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue._version.version_json":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.config":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.config.defaults":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.config.f":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.config.fn":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.core":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84183,6 +84200,7 @@
  "dask_jobqueue.core.JobQueueCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84190,6 +84208,18 @@
   "__set__":true,
   "elements":[
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.core.JobQueueCluster._script_template":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.core.JobQueueCluster.cancel_command":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.core.JobQueueCluster.job_header":{
@@ -84204,10 +84234,40 @@
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
+ "dask_jobqueue.core.JobQueueCluster.scheduler":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.core.JobQueueCluster.scheduler_name":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.core.JobQueueCluster.submit_command":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.core.JobQueueCluster.worker_threads":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
  "dask_jobqueue.core.cluster_parameters":{
   "__set__":true,
   "elements":[
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.core.docstrings":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.core.job_parameters":{
@@ -84219,7 +84279,14 @@
  "dask_jobqueue.core.logger":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.core.threads_deprecation_message":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.htcondor":{
@@ -84375,12 +84442,14 @@
  "dask_jobqueue.moab":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.moab.MoabCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84394,6 +84463,18 @@
   "__set__":true,
   "elements":[
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.moab._script_template":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.moab.cancel_command":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.moab.config_name":{
@@ -84412,6 +84493,30 @@
   "__set__":true,
   "elements":[
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.moab.scheduler":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.moab.scheduler_name":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.moab.submit_command":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.moab.worker_threads":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.oar":{
@@ -84459,19 +84564,39 @@
  "dask_jobqueue.pbs":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.pbs.PBSCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.pbs.PBSCluster.cancel_command":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.pbs.PBSCluster.config_name":{
   "__set__":true,
   "elements":[
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.pbs.PBSCluster.scheduler_name":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.pbs.PBSCluster.submit_command":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.pbs.PBSJob":{
@@ -84501,24 +84626,28 @@
  "dask_jobqueue.pbs.logger":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.pbs.pbs_format_bytes_ceil":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.sge":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.sge.SGECluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84532,6 +84661,18 @@
   "__set__":true,
   "elements":[
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.sge._script_template":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.sge.cancel_command":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.sge.job_header":{
@@ -84549,18 +84690,45 @@
  "dask_jobqueue.sge.logger":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.sge.scheduler":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.sge.scheduler_name":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.sge.submit_command":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
+ "dask_jobqueue.sge.worker_threads":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.slurm":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.slurm.SLURMCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84591,18 +84759,21 @@
  "dask_jobqueue.slurm.logger":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.slurm.slurm_format_bytes_ceil":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84831,6 +85002,7 @@
  "dask_jobqueue.tests.test_jobqueue_core.JobQueueCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84897,6 +85069,7 @@
  "dask_jobqueue.tests.test_jobqueue_core.test_errors":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -84924,6 +85097,12 @@
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
+ "dask_jobqueue.tests.test_jobqueue_core.test_jq_core_placeholder":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
  "dask_jobqueue.tests.test_jobqueue_core.test_log_directory":{
   "__set__":true,
   "elements":[
@@ -84934,6 +85113,12 @@
   "__set__":true,
   "elements":[
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.tests.test_jobqueue_core.test_threads_deprecation":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_lsf":{
@@ -85047,12 +85232,14 @@
  "dask_jobqueue.tests.test_pbs.MoabCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_pbs.PBSCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -85062,33 +85249,44 @@
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
+ "dask_jobqueue.tests.test_pbs.test_adaptive":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
+  ]
+ },
  "dask_jobqueue.tests.test_pbs.test_basic":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_pbs.test_config":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_pbs.test_header":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_pbs.test_informative_errors":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_pbs.test_job_script":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -85113,12 +85311,20 @@
  "dask_jobqueue.tests.test_sge.SGECluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
+  ]
+ },
+ "dask_jobqueue.tests.test_sge.pytestmark":{
+  "__set__":true,
+  "elements":[
+   "dask-jobqueue-0.3.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_sge.test_basic":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -85149,18 +85355,21 @@
  "dask_jobqueue.tests.test_slurm.SLURMCluster":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_slurm.test_adaptive":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_slurm.test_basic":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
@@ -85173,12 +85382,14 @@
  "dask_jobqueue.tests.test_slurm.test_header":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },
  "dask_jobqueue.tests.test_slurm.test_job_script":{
   "__set__":true,
   "elements":[
+   "dask-jobqueue-0.3.0-py_0",
    "dask-jobqueue-0.7.0-py_0"
   ]
  },

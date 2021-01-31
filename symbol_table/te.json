@@ -69110,6 +69110,7 @@
   "elements":[
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0",
+   "grayskull-0.7.1-py_0",
    "scikit-time-0.1-py37hb3f55d8_0"
   ]
  },
@@ -69127,6 +69128,42 @@
    "aiomysql-0.0.9-py36_0"
   ]
  },
+ "tests.base.test_base_recipe":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_extra":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_extra.test_get_git_current_user":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_extra.test_get_git_current_with_multiple_users":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_factory":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_factory.test_factory":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
  "tests.base.test_pickling":{
   "__set__":true,
   "elements":[
@@ -69139,6 +69176,102 @@
    "scikit-time-0.1-py37hb3f55d8_0"
   ]
  },
+ "tests.base.test_pkg_info":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_pkg_info.test_check_pkgs_availability":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_pkg_info.test_pkg_available":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_pkg_info.test_pkg_not_available":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_recipe_item":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_recipe_item.test_recipe":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_add_item":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_add_subsection":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_hash":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_reduce_section":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_repr":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_section_children":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_section_load":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_section_yaml_obj":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_sections.test_str":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
  "tests.base.test_sklearn_compat":{
   "__set__":true,
   "elements":[
@@ -69149,6 +69282,60 @@
   "__set__":true,
   "elements":[
    "scikit-time-0.1-py37hb3f55d8_0"
+  ]
+ },
+ "tests.base.test_track_packages":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_track_packages.test_config_pkg":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_track_packages.test_get_track_info_from_file":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_track_packages.test_parse_delimiter":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_track_packages.test_solve_list_pkg_name":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_track_packages.test_solve_pkg_name":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_track_packages.test_solve_version_delimiter":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_track_packages.test_track_package":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.base.test_track_packages.test_version_solver":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.bending":{
@@ -70163,63 +70350,108 @@
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.cli.test_cli_cmds":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.cli.test_cli_cmds.test_easter":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.cli.test_cli_cmds.test_grayskull_without_options":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.cli.test_cli_cmds.test_pypi_cmd":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.cli.test_cli_cmds.test_version":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.cli.test_cli_recipes":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.cli.test_cli_recipes.test_loop_deps_nipy":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.cli.test_parser":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.cli.test_parser.test_parse_pkg_name_version":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.cli.test_stdout":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.cli.test_stdout.test_disabled_print":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.cli.test_stdout.test_print_stdout":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.cli.test_stdout.test_progressbar_disable":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.cli.test_stdout.test_progressbar_enable":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.client_from_wsdl":{
@@ -70603,6 +70835,7 @@
    "esmlab-2019.2.28-py_0",
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0",
    "ipywebrtc-0.4.0-py27_1",
    "ipywebrtc-0.4.0-py27_2",
    "ipywebrtc-0.4.0-py35_1",
@@ -71176,7 +71409,8 @@
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.conftest.db":{
@@ -71690,7 +71924,8 @@
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.conftest.pool_creator":{
@@ -72634,6 +72869,7 @@
   "elements":[
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0",
    "pybtex-0.22.0-py37_1000",
    "pybtex-0.22.2-py27h8c360ce_1",
    "pybtex-0.22.2-py38h32f6830_2",
@@ -80380,7 +80616,8 @@
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.license.test_discovery":{
@@ -112185,285 +112422,344 @@
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.pypi_metadata":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_botocore_recipe_license_name":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_build_noarch_skip":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_ciso_recipe":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_cythongsl_recipe_build":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_deps_comments":{
   "__set__":true,
   "elements":[
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_django_rest_framework_xml_license":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_download_pkg_sdist":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_extract_pypi_requirements":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_format_host_requirements":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_generic_py_ver_to":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_all_selectors_pypi":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_compilers":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_entry_points_from_sdist":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_extra_from_requires_dist":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_name_version_from_requires_dist":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_pypi_metadata":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_selector":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_sha256_from_pypi_metadata":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_test_entry_points":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_get_test_imports":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_importlib_metadata_two_setuptools_scm":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_injection_distutils":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_ipytest_recipe_license":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_keep_filename_license":{
   "__set__":true,
   "elements":[
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_keyring_host_appearing_twice":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_merge_pypi_sdist_metadata":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.test_pypi.test_multiples_exit_setup":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_mypy_deps_normalization_and_entry_points":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_nbdime_license_type":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_normalize_pkg_name":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_panel_entry_points":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.test_pypi.test_platform_system_selector":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_py_version_to_limit_python":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_py_version_to_selector":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_pymc_recipe_fortran":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_pytest_recipe_entry_points":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_python_requires_setup_py":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_requests_recipe_extra_deps":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_run_requirements_sdist":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
+  ]
+ },
+ "tests.test_pypi.test_tzdata_without_setup_py":{
+  "__set__":true,
+  "elements":[
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_update_requirements_with_pin":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_pypi.test_zipp_recipe_tags_on_deps":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_qmnl":{
@@ -120972,6 +121268,7 @@
    "flask-restplus-0.9.2-py34_0",
    "grayskull-0.4.0-py_0",
    "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0",
    "jupyter_server-1.0.1-py37hc8dfbb8_0",
    "jupyter_server-1.0.1-py38h32f6830_0",
    "jupyter_server-1.0.4-py38h32f6830_1",
@@ -121368,21 +121665,24 @@
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_utils.test_get_std_modules":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_utils.test_get_vendored_dependencies":{
   "__set__":true,
   "elements":[
    "grayskull-0.4.0-py_0",
-   "grayskull-0.4.2-py_0"
+   "grayskull-0.4.2-py_0",
+   "grayskull-0.7.1-py_0"
   ]
  },
  "tests.test_utils.test_hash_writer_wrapper":{
