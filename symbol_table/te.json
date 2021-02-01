@@ -71484,6 +71484,7 @@
    "portalocker-1.4.0-py36_1",
    "portalocker-1.4.0-py37_1",
    "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0",
    "pydeck-0.4.1-pyh9f0ad1d_0",
    "pykafka-2.6.0-py35_0",
    "pykafka-2.7.0-py35_0",
@@ -71575,7 +71576,8 @@
  "tests.conftest.BASE_PATH":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest.CloudProviderTestRig":{
@@ -71607,13 +71609,15 @@
  "tests.conftest.ENV":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest.Env":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest.GCS_ENDPOINT_URL":{
@@ -71687,13 +71691,15 @@
  "tests.conftest.S3_PREFIX":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest.SCHEMA":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest.SESSION_UUID":{
@@ -71801,13 +71807,15 @@
  "tests.conftest._create_database":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest._create_table":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest._cursor_wrapper":{
@@ -71820,7 +71828,8 @@
  "tests.conftest._drop_database":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest._generate_project_and_plcs":{
@@ -71850,7 +71859,8 @@
  "tests.conftest._setup_session":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest._show_widgets":{
@@ -71868,7 +71878,8 @@
  "tests.conftest._teardown_session":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest._tests_table_no_nulls":{
@@ -72767,7 +72778,8 @@
  "tests.conftest.read_query":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.conftest.regressor_checks":{
@@ -92959,25 +92971,29 @@
  "tests.test_async_cursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_async_cursor.SCHEMA":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_async_cursor.TestAsyncCursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_async_cursor.with_async_cursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_atom":{
@@ -97286,25 +97302,29 @@
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0",
    "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0",
    "pymapd-0.15.0-py_0"
   ]
  },
  "tests.test_cursor.ENV":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_cursor.S3_PREFIX":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_cursor.SCHEMA":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_cursor.TestCursor":{
@@ -97313,6 +97333,7 @@
    "aiomysql-0.0.9-py35_0",
    "aiomysql-0.0.9-py36_0",
    "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0",
    "pymapd-0.15.0-py_0"
   ]
  },
@@ -97339,7 +97360,8 @@
  "tests.test_cursor.with_cursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_custom_options":{
@@ -99453,6 +99475,7 @@
    "larch-5.4.9-py39hce5d2b2_0",
    "moviepy-0.2.3.2-py27_0",
    "point_cloud_utils-0.10.1-py38h9de70de_0",
+   "point_cloud_utils-0.10.1-py38h9de70de_1",
    "point_cloud_utils-0.11.0-py36h9de70de_1",
    "point_cloud_utils-0.11.0-py37hbf1eeb5_1",
    "point_cloud_utils-0.11.1-py38h96a391d_0",
@@ -99499,6 +99522,7 @@
   "__set__":true,
   "elements":[
    "point_cloud_utils-0.10.1-py38h9de70de_0",
+   "point_cloud_utils-0.10.1-py38h9de70de_1",
    "point_cloud_utils-0.11.0-py36h9de70de_1",
    "point_cloud_utils-0.11.0-py37hbf1eeb5_1",
    "point_cloud_utils-0.11.1-py38h96a391d_0",
@@ -101025,13 +101049,15 @@
  "tests.test_formatter":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_formatter.TestParameterFormatter":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_func":{
@@ -112038,37 +112064,43 @@
  "tests.test_pandas_cursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_pandas_cursor.ENV":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_pandas_cursor.S3_PREFIX":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_pandas_cursor.SCHEMA":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_pandas_cursor.TestPandasCursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_pandas_cursor.with_pandas_cursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_panel":{
@@ -116898,13 +116930,15 @@
  "tests.test_result_set":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_result_set.TestAthenaPandasResultSet":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_results_set":{
@@ -118867,31 +118901,36 @@
  "tests.test_sqlalchemy_athena":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_sqlalchemy_athena.ENV":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_sqlalchemy_athena.SCHEMA":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_sqlalchemy_athena.TestSQLAlchemyAthena":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_sqlalchemy_athena.with_engine":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.test_sscursor":{
@@ -131854,43 +131893,50 @@
  "tests.util":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.util.Env":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.util.read_query":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.util.with_async_cursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.util.with_cursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.util.with_engine":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.util.with_pandas_cursor":{
   "__set__":true,
   "elements":[
-   "pyathena-1.5.0-py27_0"
+   "pyathena-1.5.0-py27_0",
+   "pyathena-1.6.1-py27_0"
   ]
  },
  "tests.utils":{
