@@ -139586,7 +139586,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.DataPackageException":{
@@ -139648,7 +139649,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.StorageError":{
@@ -139813,13 +139815,26 @@
    "datapackage-1.12.2-pyh9f0ad1d_0"
   ]
  },
+ "datapackage.datapackage":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.datapackage.DataPackage":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
  "datapackage.exceptions":{
   "__set__":true,
   "elements":[
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.exceptions.CastError":{
@@ -139837,7 +139852,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.exceptions.IntegrityError":{
@@ -139863,7 +139879,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.exceptions.RelationError":{
@@ -139881,7 +139898,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.exceptions.StorageError":{
@@ -139908,7 +139926,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.group":{
@@ -139933,7 +139952,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.helpers.dereference_package_descriptor":{
@@ -139960,7 +139980,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.helpers.expand_package_descriptor":{
@@ -140032,6 +140053,36 @@
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
    "datapackage-1.3.5-py_0"
+  ]
+ },
+ "datapackage.mappers":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.mappers.convert_path":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.mappers.convert_schemas":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.mappers.restore_path":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.mappers.restore_resources":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.package":{
@@ -140112,7 +140163,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.push_datapackage":{
@@ -140121,7 +140173,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.pushpull":{
@@ -140130,7 +140183,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.pushpull._convert_path":{
@@ -140175,7 +140229,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.pushpull.push_datapackage":{
@@ -140184,7 +140239,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.registry":{
@@ -140193,7 +140249,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.registry.Registry":{
@@ -140202,7 +140259,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.resource":{
@@ -140211,7 +140269,8 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.resource.Resource":{
@@ -140220,7 +140279,14 @@
    "datapackage-1.10.0-py_0",
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
-   "datapackage-1.3.5-py_0"
+   "datapackage-1.3.5-py_0",
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.resource.TabularResource":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.resource._DIALECT_KEYS":{
@@ -140248,6 +140314,54 @@
    "datapackage-1.11.1-py_0",
    "datapackage-1.12.2-pyh9f0ad1d_0",
    "datapackage-1.3.5-py_0"
+  ]
+ },
+ "datapackage.resource._is_url":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.resource_file":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.resource_file.InlineResourceFile":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.resource_file.LocalResourceFile":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.resource_file.RemoteResourceFile":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.resource_file.urlparse":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.schema":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
+  ]
+ },
+ "datapackage.schema.Schema":{
+  "__set__":true,
+  "elements":[
+   "datapackage-py-0.8.9-py27_0"
   ]
  },
  "datapackage.validate":{
