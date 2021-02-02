@@ -16235,7 +16235,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.bilbyargparser":{
@@ -16244,7 +16245,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.bilbyargparser.BilbyArgParser":{
@@ -16253,7 +16255,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.create_injections":{
@@ -16262,7 +16265,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.create_injections.BilbyPipeCreateInjectionsError":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.create_injections.CreateInjectionInput":{
@@ -16274,13 +16284,32 @@
    "bilby_pipe-0.2.5-py_0"
   ]
  },
+ "bilby_pipe.create_injections.PriorFileInput":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.create_injections.create_injection_file":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
  "bilby_pipe.create_injections.create_parser":{
   "__set__":true,
   "elements":[
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.create_injections.get_full_path":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.create_injections.main":{
@@ -16289,7 +16318,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis":{
@@ -16298,7 +16328,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.BilbyPipeError":{
@@ -16307,7 +16338,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.DataAnalysisInput":{
@@ -16316,7 +16348,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.DataDump":{
@@ -16325,7 +16358,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.Input":{
@@ -16334,7 +16368,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.data_analysis.SAMPLER_SETTINGS":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.convert_string_to_dict":{
@@ -16343,7 +16384,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.create_analysis_parser":{
@@ -16352,7 +16394,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.create_parser":{
@@ -16361,7 +16404,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.data_analysis.log_version_information":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.logger":{
@@ -16370,7 +16420,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.main":{
@@ -16379,7 +16430,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.parse_args":{
@@ -16388,7 +16440,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_analysis.sighandler":{
@@ -16397,7 +16450,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files":{
@@ -16406,7 +16460,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.DURATION_LOOKUPS":{
@@ -16415,7 +16470,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.dest":{
@@ -16424,7 +16480,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.duration":{
@@ -16433,7 +16490,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.filename":{
@@ -16442,7 +16500,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.filenames":{
@@ -16451,7 +16510,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.ifos":{
@@ -16460,7 +16520,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.ii":{
@@ -16469,7 +16530,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.plot_SNRs":{
@@ -16478,7 +16540,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.priors":{
@@ -16487,7 +16550,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.snr_axes":{
@@ -16496,7 +16560,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.snr_fig":{
@@ -16505,7 +16570,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.waveform_arguments":{
@@ -16514,7 +16580,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_files.generate_distance_lookups.waveform_generator":{
@@ -16523,7 +16590,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation":{
@@ -16532,7 +16600,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.BilbyPipeError":{
@@ -16541,7 +16610,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.DataDump":{
@@ -16550,7 +16620,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.DataGenerationInput":{
@@ -16559,7 +16630,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.Input":{
@@ -16568,7 +16640,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.convert_string_to_dict":{
@@ -16577,7 +16650,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.create_generation_parser":{
@@ -16586,7 +16660,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.create_parser":{
@@ -16595,7 +16670,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.data_generation.get_version_information":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.is_a_power_of_2":{
@@ -16604,7 +16686,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.data_generation.log_version_information":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.logger":{
@@ -16613,7 +16702,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.main":{
@@ -16622,7 +16712,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.data_generation.parse_args":{
@@ -16631,7 +16722,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.data_generation.strain_spectogram_plot":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb":{
@@ -16640,13 +16738,15 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.CHANNEL_DICTS":{
   "__set__":true,
   "elements":[
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.DEFAULT_CHANNEL_DICT":{
@@ -16663,7 +16763,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.calibration_lookup":{
@@ -16672,7 +16773,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.create_config_file":{
@@ -16681,7 +16783,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.create_parser":{
@@ -16690,7 +16793,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.determine_duration_and_scale_factor_from_parameters":{
@@ -16699,7 +16803,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.generate_prior_from_template":{
@@ -16708,7 +16813,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.main":{
@@ -16717,7 +16823,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.prior_lookup":{
@@ -16726,7 +16833,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.read_candidate":{
@@ -16735,7 +16843,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.read_from_gracedb":{
@@ -16744,7 +16853,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.read_from_json":{
@@ -16753,7 +16863,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.gracedb.x509userproxy":{
@@ -16762,7 +16873,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.input":{
@@ -16771,7 +16883,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.input.Input":{
@@ -16780,7 +16893,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.main":{
@@ -16789,7 +16903,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.AnalysisNode":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.main.Dag":{
@@ -16798,7 +16919,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.GenerationNode":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.main.JobInput":{
@@ -16816,7 +16944,68 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.MergeNode":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.Node":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.PESummaryNode":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.PlotNode":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.PostProcessAllResultsNode":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main._log_output_error_submit_lines":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.generate_dag":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.get_detectors_list":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.get_parallel_list":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.main.get_trigger_time_list":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.main.main":{
@@ -16825,7 +17014,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.main.parse_args":{
@@ -16834,7 +17024,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.main2":{
@@ -16855,7 +17046,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.parser.BilbyArgParser":{
@@ -16864,13 +17056,15 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.parser.StoreBoolean":{
   "__set__":true,
   "elements":[
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.parser.__version__":{
@@ -16879,7 +17073,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.parser.create_parser":{
@@ -16888,7 +17083,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.parser.main":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.plot":{
@@ -16897,7 +17099,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.plot.create_parser":{
@@ -16906,7 +17109,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.plot.main":{
@@ -16915,7 +17119,38 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.plotting_utils":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.plotting_utils._filter_strain_data":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.plotting_utils.logger":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.plotting_utils.safe_run":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.plotting_utils.strain_spectogram_plot":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.pp_test":{
@@ -16924,7 +17159,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.pp_test.check_consistency":{
@@ -16933,7 +17169,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.pp_test.create_parser":{
@@ -16942,7 +17179,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.pp_test.get_basename":{
@@ -16951,7 +17189,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.pp_test.get_results_filenames":{
@@ -16960,7 +17199,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.pp_test.main":{
@@ -16969,13 +17209,15 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.pp_test.make_meta_data_plot":{
   "__set__":true,
   "elements":[
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.pp_test.read_in_result_list":{
@@ -16984,7 +17226,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.review":{
@@ -16993,7 +17236,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.review.fiducial_bbh":{
@@ -17002,7 +17246,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.review.fiducial_bns":{
@@ -17011,7 +17256,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.review.fiducial_injections":{
@@ -17029,7 +17275,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.review.get_default_config_dict":{
@@ -17043,7 +17290,8 @@
   "elements":[
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.review.main":{
@@ -17052,7 +17300,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.review.pp_test":{
@@ -17061,19 +17310,22 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.slurm":{
   "__set__":true,
   "elements":[
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.slurm.SubmitSLURM":{
   "__set__":true,
   "elements":[
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils":{
@@ -17082,7 +17334,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.ArgumentsString":{
@@ -17091,7 +17344,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.BilbyPipeError":{
@@ -17100,7 +17354,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.DEFAULT_DISTANCE_LOOKUPS":{
@@ -17109,7 +17364,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.DURATION_LOOKUPS":{
@@ -17118,7 +17374,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.DataDump":{
@@ -17127,7 +17384,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.MAXIMUM_FREQUENCY_LOOKUPS":{
@@ -17136,7 +17394,20 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.utils.NoneWrapper":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.utils.SAMPLER_SETTINGS":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.check_directory_exists_and_if_not_mkdir":{
@@ -17145,7 +17416,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.convert_detectors_input":{
@@ -17154,7 +17426,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.convert_string_to_dict":{
@@ -17163,7 +17436,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.get_command_line_arguments":{
@@ -17172,7 +17446,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.get_version_information":{
@@ -17181,7 +17456,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.is_a_power_of_2":{
@@ -17190,7 +17466,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.utils.log_version_information":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.logger":{
@@ -17199,7 +17482,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.next_power_of_2":{
@@ -17208,7 +17492,26 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.utils.nonefloat":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.utils.noneint":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.utils.nonestr":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.parse_args":{
@@ -17217,7 +17520,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.request_memory_generation_lookup":{
@@ -17226,7 +17530,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.run_command_line":{
@@ -17235,7 +17540,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.setup_logger":{
@@ -17244,7 +17550,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.string_to_int_float":{
@@ -17253,7 +17560,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.strip_quotes":{
@@ -17262,7 +17570,14 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
+  ]
+ },
+ "bilby_pipe.utils.tcolors":{
+  "__set__":true,
+  "elements":[
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.test_connection":{
@@ -17271,7 +17586,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "bilby_pipe.utils.write_config_file":{
@@ -17280,7 +17596,8 @@
    "bilby_pipe-0.2.1-py_0",
    "bilby_pipe-0.2.2-py_0",
    "bilby_pipe-0.2.2-py_1",
-   "bilby_pipe-0.2.5-py_0"
+   "bilby_pipe-0.2.5-py_0",
+   "bilby_pipe-0.3.2-py_0"
   ]
  },
  "billiard.Array":{

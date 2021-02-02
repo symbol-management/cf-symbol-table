@@ -1,0 +1,63 @@
+{
+ "errors": {
+  "janitor.dataframe": {
+   "exception": "'NoneType' object has no attribute 'type'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 488, in wrapper",
+    "    return func(self, line, column, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 213, in complete",
+    "    return completion.complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 169, in complete",
+    "    cached_name, completion_names = self._complete_python(leaf)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 311, in _complete_python",
+    "    completion_names += self._complete_inherited(is_function=False)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 428, in _complete_inherited",
+    "    if (name.api_type == 'function') == is_function:",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/value/klass.py\", line 80, in api_type",
+    "    if definition.type == 'funcdef':",
+    "AttributeError: 'NoneType' object has no attribute 'type'",
+    ""
+   ]
+  }
+ },
+ "symbols": [
+  "janitor.DataFrame",
+  "janitor.Series",
+  "janitor.__version__",
+  "janitor._strip_underscores",
+  "janitor.clean_names",
+  "janitor.coalesce",
+  "janitor.concatenate_columns",
+  "janitor.convert_excel_date",
+  "janitor.dataframe",
+  "janitor.deconcatenate_column",
+  "janitor.encode_categorical",
+  "janitor.errors",
+  "janitor.errors.JanitorError",
+  "janitor.expand_column",
+  "janitor.fill_empty",
+  "janitor.functions",
+  "janitor.functions._strip_underscores",
+  "janitor.functions.clean_names",
+  "janitor.functions.coalesce",
+  "janitor.functions.concatenate_columns",
+  "janitor.functions.convert_excel_date",
+  "janitor.functions.deconcatenate_column",
+  "janitor.functions.encode_categorical",
+  "janitor.functions.expand_column",
+  "janitor.functions.fill_empty",
+  "janitor.functions.get_dupes",
+  "janitor.functions.get_features_targets",
+  "janitor.functions.label_encode",
+  "janitor.functions.remove_empty",
+  "janitor.functions.rename_column",
+  "janitor.get_dupes",
+  "janitor.get_features_targets",
+  "janitor.label_encode",
+  "janitor.remove_empty",
+  "janitor.rename_column"
+ ]
+}
