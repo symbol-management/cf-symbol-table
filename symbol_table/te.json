@@ -32980,6 +32980,7 @@
   "elements":[
    "abtem-1.0.0b11-pyhd8ed1ab_1",
    "ansible-runner-1.4.5-pyh9f0ad1d_0",
+   "mycli-1.22.1-pyh9f0ad1d_0",
    "pyproj-3.0.0-py37hf874b97_0",
    "pyproj-3.0.0-py38h0ae89ba_0"
   ]
@@ -32996,6 +32997,18 @@
   "elements":[
    "pyproj-3.0.0-py37hf874b97_0",
    "pyproj-3.0.0-py38h0ae89ba_0"
+  ]
+ },
+ "test.conftest.cursor":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.conftest.executor":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.conftest.get_wgs84_datum_name":{
@@ -33142,6 +33155,552 @@
    "tatsu-4.4.0-py38_0",
    "tatsu-4.4.0-py39hde42818_2",
    "tatsu-5.0.0-py_0"
+  ]
+ },
+ "test.features":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.db_utils":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.db_utils.close_cn":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.db_utils.create_cn":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.db_utils.create_db":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.db_utils.drop_db":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.environment":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.environment.after_all":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.environment.after_scenario":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.environment.before_all":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.environment.before_scenario":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.environment.before_step":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.environment.test_log_file":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.fixture_utils":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.fixture_utils.read_fixture_files":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.fixture_utils.read_fixture_lines":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.auto_vertical":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.auto_vertical.step_execute_large_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.auto_vertical.step_execute_small_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.auto_vertical.step_run_cli_with_arg":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.auto_vertical.step_see_large_results":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.auto_vertical.step_see_small_results":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands.step_check_application_name":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands.step_confirm_destructive_command":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands.step_ctrl_d":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands.step_run_cli":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands.step_see_found":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands.step_send_help":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands.step_send_source_command":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.basic_commands.step_wait_prompt":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_db_connect_dbserver":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_db_connect_test":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_db_connect_tmp":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_db_create":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_db_drop":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_see_db_connected":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_see_db_created":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_see_db_dropped":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_see_help":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_see_prompt":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_database.step_wait_exit":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_create_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_delete_from_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_drop_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_insert_into_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_see_data_deleted":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_see_data_selected":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_see_null_selected":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_see_record_inserted":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_see_record_updated":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_see_table_created":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_see_table_dropped":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_select_from_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_select_null":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.crud_table.step_update_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.delimiter_is_set":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_edit_done_sql":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_edit_file":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_edit_quit":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_edit_type_sql":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_notee_output":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_see_123456_in_ouput":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_see_result":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.iocommands.step_tee_ouptut":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_delete_named_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_save_named_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_see_named_query_deleted":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_see_named_query_executed":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_see_named_query_saved":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_see_named_query_with_parameters_executed":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_see_named_query_with_parameters_fail_with_extra_parameters":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_see_named_query_with_parameters_fail_with_missing_parameters":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.named_queries.step_use_named_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.specials":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.specials.step_refresh_completions":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.specials.step_see_refresh_started":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.specials.step_see_text":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.wrappers":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.wrappers.expect_exact":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.wrappers.expect_pager":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.wrappers.run_cli":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.steps.wrappers.wait_prompt":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.wrappager":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.features.wrappager.wrappager":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.geocoders":{
@@ -40251,6 +40810,18 @@
    "wsproto-0.13.0-py38_1"
   ]
  },
+ "test.test_clistyle":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_clistyle.test_style_factory":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
  "test.test_color_spec":{
   "__set__":true,
   "elements":[
@@ -40917,6 +41488,348 @@
    "forest-0.9.2-py38_0"
   ]
  },
+ "test.test_completion_engine":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.sorted_dicts":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_2_statements_1st_current":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_2_statements_2nd_current":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_3_statements_2nd_current":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_after_as":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_col_comma_suggests_cols":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_create_db_with_template":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_cross_join":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_distinct_suggests_cols":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_dot_col_comma_suggests_cols_or_schema_qualified_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_dot_suggests_cols_of_a_table_or_schema_qualified_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_dot_suggests_cols_of_an_alias":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_drop_schema_qualified_table_suggests_only_tables":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_expression_suggests_qualified_tables_views_and_schemas":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_expression_suggests_tables_views_and_schemas":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_favorite_name_suggestion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_handle_pre_completion_comma_gracefully":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_insert_into_lparen_comma_suggests_cols":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_insert_into_lparen_partial_text_suggests_cols":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_insert_into_lparen_suggests_cols":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_into_suggests_tables_and_schemas":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_join_alias_dot_suggests_cols1":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_join_alias_dot_suggests_cols2":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_join_suggests_tables_and_schemas":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_join_using_suggests_common_columns":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_lparen_suggests_cols":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_on_suggests_aliases":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_on_suggests_tables":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_operand_inside_function_suggests_cols1":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_operand_inside_function_suggests_cols2":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_order_by":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_outer_table_reference_in_exists_subquery_suggests_columns":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_partially_typed_col_name_suggests_col_names":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_select_suggests_cols_and_funcs":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_select_suggests_cols_with_qualified_table_scope":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_select_suggests_cols_with_visible_table_scope":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_source_is_file":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_specials_included_for_initial_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_specials_not_included_after_initial_token":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_sub_select_col_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_sub_select_dot_col_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_sub_select_multiple_col_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_sub_select_partial_text_suggests_keyword":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_sub_select_suggests_keyword":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_sub_select_table_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_table_comma_suggests_tables_and_schemas":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_truncate_suggests_qualified_tables":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_truncate_suggests_tables_and_schemas":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_where_equals_any_suggests_columns_or_keywords":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_where_in_suggests_columns":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_engine.test_where_suggests_columns_functions":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_refresher":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_refresher.test_ctor":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_refresher.test_refresh_called_once":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_refresher.test_refresh_called_twice":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_completion_refresher.test_refresh_with_callbacks":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
  "test.test_components_modal":{
   "__set__":true,
   "elements":[
@@ -41039,7 +41952,14 @@
    "forest-0.7.2-py36_0",
    "forest-0.8.0-py37_0",
    "forest-0.9.1-py36_0",
-   "forest-0.9.2-py38_0"
+   "forest-0.9.2-py38_0",
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.LOGIN_PATH_FILE":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_config.SERVER_CONFIG":{
@@ -41148,6 +42068,18 @@
   "__set__":true,
   "elements":[
    "forest-0.4.2-py36_0"
+  ]
+ },
+ "test.test_config.open_bmylogin_cnf":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_alternate_get_mylogin_cnf_path":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_config.test_combine_variables_copies_environment":{
@@ -41351,6 +42283,48 @@
    "forest-0.9.2-py38_0"
   ]
  },
+ "test.test_config.test_corrupted_login_key":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_corrupted_pad":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_decrypt_blank_mylogin_cnf":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_get_mylogin_cnf_path":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_read_config_file_list_values_default":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_read_config_file_list_values_off":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_read_mylogin_cnf":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
  "test.test_config.test_server_config":{
   "__set__":true,
   "elements":[
@@ -41373,6 +42347,42 @@
    "forest-0.8.0-py37_0",
    "forest-0.9.1-py36_0",
    "forest-0.9.2-py38_0"
+  ]
+ },
+ "test.test_config.test_str_to_bool":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_strip_quotes_with_empty_string":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_strip_quotes_with_matching_quotes":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_strip_quotes_with_none":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_strip_quotes_with_quotes":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_config.test_strip_quotes_with_unmatching_quotes":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_connection":{
@@ -44177,6 +45187,36 @@
    "forest-0.8.0-py37_0",
    "forest-0.9.1-py36_0",
    "forest-0.9.2-py38_0"
+  ]
+ },
+ "test.test_dbspecial":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_dbspecial.test_describe_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_dbspecial.test_format_uptime":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_dbspecial.test_list_or_show_create_tables":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_dbspecial.test_u_suggests_databases":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_detect":{
@@ -49422,7 +50462,80 @@
    "forest-0.7.2-py36_0",
    "forest-0.8.0-py37_0",
    "forest-0.9.1-py36_0",
-   "forest-0.9.2-py38_0"
+   "forest-0.9.2-py38_0",
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.CLI_ARGS":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.clickoutput":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.default_config_file":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.login_path_file":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.output":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.project_dir":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_batch_mode":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_command_descriptions_end_with_periods":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_conditional_pager":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_dir":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_dsn":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_execute_arg":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_main.test_file_groups_given_config_file":{
@@ -49451,6 +50564,24 @@
    "forest-0.9.2-py38_0"
   ]
  },
+ "test.test_main.test_help_strings_end_with_periods":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_list_dsn":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_list_ssh_config":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
  "test.test_main.test_main_given_rdt_files":{
   "__set__":true,
   "elements":[
@@ -49476,6 +50607,24 @@
    "forest-0.8.0-py37_0",
    "forest-0.9.1-py36_0",
    "forest-0.9.2-py38_0"
+  ]
+ },
+ "test.test_main.test_reserved_space_is_integer":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_ssh_config":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_main.test_thanks_picker_utf8":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_mark":{
@@ -49879,6 +51028,42 @@
   "elements":[
    "galgebra-0.4.4-py27_0",
    "galgebra-0.4.4-py38_0"
+  ]
+ },
+ "test.test_naive_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_naive_completion.test_column_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_naive_completion.test_empty_string_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_naive_completion.test_function_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_naive_completion.test_select_keyword_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_naive_completion.test_special_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_navigator":{
@@ -50584,6 +51769,114 @@
    "forest-0.8.0-py37_0",
    "forest-0.9.1-py36_0",
    "forest-0.9.2-py38_0"
+  ]
+ },
+ "test.test_parseutils":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_empty_string":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_is_destructive":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_is_dropping_database":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_join_as_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_join_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_queries_start_with":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_query_has_where_clause":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_query_starts_with":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_select_with_hanging_comma_multiple_tables":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_select_with_hanging_comma_single_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_select_with_hanging_period_multiple_tables":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_simple_insert_single_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_simple_select_multiple_tables":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_simple_select_single_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_simple_select_with_cols_multiple_tables":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_simple_select_with_cols_single_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_parseutils.test_simple_update_table":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_permessage_deflate":{
@@ -52089,6 +53382,18 @@
   "elements":[
    "pyproj-3.0.0-py37hf874b97_0",
    "pyproj-3.0.0-py38h0ae89ba_0"
+  ]
+ },
+ "test.test_prompt_utils":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_prompt_utils.test_confirm_destructive_query_notty":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_propagator":{
@@ -53725,6 +55030,342 @@
    "pyproj-3.0.0-py38h0ae89ba_0"
   ]
  },
+ "test.test_smart_completion_public_schema_only":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.dummy_list_path":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.metadata":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_auto_escaped_col_names":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_empty_string_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_file_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_function_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_select_keyword_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_special_name_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_suggested_aliases_after_on":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_suggested_column_names":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_suggested_multiple_column_names":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_suggested_tables_after_on":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_table_completion":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_table_names_after_from":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_smart_completion_public_schema_only.test_un_escaped_table_names":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.teardown_function":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_editor_command":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_favorite_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_once_command":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_parseargfile":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_set_delimiter":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_set_get_expanded_output":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_set_get_pager":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_set_get_timing":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_split_sql_by_delimiter":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_switch_delimiter_within_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_tee_command":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_watch_query_bad_arguments":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_watch_query_clear":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_watch_query_full":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_watch_query_interval_clear":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_special_iocommands.test_watch_query_iteration":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.assert_result_equal":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_binary":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_bools":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_cd_command_current_dir":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_cd_command_without_a_folder_name":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_conn":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_database_list":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_date_null":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_datetime_null":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_favorite_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_invalid_column_name":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_invalid_syntax":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_multiple_queries_same_line":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_multiple_results":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_special_command":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_system_command_not_found":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_system_command_output":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_table_and_columns_query":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_time_null":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_timestamp_null":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_sqlexecute.test_unicode_support":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
  "test.test_state":{
   "__set__":true,
   "elements":[
@@ -53844,6 +55485,18 @@
   "elements":[
    "pyproj-3.0.0-py37hf874b97_0",
    "pyproj-3.0.0-py38h0ae89ba_0"
+  ]
+ },
+ "test.test_tabular_output":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.test_tabular_output.test_sql_output":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.test_temperature":{
@@ -60652,8 +62305,105 @@
  "test.utils":{
   "__set__":true,
   "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0",
    "snorkel-0.9.2-py_0",
    "snorkel-0.9.4-py_1"
+  ]
+ },
+ "test.utils.CAN_CONNECT_TO_DB":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.CHARSET":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.HOST":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.PASSWORD":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.PORT":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.SSH_HOST":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.SSH_PORT":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.SSH_USER":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.USER":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.create_db":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.db_connection":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.dbtest":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.is_expanded_output":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.run":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.send_ctrl_c":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
+  ]
+ },
+ "test.utils.set_expanded_output":{
+  "__set__":true,
+  "elements":[
+   "mycli-1.22.1-pyh9f0ad1d_0"
   ]
  },
  "test.utils.test_config_utils":{
@@ -62545,6 +64295,7 @@
    "regex-2018.01.10-py36hfa6e2cd_1000",
    "regex-2018.01.10-py37h470a237_0",
    "regex-2018.02.21-py35_0",
+   "regex-2018.02.21-py36_0",
    "regex-2018.06.06-py35_0",
    "regex-2018.06.06-py36_0",
    "regex-2018.06.09-py36_0",
@@ -62615,6 +64366,7 @@
    "regex-2018.01.10-py37h470a237_0",
    "regex-2018.02.21-py27_0",
    "regex-2018.02.21-py35_0",
+   "regex-2018.02.21-py36_0",
    "regex-2018.06.06-py35_0",
    "regex-2018.06.06-py36_0",
    "regex-2018.06.09-py36_0",
@@ -62678,6 +64430,7 @@
    "regex-2018.01.10-py36hfa6e2cd_1000",
    "regex-2018.01.10-py37h470a237_0",
    "regex-2018.02.21-py35_0",
+   "regex-2018.02.21-py36_0",
    "regex-2018.06.06-py35_0",
    "regex-2018.06.06-py36_0",
    "regex-2018.06.09-py36_0",
@@ -62778,6 +64531,7 @@
    "regex-2018.01.10-py37h470a237_0",
    "regex-2018.02.21-py27_0",
    "regex-2018.02.21-py35_0",
+   "regex-2018.02.21-py36_0",
    "regex-2018.06.06-py35_0",
    "regex-2018.06.06-py36_0",
    "regex-2018.06.09-py36_0",
@@ -71789,6 +73543,7 @@
   "__set__":true,
   "elements":[
    "polyfempy-0.0.1-py37h0a44026_0",
+   "polyfempy-0.0.1-py37h6538335_0",
    "polyfempy-0.2-py36h6538335_0",
    "polyfempy-0.2.1-py36h6538335_0",
    "polyfempy-0.2.1-py37h0a44026_0",
@@ -71799,6 +73554,7 @@
   "__set__":true,
   "elements":[
    "polyfempy-0.0.1-py37h0a44026_0",
+   "polyfempy-0.0.1-py37h6538335_0",
    "polyfempy-0.2-py36h6538335_0",
    "polyfempy-0.2.1-py36h6538335_0",
    "polyfempy-0.2.1-py37h0a44026_0",
@@ -80078,6 +81834,7 @@
   "__set__":true,
   "elements":[
    "polyfempy-0.0.1-py37h0a44026_0",
+   "polyfempy-0.0.1-py37h6538335_0",
    "polyfempy-0.2-py36h6538335_0",
    "polyfempy-0.2.1-py36h6538335_0",
    "polyfempy-0.2.1-py37h0a44026_0",
@@ -80088,6 +81845,7 @@
   "__set__":true,
   "elements":[
    "polyfempy-0.0.1-py37h0a44026_0",
+   "polyfempy-0.0.1-py37h6538335_0",
    "polyfempy-0.2-py36h6538335_0",
    "polyfempy-0.2.1-py36h6538335_0",
    "polyfempy-0.2.1-py37h0a44026_0",
@@ -131271,6 +133029,7 @@
   "__set__":true,
   "elements":[
    "polyfempy-0.0.1-py37h0a44026_0",
+   "polyfempy-0.0.1-py37h6538335_0",
    "polyfempy-0.2-py36h6538335_0",
    "polyfempy-0.2.1-py36h6538335_0",
    "polyfempy-0.2.1-py37h0a44026_0",
@@ -131281,6 +133040,7 @@
   "__set__":true,
   "elements":[
    "polyfempy-0.0.1-py37h0a44026_0",
+   "polyfempy-0.0.1-py37h6538335_0",
    "polyfempy-0.2-py36h6538335_0",
    "polyfempy-0.2.1-py36h6538335_0",
    "polyfempy-0.2.1-py37h0a44026_0",
