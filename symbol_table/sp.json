@@ -156444,7 +156444,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client":{
@@ -156452,7 +156453,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.get_parser":{
@@ -156460,7 +156462,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.get_subparsers":{
@@ -156475,7 +156478,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.recipe":{
@@ -156483,7 +156487,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.recipe.DockerRecipe":{
@@ -156502,12 +156507,43 @@
    "spython-0.0.62-py_0"
   ]
  },
+ "spython.client.recipe.bot":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.client.recipe.get_parser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.client.recipe.get_writer":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
  "spython.client.recipe.main":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.client.recipe.write_file":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.client.recipe.write_json":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.set_verbosity":{
@@ -156515,7 +156551,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.shell":{
@@ -156523,7 +156560,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.shell.DockerRecipe":{
@@ -156563,7 +156601,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.shell.main":{
@@ -156571,7 +156610,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.client.shell.prepare_client":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.shell.python":{
@@ -156579,7 +156625,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.client.shell.run_bpython":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.test":{
@@ -156587,7 +156640,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.test.bot":{
@@ -156609,7 +156663,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.client.version":{
@@ -156617,7 +156672,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image":{
@@ -156625,7 +156681,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.Image":{
@@ -156633,7 +156690,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.ImageBase":{
@@ -156641,13 +156699,15 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.bot":{
   "__set__":true,
   "elements":[
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd":{
@@ -156655,7 +156715,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.create.bot":{
@@ -156663,7 +156724,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.create.check_install":{
@@ -156671,7 +156733,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.create.create":{
@@ -156679,7 +156742,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.export.bot":{
@@ -156687,7 +156751,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.export.check_install":{
@@ -156695,7 +156760,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.export.export":{
@@ -156703,7 +156769,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.generate_image_commands":{
@@ -156711,7 +156778,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.importcmd.bot":{
@@ -156724,7 +156792,8 @@
  "spython.image.cmd.importcmd.check_install":{
   "__set__":true,
   "elements":[
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.importcmd.importcmd":{
@@ -156732,7 +156801,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.init_command":{
@@ -156740,7 +156810,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.println":{
@@ -156748,7 +156819,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.run_command":{
@@ -156756,7 +156828,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.utils":{
@@ -156764,7 +156837,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.utils.bot":{
@@ -156772,7 +156846,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.utils.compress":{
@@ -156780,7 +156855,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.cmd.utils.decompress":{
@@ -156788,7 +156864,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.image.get_singularity_version":{
@@ -156800,7 +156877,8 @@
  "spython.image.split_uri":{
   "__set__":true,
   "elements":[
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance":{
@@ -156808,7 +156886,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.ImageBase":{
@@ -156816,7 +156895,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.Instance":{
@@ -156824,7 +156904,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd":{
@@ -156832,7 +156913,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.Instance":{
@@ -156840,7 +156922,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.RobotNamer":{
@@ -156848,7 +156931,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.generate_instance_commands":{
@@ -156856,7 +156940,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.init_command":{
@@ -156864,7 +156949,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.instances":{
@@ -156880,19 +156966,22 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.iutils.Instance":{
   "__set__":true,
   "elements":[
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.iutils.bot":{
   "__set__":true,
   "elements":[
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.iutils.check_install":{
@@ -156900,7 +156989,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.iutils.get":{
@@ -156908,7 +156998,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.iutils.parse_table":{
@@ -156916,7 +157007,68 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.list_instances":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs._logs":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs.bot":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs.check_install":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs.error_logs":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs.get_userhome":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs.get_username":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs.output_logs":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.instance.cmd.logs.run_command":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.println":{
@@ -156924,7 +157076,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.run_command":{
@@ -156932,7 +157085,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.start.bot":{
@@ -156940,7 +157094,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.start.check_install":{
@@ -156948,7 +157103,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.start.run_command":{
@@ -156956,7 +157112,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.start.start":{
@@ -156964,7 +157121,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.stop.bot":{
@@ -156972,7 +157130,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.stop.check_install":{
@@ -156980,7 +157139,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.stop.run_command":{
@@ -156988,7 +157148,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.instance.cmd.stop.stop":{
@@ -156996,7 +157157,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger":{
@@ -157004,7 +157166,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.ProgressBar":{
@@ -157012,7 +157175,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.bot":{
@@ -157020,7 +157184,26 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.logger.compatibility":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.logger.compatibility.decodeUtf8String":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.logger.decodeUtf8String":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message":{
@@ -157028,7 +157211,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.ABORT":{
@@ -157036,7 +157220,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.CRITICAL":{
@@ -157044,7 +157229,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.CUSTOM":{
@@ -157052,7 +157238,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.CYAN":{
@@ -157060,7 +157247,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.DARKRED":{
@@ -157068,7 +157256,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.DEBUG":{
@@ -157076,7 +157265,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.ERROR":{
@@ -157084,7 +157274,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.INFO":{
@@ -157092,7 +157283,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.LOG":{
@@ -157100,7 +157292,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.PURPLE":{
@@ -157108,7 +157301,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.QUIET":{
@@ -157116,7 +157310,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.RED":{
@@ -157124,7 +157319,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.SingularityMessage":{
@@ -157132,7 +157328,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.VERBOSE":{
@@ -157140,7 +157337,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.VERBOSE1":{
@@ -157148,7 +157346,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.VERBOSE2":{
@@ -157156,7 +157355,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.VERBOSE3":{
@@ -157164,7 +157364,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.WARNING":{
@@ -157172,7 +157373,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.YELLOW":{
@@ -157180,7 +157382,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.bot":{
@@ -157188,7 +157391,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.convert2boolean":{
@@ -157196,7 +157400,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.logger.message.decodeUtf8String":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.get_logging_level":{
@@ -157204,7 +157415,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.message.get_user_color_preference":{
@@ -157212,7 +157424,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress":{
@@ -157220,7 +157433,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.BAR_EMPTY_CHAR":{
@@ -157228,7 +157442,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.BAR_FILLED_CHAR":{
@@ -157236,7 +157451,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.BAR_TEMPLATE":{
@@ -157244,7 +157460,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.ETA_INTERVAL":{
@@ -157252,7 +157469,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.ETA_SMA_WINDOW":{
@@ -157260,7 +157478,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.ProgressBar":{
@@ -157268,7 +157487,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.STREAM":{
@@ -157276,7 +157496,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.bar":{
@@ -157284,7 +157505,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.progress.bar.bar":{
@@ -157348,7 +157570,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.logger.spinner.Spinner":{
@@ -157356,7 +157579,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main":{
@@ -157364,7 +157588,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.Client":{
@@ -157372,7 +157597,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.apps":{
@@ -157380,7 +157606,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.apps.apps":{
@@ -157388,7 +157615,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.apps.bot":{
@@ -157403,7 +157631,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base":{
@@ -157411,7 +157640,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.Client":{
@@ -157419,7 +157649,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.RobotNamer":{
@@ -157427,7 +157658,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.bot":{
@@ -157435,7 +157667,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.check_install":{
@@ -157443,7 +157676,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.command":{
@@ -157451,7 +157685,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.command.bot":{
@@ -157459,7 +157694,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.command.check_install":{
@@ -157474,7 +157710,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.command.init_command":{
@@ -157482,7 +157719,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.command.println":{
@@ -157497,7 +157735,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.command.send_command":{
@@ -157505,7 +157744,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.flags":{
@@ -157513,7 +157753,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.flags.parse_verbosity":{
@@ -157521,7 +157762,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.generate":{
@@ -157529,7 +157771,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.generate.RobotNamer":{
@@ -157537,7 +157780,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.generate.main":{
@@ -157545,7 +157789,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.generate_bind_list":{
@@ -157553,7 +157798,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.get_filename":{
@@ -157561,7 +157807,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.get_singularity_version":{
@@ -157569,7 +157816,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.get_uri":{
@@ -157577,7 +157825,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.init_command":{
@@ -157585,7 +157834,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.init_level":{
@@ -157593,7 +157843,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.load":{
@@ -157601,7 +157852,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.logger":{
@@ -157609,7 +157861,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.base.logger.decodeUtf8String":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.logger.init_level":{
@@ -157617,7 +157876,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.logger.println":{
@@ -157625,7 +157885,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.parse_verbosity":{
@@ -157633,7 +157894,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.println":{
@@ -157641,7 +157903,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.run_command":{
@@ -157649,7 +157912,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.setenv":{
@@ -157657,7 +157921,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.sutils":{
@@ -157665,7 +157930,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.sutils.bot":{
@@ -157673,7 +157939,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.sutils.get_filename":{
@@ -157681,7 +157948,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.sutils.get_uri":{
@@ -157689,7 +157957,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.sutils.load":{
@@ -157697,7 +157966,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.base.sutils.setenv":{
@@ -157705,7 +157975,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.build":{
@@ -157713,7 +157984,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.build.bot":{
@@ -157721,7 +157993,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.build.build":{
@@ -157729,7 +158002,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.build.check_install":{
@@ -157737,7 +158011,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.build.stream_command":{
@@ -157745,7 +158020,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.execute":{
@@ -157753,7 +158029,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.execute.bot":{
@@ -157761,7 +158038,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.execute.check_install":{
@@ -157769,7 +158047,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.execute.execute":{
@@ -157777,7 +158056,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.execute.shell":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.execute.stream_command":{
@@ -157785,35 +158071,46 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.execute.which":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.export":{
   "__set__":true,
   "elements":[
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.export._export":{
   "__set__":true,
   "elements":[
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.export.bot":{
   "__set__":true,
   "elements":[
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.export.export":{
   "__set__":true,
   "elements":[
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.export.stream_command":{
@@ -157827,7 +158124,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.help":{
@@ -157835,7 +158133,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.help.check_install":{
@@ -157843,7 +158142,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.help.cmd":{
@@ -157878,19 +158178,27 @@
    "spython-0.0.62-py_0"
   ]
  },
+ "spython.main.help.helpcmd":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
  "spython.main.inspect":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.inspect.bot":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
-   "spython-0.0.60-py_0"
+   "spython-0.0.60-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.inspect.check_install":{
@@ -157898,7 +158206,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.inspect.inspect":{
@@ -157906,7 +158215,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.inspect.parse_labels":{
@@ -157914,7 +158224,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.inspect.run_command":{
@@ -157922,7 +158233,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.instances":{
@@ -157930,7 +158242,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.instances.bot":{
@@ -157938,7 +158251,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.instances.check_install":{
@@ -157946,7 +158260,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.instances.instances":{
@@ -157957,12 +158272,19 @@
    "spython-0.0.62-py_0"
   ]
  },
+ "spython.main.instances.list_instances":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
  "spython.main.instances.run_command":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.instances.stopall":{
@@ -157970,7 +158292,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.parse":{
@@ -157978,7 +158301,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.parse.DockerRecipe":{
@@ -158123,12 +158447,97 @@
    "spython-0.0.62-py_0"
   ]
  },
+ "spython.main.parse.parsers":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.DockerParser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.SingularityParser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.base":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.base.ParserBase":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.base.bot":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.base.read_file":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.docker":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.docker.DockerParser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.docker.bot":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.get_parser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.singularity":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.singularity.SingularityParser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.parsers.singularity.bot":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
  "spython.main.parse.recipe":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.parse.recipe.Recipe":{
@@ -158136,7 +158545,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.parse.recipe.bot":{
@@ -158234,12 +158644,151 @@
    "spython-0.0.60-py_0"
   ]
  },
+ "spython.main.parse.writers":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.DockerWriter":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.SingularityWriter":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.base":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.base.WriterBase":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.base.bot":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.base.write_file":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.docker":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.docker.DockerWriter":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.docker._default_uri":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.docker._docker_uri":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.docker._reduced_uri":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.docker.bot":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.docker.write_files":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.docker.write_lines":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.get_writer":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.singularity":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.singularity.SingularityWriter":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.singularity.bot":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.singularity.create_env_section":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.singularity.create_keyval_section":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.parse.writers.singularity.finish_section":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
  "spython.main.pull":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.main.pull.ScopedEnvVar":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.pull.bot":{
@@ -158247,7 +158796,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.pull.check_install":{
@@ -158255,7 +158805,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.pull.pull":{
@@ -158263,7 +158814,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.pull.stream_command":{
@@ -158271,7 +158823,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.run":{
@@ -158279,7 +158832,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.run.bot":{
@@ -158287,7 +158841,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.run.check_install":{
@@ -158295,7 +158850,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.run.run":{
@@ -158303,7 +158859,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.main.run.stream_command":{
@@ -158311,7 +158868,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci":{
@@ -158319,7 +158877,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.ImageBase":{
@@ -158327,7 +158886,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.OciImage":{
@@ -158335,7 +158895,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.bot":{
@@ -158343,7 +158904,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.OciImage":{
@@ -158351,7 +158913,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.RobotNamer":{
@@ -158359,7 +158922,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions":{
@@ -158367,7 +158931,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions._run":{
@@ -158375,7 +158940,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions.attach":{
@@ -158383,7 +158949,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions.bot":{
@@ -158391,7 +158958,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions.create":{
@@ -158399,7 +158967,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions.delete":{
@@ -158407,7 +158976,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions.execute":{
@@ -158415,7 +158985,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions.run":{
@@ -158423,7 +158994,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions.stream_command":{
@@ -158431,7 +159003,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.actions.update":{
@@ -158439,7 +159012,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.generate_oci_commands":{
@@ -158447,7 +159021,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.mounts":{
@@ -158455,7 +159030,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.mounts.bot":{
@@ -158470,7 +159046,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.mounts.umount":{
@@ -158478,7 +159055,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.println":{
@@ -158486,7 +159064,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.run_command":{
@@ -158494,7 +159073,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.send_command":{
@@ -158502,7 +159082,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.states":{
@@ -158510,7 +159091,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.states._state_command":{
@@ -158518,7 +159100,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.states.bot":{
@@ -158533,7 +159116,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.states.pause":{
@@ -158541,7 +159125,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.states.resume":{
@@ -158549,7 +159134,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.states.start":{
@@ -158557,7 +159143,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.cmd.states.state":{
@@ -158565,7 +159152,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.oci.init_command":{
@@ -158573,7 +159161,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests":{
@@ -158581,7 +159170,62 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.conftest":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.conftest.Client":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.conftest.docker_container":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.conftest.get_installdir":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.conftest.installdir":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.conftest.test_data":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_base":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_base.Image":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_base.test_image":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_client":{
@@ -158589,7 +159233,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_client.Client":{
@@ -158597,7 +159242,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_client.TestClient":{
@@ -158623,12 +159269,85 @@
    "spython-0.0.62-py_0"
   ]
  },
+ "spython.tests.test_client.test_build_from_docker":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_client.test_docker_pull":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_client.test_execute":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_client.test_export":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_client.test_inspect":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_conversion":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_conversion.DockerWriter":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_conversion.SingularityParser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_conversion.read_file":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_conversion.test_docker2singularity":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_conversion.test_other_recipe_exists":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_conversion.test_singularity2docker":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
  "spython.tests.test_instances":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_instances.Client":{
@@ -158636,7 +159355,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_instances.TestInstanceFuncs":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_instances.TestInstances":{
@@ -158661,12 +159387,25 @@
    "spython-0.0.60-py_0"
   ]
  },
+ "spython.tests.test_instances.test_has_no_instances":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_instances.test_instance_class":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
  "spython.tests.test_oci":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_oci.Client":{
@@ -158674,7 +159413,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_oci.RobotNamer":{
@@ -158682,7 +159422,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_oci.TestOci":{
@@ -158705,7 +159446,74 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_oci.pytestmark":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_oci.test_oci":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_parsers":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_parsers.DockerParser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_parsers.SingularityParser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_parsers.test_docker_parser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_parsers.test_get_parser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_parsers.test_singularity_parser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_recipe":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_recipe.Recipe":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_recipe.test_recipe_base":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_utils":{
@@ -158713,7 +159521,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.ScopedEnvVar":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.tests.test_utils.TestUtils":{
@@ -158731,12 +159546,121 @@
    "spython-0.0.60-py_0"
   ]
  },
+ "spython.tests.test_utils.test_ScopedEnvVar":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_check_get_singularity_version":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_check_install":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_decode":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_get_installdir":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_remove_uri":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_split_uri":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_write_bad_json":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_write_json":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_utils.test_write_read_files":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_writers":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_writers.DockerWriter":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_writers.SingularityParser":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_writers.SingularityWriter":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_writers.test_docker_writer":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_writers.test_singularity_writer":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.tests.test_writers.test_writers":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
  "spython.utils":{
   "__set__":true,
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.ScopedEnvVar":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.check_install":{
@@ -158744,7 +159668,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.fileio":{
@@ -158752,7 +159677,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.fileio.bot":{
@@ -158760,7 +159686,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.fileio.mkdir_p":{
@@ -158768,7 +159695,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.fileio.read_file":{
@@ -158776,7 +159704,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.fileio.read_json":{
@@ -158784,7 +159713,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.fileio.write_file":{
@@ -158792,7 +159722,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.fileio.write_json":{
@@ -158800,7 +159731,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.format_container_name":{
@@ -158808,7 +159740,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.get_installdir":{
@@ -158816,7 +159749,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.get_singularity_version":{
@@ -158824,7 +159758,38 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.get_userhome":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.get_username":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.misc":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.misc.ScopedEnvVar":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.misc.setEnvVar":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.mkdir_p":{
@@ -158832,7 +159797,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.read_file":{
@@ -158840,7 +159806,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.read_json":{
@@ -158848,7 +159815,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.remove_uri":{
@@ -158856,7 +159824,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.run_command":{
@@ -158864,13 +159833,15 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.split_uri":{
   "__set__":true,
   "elements":[
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.stream_command":{
@@ -158878,7 +159849,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal":{
@@ -158886,7 +159858,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.terminal._process_sudo_cmd":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.bot":{
@@ -158894,7 +159873,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.check_install":{
@@ -158902,7 +159882,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.terminal.decodeUtf8String":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.format_container_name":{
@@ -158910,7 +159897,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.get_installdir":{
@@ -158918,7 +159906,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.get_singularity_version":{
@@ -158926,7 +159915,20 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.terminal.get_userhome":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.terminal.get_username":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.remove_uri":{
@@ -158934,7 +159936,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.run_command":{
@@ -158942,13 +159945,15 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.split_uri":{
   "__set__":true,
   "elements":[
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.terminal.stream_command":{
@@ -158956,7 +159961,20 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.terminal.which":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.utils.which":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.write_file":{
@@ -158964,7 +159982,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.utils.write_json":{
@@ -158972,7 +159991,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version":{
@@ -158980,7 +160000,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.AUTHOR":{
@@ -158988,7 +160009,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.AUTHOR_EMAIL":{
@@ -158996,7 +160018,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.DESCRIPTION":{
@@ -159004,7 +160027,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.INSTALL_REQUIRES":{
@@ -159012,7 +160036,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.KEYWORDS":{
@@ -159020,7 +160045,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.LICENSE":{
@@ -159028,7 +160054,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.NAME":{
@@ -159036,7 +160063,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.PACKAGE_URL":{
@@ -159044,7 +160072,14 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
+  ]
+ },
+ "spython.version.TESTS_REQUIRES":{
+  "__set__":true,
+  "elements":[
+   "spython-0.0.75-py_0"
   ]
  },
  "spython.version.__version__":{
@@ -159052,7 +160087,8 @@
   "elements":[
    "spython-0.0.56-py_0",
    "spython-0.0.60-py_0",
-   "spython-0.0.62-py_0"
+   "spython-0.0.62-py_0",
+   "spython-0.0.75-py_0"
   ]
  }
 }
