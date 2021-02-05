@@ -295,6 +295,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -323,6 +324,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -351,6 +353,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -379,6 +382,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -451,6 +455,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -478,6 +483,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -505,6 +511,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -532,6 +539,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -558,7 +566,8 @@
  "django_extensions.admin.get_model_compat":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.admin.widgets":{
@@ -566,6 +575,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -594,6 +604,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -753,6 +764,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -776,22 +788,49 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.compat.CompatibilityAppCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
+ "django_extensions.compat.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
+ "django_extensions.compat.CompatibilityLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.compat.OLD_PY2":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.PY3":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
+ "django_extensions.compat.ProxyParser":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.StringIO":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.UnicodeWriter":{
@@ -808,6 +847,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -826,31 +866,36 @@
  "django_extensions.compat.get_app":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.get_app_models":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.get_apps":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.get_apps_from_cache":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.get_model_compat":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.get_models_compat":{
@@ -862,13 +907,15 @@
  "django_extensions.compat.get_models_for_app":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.get_models_from_cache":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.get_template_setting":{
@@ -898,31 +945,36 @@
  "django_extensions.compat.get_user_model":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.importlib":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.list_app_labels":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.list_apps":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.compat.load_tag_library":{
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -951,6 +1003,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -979,6 +1032,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1007,6 +1061,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1035,6 +1090,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1063,6 +1119,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1091,6 +1148,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1118,6 +1176,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1146,6 +1205,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1174,6 +1234,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1194,6 +1255,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1222,6 +1284,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1250,6 +1313,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1283,6 +1347,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1310,6 +1375,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1337,7 +1403,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.db.fields.encrypted":{
@@ -1345,6 +1412,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1372,6 +1440,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1399,6 +1468,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1426,6 +1496,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1453,6 +1524,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1480,6 +1552,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1508,6 +1581,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1536,6 +1610,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1564,6 +1639,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1591,7 +1667,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.db.fields.json.dumps":{
@@ -1599,6 +1676,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1627,6 +1705,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1655,6 +1734,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1683,6 +1763,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1711,6 +1792,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1739,6 +1821,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1767,6 +1850,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1795,6 +1879,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1823,6 +1908,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1850,6 +1936,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1878,6 +1965,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1905,7 +1993,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.default_app_config":{
@@ -1949,6 +2038,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -1977,6 +2067,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2005,6 +2096,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2033,6 +2125,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2061,6 +2154,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2089,6 +2183,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2117,6 +2212,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2145,6 +2241,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2173,6 +2270,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2201,6 +2299,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2229,6 +2328,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2257,6 +2357,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2285,6 +2386,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2312,6 +2414,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2339,6 +2442,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2366,6 +2470,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2394,6 +2499,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2422,6 +2528,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2450,6 +2557,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2478,6 +2586,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2506,6 +2615,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2533,6 +2643,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2561,6 +2672,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2613,6 +2725,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2641,6 +2754,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2669,6 +2783,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2697,6 +2812,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2725,6 +2841,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2748,11 +2865,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.admin_generator.CompatibilityLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.admin_generator.DATE_HIERARCHY_NAMES":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2781,6 +2905,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2809,6 +2934,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2837,6 +2963,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2865,6 +2992,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2893,6 +3021,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2921,6 +3050,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2949,6 +3079,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -2977,6 +3108,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3005,6 +3137,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3033,6 +3166,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3061,6 +3195,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3089,6 +3224,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3114,7 +3250,8 @@
  "django_extensions.management.commands.admin_generator.get_apps":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.admin_generator.get_models_compat":{
@@ -3123,11 +3260,18 @@
    "django-extensions-1.6.1-py27_0"
   ]
  },
+ "django_extensions.management.commands.admin_generator.get_models_for_app":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.admin_generator.signalcommand":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3156,6 +3300,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3184,6 +3329,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3207,11 +3353,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.clean_pyc.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.clean_pyc.signalcommand":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3240,6 +3393,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3268,6 +3422,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3291,11 +3446,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.clear_cache.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.clear_cache.signalcommand":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3324,6 +3486,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3352,6 +3515,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3375,11 +3539,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.compile_pyc.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.compile_pyc.signalcommand":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3408,6 +3579,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3435,6 +3607,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3457,11 +3630,18 @@
    "django-extensions-1.9.6-py_0"
   ]
  },
+ "django_extensions.management.commands.create_app.CompatibilityLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.create_app.REPLACEMENTS":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3489,6 +3669,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3516,6 +3697,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3543,6 +3725,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3570,6 +3753,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3597,6 +3781,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3624,6 +3809,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3652,6 +3838,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3675,11 +3862,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.create_command.CompatibilityAppCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.create_command._make_writeable":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3708,6 +3902,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3736,6 +3931,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3764,6 +3960,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3792,6 +3989,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3815,11 +4013,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.create_jobs.CompatibilityAppCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.create_jobs._make_writeable":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3848,6 +4053,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3876,6 +4082,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3904,6 +4111,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3932,6 +4140,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3955,11 +4164,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.create_template_tags.CompatibilityAppCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.create_template_tags._make_writeable":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -3988,6 +4204,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4016,6 +4233,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4144,6 +4362,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4172,6 +4391,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4193,6 +4413,12 @@
    "django-extensions-1.9.0-py36_0",
    "django-extensions-1.9.6-py_0",
    "django-extensions-3.0.9-pyh9f0ad1d_0"
+  ]
+ },
+ "django_extensions.management.commands.describe_form.CompatibilityLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.describe_form.describe_form":{
@@ -4200,6 +4426,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4223,11 +4450,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.describe_form.get_model_compat":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.describe_form.signalcommand":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4256,6 +4490,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4284,6 +4519,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4307,6 +4543,12 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.drop_test_database.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.drop_test_database.RemovedInNextVersionWarning":{
   "__set__":true,
   "elements":[
@@ -4316,6 +4558,7 @@
  "django_extensions.management.commands.drop_test_database.parse_mysql_cnf":{
   "__set__":true,
   "elements":[
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4344,6 +4587,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4372,6 +4616,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4400,6 +4645,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4428,6 +4674,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4451,11 +4698,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.dumpscript.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.dumpscript.DoLater":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4484,6 +4738,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4512,6 +4767,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4540,6 +4796,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4568,6 +4825,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4602,6 +4860,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4630,6 +4889,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4664,6 +4924,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4690,7 +4951,8 @@
  "django_extensions.management.commands.dumpscript.get_model_compat":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.dumpscript.get_models":{
@@ -4698,6 +4960,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4730,7 +4993,14 @@
  "django_extensions.management.commands.dumpscript.get_models_for_app":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
+ "django_extensions.management.commands.dumpscript.list_app_labels":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.dumpscript.make_clean_dict":{
@@ -4738,6 +5008,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4766,6 +5037,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4794,6 +5066,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4822,6 +5095,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4850,6 +5124,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4873,11 +5148,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.export_emails.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.export_emails.FORMATS":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4922,6 +5204,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4949,7 +5232,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.export_emails.signalcommand":{
@@ -4957,6 +5241,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -4985,6 +5270,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5013,6 +5299,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5036,11 +5323,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.find_template.CompatibilityLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.find_template.get_template_path":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5068,6 +5362,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5114,6 +5409,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5142,6 +5438,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5165,6 +5462,12 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.generate_secret_key.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.generate_secret_key.get_random_secret_key":{
   "__set__":true,
   "elements":[
@@ -5183,6 +5486,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5211,6 +5515,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5239,6 +5544,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5262,11 +5568,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.graph_models.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.graph_models.HAS_PYDOT":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5295,6 +5608,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5345,6 +5659,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5371,6 +5686,7 @@
  "django_extensions.management.commands.graph_models.generate_graph_data":{
   "__set__":true,
   "elements":[
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5382,6 +5698,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5470,6 +5787,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5498,6 +5816,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5521,11 +5840,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.mail_debug.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.mail_debug.ExtensionDebuggingServer":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5554,6 +5880,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5582,6 +5909,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5610,6 +5938,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5680,6 +6009,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5708,6 +6038,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5736,6 +6067,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5764,6 +6096,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5785,6 +6118,12 @@
    "django-extensions-1.9.0-py36_0",
    "django-extensions-1.9.6-py_0",
    "django-extensions-3.0.9-pyh9f0ad1d_0"
+  ]
+ },
+ "django_extensions.management.commands.notes.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.notes.get_template_setting":{
@@ -5816,6 +6155,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5844,6 +6184,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5871,6 +6212,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5893,11 +6235,18 @@
    "django-extensions-1.9.6-py_0"
   ]
  },
+ "django_extensions.management.commands.passwd.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.passwd.get_user_model":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.passwd.signalcommand":{
@@ -5905,6 +6254,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5932,6 +6282,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5960,6 +6311,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -5983,11 +6335,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.pipchecker.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.pipchecker.HAS_REQUESTS":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6016,6 +6375,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6044,6 +6404,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6072,6 +6433,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6100,6 +6462,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6123,11 +6486,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.print_settings.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.print_settings.signalcommand":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6156,6 +6526,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6184,6 +6555,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6207,24 +6579,33 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.print_user_for_session.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.print_user_for_session.VALID_KEY_CHARS":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.print_user_for_session.get_user_model":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.print_user_for_session.importlib":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.print_user_for_session.signalcommand":{
@@ -6232,6 +6613,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6260,6 +6642,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6288,6 +6671,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6309,6 +6693,12 @@
    "django-extensions-1.9.0-py36_0",
    "django-extensions-1.9.6-py_0",
    "django-extensions-3.0.9-pyh9f0ad1d_0"
+  ]
+ },
+ "django_extensions.management.commands.reset_db.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.reset_db.MYSQL_ENGINES":{
@@ -6338,6 +6728,7 @@
  "django_extensions.management.commands.reset_db.parse_mysql_cnf":{
   "__set__":true,
   "elements":[
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6366,6 +6757,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6412,6 +6804,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6440,6 +6833,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6463,11 +6857,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.runjob.CompatibilityLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.runjob.get_job":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6502,6 +6903,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6536,6 +6938,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6564,6 +6967,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6592,6 +6996,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6615,11 +7020,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.runjobs.CompatibilityLabelCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.runjobs.get_jobs":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6654,6 +7066,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6688,6 +7101,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6716,6 +7130,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6744,6 +7159,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6767,11 +7183,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.runprofileserver.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.runprofileserver.KCacheGrind":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6800,6 +7223,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6834,7 +7258,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.runprofileserver.label":{
@@ -6849,6 +7274,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6877,6 +7303,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6911,6 +7338,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6945,6 +7373,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -6977,13 +7406,15 @@
  "django_extensions.management.commands.runscript.importlib":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.runscript.list_apps":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.runscript.signalcommand":{
@@ -6991,6 +7422,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7018,7 +7450,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.runserver_plus":{
@@ -7026,6 +7459,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7054,6 +7488,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7077,10 +7512,17 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.runserver_plus.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.runserver_plus.DEFAULT_POLLER_RELOADER_INTERVAL":{
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7123,6 +7565,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7149,7 +7592,8 @@
  "django_extensions.management.commands.runserver_plus.HAS_MIGRATIONS":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.runserver_plus.HAS_OPENSSL":{
@@ -7169,6 +7613,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7197,6 +7642,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7254,6 +7700,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7282,6 +7729,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7316,6 +7764,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7350,6 +7799,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7390,6 +7840,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7418,6 +7869,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7446,6 +7898,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7474,6 +7927,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7502,6 +7956,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7525,11 +7980,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.set_default_site.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.set_default_site.signalcommand":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7558,6 +8020,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7586,6 +8049,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7609,11 +8073,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.set_fake_emails.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.set_fake_emails.DEFAULT_FAKE_EMAIL":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7641,7 +8112,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.set_fake_emails.signalcommand":{
@@ -7649,6 +8121,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7677,6 +8150,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7705,6 +8179,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7728,11 +8203,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.set_fake_passwords.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.set_fake_passwords.DEFAULT_FAKE_PASSWORD":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7760,7 +8242,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.set_fake_passwords.signalcommand":{
@@ -7768,6 +8251,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7796,6 +8280,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7824,6 +8309,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7847,10 +8333,17 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.shell_plus.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.shell_plus.PY3":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.shell_plus.import_objects":{
@@ -7858,6 +8351,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7898,6 +8392,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7925,6 +8420,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7952,6 +8448,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -7979,6 +8476,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8002,6 +8500,12 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.show_template_tags.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.show_template_tags._dummy_style_func":{
   "__set__":true,
   "elements":[
@@ -8012,6 +8516,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8039,6 +8544,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8066,6 +8572,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8099,6 +8606,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8125,7 +8633,8 @@
  "django_extensions.management.commands.show_template_tags.smart_text":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.show_templatetags":{
@@ -8133,6 +8642,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8160,6 +8670,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8211,6 +8722,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8239,6 +8751,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8262,11 +8775,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.show_urls.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.show_urls.FMTR":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8313,6 +8833,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8377,6 +8898,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8405,6 +8927,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8433,6 +8956,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8456,6 +8980,12 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.sqlcreate.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.sqlcreate.RemovedInNextVersionWarning":{
   "__set__":true,
   "elements":[
@@ -8467,6 +8997,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8495,6 +9026,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8523,6 +9055,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8546,11 +9079,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.sqldiff.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.sqldiff.DATABASE_SQLDIFF_CLASSES":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8579,6 +9119,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8606,7 +9147,8 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.sqldiff.MySQLDiff":{
@@ -8614,6 +9156,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8642,6 +9185,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8670,6 +9214,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8698,6 +9243,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8726,6 +9272,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8754,6 +9301,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8782,6 +9330,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8808,7 +9357,8 @@
  "django_extensions.management.commands.sqldiff.get_app_models":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.sqldiff.signalcommand":{
@@ -8816,6 +9366,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8843,6 +9394,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8870,6 +9422,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8893,6 +9446,12 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.sqldsn.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.sqldsn.RemovedInNextVersionWarning":{
   "__set__":true,
   "elements":[
@@ -8904,6 +9463,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8932,6 +9492,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8955,11 +9516,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.sync_s3.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.sync_s3.HAS_BOTO":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -8986,7 +9554,8 @@
  "django_extensions.management.commands.sync_s3.StringIO":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.sync_s3.signalcommand":{
@@ -8994,6 +9563,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9022,6 +9592,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9050,6 +9621,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9073,6 +9645,12 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.syncdata.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.syncdata.SyncDataError":{
   "__set__":true,
   "elements":[
@@ -9083,14 +9661,16 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.syncdata.custom_transaction":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.syncdata.humanize":{
@@ -9104,6 +9684,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9132,6 +9713,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9160,6 +9742,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9183,16 +9766,24 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.unreferenced_files.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.unreferenced_files.get_apps_from_cache":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.unreferenced_files.get_models_from_cache":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.unreferenced_files.signalcommand":{
@@ -9200,6 +9791,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9228,6 +9820,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9256,6 +9849,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9279,25 +9873,34 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.update_permissions.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.update_permissions.create_permissions":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.update_permissions.django_apps":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.update_permissions.get_all_apps":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.commands.update_permissions.signalcommand":{
@@ -9305,6 +9908,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9333,6 +9937,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9361,6 +9966,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9384,10 +9990,17 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.commands.validate_templates.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.commands.validate_templates.add_to_builtins_compat":{
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9423,6 +10036,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9451,6 +10065,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9474,6 +10089,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9497,11 +10113,18 @@
    "django-extensions-3.0.9-pyh9f0ad1d_0"
   ]
  },
+ "django_extensions.management.email_notifications.CompatibilityBaseCommand":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.email_notifications.EmailNotificationCommand":{
   "__set__":true,
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9530,6 +10153,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9558,6 +10182,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9586,6 +10211,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9614,6 +10240,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9642,6 +10269,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9670,6 +10298,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9698,6 +10327,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9726,6 +10356,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9754,6 +10385,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9782,6 +10414,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9810,6 +10443,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9838,6 +10472,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9866,6 +10501,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9894,6 +10530,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9922,6 +10559,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9950,6 +10588,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -9978,6 +10617,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10006,6 +10646,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10034,6 +10675,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10062,6 +10704,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10112,6 +10755,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10140,6 +10784,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10168,6 +10813,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10196,6 +10842,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10224,6 +10871,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10250,6 +10898,7 @@
  "django_extensions.management.modelviz.generate_graph_data":{
   "__set__":true,
   "elements":[
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10276,7 +10925,14 @@
  "django_extensions.management.modelviz.get_app":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
+ "django_extensions.management.modelviz.get_model_compat":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.modelviz.get_models_compat":{
@@ -10285,10 +10941,17 @@
    "django-extensions-1.6.1-py27_0"
   ]
  },
+ "django_extensions.management.modelviz.get_models_for_app":{
+  "__set__":true,
+  "elements":[
+   "django-extensions-1.6.7-py35_0"
+  ]
+ },
  "django_extensions.management.modelviz.list_app_labels":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.management.modelviz.parse_file_or_list":{
@@ -10296,6 +10959,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10322,6 +10986,7 @@
  "django_extensions.management.modelviz.use_model":{
   "__set__":true,
   "elements":[
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10348,6 +11013,7 @@
  "django_extensions.management.mysql":{
   "__set__":true,
   "elements":[
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10374,6 +11040,7 @@
  "django_extensions.management.mysql.parse_mysql_cnf":{
   "__set__":true,
   "elements":[
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10402,6 +11069,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10430,6 +11098,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10458,6 +11127,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10486,6 +11156,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10520,6 +11191,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10573,6 +11245,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10601,6 +11274,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10629,6 +11303,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10657,6 +11332,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10685,6 +11361,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10713,6 +11390,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10741,6 +11419,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10769,6 +11448,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10797,6 +11477,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10825,6 +11506,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10853,6 +11535,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10881,6 +11564,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10909,6 +11593,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10937,6 +11622,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10971,6 +11657,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -10999,6 +11686,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11034,6 +11722,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11067,6 +11756,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11101,6 +11791,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11129,6 +11820,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11157,6 +11849,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11185,6 +11878,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11231,6 +11925,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11259,6 +11954,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11287,6 +11983,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11315,6 +12012,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11343,6 +12041,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11371,6 +12070,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11399,6 +12099,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11427,6 +12128,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11455,6 +12157,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11483,6 +12186,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11510,6 +12214,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11537,6 +12242,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11564,6 +12270,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11591,6 +12298,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11619,6 +12327,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11647,6 +12356,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11675,6 +12385,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11703,6 +12414,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11731,6 +12443,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11766,6 +12479,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11794,6 +12508,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11822,6 +12537,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11850,6 +12566,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11878,6 +12595,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11906,6 +12624,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11934,6 +12653,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11962,6 +12682,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -11990,6 +12711,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12048,6 +12770,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12082,6 +12805,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12107,19 +12831,22 @@
  "django_extensions.south_migrations":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.south_migrations.0001_empty":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.south_migrations.0001_empty.Migration":{
   "__set__":true,
   "elements":[
-   "django-extensions-1.6.1-py27_0"
+   "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0"
   ]
  },
  "django_extensions.str_version":{
@@ -12127,6 +12854,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12154,6 +12882,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12212,6 +12941,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12240,6 +12970,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12267,6 +12998,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12295,6 +13027,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12323,6 +13056,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12351,6 +13085,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12379,6 +13114,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12407,6 +13143,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12435,6 +13172,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12463,6 +13201,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12491,6 +13230,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12518,6 +13258,7 @@
   "__set__":true,
   "elements":[
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12546,6 +13287,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12574,6 +13316,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12602,6 +13345,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12630,6 +13374,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12658,6 +13403,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12692,6 +13438,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12720,6 +13467,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12747,6 +13495,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12799,6 +13548,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12826,6 +13576,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12854,6 +13605,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12882,6 +13634,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12910,6 +13663,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12938,6 +13692,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -12966,6 +13721,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13690,6 +14446,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13782,6 +14539,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13810,6 +14568,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13838,6 +14597,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13866,6 +14626,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13900,6 +14661,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13927,6 +14689,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13955,6 +14718,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -13995,6 +14759,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14033,6 +14798,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14067,6 +14833,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14078,6 +14845,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14098,6 +14866,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14109,6 +14878,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14120,6 +14890,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14131,6 +14902,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14142,6 +14914,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14153,6 +14926,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14164,6 +14938,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14175,6 +14950,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14186,6 +14962,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14197,6 +14974,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14208,6 +14986,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14219,6 +14998,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14253,6 +15033,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -14281,6 +15062,7 @@
   "elements":[
    "django-extensions-1.5.0-py_0",
    "django-extensions-1.6.1-py27_0",
+   "django-extensions-1.6.7-py35_0",
    "django-extensions-1.7.1-py34_0",
    "django-extensions-1.7.3-py34_0",
    "django-extensions-1.7.4-py27_0",
@@ -16491,7 +17273,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.FastFixtureTestCase":{
@@ -16499,7 +17282,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.NoseTestSuiteRunner":{
@@ -16507,7 +17291,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.VERSION":{
@@ -16515,7 +17300,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.__version__":{
@@ -16523,7 +17309,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.fixture_tables":{
@@ -16531,7 +17318,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.fixture_tables.get_apps":{
@@ -16539,7 +17327,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.fixture_tables.has_bz2":{
@@ -16547,7 +17336,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.fixture_tables.tables_used_by_fixtures":{
@@ -16555,7 +17345,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.management":{
@@ -16563,7 +17354,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.management.commands":{
@@ -16571,7 +17363,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.management.commands.test":{
@@ -16579,7 +17372,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.management.commands.test.Command":{
@@ -16587,7 +17381,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.management.commands.test.TestRunner":{
@@ -16595,7 +17390,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.management.commands.test.extra_options":{
@@ -16603,7 +17399,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin":{
@@ -16611,7 +17408,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin.AlwaysOnPlugin":{
@@ -16619,7 +17417,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin.Bucketer":{
@@ -16627,7 +17426,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin.DjangoSetUpPlugin":{
@@ -16635,7 +17435,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin.FastFixtureTestCase":{
@@ -16643,7 +17444,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin.ResultPlugin":{
@@ -16651,7 +17453,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin.TestReorderer":{
@@ -16659,7 +17462,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin.is_subclass_at_all":{
@@ -16667,7 +17471,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.plugin.process_tests":{
@@ -16675,7 +17480,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner":{
@@ -16683,7 +17489,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.BaseRunner":{
@@ -16691,7 +17498,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.BasicNoseRunner":{
@@ -16699,7 +17507,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.DjangoSetUpPlugin":{
@@ -16707,7 +17516,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.NoseTestSuiteRunner":{
@@ -16715,7 +17525,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.OPTION_TRANSLATION":{
@@ -16723,7 +17534,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.ResultPlugin":{
@@ -16731,7 +17543,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.TestReorderer":{
@@ -16739,7 +17552,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.__all__":{
@@ -16747,7 +17561,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner._can_support_reuse_db":{
@@ -16755,7 +17570,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner._foreign_key_ignoring_handle":{
@@ -16763,7 +17579,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner._get_plugins_from_settings":{
@@ -16771,7 +17588,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner._mysql_reset_sequences":{
@@ -16779,7 +17597,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner._old_handle":{
@@ -16787,7 +17606,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner._reusing_db":{
@@ -16795,7 +17615,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner._should_create_database":{
@@ -16803,7 +17624,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner._skip_create_test_db":{
@@ -16811,7 +17633,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.translate_option":{
@@ -16819,7 +17642,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.runner.uses_mysql":{
@@ -16827,7 +17651,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.testcases":{
@@ -16835,7 +17660,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.testcases.FastFixtureTestCase":{
@@ -16843,7 +17669,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.testcases.__all__":{
@@ -16851,7 +17678,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.testcases.tables_used_by_fixtures":{
@@ -16859,7 +17687,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.testcases.uses_mysql":{
@@ -16867,7 +17696,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.tools":{
@@ -16875,7 +17705,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.tools._get_django_vars":{
@@ -16883,7 +17714,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.tools._get_nose_vars":{
@@ -16891,7 +17723,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.tools._name":{
@@ -16899,7 +17732,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.tools._value":{
@@ -16907,7 +17741,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.tools.assert_code":{
@@ -16915,7 +17750,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.tools.assert_mail_count":{
@@ -16923,7 +17759,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.tools.assert_ok":{
@@ -16931,7 +17768,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.utils":{
@@ -16939,7 +17777,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.utils.is_subclass_at_all":{
@@ -16947,7 +17786,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.utils.process_tests":{
@@ -16955,7 +17795,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_nose.utils.uses_mysql":{
@@ -16963,7 +17804,8 @@
   "elements":[
    "django-nose-1.4.4-py27_0",
    "django-nose-1.4.4-py34_0",
-   "django-nose-1.4.5-py35_0"
+   "django-nose-1.4.5-py35_0",
+   "django-nose-1.4.5-py36_0"
   ]
  },
  "django_redis.VERSION":{
