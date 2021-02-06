@@ -103819,6 +103819,7 @@
  "flow.FlowProject":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -103835,9 +103836,16 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.IgnoreConditions":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.JobOperation":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -103857,6 +103865,7 @@
  "flow.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -103876,6 +103885,7 @@
  "flow.__main__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -103895,6 +103905,7 @@
  "flow.__main__.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -103914,6 +103925,7 @@
  "flow.__main__.main":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -103933,6 +103945,7 @@
  "flow.__version__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -103949,9 +103962,52 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.aggregates":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.aggregates._AggregateStore":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.aggregates._BaseAggregateStore":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.aggregates._DefaultAggregateStore":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.aggregates._aggregator":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.aggregates._get_aggregate_id":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.aggregates._get_unique_function_id":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.classlabel":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -103971,6 +104027,7 @@
  "flow.cmd":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -103985,6 +104042,7 @@
  "flow.directives":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -103996,9 +104054,136 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.directives.DirectivesError":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._Directive":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._GET_EXECUTABLE":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._MEMORY":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._NGPU":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._NP":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._NP_DEFAULT":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._NRANKS":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._OMP_NUM_THREADS":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._OnlyType":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._PROCESSOR_FRACTION":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._WALLTIME":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._evaluate":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._finalize_np":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._is_fraction":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._natural_number":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._no_aggregation":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._nonnegative_int":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._nonnegative_real":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._positive_real":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.directives._raise_below":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.environment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104018,6 +104203,7 @@
  "flow.environment.CPUEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104037,6 +104223,7 @@
  "flow.environment.ComputeEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104086,6 +104273,7 @@
  "flow.environment.DefaultLSFEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -104093,6 +104281,7 @@
  "flow.environment.DefaultSlurmEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104112,6 +104301,7 @@
  "flow.environment.DefaultTorqueEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104145,6 +104335,7 @@
  "flow.environment.GPUEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104182,6 +104373,7 @@
  "flow.environment.LSFEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -104235,6 +104427,7 @@
  "flow.environment.NodesEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104254,6 +104447,7 @@
  "flow.environment.SimpleSchedulerEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -104268,6 +104462,7 @@
  "flow.environment.SlurmEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104287,6 +104482,7 @@
  "flow.environment.StandardEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -104301,6 +104497,7 @@
  "flow.environment.TestEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104320,6 +104517,7 @@
  "flow.environment.TorqueEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104373,9 +104571,22 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.environment._ComputeEnvironmentType":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.environment._cached_fqdn":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.environment._import_configured_environments":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104437,6 +104648,7 @@
  "flow.environment.get_environment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104456,6 +104668,7 @@
  "flow.environment.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104475,6 +104688,7 @@
  "flow.environment.registered_environments":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104494,6 +104708,7 @@
  "flow.environment.setup":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104510,9 +104725,16 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.environment.template_filter":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.environments":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104532,6 +104754,7 @@
  "flow.environments.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104551,6 +104774,7 @@
  "flow.environments.incite":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104595,6 +104819,7 @@
  "flow.environments.incite.SummitEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -104621,6 +104846,7 @@
  "flow.environments.incite.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104640,6 +104866,7 @@
  "flow.environments.umich":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104675,9 +104902,16 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.environments.umich.GreatLakesEnvironment":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.environments.umich.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -104719,9 +104953,28 @@
    "signac-flow-0.5.6-py27_1"
   ]
  },
+ "flow.environments.umn":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.environments.umn.MangiEnvironment":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.environments.umn.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.environments.xsede":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104741,6 +104994,7 @@
  "flow.environments.xsede.BridgesEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.6-py27_1",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
@@ -104756,6 +105010,7 @@
  "flow.environments.xsede.CometEnvironment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104775,6 +105030,7 @@
  "flow.environments.xsede.Stampede2Environment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -104786,9 +105042,16 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.environments.xsede._STAMPEDE_OFFSET":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.environments.xsede.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104808,6 +105071,7 @@
  "flow.environments.xsede.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -104822,6 +105086,7 @@
  "flow.errors":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104841,6 +105106,7 @@
  "flow.errors.ConfigKeyError":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -104850,6 +105116,12 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.errors.DirectivesError":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.errors.JINJA2":{
@@ -104869,6 +105141,7 @@
  "flow.errors.NoSchedulerError":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104888,6 +105161,7 @@
  "flow.errors.SubmitError":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -104907,6 +105181,7 @@
  "flow.errors.TemplateError":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -104916,6 +105191,18 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.errors.UserConditionError":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.errors.UserOperationError":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.fakescheduler":{
@@ -104968,9 +105255,16 @@
    "signac-flow-0.5.6-py27_1"
   ]
  },
+ "flow.get_config_value":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.get_environment":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105050,6 +105344,7 @@
  "flow.init":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
    "signac-flow-0.5.5-py35_0",
@@ -105068,6 +105363,7 @@
  "flow.label":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105087,6 +105383,7 @@
  "flow.labels._is_label_func":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105101,6 +105398,7 @@
  "flow.labels.classlabel":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105115,6 +105413,7 @@
  "flow.labels.label":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105129,6 +105428,7 @@
  "flow.labels.staticlabel":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105426,6 +105726,7 @@
  "flow.operations":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105445,6 +105746,7 @@
  "flow.operations.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105459,6 +105761,7 @@
  "flow.operations._get_operations":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105478,6 +105781,7 @@
  "flow.operations.cmd":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105492,6 +105796,7 @@
  "flow.operations.directives":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105506,6 +105811,7 @@
  "flow.operations.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105530,6 +105836,7 @@
  "flow.operations.run":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105549,6 +105856,7 @@
  "flow.operations.with_job":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -105556,6 +105864,7 @@
  "flow.project":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105570,6 +105879,18 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.project.BaseFlowOperation":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.project.FlowCmdOperation":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.project.FlowCondition":{
@@ -105591,9 +105912,16 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.project.FlowGroup":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.project.FlowOperation":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105613,6 +105941,7 @@
  "flow.project.FlowProject":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105627,6 +105956,12 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.project.IgnoreConditions":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.project.JINJA2":{
@@ -105660,6 +105995,7 @@
  "flow.project.JobOperation":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105679,6 +106015,7 @@
  "flow.project.TEMPLATE_HELP":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105688,11 +106025,18 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.project._AggregatesCursor":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.project._FMT_SCHEDULER_STATUS":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105704,9 +106048,16 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.project._FlowCondition":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.project._FlowProjectClass":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -105723,6 +106074,18 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.project._IgnoreConditionsConversion":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.project._JobOperation":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.project._LEGACY_TEMPLATING_METHODS":{
   "__set__":true,
   "elements":[
@@ -105736,9 +106099,16 @@
    "signac-flow-0.6.4-py36_1000"
   ]
  },
+ "flow.project._SubmissionJobOperation":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.project.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105753,6 +106123,7 @@
  "flow.project._condition":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -105762,6 +106133,18 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.project._create_all_metacondition":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.project._deserialize_and_run_operation":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.project._execute":{
@@ -105795,6 +106178,12 @@
    "signac-flow-0.5.5-py27_0",
    "signac-flow-0.5.5-py35_0",
    "signac-flow-0.5.6-py27_1"
+  ]
+ },
+ "flow.project._make_bundles":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.project._mkdir_p":{
@@ -105963,6 +106352,7 @@
  "flow.project.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106021,6 +106411,7 @@
  "flow.redirect_log":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106037,9 +106428,22 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.render_status":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.render_status._render_status":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.run":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106089,6 +106493,7 @@
  "flow.scheduling":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106173,6 +106578,7 @@
  "flow.scheduling.base":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106187,6 +106593,7 @@
  "flow.scheduling.base.ClusterJob":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106201,6 +106608,7 @@
  "flow.scheduling.base.JobStatus":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106215,6 +106623,7 @@
  "flow.scheduling.base.Scheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106229,6 +106638,7 @@
  "flow.scheduling.base.Scheduler._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106243,6 +106653,7 @@
  "flow.scheduling.base.Scheduler._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106252,6 +106663,42 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.scheduling.base._call_submit":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.scheduling.fake_scheduler":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.scheduling.fake_scheduler.FakeScheduler":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.scheduling.fake_scheduler._dos_timeout":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.scheduling.fake_scheduler._last_query":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.scheduling.fake_scheduler.logger":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.scheduling.fakescheduler":{
@@ -106327,6 +106774,7 @@
  "flow.scheduling.lsf":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -106334,6 +106782,7 @@
  "flow.scheduling.lsf.LSFJob":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -106341,6 +106790,7 @@
  "flow.scheduling.lsf.LSFScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -106348,6 +106798,7 @@
  "flow.scheduling.lsf._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -106355,6 +106806,7 @@
  "flow.scheduling.lsf._fetch":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -106362,6 +106814,7 @@
  "flow.scheduling.lsf._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -106369,6 +106822,7 @@
  "flow.scheduling.lsf._parse_status":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -106376,6 +106830,7 @@
  "flow.scheduling.lsf.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -106383,6 +106838,7 @@
  "flow.scheduling.simple_scheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106397,6 +106853,7 @@
  "flow.scheduling.simple_scheduler.SimpleScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106411,6 +106868,7 @@
  "flow.scheduling.simple_scheduler._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106425,6 +106883,7 @@
  "flow.scheduling.simple_scheduler._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106439,6 +106898,7 @@
  "flow.scheduling.slurm":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106453,6 +106913,7 @@
  "flow.scheduling.slurm.SlurmJob":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106467,6 +106928,7 @@
  "flow.scheduling.slurm.SlurmScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106481,6 +106943,7 @@
  "flow.scheduling.slurm._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106495,6 +106958,7 @@
  "flow.scheduling.slurm._fetch":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106509,6 +106973,7 @@
  "flow.scheduling.slurm._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106523,6 +106988,7 @@
  "flow.scheduling.slurm.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106607,6 +107073,7 @@
  "flow.scheduling.torque":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106621,6 +107088,7 @@
  "flow.scheduling.torque.TorqueJob":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106635,6 +107103,7 @@
  "flow.scheduling.torque.TorqueScheduler":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106649,6 +107118,7 @@
  "flow.scheduling.torque._dos_timeout":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106663,6 +107133,7 @@
  "flow.scheduling.torque._fetch":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106677,6 +107148,7 @@
  "flow.scheduling.torque._last_query":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106691,6 +107163,7 @@
  "flow.scheduling.torque.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -106775,6 +107248,7 @@
  "flow.staticlabel":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106794,6 +107268,7 @@
  "flow.template":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106841,6 +107316,7 @@
  "flow.template.TEMPLATES":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106860,6 +107336,7 @@
  "flow.template.init":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106879,6 +107356,7 @@
  "flow.template.logger":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106893,6 +107371,18 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.testing":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.testing.make_project":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.torque":{
@@ -106968,6 +107458,7 @@
  "flow.util":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -106987,6 +107478,7 @@
  "flow.util.__all__":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.5.0-py36_0",
    "signac-flow-0.5.1-py27_0",
    "signac-flow-0.5.5-py27_0",
@@ -107006,6 +107498,7 @@
  "flow.util.config":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107032,6 +107525,7 @@
  "flow.util.config._GET_CONFIG_VALUE_NONE":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107046,6 +107540,7 @@
  "flow.util.config._GetConfigValueNoneType":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107060,6 +107555,7 @@
  "flow.util.config.get_config_value":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107074,6 +107570,7 @@
  "flow.util.config.require_config_value":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107158,6 +107655,7 @@
  "flow.util.misc":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107172,8 +107670,33 @@
  "flow.util.misc.TrackGetItemDict":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.util.misc._bidict":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.misc._cached_partial":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.misc._get_parallel_executor":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.misc._hashable_dict":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.util.misc._is_identifier":{
@@ -107207,6 +107730,7 @@
  "flow.util.misc._positive_int":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107218,9 +107742,22 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.util.misc._run_cloudpickled_func":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.misc._to_hashable":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.util.misc.add_cwd_to_environment_pythonpath":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107235,6 +107772,7 @@
  "flow.util.misc.add_path_to_environment_pythonpath":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107263,6 +107801,7 @@
  "flow.util.misc.redirect_log":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107274,9 +107813,16 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.util.misc.roundrobin":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.util.misc.switch_to_directory":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -107300,6 +107846,1284 @@
    "signac-flow-0.6.3-py37_1000",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.util.mistune":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.AstRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.BlockParser":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.HTMLRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.InlineParser":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.Markdown":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.PLUGINS":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.TerminalRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.TextRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.__version__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser.BlockParser":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._BLOCK_HTML_RULE6":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._BLOCK_HTML_RULE7":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._BLOCK_QUOTE_LEADING":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._BLOCK_QUOTE_TRIM":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._BLOCK_TAGS":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._EXPAND_TAB":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._INDENT_CODE_TRIM":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._LIST_BULLET":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._PARAGRAPH_SPLIT":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._TRIM_4":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._create_list_item_pattern":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._expand_tab_repl":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser._find_list_items":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.block_parser.expand_leading_tab":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.create_markdown":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.Admonition":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.Directive":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.admonition":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.admonition.Admonition":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.admonition.render_ast_admonition":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.admonition.render_html_admonition":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.base":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.base.DIRECTIVE_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.base.Directive":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.base.PluginDirective":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.base.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.base._parse_text_lines":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.extract_toc_items":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.include":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.include.DirectiveInclude":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.include.render_ast_include":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.include.render_html_include":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.render_toc_ul":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.DirectiveToc":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc._cleanup_headings_text":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc._inline_token_text":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.extract_toc_items":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.md_toc_hook":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.record_toc_heading":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.render_ast_theading":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.render_ast_toc":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.render_html_theading":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.render_html_toc":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.directives.toc.render_toc_ul":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.escape":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.html":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.ESCAPE":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.ESCAPE_CHAR":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.HTML_ATTRIBUTES":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.HTML_TAGNAME":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.InlineParser":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.LINK_LABEL":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.LINK_TEXT":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.PUNCTUATION":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.RULE_NAMES":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.inline_parser.scanner_cls":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.markdown":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.markdown.Markdown":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.markdown._blank_lines":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.markdown._newline_pattern":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.markdown.preprocess":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.PLUGINS":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra.STRIKETHROUGH_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra.URL_LINK_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra.parse_strikethrough":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra.parse_url_link":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra.plugin_strikethrough":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra.plugin_url":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.extra.render_html_strikethrough":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.DEF_FOOTNOTE":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.INLINE_FOOTNOTE_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.md_footnotes_hook":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.parse_def_footnote":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.parse_footnote_item":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.parse_inline_footnote":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.plugin_footnotes":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.render_ast_footnote_item":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.render_ast_footnote_ref":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.render_html_footnote_item":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.render_html_footnote_ref":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.footnotes.render_html_footnotes":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.plugin_footnotes":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.plugin_strikethrough":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.plugin_table":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.plugin_url":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.ALIGN_SPLIT":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.HEADER_SPLIT":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.HEADER_SUB":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.NP_TABLE_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.TABLE_PATTERN":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table._process_row":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table._process_table":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.parse_nptable":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.parse_table":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.plugin_table":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.render_ast_table_cell":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.render_html_table":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.table.text_parse_and_render_table":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.DataRow":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.JupyterHTMLStr":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.LATEX_ESCAPE_RULES":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.Line":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.MIN_PADDING":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.PRESERVE_WHITESPACE":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.TableFormat":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.WIDE_CHARS_MODE":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._DEFAULT_FLOATFMT":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._DEFAULT_MISSINGVAL":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.__version__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._afterpoint":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._align_column":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._align_header":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._append_basic_row":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._append_line":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._append_multiline_row":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._binary_type":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._bool":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._build_line":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._build_row":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._build_simple_row":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._choose_width_fn":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._column_type":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._expand_numparse":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._float_type":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._format":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._html_begin_table_without_header":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._html_row_with_attrs":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._int_type":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._invisible_codes":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._invisible_codes_bytes":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._is_file":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._is_multiline":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._isbool":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._isconvertible":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._isint":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._isnumber":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._latex_line_begin_tabular":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._latex_row":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._long_type":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._main":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._mediawiki_row_with_attrs":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._moin_row_with_attrs":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._more_generic":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._multiline_codes":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._multiline_codes_bytes":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._multiline_width":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._none_type":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._normalize_tabular_data":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._pad_row":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._padboth":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._padleft":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._padnone":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._padright":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._pipe_line_with_colons":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._pipe_segment_with_colons":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._pprint_file":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._prepend_row_index":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._rst_escape_first_column":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._strip_invisible":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._table_formats":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._text_type":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._textile_row_with_attrs":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._type":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate._visible_width":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.basestring":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.multiline_formats":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.simple_separated_format":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.tabulate":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.plugins.tabulate.wcwidth":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.renderers":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.renderers.AstRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.renderers.BaseRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.renderers.HTMLRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.renderers.TerminalRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.renderers.TextRenderer":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.scanner":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.scanner.Matcher":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.scanner.Scanner":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.scanner.ScannerParser.RULE_NAMES":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.scanner.ScannerParser.scanner_cls":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.scanner.escape":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.scanner.html":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.scanner.unikey":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.terminal":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.text":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.util.mistune.unikey":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.util.progressbar":{
@@ -108259,6 +110083,7 @@
  "flow.util.template_filters":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -108273,6 +110098,7 @@
  "flow.util.template_filters._GET_ACCOUNT_NAME_MESSAGES_SHOWN":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -108316,6 +110142,7 @@
  "flow.util.template_filters.calc_num_nodes":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -108323,6 +110150,7 @@
  "flow.util.template_filters.calc_tasks":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -108330,6 +110158,7 @@
  "flow.util.template_filters.check_utilization":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -108337,6 +110166,7 @@
  "flow.util.template_filters.format_timedelta":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -108344,6 +110174,7 @@
  "flow.util.template_filters.get_account_name":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -108351,6 +110182,7 @@
  "flow.util.template_filters.homogeneous_openmp_mpi_config":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -108358,13 +110190,21 @@
  "flow.util.template_filters.identical":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
+  ]
+ },
+ "flow.util.template_filters.print_warning":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
   ]
  },
  "flow.util.template_filters.with_np_offset":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
@@ -109740,6 +111580,7 @@
  "flow.util.translate":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -109754,6 +111595,7 @@
  "flow.util.translate.abbreviate":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -109768,6 +111610,7 @@
  "flow.util.translate.shorten":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.0-py36_0",
    "signac-flow-0.6.2-py27_0",
    "signac-flow-0.6.2-py35_0",
@@ -109779,9 +111622,28 @@
    "signac-flow-0.7.0-py36_0"
   ]
  },
+ "flow.version":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.version.__all__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
+ "flow.version.__version__":{
+  "__set__":true,
+  "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0"
+  ]
+ },
  "flow.with_job":{
   "__set__":true,
   "elements":[
+   "signac-flow-0.12.0-pyhd8ed1ab_0",
    "signac-flow-0.6.4-py36_1000",
    "signac-flow-0.7.0-py36_0"
   ]
