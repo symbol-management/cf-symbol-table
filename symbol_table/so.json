@@ -27790,7 +27790,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.__version__":{
@@ -27801,7 +27802,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis._version":{
@@ -27812,7 +27814,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis._version.__version__":{
@@ -27823,7 +27826,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.gen":{
@@ -27834,7 +27838,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.gen.awgn":{
@@ -27856,12 +27861,24 @@
    "sound_field_analysis-0.2-py36_0"
   ]
  },
+ "sound_field_analysis.gen.gauss_grid":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.gen.idealWave":{
   "__set__":true,
   "elements":[
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
    "sound_field_analysis-0.2-py36_0"
+  ]
+ },
+ "sound_field_analysis.gen.ideal_wave":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.gen.lebedev":{
@@ -27872,7 +27889,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.gen.mf":{
@@ -27902,12 +27920,30 @@
    "sound_field_analysis-0.2-py36_0"
   ]
  },
+ "sound_field_analysis.gen.radial_filter":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.gen.sampledWave":{
   "__set__":true,
   "elements":[
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
    "sound_field_analysis-0.2-py36_0"
+  ]
+ },
+ "sound_field_analysis.gen.sampled_wave":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.gen.spherical_noise":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.gen.swg":{
@@ -27931,7 +27967,8 @@
   "elements":[
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.io":{
@@ -27942,7 +27979,44 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.io.ArrayConfiguration":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.io.ArraySignal":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.io.SphericalGrid":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.io.TimeSignal":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.io.empty_time_signal":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.io.load_time_signal":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.io.readMiroStruct":{
@@ -27956,6 +28030,24 @@
    "sound_field_analysis-0.2-py36_0"
   ]
  },
+ "sound_field_analysis.io.read_miro_struct":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.io.read_wavefile":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.io.write_SSR_IRs":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.lebedev":{
   "__set__":true,
   "elements":[
@@ -27964,7 +28056,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev.LebFunc":{
@@ -27975,7 +28068,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._genOh_a00":{
@@ -27986,7 +28080,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._genOh_aa0":{
@@ -27997,7 +28092,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._genOh_aaa":{
@@ -28008,7 +28104,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._genOh_aab":{
@@ -28019,7 +28116,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._genOh_ab0":{
@@ -28030,7 +28128,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._genOh_abc":{
@@ -28041,7 +28140,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb110":{
@@ -28052,7 +28152,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb14":{
@@ -28063,7 +28164,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb170":{
@@ -28074,7 +28176,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb194":{
@@ -28085,7 +28188,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb26":{
@@ -28096,7 +28200,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb38":{
@@ -28107,7 +28212,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb50":{
@@ -28118,7 +28224,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb6":{
@@ -28129,7 +28236,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb74":{
@@ -28140,7 +28248,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev._leb86":{
@@ -28151,7 +28260,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.lebedev.genGrid":{
@@ -28162,7 +28272,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot":{
@@ -28173,7 +28284,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.frqToKr":{
@@ -28192,7 +28304,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.genShape":{
@@ -28203,7 +28316,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.genSphCoords":{
@@ -28214,7 +28328,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.genSphere":{
@@ -28225,7 +28340,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.genVisual":{
@@ -28236,7 +28352,14 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.plot.layout_2D":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.makeFullMTX":{
@@ -28247,7 +28370,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.makeMTX":{
@@ -28258,7 +28382,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.normalizeMTX":{
@@ -28269,7 +28394,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.pi":{
@@ -28291,7 +28417,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.plot3D":{
@@ -28302,7 +28429,20 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.plot.prepare_2D_traces":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.plot.prepare_2D_x":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.showTrace":{
@@ -28313,7 +28453,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.plot.sph2cartMTX":{
@@ -28324,7 +28465,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.process":{
@@ -28335,7 +28477,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.process.BEMA":{
@@ -28343,7 +28486,8 @@
   "elements":[
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.process.FFT":{
@@ -28370,6 +28514,12 @@
    "sound_field_analysis-0.1.dev0-py35_0"
   ]
  },
+ "sound_field_analysis.process.convolve":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.process.fdt":{
   "__set__":true,
   "elements":[
@@ -28383,7 +28533,8 @@
   "elements":[
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.process.iSpatFT":{
@@ -28391,7 +28542,8 @@
   "elements":[
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.process.itc":{
@@ -28421,6 +28573,12 @@
    "sound_field_analysis-0.2-py36_0"
   ]
  },
+ "sound_field_analysis.process.plane_wave_decomp":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.process.rfi":{
   "__set__":true,
   "elements":[
@@ -28429,7 +28587,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.process.sfe":{
@@ -28440,7 +28599,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.process.spatFT":{
@@ -28448,7 +28608,8 @@
   "elements":[
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.process.stc":{
@@ -28475,7 +28636,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph":{
@@ -28486,7 +28648,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph._printBNs":{
@@ -28511,6 +28674,30 @@
    "sound_field_analysis-0.2-py36_0"
   ]
  },
+ "sound_field_analysis.sph._print_bessel_functions":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph._print_bns":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph._print_mic_scaling":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.array_extrapolation":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.sph.besselh":{
   "__set__":true,
   "elements":[
@@ -28530,7 +28717,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph.bn":{
@@ -28544,6 +28732,36 @@
    "sound_field_analysis-0.2-py36_0"
   ]
  },
+ "sound_field_analysis.sph.bn_dual_open_omni":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.bn_open_cardioid":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.bn_open_omni":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.bn_rigid_cardioid":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.bn_rigid_omni":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.sph.cart2sph":{
   "__set__":true,
   "elements":[
@@ -28552,7 +28770,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph.dspbessel":{
@@ -28563,7 +28782,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph.dsphankel":{
@@ -28577,6 +28797,18 @@
    "sound_field_analysis-0.2-py36_0"
   ]
  },
+ "sound_field_analysis.sph.dsphankel1":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.dsphankel2":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.sph.dspneumann":{
   "__set__":true,
   "elements":[
@@ -28585,7 +28817,38 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.hankel1":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.hankel2":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.kr":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.mnArrays":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.neumann":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph.spbessel":{
@@ -28596,7 +28859,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph.sph2cart":{
@@ -28607,7 +28871,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph.sph_harm":{
@@ -28618,7 +28883,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.sph.sphankel":{
@@ -28632,6 +28898,24 @@
    "sound_field_analysis-0.2-py36_0"
   ]
  },
+ "sound_field_analysis.sph.sphankel1":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.sphankel2":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.sph.spherical_extrapolation":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
  "sound_field_analysis.sph.spneumann":{
   "__set__":true,
   "elements":[
@@ -28640,7 +28924,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.utils":{
@@ -28651,7 +28936,8 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.utils.__env":{
@@ -28662,7 +28948,26 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.current_time":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.db":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.deg2rad":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.utils.env_info":{
@@ -28673,7 +28978,26 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.frq2kr":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.interleave_channels":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.nearest_to_value":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.utils.progress_bar":{
@@ -28684,7 +29008,26 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.rad2deg":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.scalar_broadcast_match":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.simple_resample":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "sound_field_analysis.utils.spinner":{
@@ -28695,7 +29038,14 @@
    "sound_field_analysis-0.1.dev0-py35_0",
    "sound_field_analysis-0.2-py27_0",
    "sound_field_analysis-0.2-py34_0",
-   "sound_field_analysis-0.2-py36_0"
+   "sound_field_analysis-0.2-py36_0",
+   "sound_field_analysis-0.3-py36_0"
+  ]
+ },
+ "sound_field_analysis.utils.stack":{
+  "__set__":true,
+  "elements":[
+   "sound_field_analysis-0.3-py36_0"
   ]
  },
  "soundfile.SoundFile":{
