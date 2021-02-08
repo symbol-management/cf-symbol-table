@@ -32656,19 +32656,22 @@
  "glotaran.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.__version__":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.matrix_calculation":{
@@ -32728,31 +32731,41 @@
  "glotaran.analysis.nnls":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.nnls.residual_nnls":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.optimize":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.optimize.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.optimize.ResultFuture":{
   "__set__":true,
   "elements":[
    "pyglotaran-0.1.0-py_0"
+  ]
+ },
+ "glotaran.analysis.optimize._calculate_penalty":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.optimize._create_problem_bag":{
@@ -32776,7 +32789,104 @@
  "glotaran.analysis.optimize.optimize":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.DatasetDescriptor":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.GroupedBag":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.GroupedProblem":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.LabelAndMatrix":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.Model":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.ParameterError":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.ParameterGroup":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.Problem":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.UngroupedBag":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem._calculate_matrix":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem._combine_matrices":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem._find_overlap":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem._reduce_matrix":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.residual_nnls":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.problem.residual_variable_projection":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.problem_bag":{
@@ -32854,55 +32964,82 @@
  "glotaran.analysis.result":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.result.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.result.Result":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.scheme":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.scheme.Model":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.scheme.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.scheme.Scheme":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.scheme._get_min_max_from_interval":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.scheme._not_none":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.simulation":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.simulation.Model":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.simulation.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.simulation.T_Model":{
@@ -32914,49 +33051,129 @@
  "glotaran.analysis.simulation.simulate":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.mock":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.DatasetDescriptor":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.DecayDatasetDescriptor":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.DecayModel":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.GaussianDecayModel":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.GaussianShapeDecayDatasetDescriptor":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.mock.MockMegacomplex":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.mock.MockModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.mock.Model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.MultichannelMulticomponentDecay":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.OneCompartmentDecay":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.Parameter":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.TwoCompartmentDecay":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.mock.calculate_c":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.mock.calculate_e":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.calculate_kinetic":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.calculate_spectral_gauss":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.mock.calculate_spectral_simple":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.mock.model":{
@@ -32965,22 +33182,37 @@
    "pyglotaran-0.1.0-py_0"
   ]
  },
+ "glotaran.analysis.test.mock.model_attribute":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "glotaran.analysis.test.test_grouping":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_grouping.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_grouping.Problem":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_grouping.Scheme":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_grouping.create_grouped_bag":{
@@ -32992,25 +33224,29 @@
  "glotaran.analysis.test.test_grouping.test_multi_dataset_no_overlap":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_grouping.test_multi_dataset_overlap":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_grouping.test_single_dataset":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_optimization":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_optimization.DatasetDescriptor":{
@@ -33052,13 +33288,15 @@
  "glotaran.analysis.test.test_optimization.MultichannelMulticomponentDecay":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_optimization.OneCompartmentDecay":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_optimization.Parameter":{
@@ -33070,13 +33308,15 @@
  "glotaran.analysis.test.test_optimization.Scheme":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_optimization.TwoCompartmentDecay":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_optimization.calculate_kinetic":{
@@ -33106,13 +33346,15 @@
  "glotaran.analysis.test.test_optimization.optimize":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_optimization.simulate":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_optimization.test_fitting":{
@@ -33121,148 +33363,238 @@
    "pyglotaran-0.1.0-py_0"
   ]
  },
+ "glotaran.analysis.test.test_optimization.test_optimization":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_problem":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_problem.Problem":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_problem.Scheme":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_problem.simulate":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_problem.test_problem_bag":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_problem.test_problem_matrices":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_problem.test_problem_residuals":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_problem.test_problem_result_data":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "glotaran.analysis.test.test_scheme":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_scheme.ParameterGroup":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_scheme.Scheme":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_scheme.test_scheme":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.analysis.test.test_scheme.test_weight":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_simulation":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_simulation.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_simulation.simulate":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.test.test_simulation.test_simulate_dataset":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.variable_projection":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.analysis.variable_projection.residual_variable_projection":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.DataFileType":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.ExplicitFile":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.TimeExplicitFile":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.WavelengthExplicitFile":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.file_reader":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.get_data_file_format":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.get_interval_number":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.prepare_time_trace_dataset":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.read_ascii_time_trace":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.ascii.wavelength_time_explicit_file.write_ascii_time_trace":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.sdt_file":{
@@ -33418,79 +33750,92 @@
  "glotaran.builtin.file_formats.sdt.sdt_file_reader":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.sdt_file_reader.file_reader":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.sdt_file_reader.prepare_time_trace_dataset":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.sdt_file_reader.read_sdt":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.test":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.test.DATA_DIR":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.test.FLIM_DATA":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.test.LEGACY_FILES":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.test.TEMPORAL_DATA":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.test.test_file_readers":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.test.test_file_readers.read_sdt":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.file_formats.sdt.test.test_file_readers.test_read_sdt":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.doas":{
@@ -33694,55 +34039,64 @@
  "glotaran.builtin.models.kinetic_image":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.KineticImageModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.initial_concentration":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.initial_concentration.DatasetDescriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.initial_concentration.InitialConcentration":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.initial_concentration.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.initial_concentration.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.irf.Irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.irf.IrfMultiGaussian":{
@@ -33754,199 +34108,249 @@
  "glotaran.builtin.models.kinetic_image.irf.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.irf.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.k_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.k_matrix.KMatrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.k_matrix.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.k_matrix.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_dataset_descriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_dataset_descriptor.DatasetDescriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_dataset_descriptor.KineticImageDatasetDescriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_dataset_descriptor.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix._calculate_for_k_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix._dble":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.calculate_kinetic_matrix_gaussian_irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.calculate_kinetic_matrix_no_irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.erf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.erf_addr":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.erfcx":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.erfcx_addr":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.functype":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.kinetic_image_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.kinetic_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_matrix.sqrt2":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_megacomplex":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_megacomplex.KineticImageMegacomplex":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_megacomplex.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_megacomplex.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_model.KineticImageModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_model.Model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_image.kinetic_image_model.index_depended_matrix":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_model.model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_image.kinetic_image_model.model_type":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_result":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_result.ParameterGroup":{
   "__set__":true,
   "elements":[
    "pyglotaran-0.1.0-py_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_image.kinetic_image_result.Problem":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_result.T_KineticImageModel":{
@@ -33958,217 +34362,265 @@
  "glotaran.builtin.models.kinetic_image.kinetic_image_result.finalize_kinetic_image_result":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_result.retrieve_decay_assocatiated_data":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_result.retrieve_irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.kinetic_image_result.retrieve_species_assocatiated_data":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_baseline":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_baseline.KineticImageModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_baseline.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_baseline.kinetic_image_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_baseline.test_baseline":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_k_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_k_matrix.InitialConcentration":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_k_matrix.KMatrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_k_matrix.ParallelModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_k_matrix.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_k_matrix.SequentialModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_k_matrix.test_matrix_non_unibranch":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_k_matrix.test_unibranched":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model.KineticImageModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model.OneComponentOneChannel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model.Scheme":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model.ThreeComponentParallel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model.ThreeComponentSequential":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model._create_gaussian_clp":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model.optimize":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_image.test.test_kinetic_image_model.test_kinetic_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.KineticSpectrumModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_dataset_descriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_dataset_descriptor.KineticImageDatasetDescriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_dataset_descriptor.KineticSpectrumDatasetDescriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_dataset_descriptor.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_matrix.kinetic_image_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_matrix.kinetic_spectrum_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.KineticImageMegacomplex":{
@@ -34186,13 +34638,15 @@
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.KineticSpectrumModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.T_KineticSpectrumModel":{
@@ -34204,19 +34658,28 @@
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.apply_kinetic_model_constraints":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.grouped":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.has_kinetic_model_constraints":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.index_depended_matrix":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.index_dependend":{
@@ -34225,16 +34688,36 @@
    "pyglotaran-0.1.0-py_0"
   ]
  },
+ "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.index_dependent":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.model_type":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_model.retrieve_spectral_clps":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_result":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_result.IrfMultiGaussian":{
@@ -34249,6 +34732,12 @@
    "pyglotaran-0.1.0-py_0"
   ]
  },
+ "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_result.Problem":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_result.T_KineticSpectrumModel":{
   "__set__":true,
   "elements":[
@@ -34258,7 +34747,8 @@
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_result.finalize_kinetic_spectrum_result":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.kinetic_spectrum_result.retrieve_decay_assocatiated_data":{
@@ -34282,19 +34772,22 @@
  "glotaran.builtin.models.kinetic_spectrum.spectral_constraints":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_constraints.OnlyConstraint":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_constraints.SpectralConstraint":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_constraints.T_KineticSpectrumModel":{
@@ -34306,91 +34799,106 @@
  "glotaran.builtin.models.kinetic_spectrum.spectral_constraints.ZeroConstraint":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_constraints.apply_spectral_constraints":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_constraints.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_irf.Irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_irf.IrfGaussianCoherentArtifact":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_irf.IrfSpectralGaussian":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_irf.IrfSpectralMultiGaussian":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_irf.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_irf.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_matrix.spectral_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_penalties":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_penalties.EqualAreaPenalty":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_penalties.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_penalties.T_KineticSpectrumModel":{
@@ -34399,40 +34907,52 @@
    "pyglotaran-0.1.0-py_0"
   ]
  },
+ "glotaran.builtin.models.kinetic_spectrum.spectral_penalties._get_idx_from_interval":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "glotaran.builtin.models.kinetic_spectrum.spectral_penalties.apply_spectral_penalties":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_penalties.has_spectral_penalties":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_penalties.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_relations":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_relations.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_relations.SpectralRelation":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_relations.T_KineticSpectrumModel":{
@@ -34444,19 +34964,22 @@
  "glotaran.builtin.models.kinetic_spectrum.spectral_relations.apply_spectral_relations":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_relations.create_spectral_relation_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_relations.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_relations.retrieve_clps":{
@@ -34465,160 +34988,354 @@
    "pyglotaran-0.1.0-py_0"
   ]
  },
+ "glotaran.builtin.models.kinetic_spectrum.spectral_relations.retrieve_related_clps":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "glotaran.builtin.models.kinetic_spectrum.spectral_shape":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_shape.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_shape.SpectralShape":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.spectral_shape.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_coherent_artifact":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_coherent_artifact.KineticSpectrumModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_coherent_artifact.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_coherent_artifact.Scheme":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_coherent_artifact.kinetic_spectrum_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_coherent_artifact.optimize":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_coherent_artifact.test_coherent_artifact":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model.KineticSpectrumModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model.OneComponentOneChannel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model.Scheme":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model.ThreeComponentParallel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model.ThreeComponentSequential":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model.optimize":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_kinetic_spectrum_model.test_kinetic_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_constraints":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_constraints.KineticSpectrumModel":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_constraints.ParameterGroup":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_constraints.Scheme":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_constraints.apply_spectral_constraints":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_constraints.kinetic_image_matrix":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_constraints.optimize":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_constraints.test_spectral_constraint":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_irf.KineticSpectrumModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_irf.MultiIrfDispersion":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_irf.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_irf.Scheme":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_irf.SimpleIrfDispersion":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_irf.optimize":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_irf.test_spectral_irf":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.DatasetSpec":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.IrfSpec":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.KineticSpectrumModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.ModelSpec":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.NoiseSpec":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.OptimizationSpec":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.ParameterSpec":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.Scheme":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.ShapeSpec":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.SimulationSpec":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.optimize":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.plot_overview":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.prepare_time_trace_dataset":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.test_equal_area_penalties":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_penalties.test_spectral_penalties":{
@@ -34630,379 +35347,664 @@
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_relations":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_relations.KineticSpectrumModel":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_relations.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_relations.Scheme":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_relations.create_spectral_relation_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_relations.kinetic_image_matrix":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_relations.optimize":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.builtin.models.kinetic_spectrum.test.test_spectral_relations.test_spectral_relation":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.explore":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.explore.export":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.export":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.optimize":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.optimize.optimize_cmd":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.pluginlist":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.pluginlist.known_model_names":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.pluginlist.known_reading_formats":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.pluginlist.plugin_list_cmd":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.print":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.print.print_cmd":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.VALORRANGEORLIST":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.ValOrRangeOrList":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util._load_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.load_dataset_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.load_model_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.load_parameter_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.load_scheme_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.select_data":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.select_name":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.signature_analysis":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.util.write_data":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.validate":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.commands.validate.validate_cmd":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.main":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.main.Cli":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.cli.main.glotaran":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.entry_point":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples.sequential":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples.sequential._spectral":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples.sequential._time":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples.sequential.dataset":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples.sequential.model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples.sequential.parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples.sequential.sim_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.examples.sequential.wanted_parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.prepare_dataset":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.prepare_dataset.prepare_time_trace_dataset":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.prepare_time_trace_dataset":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.read_data_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.reader":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.reader.Reader":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.reader.file_reader":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.reader.known_reading_formats":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.io.reader.read_data_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.DatasetDescriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.Model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.Weight":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute.Parameter":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_add_type_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_fill_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_from_dict_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_from_list_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_get_state_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_init_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_mprint_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_set_state_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute._create_validation_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.attribute.model_attribute":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.base_model":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.base_model.Model":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.base_model.Model.index_depended_matrix":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.base_model.Model.model_type":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.base_model.ParameterGroup":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.base_model.simulate":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.dataset_descriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.dataset_descriptor.DatasetDescriptor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.dataset_descriptor.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.ConstrainMatrixFunction":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.FinalizeFunction":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.GlobalMatrixFunction":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.IndexDependedMatrixFunction":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.MatrixFunction":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.ParameterGroup":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.PenaltyFunction":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.RetrieveClpFunction":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator._create_add_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator._create_get_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator._create_init_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator._create_property_for_attribute":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator._create_set_func":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.model":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.decorator.register_model":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.model.Model":{
@@ -35044,7 +36046,8 @@
  "glotaran.model.model_attribute":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.model_attribute.Parameter":{
@@ -35233,184 +36236,244 @@
    "pyglotaran-0.1.0-py_0"
   ]
  },
+ "glotaran.model.property":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.property.ModelProperty":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.property.Parameter":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "glotaran.model.util":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.model.util.wrap_func_as_method":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.weight":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "glotaran.model.weight.Weight":{
+  "__set__":true,
+  "elements":[
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter.parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter.parameter.Keys":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter.parameter.Parameter":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter.parameter_group":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter.parameter_group.ParameterGroup":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parameter.parameter_group.ParameterNotFoundException":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.parser":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.parser._yml_tuple_constructor":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.parser.load_yml":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.parser.parse_spec":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.parser.parse_yml":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.register":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.register.Model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.register._model_register":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.register.get_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.register.known_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.register.known_model_names":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parse.register.register_model":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.parser":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.read_model_from_yml":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.read_model_from_yml_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.read_parameter_from_csv_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.read_parameter_from_yml":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glotaran.read_parameter_from_yml_file":{
   "__set__":true,
   "elements":[
-   "pyglotaran-0.1.0-py_0"
+   "pyglotaran-0.1.0-py_0",
+   "pyglotaran-0.2.0-pyhd8ed1ab_0"
   ]
  },
  "glue.LDBDClient":{
