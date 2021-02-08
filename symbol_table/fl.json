@@ -82866,190 +82866,287 @@
    "flask-webpack-0.1.0-py36_0"
   ]
  },
+ "flask_wtf.CSRFProtect":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
  "flask_wtf.CsrfProtect":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.FlaskForm":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.Form":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.JSONEncoder":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.RECAPTCHA_ERROR_CODES":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.RECAPTCHA_SCRIPT":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.RECAPTCHA_TEMPLATE":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.RECAPTCHA_VERIFY_SERVER":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.RecaptchaField":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.RecaptchaWidget":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.__all__":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.__version__":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf._compat":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf._compat.FlaskWTFDeprecationWarning":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf._compat.PY2":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf._compat.string_types":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf._compat.text_type":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf._compat.to_bytes":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf._compat.to_unicode":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.csrf":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.csrf.CSRFError":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.csrf.CSRFProtect":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.csrf.CsrfProtect":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.csrf._FlaskFormCSRF":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.csrf.__all__":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.csrf._get_config":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.csrf.generate_csrf":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.csrf.logger":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.csrf.same_origin":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.csrf.validate_csrf":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.file":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.file.FileAllowed":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.file.FileField":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.file.FileRequired":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.file.file_allowed":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.file.file_required":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.form":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.form.FlaskForm":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.form.Form":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.form.SUBMIT_METHODS":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.form._Auto":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.form._is_hidden":{
@@ -83058,184 +83155,226 @@
    "flask-wtf-0.12-py35_0"
   ]
  },
+ "flask_wtf.form._is_submitted":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
  "flask_wtf.form.translations":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.html5":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
+  ]
+ },
+ "flask_wtf.html5.FlaskWTFDeprecationWarning":{
+  "__set__":true,
+  "elements":[
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.i18n":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.i18n.Translations":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.i18n.__all__":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.i18n._get_translations":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.i18n.translations":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.JSONEncoder":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.RECAPTCHA_ERROR_CODES":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.RECAPTCHA_SCRIPT":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.RECAPTCHA_TEMPLATE":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.RECAPTCHA_VERIFY_SERVER":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.RecaptchaField":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.RecaptchaWidget":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.__all__":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.fields":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.fields.RecaptchaField":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.fields.__all__":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.validators":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.validators.RECAPTCHA_ERROR_CODES":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.validators.RECAPTCHA_VERIFY_SERVER":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.validators.Recaptcha":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.validators.__all__":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.widgets":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.widgets.JSONEncoder":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.widgets.RECAPTCHA_SCRIPT":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.widgets.RECAPTCHA_TEMPLATE":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.widgets.RecaptchaWidget":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flask_wtf.recaptcha.widgets.__all__":{
   "__set__":true,
   "elements":[
-   "flask-wtf-0.12-py35_0"
+   "flask-wtf-0.12-py35_0",
+   "flask-wtf-0.14.2-py_1"
   ]
  },
  "flaskext.couchdb.CouchDBManager":{
