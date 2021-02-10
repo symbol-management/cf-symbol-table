@@ -1,0 +1,32 @@
+{
+ "errors": {},
+ "symbols": [
+  "pytest_regressions.add_custom_yaml_representer",
+  "pytest_regressions.common",
+  "pytest_regressions.common.Path",
+  "pytest_regressions.common.check_text_files",
+  "pytest_regressions.common.perform_regression_check",
+  "pytest_regressions.data_regression",
+  "pytest_regressions.data_regression.DataRegressionFixture",
+  "pytest_regressions.data_regression.Path",
+  "pytest_regressions.data_regression.RegressionYamlDumper",
+  "pytest_regressions.data_regression.check_text_files",
+  "pytest_regressions.data_regression.perform_regression_check",
+  "pytest_regressions.file_regression",
+  "pytest_regressions.file_regression.FileRegressionFixture",
+  "pytest_regressions.image_regression",
+  "pytest_regressions.image_regression.ImageRegressionFixture",
+  "pytest_regressions.image_regression.perform_regression_check",
+  "pytest_regressions.num_regression",
+  "pytest_regressions.num_regression.NumericRegressionFixture",
+  "pytest_regressions.num_regression.perform_regression_check",
+  "pytest_regressions.plugin",
+  "pytest_regressions.plugin.data_regression",
+  "pytest_regressions.plugin.file_regression",
+  "pytest_regressions.plugin.image_regression",
+  "pytest_regressions.plugin.num_regression",
+  "pytest_regressions.plugin.pytest_addoption",
+  "pytest_regressions.testing",
+  "pytest_regressions.testing.check_regression_fixture_workflow"
+ ]
+}
