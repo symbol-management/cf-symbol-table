@@ -14977,397 +14977,655 @@
  "winrm.FEATURE_OPERATION_TIMEOUT":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.FEATURE_READ_TIMEOUT":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.FEATURE_SUPPORTED_AUTHTYPES":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.Protocol":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.Response":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.Session":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.encryption":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.encryption.Encryption":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.encryption.WinRMError":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.encryption.is_py2":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.exceptions":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.exceptions.AuthenticationError":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.exceptions.BasicAuthDisabledError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.exceptions.InvalidCredentialsError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.exceptions.WinRMError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.exceptions.WinRMOperationTimeoutError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.exceptions.WinRMTransportError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.protocol":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.protocol.Protocol":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.protocol.Transport":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.protocol.WinRMError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.protocol.WinRMOperationTimeoutError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.protocol.WinRMTransportError":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.protocol.xmlns":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.Protocol":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.TransportStub":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.cleanup_cmd_request":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.cleanup_cmd_response":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.close_shell_request":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.close_shell_response":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.get_cmd_output_request":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.get_cmd_output_response":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.open_shell_request":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.open_shell_response":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.protocol_fake":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.protocol_real":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.run_cmd_response":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.run_cmd_with_args_request":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.run_cmd_wo_args_request":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.sort_dict":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.conftest.xml_str_compare":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_cmd":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.AuthTest":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.Encryption":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.RequestTest":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.ResponseTest":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.SessionSecurityTest":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.SessionTest":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.WinRMError":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_decrypt_large_credssp_message":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_decrypt_message":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_encrypt_large_credssp_message":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_encrypt_message":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_get_credssp_trailer_length_gcm":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_get_credssp_trailer_length_md5_rc4":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_get_credssp_trailer_length_no_hash":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_get_credssp_trailer_length_sha256_3des":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_get_credssp_trailer_length_sha384_aes":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_encryption.test_init_with_invalid_protocol":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_get_command_output":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_open_shell_and_close_shell":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_run_command_taking_more_than_operation_timeout_sec":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_run_command_with_arguments_and_cleanup_command":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_run_command_without_arguments_and_cleanup_command":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_set_locale":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_set_max_env_size":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_set_timeout":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.test_unicode_roundtrip":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_protocol.xfail":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_session":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_session.test_run_cmd":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_integration_session.xfail":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_nori_type_casting":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_powershell":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_protocol":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_protocol.Protocol":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_protocol.test_fail_set_operation_timeout_as_sec":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_protocol.test_fail_set_read_timeout_as_sec":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_protocol.test_get_command_output":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_protocol.test_open_shell_and_close_shell":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_protocol.test_run_command_with_arguments_and_cleanup_command":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_protocol.test_run_command_without_arguments_and_cleanup_command":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_protocol.test_set_timeout_as_sec":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_session":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_session.Session":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_session.test_run_cmd":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_session.test_target_as_full_url":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_session.test_target_as_hostname":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_session.test_target_as_schema_then_hostname":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_session.test_target_with_dots":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_transport":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_transport.Transport":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.tests.test_transport.test_build_session":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.tests.test_wql":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.BasicAuthDisabledError":{
@@ -15376,40 +15634,58 @@
    "pywinrm-0.2.2-py_0"
   ]
  },
+ "winrm.transport.Encryption":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
  "winrm.transport.HAVE_CREDSSP":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.HAVE_KERBEROS":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.HAVE_NTLM":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.InvalidCredentialsError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.Transport":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
+  ]
+ },
+ "winrm.transport.UnsupportedAuthArgument":{
+  "__set__":true,
+  "elements":[
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.WinRMError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.WinRMOperationTimeoutError":{
@@ -15421,31 +15697,36 @@
  "winrm.transport.WinRMTransportError":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.__all__":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.ie":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.is_py2":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  },
  "winrm.transport.unicode_type":{
   "__set__":true,
   "elements":[
-   "pywinrm-0.2.2-py_0"
+   "pywinrm-0.2.2-py_0",
+   "pywinrm-0.3.0-py_0"
   ]
  }
 }
