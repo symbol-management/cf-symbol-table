@@ -2080,7 +2080,8 @@
    "eo-learn-mask-0.8.0-py36hb0c8f75_0",
    "eo-learn-mask-0.8.0-py37h89c1867_0",
    "eo-learn-mask-0.8.0-py38h50d1736_0",
-   "eo-learn-mask-0.8.0-py38h5b57dd5_0"
+   "eo-learn-mask-0.8.0-py38h5b57dd5_0",
+   "eo-learn-visualization-0.7.0-py_0"
   ]
  },
  "eolearn.core":{
@@ -2232,7 +2233,8 @@
   "elements":[
    "eo-learn-core-0.7.1-py_0",
    "eo-learn-core-0.7.4-py_0",
-   "eo-learn-core-0.8.0-py_0"
+   "eo-learn-core-0.8.0-py_0",
+   "eo-learn-visualization-0.7.0-py_0"
   ]
  },
  "eolearn.core.FeatureType":{
@@ -2266,7 +2268,8 @@
    "eo-learn-mask-0.8.0-py36hb0c8f75_0",
    "eo-learn-mask-0.8.0-py37h89c1867_0",
    "eo-learn-mask-0.8.0-py38h50d1736_0",
-   "eo-learn-mask-0.8.0-py38h5b57dd5_0"
+   "eo-learn-mask-0.8.0-py38h5b57dd5_0",
+   "eo-learn-visualization-0.7.0-py_0"
   ]
  },
  "eolearn.core.FeatureTypeSet":{
@@ -2284,7 +2287,8 @@
    "eo-learn-geometry-0.8.0-py37h89c1867_1",
    "eo-learn-geometry-0.8.0-py37h9ae81ce_1",
    "eo-learn-geometry-0.8.0-py38h50d1736_0",
-   "eo-learn-geometry-0.8.0-py38h578d9bd_1"
+   "eo-learn-geometry-0.8.0-py38h578d9bd_1",
+   "eo-learn-visualization-0.7.0-py_0"
   ]
  },
  "eolearn.core.FileFormat":{
@@ -5755,6 +5759,174 @@
    "eo-learn-mask-0.8.0-py37h89c1867_0",
    "eo-learn-mask-0.8.0-py38h50d1736_0",
    "eo-learn-mask-0.8.0-py38h5b57dd5_0"
+  ]
+ },
+ "eolearn.visualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.EOExecutorVisualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.EOPatchVisualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.EOWorkflowVisualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.__version__":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eoexecutor_visualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eoexecutor_visualization.EOExecutorVisualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eopatch_visualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eopatch_visualization.EOPatchVisualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eopatch_visualization.FeatureParser":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eopatch_visualization.FeatureType":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eopatch_visualization.FeatureTypeSet":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eopatch_visualization.PLOT_HEIGHT":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eopatch_visualization.PLOT_WIDTH":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eoworkflow_visualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.eoworkflow_visualization.EOWorkflowVisualization":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils.FeatureParser":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils.FeatureTypeSet":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils._get_depth_coordinates":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils._get_spatial_coordinates":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils._get_temporal_coordinates":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils.array_to_dataframe":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils.eopatch_to_dataset":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils.get_coordinates":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils.get_dimensions":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils.new_coordinates":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
+  ]
+ },
+ "eolearn.visualization.xarray_utils.string_to_variable":{
+  "__set__":true,
+  "elements":[
+   "eo-learn-visualization-0.7.0-py_0"
   ]
  }
 }
