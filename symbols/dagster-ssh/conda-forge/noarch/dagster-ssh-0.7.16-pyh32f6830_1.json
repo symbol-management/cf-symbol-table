@@ -1,0 +1,30 @@
+{
+ "errors": {},
+ "symbols": [
+  "dagster_ssh.__all__",
+  "dagster_ssh.__version__",
+  "dagster_ssh.resources",
+  "dagster_ssh.resources.SSHResource",
+  "dagster_ssh.resources.key_from_str",
+  "dagster_ssh.resources.ssh_resource",
+  "dagster_ssh.sftp_solid",
+  "dagster_ssh.solids",
+  "dagster_ssh.solids.sftp_solid",
+  "dagster_ssh.ssh_resource",
+  "dagster_ssh.version",
+  "dagster_ssh.version.__nightly__",
+  "dagster_ssh.version.__version__",
+  "dagster_ssh_tests.test_resources",
+  "dagster_ssh_tests.test_resources.generate_ssh_key",
+  "dagster_ssh_tests.test_resources.test_ssh_connection_with_key_string",
+  "dagster_ssh_tests.test_resources.test_ssh_connection_with_password",
+  "dagster_ssh_tests.test_resources.test_ssh_connection_without_password",
+  "dagster_ssh_tests.test_resources.test_tunnel_with_password",
+  "dagster_ssh_tests.test_resources.test_tunnel_with_string_key",
+  "dagster_ssh_tests.test_resources.test_tunnel_without_password",
+  "dagster_ssh_tests.test_solids",
+  "dagster_ssh_tests.test_solids.test_sftp_solid",
+  "dagster_ssh_tests.test_version",
+  "dagster_ssh_tests.test_version.test_version"
+ ]
+}
