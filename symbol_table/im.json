@@ -25908,18 +25908,26 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.FunctionSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.__version__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn._check_module_dependencies":{
@@ -25929,60 +25937,146 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn._version":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn._version.__version__":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.base":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.base.BaseSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.base.FunctionSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.base.SamplerMixin":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.base.SamplerMixin._estimator_type":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.base.SamplerMixin.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.base._identity":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.SMOTEENN":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.SMOTETomek":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine._smote_enn":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine._smote_enn.SMOTEENN":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine._smote_enn._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine._smote_enn.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine._smote_tomek":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine._smote_tomek.SMOTETomek":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine._smote_tomek._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine._smote_tomek.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.smote_enn":{
@@ -26031,84 +26125,102 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.EditedNearestNeighbours":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.RND_SEED":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.R_TOL":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.SMOTE":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.SMOTEENN":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.X":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.Y":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.test_error_wrong_object":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine.tests.test_smote_enn.test_parallelisation":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.test_sample_regular":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.test_validate_estimator_default":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_enn.test_validate_estimator_deprecation":{
@@ -26122,84 +26234,102 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.RND_SEED":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.R_TOL":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.SMOTE":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.SMOTETomek":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.TomekLinks":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.X":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.Y":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.test_error_wrong_object":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.combine.tests.test_smote_tomek.test_parallelisation":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.test_sample_regular":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.test_validate_estimator_default":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.combine.tests.test_smote_tomek.test_validate_estimator_deprecation":{
@@ -26213,28 +26343,104 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._imbalance":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._imbalance.make_imbalance":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.MAP_ID_NAME":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.MAP_NAME_ID":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.MAP_NAME_ID_KEYS":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.POST_FILENAME":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.PRE_FILENAME":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.URL":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.fetch_datasets":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.k":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.datasets._zenodo.v":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.fetch_datasets":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.imbalance":{
@@ -26262,21 +26468,24 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_imbalance":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_imbalance.X":{
@@ -26300,25 +26509,34 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.datasets.tests.test_imbalance.iris":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.datasets.tests.test_imbalance.make_imbalance":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_imbalance.test_make_imbalance_dict":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_imbalance.test_make_imbalance_error":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_imbalance.test_make_imbalance_float":{
@@ -26326,6 +26544,12 @@
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
    "imbalanced-learn-0.3.3-py_0"
+  ]
+ },
+ "imblearn.datasets.tests.test_imbalance.test_make_imbalanced_iris":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_imbalance.warns":{
@@ -26339,35 +26563,40 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_zenodo.DATASET_SHAPE":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_zenodo.fetch":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_zenodo.fetch_datasets":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.tests.test_zenodo.test_fetch":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.datasets.zenodo":{
@@ -26451,7 +26680,8 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.ensemble.BalanceCascade":{
@@ -26465,7 +26695,14 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.BalancedRandomForestClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.ensemble.EasyEnsemble":{
@@ -26475,11 +26712,90 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.ensemble.EasyEnsembleClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.RUSBoostClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.ensemble.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._bagging":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._bagging.BalancedBaggingClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._easy_ensemble":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._easy_ensemble.EasyEnsembleClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._easy_ensemble.MAX_INT":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._forest":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._forest.BalancedRandomForestClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._forest.MAX_INT":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._forest._local_parallel_build_trees":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._weight_boosting":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble._weight_boosting.RUSBoostClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.ensemble.balance_cascade":{
@@ -26598,7 +26914,134 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.BalancedBaggingClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.RandomUnderSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.iris":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.make_imbalance":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.make_pipeline":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_bagging_with_pipeline":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_balanced_bagging_classifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_base_estimator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_bootstrap_features":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_bootstrap_samples":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_error":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_estimators_samples":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_gridsearch":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_max_samples_consistency":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_oob_score_classification":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_oob_score_consistency":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_oob_score_removed_on_warm_start":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_probability":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_single_estimator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_bagging.test_warm_start":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.ensemble.tests.test_balance_cascade":{
@@ -26815,7 +27258,8 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.ensemble.tests.test_easy_ensemble.EasyEnsemble":{
@@ -26825,11 +27269,24 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.ensemble.tests.test_easy_ensemble.EasyEnsembleClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.ensemble.tests.test_easy_ensemble.RND_SEED":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_easy_ensemble.RandomUnderSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.ensemble.tests.test_easy_ensemble.X":{
@@ -26843,14 +27300,46 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.ensemble.tests.test_easy_ensemble.iris":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_easy_ensemble.make_imbalance":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_easy_ensemble.make_pipeline":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_easy_ensemble.test_bagging_with_pipeline":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_easy_ensemble.test_base_estimator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_easy_ensemble.test_easy_ensemble_classifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.ensemble.tests.test_easy_ensemble.test_ee_init":{
@@ -26881,32 +27370,264 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.ensemble.tests.test_easy_ensemble.test_warm_start":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_forest":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_forest.BalancedRandomForestClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_forest.imbalanced_dataset":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_forest.test_balanced_random_forest":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_forest.test_little_tree_with_small_max_samples":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_weight_boosting":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_weight_boosting.RUSBoostClassifier":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.ensemble.tests.test_weight_boosting.test_rusboost":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.exceptions":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.exceptions.raise_isinstance_error":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.BalancedBatchGenerator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.__all__":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras._generator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras._generator.BalancedBatchGenerator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras._generator.HAS_KERAS":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras._generator.ParentClass":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras._generator.balanced_batch_generator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras._generator.import_keras":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.balanced_batch_generator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.BalancedBatchGenerator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.ClusterCentroids":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.NearMiss":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.RandomOverSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator._build_keras_model":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.balanced_batch_generator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.keras":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.make_imbalance":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.test_balanced_batch_generator_class":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.keras.tests.test_generator.test_balanced_batch_generator_function":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.metrics":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.metrics.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.metrics._classification":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.metrics._classification.classification_report_imbalanced":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.metrics._classification.geometric_mean_score":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.metrics._classification.make_index_balanced_accuracy":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.metrics._classification.sensitivity_score":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.metrics._classification.sensitivity_specificity_support":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.metrics._classification.specificity_score":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.metrics.classification":{
@@ -26969,77 +27690,244 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.metrics.geometric_mean_score":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.metrics.make_index_balanced_accuracy":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.metrics.sensitivity_score":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.metrics.sensitivity_specificity_support":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.metrics.specificity_score":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.ADASYN":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.BorderlineSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.KMeansSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.RandomOverSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.SMOTE":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.SMOTENC":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.SVMSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._adasyn":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._adasyn.ADASYN":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._adasyn._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._adasyn._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._adasyn._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._adasyn.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._random_over_sampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._random_over_sampler.RandomOverSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._random_over_sampler._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._random_over_sampler._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._random_over_sampler._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._random_over_sampler.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote.BaseSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote.BorderlineSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote.KMeansSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote.SMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote.SVMSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling._smote.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.adasyn":{
@@ -27074,28 +27962,44 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.base.BaseOverSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.base.BaseOverSampler._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.base.BaseOverSampler._sampling_type":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.base._estimator_type":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.base.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.random_over_sampler":{
@@ -27158,49 +28062,56 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_adasyn":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_adasyn.ADASYN":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_adasyn.RND_SEED":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_adasyn.R_TOL":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_adasyn.X":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_adasyn.Y":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_adasyn.test_ada_fit":{
@@ -27210,11 +28121,18 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.over_sampling.tests.test_adasyn.test_ada_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.over_sampling.tests.test_adasyn.test_ada_init":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_adasyn.test_ada_wrong_nn_obj":{
@@ -27224,39 +28142,116 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.over_sampling.tests.test_adasyn.test_adasyn_error":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_borderline_smote":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_borderline_smote.BorderlineSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_borderline_smote.test_borderline_smote":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_kmeans_smote":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_kmeans_smote.KMeansSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_kmeans_smote.SMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_kmeans_smote.test_kmeans_smote":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_kmeans_smote.test_sample_kmeans_custom":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_kmeans_smote.test_sample_kmeans_density_estimation":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_kmeans_smote.test_sample_kmeans_not_enough_clusters":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.over_sampling.tests.test_random_over_sampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_random_over_sampler.RND_SEED":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_random_over_sampler.RandomOverSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_random_over_sampler.X":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_random_over_sampler.Y":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_random_over_sampler.test_multiclass_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_random_over_sampler.test_multiclass_fit_sample":{
@@ -27264,6 +28259,24 @@
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
    "imbalanced-learn-0.3.3-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_random_over_sampler.test_random_over_sampling_heterogeneous_data":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_random_over_sampler.test_random_over_sampling_nan_inf":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_random_over_sampler.test_ros_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_random_over_sampler.test_ros_fit_sample":{
@@ -27277,49 +28290,68 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote.BorderlineSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote.RND_SEED":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote.R_TOL":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote.SMOTE":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote.SVMSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote.X":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote.Y":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote.test_fit_sample_nn_obj":{
@@ -27347,7 +28379,8 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote.test_sample_svm":{
@@ -27355,6 +28388,12 @@
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
    "imbalanced-learn-0.3.3-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote.test_smote_m_neighbors":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.over_sampling.tests.test_smote.test_smote_wrong_kind":{
@@ -27371,25 +28410,94 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.over_sampling.tests.test_smote_nc":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote_nc.SMOTENC":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote_nc.data_heterogneous_masked":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote_nc.data_heterogneous_ordered":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote_nc.data_heterogneous_unordered":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote_nc.data_sparse":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_smote_nc.test_smotenc":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_svm_smote":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_svm_smote.SVMSMOTE":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.over_sampling.tests.test_svm_smote.test_svm_smote":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.pipeline":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.pipeline.Pipeline":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.pipeline.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.pipeline._fit_resample_one":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.pipeline._fit_sample_one":{
@@ -27410,7 +28518,8 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.setup":{
@@ -27434,53 +28543,168 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.show_versions":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tensorflow":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tensorflow.__all__":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tensorflow._generator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tensorflow._generator.balanced_batch_generator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tensorflow.balanced_batch_generator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.tests":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.FunctionSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.RandomUnderSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.iris":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.make_imbalance":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.make_pipeline":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.test_function_sampler_func":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.test_function_sampler_identity":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.test_function_sampler_reject_sparse":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_base.test_function_sampler_validate":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_common":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_common._generate_checks_per_estimator":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_common._tested_non_meta_estimators":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_common._yield_all_checks":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_common.all_estimators":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_common.check_estimator":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_common.test_all_estimator_no_base_class":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_common.test_all_estimators":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_common.test_non_meta_estimators":{
@@ -27490,326 +28714,432 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.tests.test_common.test_samplers":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.tests.test_exceptions":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_exceptions.raise_isinstance_error":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_exceptions.test_raise_isinstance_error":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.DummyEstimatorParams":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.DummySampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.DummyTransf":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.EditedNearestNeighbours":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.FitParamT":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.FitTransformSample":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.JUNK_FOOD_DOCS":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.Mult":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.NoFit":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.NoInvTransf":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.NoTrans":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.Pipeline":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.R_TOL":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.RandomUnderSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.Transf":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.make_imbalance":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.make_pipeline":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.parameter_grid_test_verbose":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_classes_property":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_fit_predict_on_pipeline":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_fit_predict_with_intermediate_fit_params":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_make_pipeline":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.test_pipeline_correctly_adjusts_steps":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_ducktyping":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_fit_params":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_fit_then_sample_3_samplers_with_sampler_last_estimator":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_fit_then_sample_with_sampler_last_estimator":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_fit_transform":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_init":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_memory_sampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_memory_transformer":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_methods_anova":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_methods_pca_rus_svm":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_methods_pca_svm":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_methods_preprocessing_svm":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_methods_rus_pca_svm":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_none_classifier":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_none_sampler_classifier":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_none_sampler_sample":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_none_transformer":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.test_pipeline_param_error":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_raise_set_params_error":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_sample":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.test_pipeline_score_samples_pca_lof":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_transform":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_with_step_that_implements_both_sample_and_transform":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_with_step_that_it_is_pipeline":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_pipeline_wrong_memory":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.test_predict_with_predict_params":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.test_resampler_last_stage_passthrough":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.test_score_samples_on_pipeline_without_score_samples":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.tests.test_pipeline.test_set_pipeline_step_none":{
@@ -27819,144 +29149,1202 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.tests.test_pipeline.test_set_pipeline_step_passthrough":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.tests.test_pipeline.test_set_pipeline_steps":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.tests.test_pipeline.test_verbose":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.AllKNN":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.ClusterCentroids":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.CondensedNearestNeighbour":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.EditedNearestNeighbours":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.InstanceHardnessThreshold":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.NearMiss":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.NeighbourhoodCleaningRule":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.OneSidedSelection":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.RandomUnderSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.RepeatedEditedNearestNeighbours":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.TomekLinks":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.ClusterCentroids":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.__all__":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation._cluster_centroids":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation._cluster_centroids.ClusterCentroids":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation._cluster_centroids.VOTING_KIND":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation._cluster_centroids._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation._cluster_centroids._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation._cluster_centroids._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation._cluster_centroids.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.ClusterCentroids":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.RND_SEED":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.R_TOL":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.test_fit_hard_voting":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.test_fit_resample_auto":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.test_fit_resample_check_voting":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.test_fit_resample_error":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.test_fit_resample_half":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.test_fit_resample_object":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_generation.tests.test_cluster_centroids.test_multiclass_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.AllKNN":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.CondensedNearestNeighbour":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.EditedNearestNeighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.InstanceHardnessThreshold":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.NearMiss":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.NeighbourhoodCleaningRule":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.OneSidedSelection":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.RandomUnderSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.RepeatedEditedNearestNeighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.TomekLinks":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.__all__":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._condensed_nearest_neighbour":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._condensed_nearest_neighbour.CondensedNearestNeighbour":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._condensed_nearest_neighbour._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._condensed_nearest_neighbour._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._condensed_nearest_neighbour._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._condensed_nearest_neighbour.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours.AllKNN":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours.EditedNearestNeighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours.RepeatedEditedNearestNeighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours.SEL_KIND":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._edited_nearest_neighbours.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._instance_hardness_threshold":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._instance_hardness_threshold.InstanceHardnessThreshold":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._instance_hardness_threshold._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._instance_hardness_threshold._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._instance_hardness_threshold._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._instance_hardness_threshold.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._nearmiss":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._nearmiss.NearMiss":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._nearmiss._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._nearmiss._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._nearmiss._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._nearmiss.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._neighbourhood_cleaning_rule":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._neighbourhood_cleaning_rule.NeighbourhoodCleaningRule":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._neighbourhood_cleaning_rule.SEL_KIND":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._neighbourhood_cleaning_rule._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._neighbourhood_cleaning_rule._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._neighbourhood_cleaning_rule._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._neighbourhood_cleaning_rule.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._one_sided_selection":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._one_sided_selection.OneSidedSelection":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._one_sided_selection._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._one_sided_selection._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._one_sided_selection._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._one_sided_selection.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._random_under_sampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._random_under_sampler.RandomUnderSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._random_under_sampler._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._random_under_sampler._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._random_under_sampler._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._random_under_sampler.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._tomek_links":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._tomek_links.TomekLinks":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._tomek_links._estimator_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._tomek_links._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._tomek_links._sampling_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection._tomek_links.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_allknn":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_allknn.AllKNN":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_allknn.R_TOL":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_allknn.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_allknn.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_allknn.test_alknn_not_good_object":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_allknn.test_all_knn_allow_minority":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_allknn.test_allknn_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_condensed_nearest_neighbour":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_condensed_nearest_neighbour.CondensedNearestNeighbour":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_condensed_nearest_neighbour.RND_SEED":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_condensed_nearest_neighbour.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_condensed_nearest_neighbour.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_condensed_nearest_neighbour.test_cnn_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_condensed_nearest_neighbour.test_cnn_init":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_edited_nearest_neighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_edited_nearest_neighbours.EditedNearestNeighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_edited_nearest_neighbours.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_edited_nearest_neighbours.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_edited_nearest_neighbours.test_enn_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_edited_nearest_neighbours.test_enn_init":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_edited_nearest_neighbours.test_enn_not_good_object":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold.ESTIMATOR":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold.InstanceHardnessThreshold":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold.RND_SEED":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold.test_iht_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold.test_iht_init":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_instance_hardness_threshold.test_iht_reproducibility":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss.NearMiss":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss.VERSION_NEARMISS":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss.test_nearmiss_error":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss.test_nm_fit_resample_auto":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss.test_nm_fit_resample_float_sampling_strategy":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_nearmiss.test_nm_fit_resample_nn_obj":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_neighbourhood_cleaning_rule":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_neighbourhood_cleaning_rule.NeighbourhoodCleaningRule":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_neighbourhood_cleaning_rule.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_neighbourhood_cleaning_rule.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_neighbourhood_cleaning_rule.test_ncr_error":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_neighbourhood_cleaning_rule.test_ncr_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection.OneSidedSelection":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection.RND_SEED":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection.test_oss_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection.test_oss_init":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection.test_oss_with_object":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_one_sided_selection.test_oss_with_wrong_object":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler.RND_SEED":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler.RandomUnderSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler.test_multiclass_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler.test_random_under_sampling_heterogeneous_data":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler.test_random_under_sampling_nan_inf":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_random_under_sampler.test_rus_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours.RepeatedEditedNearestNeighbours":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours.test_renn_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours.test_renn_init":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours.test_renn_iter_attribute":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours.test_renn_iter_wrong":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_repeated_edited_nearest_neighbours.test_renn_not_good_object":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_tomek_links":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_tomek_links.TomekLinks":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_tomek_links.X":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_tomek_links.Y":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_tomek_links.test_tl_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling._prototype_selection.tests.test_tomek_links.test_tl_init":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.base":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.base.BaseCleaningSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling.base.BaseCleaningSampler._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.base.BaseCleaningSampler._sampling_type":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.base.BaseUnderSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling.base.BaseUnderSampler._sampling_strategy_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.base.BaseUnderSampler._sampling_type":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.base._estimator_type":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.under_sampling.base.fit_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.under_sampling.prototype_generation":{
@@ -29069,21 +31457,174 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.Substitution":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.__all__":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._docstring.Substitution":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._docstring._n_jobs_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._docstring._random_state_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._show_versions":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._show_versions._get_deps_info":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._show_versions.show_versions":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation.SAMPLING_KIND":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation.SAMPLING_TARGET_KIND":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation.TARGET_KIND":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._count_class_sample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_all":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_auto":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_dict":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_float":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_list":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_majority":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_minority":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_not_majority":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation._sampling_strategy_not_minority":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation.check_neighbors_object":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation.check_sampling_strategy":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils._validation.check_target_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.check_neighbors_object":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.check_ratio":{
@@ -29093,39 +31634,50 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.utils.check_sampling_strategy":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.utils.check_target_type":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.deprecation":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.deprecation.deprecate_parameter":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.BaseCleaningSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.BaseEnsembleSampler":{
@@ -29139,28 +31691,32 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.BaseUnderSampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.ClusterCentroids":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.NearMiss":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.SMOTE":{
@@ -29181,14 +31737,28 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.estimator_checks._yield_classifier_checks":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks._yield_sampler_checks":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.estimator_checks.check_classifier_on_multilabel_or_multioutput_targets":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.check_dont_overwrite_parameters":{
@@ -29202,7 +31772,8 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.check_samplers_X_consistancy_sample":{
@@ -29216,7 +31787,14 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.estimator_checks.check_samplers_multiclass_ova":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.check_samplers_no_fit_error":{
@@ -29230,14 +31808,22 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.check_samplers_pandas":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.estimator_checks.check_samplers_preserve_dtype":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.check_samplers_ratio_fit_sample":{
@@ -29247,18 +31833,32 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.utils.estimator_checks.check_samplers_sample_indices":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.estimator_checks.check_samplers_sampling_strategy_fit_resample":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.utils.estimator_checks.check_samplers_sparse":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.check_target_type":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.estimator_checks.is_public_parameter":{
@@ -29293,98 +31893,160 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.testing.DONT_TEST":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.testing.META_ESTIMATORS":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.testing.OTHER":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.testing.SamplerMixin":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.testing.all_estimators":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.testing.warns":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_deprecation":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_deprecation.Sampler":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_deprecation.deprecate_parameter":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_deprecation.test_deprecate_parameter":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_deprecation.warns":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_docstring.Substitution":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_docstring._n_jobs_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_docstring._random_state_docstring":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_docstring.cls":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_docstring.func":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_docstring.test_docstring_inject":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_docstring.test_docstring_template":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_estimator_checks":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_estimator_checks.BaseBadClassifier":{
@@ -29392,6 +32054,18 @@
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
    "imbalanced-learn-0.3.3-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_estimator_checks.BaseBadSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_estimator_checks.BaseSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_estimator_checks.ChangesDict":{
@@ -29415,6 +32089,12 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.utils.tests.test_estimator_checks.NoAcceptingSparseSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.utils.tests.test_estimator_checks.NoCheckinPredict":{
   "__set__":true,
   "elements":[
@@ -29429,6 +32109,18 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.utils.tests.test_estimator_checks.NotFittedSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_estimator_checks.NotPreservingDtypeSampler":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.utils.tests.test_estimator_checks.SetsWrongAttribute":{
   "__set__":true,
   "elements":[
@@ -29440,70 +32132,134 @@
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_estimator_checks.check_target_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_estimator_checks.test_check_estimator":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_show_versions":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_show_versions._get_deps_info":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_show_versions.show_versions":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_show_versions.test_get_deps_info":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_show_versions.test_show_versions_default":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_show_versions.test_show_versions_github":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_testing":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_testing.SamplerMixin":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_testing.all_estimators":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_testing.test_all_estimators":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_testing.test_warns":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_testing.warns":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_validation":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation._sampling_strategy_func":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.binary_target":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_validation.check_neighbors_object":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_validation.check_ratio":{
@@ -29513,11 +32269,30 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.utils.tests.test_validation.check_sampling_strategy":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.check_target_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.multiclass_target":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.utils.tests.test_validation.test_check_neighbors_object":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_validation.test_check_ratio_error":{
@@ -29525,6 +32300,18 @@
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
    "imbalanced-learn-0.3.3-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_check_sampling_strategy":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_check_target_type":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.tests.test_validation.test_ratio_all_over_sampling":{
@@ -29632,11 +32419,60 @@
    "imbalanced-learn-0.3.3-py_0"
   ]
  },
+ "imblearn.utils.tests.test_validation.test_sampling_strategy_callable_args":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_sampling_strategy_check_order":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_sampling_strategy_class_target_unknown":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_sampling_strategy_dict_error":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_sampling_strategy_dict_over_sampling":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_sampling_strategy_float_error_not_binary":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_sampling_strategy_float_error_not_in_range":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
+ "imblearn.utils.tests.test_validation.test_sampling_strategy_list_error_not_clean_sampling":{
+  "__set__":true,
+  "elements":[
+   "imbalanced-learn-0.6.1-py_0"
+  ]
+ },
  "imblearn.utils.tests.test_validation.warns":{
   "__set__":true,
   "elements":[
    "imbalanced-learn-0.3.2-py_0",
-   "imbalanced-learn-0.3.3-py_0"
+   "imbalanced-learn-0.3.3-py_0",
+   "imbalanced-learn-0.6.1-py_0"
   ]
  },
  "imblearn.utils.validation":{
