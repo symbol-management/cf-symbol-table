@@ -1013,14 +1013,16 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.analysis.Analysis":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.analysis.analysis":{
@@ -1047,6 +1049,54 @@
   "__set__":true,
   "elements":[
    "swepy-1.3.3-py_0"
+  ]
+ },
+ "swepy.classify":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.classify.classify":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.classify.govf":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.classify.optimal_jenk":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.classify.plot_jenks":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.downsample":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.downsample.downsample":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.downsample.view_blocks":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.ease2Transform":{
@@ -1109,13 +1159,32 @@
    "swepy-1.9.0-py_0"
   ]
  },
+ "swepy.easeReproject":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.easeReproject.EaseReproject":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.easeReproject.resolutions":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
  "swepy.name":{
   "__set__":true,
   "elements":[
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.nsidcDownloader":{
@@ -1124,7 +1193,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.nsidcDownloader.name":{
@@ -1140,7 +1210,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.nsidcDownloader.nsidcDownloader.nsidcDownloader":{
@@ -1154,14 +1225,16 @@
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.pipeline.Swepy":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.pipeline.ease2Transform":{
@@ -1171,18 +1244,26 @@
    "swepy-1.9.0-py_0"
   ]
  },
+ "swepy.pipeline.easeReproject":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
  "swepy.pipeline.nco":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.pipeline.nsidcDownloader":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.process":{
@@ -1191,7 +1272,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.process.Swepy":{
@@ -1201,11 +1283,18 @@
    "swepy-1.9.0-py_0"
   ]
  },
+ "swepy.process.__filter":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
  "swepy.process.apply_filter":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.process.auto_filter":{
@@ -1221,11 +1310,18 @@
    "swepy-1.9.0-py_0"
   ]
  },
+ "swepy.process.downsample":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
  "swepy.process.get_array":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.process.govf":{
@@ -1237,14 +1333,16 @@
  "swepy.process.mask_ocean_winter":{
   "__set__":true,
   "elements":[
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.process.pandas_fill":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.process.process":{
@@ -1290,11 +1388,24 @@
    "swepy-1.5.2-py_0"
   ]
  },
+ "swepy.process.safe_subtract":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.process.save_file":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
  "swepy.process.vector_clean":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.swepy":{
@@ -1343,7 +1454,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.mock_server":{
@@ -1352,7 +1464,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.mock_server.HTTPHandler":{
@@ -1361,7 +1474,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.mock_server.HTTPServer":{
@@ -1370,7 +1484,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.mock_server.httpd":{
@@ -1379,7 +1494,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.mock_server.web_dir":{
@@ -1388,7 +1504,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.name":{
@@ -1397,7 +1514,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis":{
@@ -1406,7 +1524,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.a":{
@@ -1422,7 +1541,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_count_index":{
@@ -1432,6 +1552,12 @@
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
    "swepy-1.9.0-py_0"
+  ]
+ },
+ "swepy.tests.test_analysis.test_count_melt":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_count_melt_onset_mp":{
@@ -1449,7 +1575,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_display_diffmap":{
@@ -1458,7 +1585,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_display_melt":{
@@ -1467,7 +1595,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_make_df_time":{
@@ -1476,7 +1605,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_make_df_type":{
@@ -1485,7 +1615,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_mask_year_df":{
@@ -1494,7 +1625,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_melt_date_year":{
@@ -1503,7 +1635,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_summer_diff1":{
@@ -1512,7 +1645,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_summer_diff2":{
@@ -1521,7 +1655,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_analysis.test_summer_length":{
@@ -1530,7 +1665,38 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_classify":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_classify.classify":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_classify.test_govf":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_classify.test_optimal_jenk":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_classify.test_plot_jenk":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_downloader":{
@@ -1539,7 +1705,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_downloader.nsidcDownloader":{
@@ -1547,7 +1714,8 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_downloader.test_file_not_found":{
@@ -1555,7 +1723,8 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_downloader.test_get_auth":{
@@ -1563,7 +1732,8 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_downloader.test_nD_local":{
@@ -1571,7 +1741,32 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_downsample":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_downsample.downsample":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_downsample.swe":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_downsample.swe.swe":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_ease":{
@@ -1580,7 +1775,14 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_ease.EaseReproject":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_ease.ease2Transform":{
@@ -1596,7 +1798,8 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_ease.test_ease_incorrect_res":{
@@ -1604,7 +1807,8 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_ease.test_ease_nogrid":{
@@ -1612,7 +1816,8 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_ease.test_grid_to_geo":{
@@ -1620,7 +1825,8 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_ease.test_verbose":{
@@ -1628,91 +1834,122 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_login":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_login.Swepy":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_login.nsidcDownloader":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_login.test_login":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.Swepy":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.nsidcDownloader":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.scraped_files":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.set_login_test":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.swepy_obj":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_check_params_false":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_check_params_true":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_clean_dirs":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_concat":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.test_convert_zarr":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_df_smmr":{
@@ -1726,91 +1963,122 @@
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.test_get_file_1991":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_file_high":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_file_low":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_grid_N":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_grid_S":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_grid_T":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_grid_fails":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_xy_N":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_xy_S":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_get_xy_none":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.test_gf_evening_edge":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_gf_low_TA":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_gf_low_var1":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_gf_low_var2":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.test_gf_smmr":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_gs_1987":{
@@ -1824,7 +2092,8 @@
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_gs_evening_edge":{
@@ -1838,56 +2107,82 @@
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_safe_subtract1":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_safe_subtract2":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_scrape":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.test_sensor_1987_edge":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.test_sensor_low_2008_edge":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_pipeline.test_set_dates_valerror":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_set_params_auth":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_set_params_bounds":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_set_params_dates":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_pipeline.test_subset":{
   "__set__":true,
   "elements":[
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process":{
@@ -1896,7 +2191,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.Swepy":{
@@ -1904,7 +2200,8 @@
   "elements":[
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.arrays":{
@@ -1922,7 +2219,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.scraped_files":{
@@ -1940,7 +2238,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.swepy":{
@@ -1955,7 +2254,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.test_apply_filter_large":{
@@ -1964,7 +2264,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.test_apply_filter_mp":{
@@ -1973,7 +2274,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.test_apply_filter_success":{
@@ -1982,7 +2284,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.test_get_array":{
@@ -1991,7 +2294,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.test_govf":{
@@ -2003,7 +2307,8 @@
  "swepy.tests.test_process.test_ocean_mask":{
   "__set__":true,
   "elements":[
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.test_pandas_fill":{
@@ -2012,7 +2317,26 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_process.test_safe_subtract1":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_process.test_safe_subtract2":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
+  ]
+ },
+ "swepy.tests.test_process.test_save":{
+  "__set__":true,
+  "elements":[
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_process.test_vector_clean":{
@@ -2021,7 +2345,8 @@
    "swepy-1.3.3-py_0",
    "swepy-1.5.2-py_0",
    "swepy-1.7.0-py_0",
-   "swepy-1.9.0-py_0"
+   "swepy-1.9.0-py_0",
+   "swepy-1.9.4-py_0"
   ]
  },
  "swepy.tests.test_swepy":{
