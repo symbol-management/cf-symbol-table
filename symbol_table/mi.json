@@ -16389,6 +16389,18 @@
    "miningpy-0.3.0-py37hc8dfbb8_2"
   ]
  },
+ "minio.Bucket":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.CopyConditions":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.InvalidResponseError":{
   "__set__":true,
   "elements":[
@@ -16398,7 +16410,26 @@
  "minio.Minio":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.Object":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.PostPolicy":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.ResponseError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.S3Error":{
@@ -16422,55 +16453,88 @@
  "minio.__author__":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.__copyright__":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.__license__":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.__title__":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.__version__":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.api":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.api.JSONDecodeError":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.api.Minio":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.api._APP_INFO":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.api._COMMENTS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.api._DEFAULT_USER_AGENT":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.api._MAX_EXPIRY_TIME":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.api._PARALLEL_UPLOADERS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.commonconfig":{
@@ -16587,9 +16651,142 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.compat":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat._is_py2":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat._is_py3":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat._urlencode":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.basestring":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.builtin_range":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.builtin_str":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.bytes":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.long":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.numeric_types":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.parse_qs":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.queryencode":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.queue":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.queue_empty":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.range":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.str":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.urldecode":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.urlencode":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.compat.urlsplit":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.copy_conditions":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.copy_conditions.CopyConditions":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.copy_conditions.collectionsAbc":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.credentials":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
@@ -16603,6 +16800,12 @@
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.credentials.Chain":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.credentials.ChainedProvider":{
@@ -16620,13 +16823,26 @@
  "minio.credentials.Credentials":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.credentials.EnvAWS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.credentials.EnvAWSProvider":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.credentials.EnvMinio":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.credentials.EnvMinioProvider":{
@@ -16639,6 +16855,12 @@
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.credentials.IamEc2MetaData":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.credentials.LdapIdentityProvider":{
@@ -16659,6 +16881,12 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.credentials.Static":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.credentials.StaticProvider":{
   "__set__":true,
   "elements":[
@@ -16671,16 +16899,156 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.credentials.aws_iam":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.aws_iam.IamEc2MetaData":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.aws_iam.ResponseError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.aws_iam.__metaclass__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.chain":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.chain.Chain":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.chain.__metaclass__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.credentials.credentials":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.credentials.credentials.Credentials":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.credentials.credentials.Expiry":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.credentials.Provider":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.credentials.Provider.__metaclass__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.credentials.Value":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.env_aws":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.env_aws.EnvAWS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.env_aws.__metaclass__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.env_minio":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.env_minio.EnvMinio":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.env_minio.__metaclass__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.file_aws_credentials":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.file_aws_credentials.FileAWSCredentials":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.file_aws_credentials.__metaclass__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.file_minio_client":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.file_minio_client.FileMinioClient":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.credentials.file_minio_client.__metaclass__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.credentials.providers":{
@@ -16845,6 +17213,12 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.credentials.static":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.datatypes":{
   "__set__":true,
   "elements":[
@@ -16947,6 +17321,48 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.definitions":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.definitions.Bucket":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.definitions.CopyObjectResult":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.definitions.IncompleteUpload":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.definitions.MultipartUploadResult":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.definitions.Object":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.definitions.UploadPart":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.deleteobjects":{
   "__set__":true,
   "elements":[
@@ -16986,7 +17402,218 @@
  "minio.error":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.error.APINotImplemented":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.AccessDenied":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.AccountProblem":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.AmbiguousGrantByEmailAddress":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.BadDigest":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.BucketAlreadyExists":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.BucketAlreadyOwnedByYou":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.BucketNotEmpty":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.CredentialNotSupported":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.CrossLocationLoggingProhibited":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.ETREE_EXCEPTIONS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.EntityTooLarge":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.EntityTooSmall":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.ExpiredToken":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.IllegalVersioningConfigurationException":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.IncompleteBody":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.IncorrectNumberOfFilesInPostRequest":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InlineDataTooLarge":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InternalError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidAccessKeyId":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidAddressingHeader":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidArgument":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidBucketError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidBucketName":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidBucketState":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidDigest":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidEncryptionAlgorithmError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidEndpointError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidLocationConstraint":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidObjectState":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidPart":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidPayer":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidPolicyDocument":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidRange":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidRequest":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.error.InvalidResponseError":{
@@ -16995,10 +17622,256 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.error.InvalidSOAPRequest":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidSecurity":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidSizeError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidStorageClass":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidTargetBucketForLogging":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidToken":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidURI":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.InvalidXMLError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.KeyTooLong":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.KnownResponseError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MalformedACLError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MalformedPOSTRequest":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MalformedXML":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MaxMessageLengthExceeded":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MaxPostPreDataLengthExceededError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MetadataTooLarge":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MethodNotAllowed":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MinioError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.error.MinioException":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.error.MissingAttachment":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MissingContentLength":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MissingRequestBodyError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MissingSecurityElement":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MissingSecurityHeader":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.MultiDeleteError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.NoLoggingStatusForKey":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.NoSuchBucket":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.NoSuchKey":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.NoSuchLifecycleConfiguration":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.NoSuchUpload":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.NoSuchVersion":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.NotSignedUp":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.OperationAborted":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.PermanentRedirect":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.PreconditionFailed":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.Redirect":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.RequestIsNotMultiPartContent":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.RequestTimeTooSkewed":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.RequestTimeout":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.RequestTorrentOfBucketError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.ResponseError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.RestoreAlreadyInProgress":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.error.S3Error":{
@@ -17013,10 +17886,89 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.error.ServiceUnavailable":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.SignatureDoesNotMatch":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.SlowDown":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.TemporaryRedirect":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.TokenRefreshRequired":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.TooManyBuckets":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.UnexpectedContent":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.UnresolvableGrantByEmailAddress":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.UserKeyMustBeSpecified":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.error.known_errors":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.fold_case_dict":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.fold_case_dict.FoldCaseDict":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.helpers":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.helpers.AWS_S3_ENDPOINT_MAP":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.helpers.BaseURL":{
@@ -17025,27 +17977,49 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.helpers.DEFAULT_PART_SIZE":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.Hasher":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.helpers.MAX_MULTIPART_COUNT":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.helpers.MAX_MULTIPART_OBJECT_SIZE":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.helpers.MAX_PART_SIZE":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.helpers.MAX_POOL_SIZE":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.helpers.MIN_PART_SIZE":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
@@ -17053,6 +18027,12 @@
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.helpers.PartMetadata":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.helpers.ThreadPool":{
@@ -17070,30 +18050,35 @@
  "minio.helpers._ALLOWED_HOSTNAME_REGEX":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.helpers._EXTRACT_REGION_REGEX":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.helpers._VALID_BUCKETNAME_REGEX":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.helpers._VALID_BUCKETNAME_STRICT_REGEX":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
  "minio.helpers._VALID_IP_ADDRESS":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
@@ -17121,6 +18106,12 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.helpers.amzprefix_user_metadata":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.helpers.check_bucket_name":{
   "__set__":true,
   "elements":[
@@ -17139,10 +18130,28 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.helpers.dump_http":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.encode_object_name":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.helpers.genheaders":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.helpers.get_md5_base64digest":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.helpers.get_part_info":{
@@ -17151,16 +18160,107 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.helpers.get_s3_endpoint":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.get_s3_region_from_endpoint":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.get_sha256_hexdigest":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.get_target_url":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.helpers.headers_to_strings":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.helpers.is_amz_header":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_non_empty_string":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_storageclass_header":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_supported_header":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_valid_bucket_name":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_valid_bucket_notification_config":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_valid_endpoint":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.helpers.is_valid_policy_type":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.helpers.is_valid_source_sse_object":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_valid_sse_c_object":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_valid_sse_object":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.helpers.is_virtual_host":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.helpers.makedirs":{
@@ -17175,10 +18275,22 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.helpers.mkdir_p":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.helpers.normalize_headers":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.helpers.optimal_part_info":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.helpers.queryencode":{
@@ -17191,6 +18303,12 @@
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.helpers.read_full":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.helpers.read_part_data":{
@@ -17355,6 +18473,114 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.parsers":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.S3Element":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers._S3_NS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers._iso8601_to_localized_time":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers._parse_add_notifying_service_config":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers._parse_objects_from_xml_elts":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_copy_object":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_get_bucket_notification":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_list_buckets":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_list_multipart_uploads":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_list_objects":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_list_parts":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_location_constraint":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_multi_object_delete_response":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_multipart_upload_result":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.parsers.parse_new_multipart_upload":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.post_policy":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.post_policy.PostPolicy":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.replicationconfig":{
   "__set__":true,
   "elements":[
@@ -17460,6 +18686,7 @@
  "minio.select":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
@@ -17481,10 +18708,22 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.select.CSVInput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.select.CSVInputSerialization":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.select.CSVOutput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.select.CSVOutputSerialization":{
@@ -17514,7 +18753,14 @@
  "minio.select.InputSerialization":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.select.JSONInput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.select.JSONInputSerialization":{
@@ -17541,6 +18787,24 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.select.JsonOutput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.OutputSerialization":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.ParquetInput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.select.ParquetInputSerialization":{
   "__set__":true,
   "elements":[
@@ -17559,9 +18823,28 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.select.RequestProgress":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.SQL":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.SelectObjectOptions":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.select.SelectObjectReader":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
@@ -17577,6 +18860,36 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.select.__author__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.__copyright__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.__license__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.__title__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.__version__":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.select._crc32":{
   "__set__":true,
   "elements":[
@@ -17589,10 +18902,22 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.select._extract_header":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.select._int":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.select._parse_stats":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.select._read":{
@@ -17601,9 +18926,190 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.select.errors":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.errors.SelectCRCValidationError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.errors.SelectMessageError":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.ERROR":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.EVENT":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.EVENT_CONT":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.EVENT_CONTENT_TYPE":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.EVENT_END":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.EVENT_PROGRESS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.EVENT_RECORDS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.EVENT_STATS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.SQL":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.byte_int":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.calculate_crc":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.helpers.validate_crc":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.CSVInput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.CSVOutput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.InputSerialization":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.JSONInput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.JsonOutput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.OutputSerialization":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.ParquetInput":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.RequestProgress":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.options.SelectObjectOptions":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.reader":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.reader.SelectObjectReader":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.reader._extract_header":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.select.reader._parse_stats":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.signer":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
@@ -17617,6 +19123,18 @@
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.signer._SIGN_V4_ALGORITHM":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.signer._UNSIGNED_PAYLOAD":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.signer._get_authorization":{
@@ -17685,10 +19203,58 @@
    "minio-7.0.0-pyhd3deb0d_0"
   ]
  },
+ "minio.signer.generate_authorization_header":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.signer.generate_canonical_request":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.signer.generate_credential_string":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.signer.generate_scope_string":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.signer.generate_signing_key":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.signer.generate_string_to_sign":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
  "minio.signer.get_credential_string":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.signer.get_signed_headers":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.signer.post_presign_signature":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.signer.post_presign_v4":{
@@ -17700,7 +19266,20 @@
  "minio.signer.presign_v4":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.signer.remove_default_port":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.signer.sign_v4":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.signer.sign_v4_s3":{
@@ -17718,13 +19297,38 @@
  "minio.sse":{
   "__set__":true,
   "elements":[
+   "minio-5.0.8-pyh8c360ce_0",
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.sse.SSE_C":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.sse.SSE_KMS":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.sse.SSE_S3":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.sse.Sse":{
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.sse.copy_SSE_C":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.sseconfig":{
@@ -17767,6 +19371,24 @@
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.thread_pool":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.thread_pool.ThreadPool":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.thread_pool.Worker":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "minio.time":{
@@ -17911,6 +19533,78 @@
   "__set__":true,
   "elements":[
    "minio-7.0.0-pyhd3deb0d_0"
+  ]
+ },
+ "minio.xml_marshal":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.NOTIFICATIONS_ARN_FIELDNAME_MAP":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal._S3_NAMESPACE":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal._add_notification_config_to_xml":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.etree_to_dict":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.xml_marshal_bucket_constraint":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.xml_marshal_bucket_encryption":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.xml_marshal_bucket_notifications":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.xml_marshal_complete_multipart_upload":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.xml_marshal_delete_objects":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.xml_marshal_select":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
+  ]
+ },
+ "minio.xml_marshal.xml_to_dict":{
+  "__set__":true,
+  "elements":[
+   "minio-5.0.8-pyh8c360ce_0"
   ]
  },
  "misaka.BaseRenderer":{
