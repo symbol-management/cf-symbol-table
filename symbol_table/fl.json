@@ -4026,6 +4026,7 @@
  "flake8.__main__":{
   "__set__":true,
   "elements":[
+   "flake8-2.6.2-py35_0",
    "flake8-3.0.4-py34_0",
    "flake8-3.0.4-py35_1",
    "flake8-3.2.0-py34_0",
@@ -4109,9 +4110,16 @@
    "flake8-3.8.4-py_0"
   ]
  },
+ "flake8.__main__.main":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
  "flake8.__version__":{
   "__set__":true,
   "elements":[
+   "flake8-2.6.2-py35_0",
    "flake8-3.0.4-py34_0",
    "flake8-3.0.4-py35_1",
    "flake8-3.2.0-py34_0",
@@ -4225,6 +4233,24 @@
    "flake8-3.8.2-pyh9f0ad1d_0",
    "flake8-3.8.3-pyh9f0ad1d_0",
    "flake8-3.8.4-py_0"
+  ]
+ },
+ "flake8._pyflakes":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8._pyflakes.FlakesChecker":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8._pyflakes.patch_pyflakes":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
   ]
  },
  "flake8.api":{
@@ -4620,6 +4646,30 @@
    "flake8-3.8.2-pyh9f0ad1d_0",
    "flake8-3.8.3-pyh9f0ad1d_0",
    "flake8-3.8.4-py_0"
+  ]
+ },
+ "flake8.callbacks":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.callbacks.install_vcs_hook":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.callbacks.redirect_stdout":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.callbacks.restore_stdout":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
   ]
  },
  "flake8.checker":{
@@ -5241,6 +5291,18 @@
    "flake8-3.8.4-py_0"
   ]
  },
+ "flake8.compat":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.compat.relpath":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
  "flake8.configure_logging":{
   "__set__":true,
   "elements":[
@@ -5712,6 +5774,126 @@
    "flake8-3.8.2-pyh9f0ad1d_0",
    "flake8-3.8.3-pyh9f0ad1d_0",
    "flake8-3.8.4-py_0"
+  ]
+ },
+ "flake8.engine":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.BaseQReport":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.EXTRA_EXCLUDE":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.FileQReport":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.NoQAStyleGuide":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.QueueReport":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.StyleGuide":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.__version__":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine._disable_extensions":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine._flake8_noqa":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine._load_entry_point":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine._parse_multi_options":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine._register_extensions":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.callbacks":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.get_parser":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.get_python_version":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.get_style_guide":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.make_stdin_get_value":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.multiprocessing":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.engine.util":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
   ]
  },
  "flake8.exceptions":{
@@ -6683,9 +6865,94 @@
    "flake8-3.8.4-py_0"
   ]
  },
+ "flake8.hooks":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks._get_files":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks._install_hg_hook":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks._params":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.compat":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.find_vcs":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.get_git_config":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.get_git_param":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.get_parser":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.get_style_guide":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.git_hook":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.hg_hook":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.install_hook":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.hooks.run":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
  "flake8.main":{
   "__set__":true,
   "elements":[
+   "flake8-2.6.2-py35_0",
    "flake8-3.0.4-py34_0",
    "flake8-3.0.4-py35_1",
    "flake8-3.2.0-py34_0",
@@ -6724,6 +6991,24 @@
    "flake8-3.8.2-pyh9f0ad1d_0",
    "flake8-3.8.3-pyh9f0ad1d_0",
    "flake8-3.8.4-py_0"
+  ]
+ },
+ "flake8.main.EXTRA_IGNORE":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.main.Flake8Command":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.main.USER_CONFIG":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
   ]
  },
  "flake8.main.application":{
@@ -7243,6 +7528,18 @@
    "flake8-3.8.4-py_0"
   ]
  },
+ "flake8.main.check_code":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.main.check_file":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
  "flake8.main.cli":{
   "__set__":true,
   "elements":[
@@ -7580,6 +7877,18 @@
    "flake8-3.7.9-py37hc8dfbb8_1",
    "flake8-3.7.9-py38_0",
    "flake8-3.7.9-py38h32f6830_1"
+  ]
+ },
+ "flake8.main.get_parser":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.main.get_style_guide":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
   ]
  },
  "flake8.main.git":{
@@ -8464,6 +8773,12 @@
    "flake8-3.8.4-py_0"
   ]
  },
+ "flake8.main.main":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
  "flake8.main.mercurial":{
   "__set__":true,
   "elements":[
@@ -8808,6 +9123,12 @@
    "flake8-3.8.4-py_0"
   ]
  },
+ "flake8.main.option_normalizer":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
  "flake8.main.options":{
   "__set__":true,
   "elements":[
@@ -9035,6 +9356,12 @@
    "flake8-3.8.2-pyh9f0ad1d_0",
    "flake8-3.8.3-pyh9f0ad1d_0",
    "flake8-3.8.4-py_0"
+  ]
+ },
+ "flake8.main.print_report":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
   ]
  },
  "flake8.main.setuptools_command":{
@@ -11947,6 +12274,84 @@
    "flake8-3.8.4-py_0"
   ]
  },
+ "flake8.reporter":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.reporter.BaseQReport":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.reporter.FileQReport":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.reporter.QueueReport":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.reporter.__all__":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.reporter.multiprocessing":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.run":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.run.Flake8Command":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.run.check_code":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.run.check_file":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.run.git_hook":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.run.hg_hook":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.run.main":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
  "flake8.statistics":{
   "__set__":true,
   "elements":[
@@ -12735,6 +13140,300 @@
    "flake8-3.8.2-pyh9f0ad1d_0",
    "flake8-3.8.3-pyh9f0ad1d_0",
    "flake8-3.8.4-py_0"
+  ]
+ },
+ "flake8.tests":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests._test_warnings":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests._test_warnings.IntegrationTestCaseWarnings":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests._test_warnings.engine":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests._test_warnings.is_windows":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_engine":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_engine.TestEngine":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_engine.TestStyleGuide":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_engine.__version__":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_engine.engine":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_engine.oserror_generator":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_engine.reporter":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_engine.util":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_hooks":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_hooks.TestGitHook":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_hooks.excluded":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_hooks.is_windows":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_integration":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_integration.IntegrationTestCase":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_integration.engine":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_integration.is_windows":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_main":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_main.TestMain":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_main.main":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_pyflakes":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_pyflakes.FlakesChecker":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_pyflakes.Options":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_pyflakes.TestFlakesChecker":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_reporter":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_reporter.TestBaseQReport":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_reporter.ioerror_report_factory":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_reporter.reporter":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_util":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_util.TestOptionSerializerParsesFalse":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_util.TestOptionSerializerParsesInts":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_util.TestOptionSerializerParsesLists":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_util.TestOptionSerializerParsesTrue":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.tests.test_util.option_normalizer":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.BOOL_TYPES":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.INT_TYPES":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.LIST_OPTIONS":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.OrderedSet":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.force_disable_jobs":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.is_using_stdin":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.is_windows":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.iter_child_nodes":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.option_normalizer":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
+  ]
+ },
+ "flake8.util.warn_when_using_jobs":{
+  "__set__":true,
+  "elements":[
+   "flake8-2.6.2-py35_0"
   ]
  },
  "flake8.utils":{
