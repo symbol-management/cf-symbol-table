@@ -33726,7 +33726,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.Quantity":{
@@ -33740,7 +33741,14 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.Sinks":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.Snap":{
@@ -33748,7 +33756,14 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.SubSnap":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.Visualization":{
@@ -33761,7 +33776,8 @@
   "__set__":true,
   "elements":[
    "plonk-0.3.1-py_0",
-   "plonk-0.5.0-py_0"
+   "plonk-0.5.0-py_0",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.__version__":{
@@ -33769,79 +33785,157 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._config":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._config.CONFIG_FILE":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._config.load_config":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._config.write_config":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logger_init":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logging":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logging.console_format":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logging.console_handler":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logging.file_format":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logging.file_handler":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logging.get_os_info":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logging.logger":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._logging.logger_init":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._units":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._units.Quantity":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._units._convert_dim_string":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._units._dimensionality_comparison":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._units._get_code_unit":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._units.add_units":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._units.array_quantities":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk._units.array_units":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._units.array_units_str":{
   "__set__":true,
   "elements":[
    "plonk-0.6.1-py_2"
+  ]
+ },
+ "plonk._units.generate_array_code_units":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk._units.generate_units_array_dictionary":{
@@ -33859,7 +33953,14 @@
  "plonk._units.units":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.add_units":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis":{
@@ -33867,7 +33968,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.Profile":{
@@ -33875,7 +33977,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.__all__":{
@@ -33883,13 +33986,33 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis._profiles":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis._profiles.G":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis._profiles.extra_profiles":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.discs":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.discs.ORIGIN":{
@@ -33901,68 +34024,79 @@
  "plonk.analysis.discs.normal":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.discs.rotate_edge_on":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.discs.rotate_face_on":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.filters":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.filters.CENTER":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.filters.annulus":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.filters.box":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.filters.cylinder":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.filters.shell":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.filters.sphere":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.load_profile":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles":{
@@ -33970,13 +34104,21 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.particles.MOLECULAR_HYDROGEN_WEIGHT":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.ORIGIN":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.SnapLike":{
@@ -33990,7 +34132,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.angular_velocity":{
@@ -33998,7 +34141,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.array_dust":{
@@ -34012,7 +34156,8 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.array_rotatable":{
@@ -34034,7 +34179,14 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.particles.dust_arrays":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.dust_density":{
@@ -34042,14 +34194,16 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.dust_fraction":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.dust_mass":{
@@ -34057,7 +34211,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.eccentricity":{
@@ -34065,7 +34220,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.gas_density":{
@@ -34073,14 +34229,16 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.gas_fraction":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.gas_mass":{
@@ -34088,7 +34246,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.inclination":{
@@ -34096,14 +34255,16 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.keplerian_frequency":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.kinetic_energy":{
@@ -34111,7 +34272,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.momentum":{
@@ -34119,7 +34281,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.polar_angle":{
@@ -34127,7 +34290,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.radial_distance":{
@@ -34146,12 +34310,25 @@
    "plonk-0.6.1-py_2"
   ]
  },
+ "plonk.analysis.particles.radius_cylindrical":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.particles.radius_spherical":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.analysis.particles.semi_major_axis":{
   "__set__":true,
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.specific_angular_momentum":{
@@ -34159,7 +34336,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.specific_kinetic_energy":{
@@ -34167,21 +34345,42 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.stokes_number":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.particles.temperature":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.particles.vector_arrays":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.particles.velocity_radial_cylindrical":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.particles.velocity_radial_spherical":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile":{
@@ -34189,7 +34388,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile.Profile":{
@@ -34197,34 +34397,39 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile._1d_arrays":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile._aggregations":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile._check_aggregation":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile._check_spacing":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile._generate_profiles":{
@@ -34232,6 +34437,18 @@
   "elements":[
    "plonk-0.5.0-py_0",
    "plonk-0.6.1-py_2"
+  ]
+ },
+ "plonk.analysis.profile._get_unit":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.profile._std_plot":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile.angmom_mag":{
@@ -34292,7 +34509,8 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.profile.mass":{
@@ -34318,7 +34536,14 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sinks.G":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.Hill_radius":{
@@ -34326,7 +34551,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.Roche_sphere":{
@@ -34334,7 +34560,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.SnapLike":{
@@ -34343,64 +34570,128 @@
    "plonk-0.3.1-py_0"
   ]
  },
+ "plonk.analysis.sinks._Hill_radius":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.analysis.sinks._norm":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sinks._potential":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.eccentricity":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.gravitational_potential_energy":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.inclination":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.kinetic_energy":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.mean_motion":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.orbital_period":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.semi_major_axis":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.specific_angular_momentum":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.sinks.specific_orbital_energy":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sph":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sph._compute_curl_over_neighbours":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sph._compute_derivative":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sph._compute_div_over_neighbours":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sph._compute_grad_over_neighbours":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sph.derivative":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.analysis.sph.summation":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total":{
@@ -34408,7 +34699,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.ORIGIN":{
@@ -34428,7 +34720,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.angular_momentum":{
@@ -34436,7 +34729,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.center_of_mass":{
@@ -34444,7 +34738,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.dust_mass":{
@@ -34452,7 +34747,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.gas_mass":{
@@ -34460,7 +34756,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.inclination":{
@@ -34468,7 +34765,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.kinetic_energy":{
@@ -34476,7 +34774,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.mass":{
@@ -34484,7 +34783,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.momentum":{
@@ -34492,7 +34792,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.position_angle":{
@@ -34500,7 +34801,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.specific_angular_momentum":{
@@ -34508,7 +34810,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.analysis.total.specific_kinetic_energy":{
@@ -34516,13 +34819,21 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.animation":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.array_units":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.console_format":{
@@ -34555,10 +34866,17 @@
    "plonk-0.5.0-py_0"
   ]
  },
+ "plonk.image":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.interpolate":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.load_ev":{
@@ -34566,14 +34884,16 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.load_profile":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.load_sim":{
@@ -34581,7 +34901,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.load_snap":{
@@ -34589,7 +34910,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.logger":{
@@ -34607,7 +34929,8 @@
  "plonk.plot":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation":{
@@ -34615,7 +34938,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.Evolution":{
@@ -34629,7 +34953,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.__all__":{
@@ -34637,14 +34962,16 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation._phantom_evolution":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation._phantom_evolution.NAME_MAP":{
@@ -34658,28 +34985,38 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation._phantom_evolution._get_columns":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation._phantom_evolution._get_data":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.simulation._phantom_evolution.evolution_units":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation._phantom_evolution.load_data_from_file":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.evolution":{
@@ -34687,7 +35024,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.evolution.Evolution":{
@@ -34708,12 +35046,19 @@
    "plonk-0.3.1-py_0"
   ]
  },
+ "plonk.simulation.evolution.evolution_units":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.simulation.evolution.load_ev":{
   "__set__":true,
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.load_ev":{
@@ -34721,7 +35066,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.load_sim":{
@@ -34729,7 +35075,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.simulation":{
@@ -34737,7 +35084,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.simulation.Simulation":{
@@ -34745,14 +35093,22 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.simulation.simulation._apply_units_to_dataframe":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.simulation._data_sources":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.simulation._properties_vary_per_snap":{
@@ -34760,7 +35116,14 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.simulation.simulation._un_apply_units_to_dataframe":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.simulation.simulation.load_sim":{
@@ -34768,7 +35131,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap":{
@@ -34776,7 +35140,14 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.Sinks":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.Snap":{
@@ -34784,13 +35155,15 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.SubSnap":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.__all__":{
@@ -34798,14 +35171,34 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.context":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.context.SnapCacheContext":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.context.context":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.extra":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.extra.ORIGIN":{
@@ -34818,21 +35211,42 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.extra._can_add_array":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.extra._dust":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.extra._vector":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.extra.extra_quantities":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.gravitational_constant_in_code_units":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.load_snap":{
@@ -34840,7 +35254,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers":{
@@ -34848,7 +35263,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.PhantomHDF5Snap":{
@@ -34867,7 +35283,8 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.hdf5":{
@@ -34887,14 +35304,16 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom._bignumber":{
@@ -35015,52 +35434,154 @@
    "plonk-0.6.1-py_2"
   ]
  },
+ "plonk.snap.readers.phantom.bignumber":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.density":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.dust_fraction":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.dust_to_gas_ratio":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.fileid":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.snap.readers.phantom.generate_snap_from_file":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.get_dataset":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.header_to_properties":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom.iboundary":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom.ibulge":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom.idarkmatter":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom.igas":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom.istar":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.mass":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom.maxdusttypes":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.particle_id":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.particle_type":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.populate_particle_array_registry":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.populate_sink_array_registry":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.pressure":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.sound_speed":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.stopping_time":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.readers.phantom.sub_type":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.readers.phantom_hdf5":{
@@ -35109,7 +35630,8 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.snap":{
@@ -35117,13 +35639,15 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.snap.Sinks":{
   "__set__":true,
   "elements":[
-   "plonk-0.3.1-py_0"
+   "plonk-0.3.1-py_0",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.snap.Snap":{
@@ -35131,7 +35655,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.snap.SubSnap":{
@@ -35139,7 +35664,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.snap._SinkUtility":{
@@ -35154,11 +35680,18 @@
    "plonk-0.6.1-py_2"
   ]
  },
+ "plonk.snap.snap._input_indices_array":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.snap.snap._str_is_int":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.snap.get_array_in_code_units":{
@@ -35188,7 +35721,14 @@
  "plonk.snap.utils":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.snap.utils.add_aliases":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.snap.utils.get_array_in_code_units":{
@@ -35200,7 +35740,8 @@
  "plonk.snap.utils.gravitational_constant_in_code_units":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.units":{
@@ -35208,7 +35749,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils":{
@@ -35216,7 +35758,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.__all__":{
@@ -35297,7 +35840,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.geometry._cartesian_to_cylindrical":{
@@ -35328,7 +35872,8 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.geometry.coordinate_transform":{
@@ -35340,13 +35885,15 @@
  "plonk.utils.geometry.distance_from_plane":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.geometry.transform":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.is_documented_by":{
@@ -35359,105 +35906,120 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_cubic":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_function":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_gradient_cubic":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_gradient_function":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_gradient_quintic":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_gradient_wendland_c4":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_names":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_quintic":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_radius":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.kernels.kernel_wendland_c4":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.math":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.math.average":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.math.cross":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.math.norm":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.norm":{
@@ -35525,21 +36087,42 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.utils.utils._rreplace":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.utils.is_documented_by":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.utils.utils.pretty_array_name":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.utils.utils.time_string":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.vector":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize":{
@@ -35547,7 +36130,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.Visualization":{
@@ -35561,7 +36145,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.animation":{
@@ -35569,7 +36154,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.animation.Extent":{
@@ -35587,14 +36173,16 @@
  "plonk.visualize.animation._get_range":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.animation._interp_kwargs":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.animation.animation":{
@@ -35602,33 +36190,44 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.animation.tqdm":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.functions":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.functions._set_new_lim":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.functions.get_extent_from_percentile":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.functions.plot_smoothing_length":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.functions.str_to_units":{
@@ -35641,7 +36240,14 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.image":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.interpolate":{
@@ -35649,7 +36255,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.interpolation":{
@@ -35657,21 +36264,24 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.interpolation.Extent":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.interpolation._get_arrays_from_str":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.interpolation._interpolate":{
@@ -35679,14 +36289,16 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.interpolation.interpolate":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.interpolation.scalar_interpolation":{
@@ -35694,7 +36306,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.interpolation.vector_interpolation":{
@@ -35702,7 +36315,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.multi":{
@@ -35738,7 +36352,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.plot.SnapLike":{
@@ -35775,42 +36390,48 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.plots.imshow":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.plots.plot":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.plots.quiver":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.plots.scatter":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.plots.streamplot":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.render":{
@@ -35819,68 +36440,101 @@
    "plonk-0.3.1-py_0"
   ]
  },
+ "plonk.visualize.simulation":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.simulation.KINDS":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.simulation.VisualizeSimulation":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.simulation.visualize_sim":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.visualize.splash":{
   "__set__":true,
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.CNORMK3D":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.DDQ2TABLE":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.DQ2TABLE":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.IVERBOSE":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.MAXCOLTABLE":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.NPTS":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.RADKERNEL":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.RADKERNEL2":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.cnormk3D":{
@@ -35914,7 +36568,14 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.splash.interpolate_slice":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.iverbose":{
@@ -35952,7 +36613,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.w_cubic":{
@@ -35960,7 +36622,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.splash.wfromtable":{
@@ -35968,7 +36631,8 @@
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.str_to_units":{
@@ -35977,12 +36641,19 @@
    "plonk-0.5.0-py_0"
   ]
  },
+ "plonk.visualize.vector":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.visualize.visualization":{
   "__set__":true,
   "elements":[
    "plonk-0.3.1-py_0",
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.visualization.Visualization":{
@@ -36018,20 +36689,47 @@
  "plonk.visualize.visualization._convert_units_for_cmap":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.visualization._convert_units_for_interpolation":{
   "__set__":true,
   "elements":[
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.visualization._get_unit":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.visualization._interpolated_data":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.visualization._interpolated_plot":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.visualization._interpolation_plot":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.visualization._kind_to_function":{
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
   ]
  },
  "plonk.visualize.visualization._norm":{
@@ -36076,6 +36774,18 @@
    "plonk-0.3.1-py_0"
   ]
  },
+ "plonk.visualize.visualization._plot_data":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.visualization._plot_plot":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.visualize.visualization._plot_render":{
   "__set__":true,
   "elements":[
@@ -36118,6 +36828,12 @@
    "plonk-0.3.1-py_0"
   ]
  },
+ "plonk.visualize.visualization.image":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
  "plonk.visualize.visualization.particle_plot":{
   "__set__":true,
   "elements":[
@@ -36129,7 +36845,26 @@
   "__set__":true,
   "elements":[
    "plonk-0.5.0-py_0",
-   "plonk-0.6.1-py_2"
+   "plonk-0.6.1-py_2",
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.visualization.vector":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize.visualize_sim":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
+  ]
+ },
+ "plonk.visualize_sim":{
+  "__set__":true,
+  "elements":[
+   "plonk-0.7.1-py_0"
   ]
  },
  "plotly.__version__":{
