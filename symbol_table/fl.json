@@ -15043,7 +15043,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.DEFAULT_IMPORT_ORDER_STYLE":{
@@ -15051,7 +15052,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.IMPORT_3RD_PARTY":{
@@ -15110,12 +15112,25 @@
    "flake8-import-order-0.13-py_0"
   ]
  },
+ "flake8_import_order.ImportType":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
  "flake8_import_order.ImportVisitor":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.NewLine":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.STDLIB_NAMES":{
@@ -15123,7 +15138,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__":{
@@ -15131,7 +15147,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__all__":{
@@ -15139,7 +15156,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__author__":{
@@ -15147,7 +15165,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__copyright__":{
@@ -15155,7 +15174,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__email__":{
@@ -15163,7 +15183,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__license__":{
@@ -15171,7 +15192,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__maintainer__":{
@@ -15179,7 +15201,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__maintainer_email__":{
@@ -15187,7 +15210,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__summary__":{
@@ -15195,7 +15219,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__title__":{
@@ -15203,7 +15228,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__uri__":{
@@ -15211,7 +15237,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__about__.__version__":{
@@ -15219,7 +15246,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__all__":{
@@ -15227,7 +15255,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__author__":{
@@ -15235,7 +15264,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__copyright__":{
@@ -15243,7 +15273,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__email__":{
@@ -15251,7 +15282,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__license__":{
@@ -15259,7 +15291,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__summary__":{
@@ -15267,7 +15300,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__title__":{
@@ -15275,7 +15309,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__uri__":{
@@ -15283,7 +15318,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.__version__":{
@@ -15291,7 +15327,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.checker":{
@@ -15299,13 +15336,26 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.checker.AppNexus":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.11-py36_0"
+  ]
+ },
+ "flake8_import_order.checker.BLANK_LINE_RE":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.checker.COMMA_SEPARATED_LIST_RE":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.checker.Cryptography":{
@@ -15319,7 +15369,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.checker.Google":{
@@ -15333,7 +15384,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.checker.ImportVisitor":{
@@ -15341,7 +15393,20 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.checker.NOQA_INLINE_REGEXP":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.checker.NewLine":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.checker.PEP8":{
@@ -15360,7 +15425,14 @@
   "__set__":true,
   "elements":[
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.checker.parse_comma_separated_list":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.flake8_linter":{
@@ -15368,7 +15440,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.flake8_linter.DEFAULT_IMPORT_ORDER_STYLE":{
@@ -15376,7 +15449,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.flake8_linter.ImportOrderChecker":{
@@ -15384,7 +15458,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.flake8_linter.Linter":{
@@ -15392,7 +15467,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.flake8_linter.__version__":{
@@ -15400,21 +15476,24 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.flake8_linter.list_entry_points":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.flake8_linter.lookup_entry_point":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.flake8_linter.register_opt":{
@@ -15422,7 +15501,14 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.get_package_names":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.pylama_linter":{
@@ -15430,7 +15516,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.pylama_linter.DEFAULT_IMPORT_ORDER_STYLE":{
@@ -15438,7 +15525,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.pylama_linter.ImportOrderChecker":{
@@ -15446,7 +15534,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.pylama_linter.Linter":{
@@ -15454,7 +15543,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.pylama_linter.__version__":{
@@ -15462,14 +15552,16 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.pylama_linter.lookup_entry_point":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.root_package_name":{
@@ -15477,7 +15569,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.stdlib_list":{
@@ -15485,7 +15578,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.stdlib_list.STDLIB_NAMES":{
@@ -15493,7 +15587,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles":{
@@ -15501,7 +15596,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.AppNexus":{
@@ -15509,7 +15605,14 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.styles.ClassifiedImport":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.Cryptography":{
@@ -15517,14 +15620,16 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.Edited":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.Error":{
@@ -15532,7 +15637,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.Google":{
@@ -15540,7 +15646,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.IMPORT_3RD_PARTY":{
@@ -15567,12 +15674,31 @@
    "flake8-import-order-0.13-py_0"
   ]
  },
+ "flake8_import_order.styles.ImportType":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.styles.NewLine":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
  "flake8_import_order.styles.PEP8":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
+  ]
+ },
+ "flake8_import_order.styles.PyCharm":{
+  "__set__":true,
+  "elements":[
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.RELATIVE_SET":{
@@ -15588,7 +15714,8 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.Style":{
@@ -15596,21 +15723,24 @@
   "elements":[
    "flake8-import-order-0.11-py36_0",
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.list_entry_points":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_import_order.styles.lookup_entry_point":{
   "__set__":true,
   "elements":[
    "flake8-import-order-0.12-py35_0",
-   "flake8-import-order-0.13-py_0"
+   "flake8-import-order-0.13-py_0",
+   "flake8-import-order-0.18-py_0"
   ]
  },
  "flake8_isort.Flake8Isort":{
