@@ -1,0 +1,52 @@
+{
+ "errors": {
+  "fletcher.base": {
+   "exception": "'NoneType' object has no attribute 'type'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 488, in wrapper",
+    "    return func(self, line, column, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 213, in complete",
+    "    return completion.complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 169, in complete",
+    "    cached_name, completion_names = self._complete_python(leaf)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 311, in _complete_python",
+    "    completion_names += self._complete_inherited(is_function=False)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 428, in _complete_inherited",
+    "    if (name.api_type == 'function') == is_function:",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/value/klass.py\", line 80, in api_type",
+    "    if definition.type == 'funcdef':",
+    "AttributeError: 'NoneType' object has no attribute 'type'",
+    ""
+   ]
+  }
+ },
+ "symbols": [
+  "benchmarks.benchmarks",
+  "benchmarks.benchmarks.TimeSuite",
+  "fletcher.FletcherArray",
+  "fletcher.FletcherDtype",
+  "fletcher.TextAccessor",
+  "fletcher.__all__",
+  "fletcher._algorithms",
+  "fletcher._algorithms._endswith",
+  "fletcher._algorithms._extract_isnull_bytemap",
+  "fletcher._algorithms._isnull",
+  "fletcher._algorithms._startswith",
+  "fletcher._algorithms.extract_isnull_bytemap",
+  "fletcher._algorithms.isnull",
+  "fletcher._algorithms.str_concat",
+  "fletcher._algorithms.str_length",
+  "fletcher._numba_compat",
+  "fletcher._numba_compat.NumbaString",
+  "fletcher._numba_compat._make",
+  "fletcher._numba_compat._missing_capactiy",
+  "fletcher._numba_compat._string_buffer_types",
+  "fletcher._numba_compat.buffers_as_arrays",
+  "fletcher.base",
+  "fletcher.string_array",
+  "fletcher.string_array.TextAccessor"
+ ]
+}
