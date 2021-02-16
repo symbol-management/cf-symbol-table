@@ -1,0 +1,765 @@
+{
+ "errors": {
+  "gpi_core.display.GPI.ImageCompare_GPI": {
+   "exception": "The subprocess /usr/share/miniconda/envs/test/bin/python was killed. Maybe out of memory?",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 241, in _send",
+    "    pickle_dump(data, self._get_process().stdin, PICKLE_PROTOCOL)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/_compatibility.py\", line 42, in pickle_dump",
+    "    file.flush()",
+    "BrokenPipeError: [Errno 32] Broken pipe",
+    "",
+    "During handling of the above exception, another exception occurred:",
+    "",
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 488, in wrapper",
+    "    return func(self, line, column, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 213, in complete",
+    "    return completion.complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 169, in complete",
+    "    cached_name, completion_names = self._complete_python(leaf)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 310, in _complete_python",
+    "    completion_names += self._complete_global_scope()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 376, in _complete_global_scope",
+    "    completion_names += filter.values()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 93, in values",
+    "    for name_key in self._used_names",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/utils.py\", line 16, in wrapper",
+    "    return list(func(*args, **kwargs))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 160, in _convert_names",
+    "    for name in names:",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 95, in <genexpr>",
+    "    _get_definition_names(self._used_names, name_key),",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 122, in _filter",
+    "    return list(self._check_flows(names))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/filters.py\", line 137, in _check_flows",
+    "    origin_scope=self._origin_scope",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/flow_analysis.py\", line 85, in reachability_check",
+    "    return _break_check(context, value_scope, first_flow_scope, node)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/flow_analysis.py\", line 100, in _break_check",
+    "    reachable = _check_if(context, flow_node)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/flow_analysis.py\", line 120, in _check_if",
+    "    types = context.infer_node(node)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/context.py\", line 222, in infer_node",
+    "    return infer_node(self, node)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 156, in infer_node",
+    "    return _infer_node_if_inferred(context, element)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 169, in _infer_node_if_inferred",
+    "    return _infer_node_cached(context, element)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/cache.py\", line 44, in wrapper",
+    "    rv = function(obj, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 174, in _infer_node_cached",
+    "    return _infer_node(context, element)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/debug.py\", line 81, in wrapper",
+    "    return func(*args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 82, in wrapper",
+    "    return func(context, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 254, in _infer_node",
+    "    return infer_or_test(context, element)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 460, in infer_or_test",
+    "    types = context.infer_node(next(iterator))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/context.py\", line 222, in infer_node",
+    "    return infer_node(self, node)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 156, in infer_node",
+    "    return _infer_node_if_inferred(context, element)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 169, in _infer_node_if_inferred",
+    "    return _infer_node_cached(context, element)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/cache.py\", line 44, in wrapper",
+    "    rv = function(obj, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 174, in _infer_node_cached",
+    "    return _infer_node(context, element)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/debug.py\", line 81, in wrapper",
+    "    return func(*args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 82, in wrapper",
+    "    return func(context, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 208, in _infer_node",
+    "    value_set = infer_trailer(context, value_set, trailer)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/syntax_tree.py\", line 273, in infer_trailer",
+    "    name_or_str=node",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/base_value.py\", line 492, in py__getattribute__",
+    "    return ValueSet.from_sets(c.py__getattribute__(*args, **kwargs) for c in self._set)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/base_value.py\", line 426, in from_sets",
+    "    for set_ in sets:",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/base_value.py\", line 492, in <genexpr>",
+    "    return ValueSet.from_sets(c.py__getattribute__(*args, **kwargs) for c in self._set)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/base_value.py\", line 83, in py__getattribute__",
+    "    values = self.py__getattribute__alternatives(n)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/value/instance.py\", line 225, in py__getattribute__alternatives",
+    "    name = compiled.create_simple_object(self.inference_state, string_name)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/__init__.py\", line 53, in create_simple_object",
+    "    inference_state.compiled_subprocess.create_simple_object(obj)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 133, in wrapper",
+    "    kwargs=kwargs,",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 226, in run",
+    "    return self._send(id(inference_state), function, args, kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/compiled/subprocess/__init__.py\", line 245, in _send",
+    "    % self._executable)",
+    "jedi.api.exceptions.InternalError: The subprocess /usr/share/miniconda/envs/test/bin/python was killed. Maybe out of memory?",
+    ""
+   ]
+  },
+  "gpi_core.fileIO": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/__init__.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/__init__.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.DownloadFile_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/DownloadFile_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/DownloadFile_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.DownloadFile_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/DownloadFile_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/DownloadFile_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.ReadCSV_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadCSV_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadCSV_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.ReadHDF5_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadHDF5_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadHDF5_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.ReadImage_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadImage_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadImage_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.ReadMatlab_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadMatlab_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadMatlab_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.ReadNPY_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadNPY_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadNPY_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.ReadPickled_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadPickled_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadPickled_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.ReadRaw_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadRaw_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/ReadRaw_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.WriteCSV_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteCSV_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteCSV_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.WriteHDF5_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteHDF5_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteHDF5_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.WriteImage_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteImage_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteImage_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.WriteNPY_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteNPY_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteNPY_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.WritePickled_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WritePickled_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WritePickled_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.fileIO.GPI.WriteRaw_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteRaw_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/fileIO/GPI/WriteRaw_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.gridding": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/__init__.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/__init__.py'",
+    ""
+   ]
+  },
+  "gpi_core.gridding.GPI.DegridDFT_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/DegridDFT_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/DegridDFT_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.gridding.GPI.GridDFT_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/GridDFT_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/GridDFT_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.gridding.GPI.Grid_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/Grid_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/Grid_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.gridding.GPI.Rolloff_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/Rolloff_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/Rolloff_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.gridding.GPI.SDC_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/SDC_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/SDC_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.gridding.GPI.SDCspiral_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/SDCspiral_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/gridding/GPI/SDCspiral_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.interfaces": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/__init__.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/__init__.py'",
+    ""
+   ]
+  },
+  "gpi_core.interfaces.GPI.Alert_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/Alert_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/Alert_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.interfaces.GPI.Custom_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/Custom_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/Custom_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.interfaces.GPI.Facebook_Twitter_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/Facebook_Twitter_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/Facebook_Twitter_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.interfaces.GPI.NewNode_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/NewNode_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/NewNode_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.interfaces.GPI.Template_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/Template_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/Template_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.interfaces.GPI.www_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/www_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/interfaces/GPI/www_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/__init__.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/__init__.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Combine_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Combine_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Combine_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Dimensions_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Dimensions_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Dimensions_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Extend_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Extend_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Extend_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Flip_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Flip_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Flip_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Glue_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Glue_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Glue_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Recast_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Recast_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Recast_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Reduce_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Reduce_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Reduce_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Shift_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Shift_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Shift_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Slicer_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Slicer_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Slicer_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Split_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Split_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Split_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Switch_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Switch_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Switch_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.ToComplex_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/ToComplex_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/ToComplex_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.GPI.Transpose_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Transpose_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/GPI/Transpose_GPI.py'",
+    ""
+   ]
+  },
+  "gpi_core.shapers.vec2complex": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/vec2complex.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/shapers/vec2complex.py'",
+    ""
+   ]
+  },
+  "gpi_core.spiral": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/spiral/__init__.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/spiral/__init__.py'",
+    ""
+   ]
+  },
+  "gpi_core.spiral.GPI.SpiralCoords_GPI": {
+   "exception": "[Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/spiral/GPI/SpiralCoords_GPI.py'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 111, in __init__",
+    "    with open(path, 'rb') as f:",
+    "FileNotFoundError: [Errno 2] No such file or directory: '/tmp/tmpqz5cce2x/lib/python3.7/site-packages/gpi_core/spiral/GPI/SpiralCoords_GPI.py'",
+    ""
+   ]
+  }
+ },
+ "symbols": [
+  "gpi_core.RELEASE_DATE",
+  "gpi_core.VERSION",
+  "gpi_core.display",
+  "gpi_core.display.GPI",
+  "gpi_core.display.GPI.Audio_GPI.ExternalNode",
+  "gpi_core.display.GPI.CrossSection_GPI.ExternalNode",
+  "gpi_core.display.GPI.CrossSection_GPI.MatplotDisplay2",
+  "gpi_core.display.GPI.CrossSection_GPI.WindowLevel",
+  "gpi_core.display.GPI.DataQuery_GPI.DataSliders",
+  "gpi_core.display.GPI.DataQuery_GPI.ExternalNode",
+  "gpi_core.display.GPI.GLViewer_GPI.ExternalNode",
+  "gpi_core.display.GPI.GLViewer_GPI.GPIGLWidget",
+  "gpi_core.display.GPI.GLViewer_GPI.OpenGLWindow",
+  "gpi_core.display.GPI.GLViewer_GPI.app",
+  "gpi_core.display.GPI.GLViewer_GPI.log",
+  "gpi_core.display.GPI.ImageDisplay_GPI.ExternalNode",
+  "gpi_core.display.GPI.ImageDisplay_GPI.WindowLevel",
+  "gpi_core.display.GPI.ImageRate_GPI.ComboBox_GROUP",
+  "gpi_core.display.GPI.ImageRate_GPI.ExternalNode",
+  "gpi_core.display.GPI.ImageRate_GPI.toggle_compare",
+  "gpi_core.display.GPI.Matplotlib_GPI.COLORS",
+  "gpi_core.display.GPI.Matplotlib_GPI.ExternalNode",
+  "gpi_core.display.GPI.Matplotlib_GPI.LINESTYLES",
+  "gpi_core.display.GPI.Matplotlib_GPI.MARKERS",
+  "gpi_core.display.GPI.Matplotlib_GPI.MainWin_close",
+  "gpi_core.display.GPI.Matplotlib_GPI.MatplotDisplay",
+  "gpi_core.display.GPI.Matplotlib_GPI.NavbarTools",
+  "gpi_core.display.GPI.Matplotlib_GPI.col2hex",
+  "gpi_core.display.GPI.Matplotlib_GPI.figure_edit",
+  "gpi_core.display.GPI.Matplotlib_GPI.formlayout",
+  "gpi_core.display.GPI.Matplotlib_GPI.get_icon",
+  "gpi_core.display.GPI.dictionquery_GPI.ExternalNode",
+  "gpi_core.display.GPI.dictionquery_GPI.ReduceSliders",
+  "gpi_core.display.GPI.dictionquery_GPI.gen_keys_from_keywords",
+  "gpi_core.display.GPI.dictionquery_GPI.print_item",
+  "gpi_core.display.GPI.dictionquery_GPI.unwrap_dict",
+  "gpi_core.fileIO",
+  "gpi_core.generators",
+  "gpi_core.generators.GPI",
+  "gpi_core.generators.GPI.Bool_GPI.ExternalNode",
+  "gpi_core.generators.GPI.Float_GPI.ExternalNode",
+  "gpi_core.generators.GPI.GLObjects_GPI.ExternalNode",
+  "gpi_core.generators.GPI.Integer_GPI.ExternalNode",
+  "gpi_core.generators.GPI.List_GPI.ExternalNode",
+  "gpi_core.generators.GPI.Shapes_GPI.ExternalNode",
+  "gpi_core.generators.GPI.Shapes_GPI.SHAPES_GROUP",
+  "gpi_core.generators.GPI.SheppLogan_GPI.ExternalNode",
+  "gpi_core.generators.GPI.SheppLogan_GPI._mod_shepp_logan",
+  "gpi_core.generators.GPI.SheppLogan_GPI._select_phantom",
+  "gpi_core.generators.GPI.SheppLogan_GPI._shepp_logan",
+  "gpi_core.generators.GPI.SheppLogan_GPI.phantom",
+  "gpi_core.generators.GPI.String_GPI.ExternalNode",
+  "gpi_core.gridding",
+  "gpi_core.interfaces",
+  "gpi_core.iterate",
+  "gpi_core.iterate.GPI",
+  "gpi_core.iterate.GPI.AutoNum_GPI.ExternalNode",
+  "gpi_core.iterate.GPI.ConjugateGradient_GPI.ExternalNode",
+  "gpi_core.iterate.GPI.Iter_GPI.ExternalNode",
+  "gpi_core.math",
+  "gpi_core.math.GPI",
+  "gpi_core.math.GPI.1DHistogram_GPI.ExternalNode",
+  "gpi_core.math.GPI.Calc101_GPI.ExternalNode",
+  "gpi_core.math.GPI.Collapse_GPI.ExternalNode",
+  "gpi_core.math.GPI.Compare_GPI.ExternalNode",
+  "gpi_core.math.GPI.FFTW_GPI.ExternalNode",
+  "gpi_core.math.GPI.FFTW_GPI.FFTW_GROUP",
+  "gpi_core.math.GPI.FFTW_GPI.fft",
+  "gpi_core.math.GPI.FFT_NUMPY_GPI.ExternalNode",
+  "gpi_core.math.GPI.FFT_NUMPY_GPI.FFTW_GROUP",
+  "gpi_core.math.GPI.Float_Math_GPI.ExternalNode",
+  "gpi_core.math.GPI.Int_Math_GPI.ExternalNode",
+  "gpi_core.math.GPI.Interpolate_GPI.ExternalNode",
+  "gpi_core.math.GPI.Interpolate_GPI.Interpolate_GROUP",
+  "gpi_core.math.GPI.Math_GPI.ExternalNode",
+  "gpi_core.math.GPI.RIMP_GPI.ExternalNode",
+  "gpi_core.math.GPI.Regression_GPI.ExternalNode",
+  "gpi_core.math.GPI.Rotate_GPI.ExternalNode",
+  "gpi_core.math.GPI.Statistics_GPI.ExternalNode",
+  "gpi_core.math.GPI.ValueBounds_GPI.ExternalNode",
+  "gpi_core.math.GPI.Zeropad_GPI.ExternalNode",
+  "gpi_core.math.GPI.Zeropad_GPI.FFTW_GROUP",
+  "gpi_core.math.GPI.phaseUnwrap_GPI.ExternalNode",
+  "gpi_core.math.fft",
+  "gpi_core.shapers",
+  "gpi_core.spinSim",
+  "gpi_core.spinSim.GPI",
+  "gpi_core.spinSim.GPI.Bloch_GPI.ExternalNode",
+  "gpi_core.spinSim.GPI.MRPSD1D_GPI.ExternalNode",
+  "gpi_core.spinSim.GPI.MRSig1D_GPI.ExternalNode",
+  "gpi_core.spinSim.GPI.SpinViz3D_GPI.ExternalNode",
+  "gpi_core.spinSim.GPI.Spyn_GPI.ExternalNode",
+  "gpi_core.spinSim.GPI.Spyn_GPI.SpynAxys",
+  "gpi_core.spiral"
+ ]
+}
