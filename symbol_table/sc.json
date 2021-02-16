@@ -58302,7 +58302,8 @@
  "scmdata.REQUIRED_COLS":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ScmDataFrame":{
@@ -58316,35 +58317,76 @@
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.__version__":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata._version":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata._version.get_versions":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata._version.version_json":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.database":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.database.ScmDatabase":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.database.ScmRun":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.database._check_is_subdir":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.database.ensure_dir_exists":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.database.run_append":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.dataframe":{
@@ -58441,111 +58483,139 @@
  "scmdata.errors":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.errors.MissingRequiredColumnError":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.errors.NonUniqueMetadataError":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.HIERARCHY_SEPARATOR":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.datetime_match":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.day_match":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.find_depth":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.hour_match":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.is_in":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.month_match":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.pattern_match":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.time_match":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.filters.years_match":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.groupby":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.groupby.RunGroupBy":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.groupby._GroupBy":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.groupby._maybe_wrap_array":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.groupby.maybe_wrap_array":{
@@ -58559,119 +58629,136 @@
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf.DEFAULT_FLOAT":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf._FROM_NC_DOCSTRING":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf._TO_NC_DOCSTRING":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf._get_idx":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf._get_nc_type":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf._nc_to_var":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf._read_nc":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf._var_to_nc":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf._write_nc":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf.has_netcdf":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf.inject_nc_methods":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf.logger":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf.nc":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf.nc_to_run":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.netcdf.run_to_nc":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.offsets":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.offsets._long_class_factory":{
@@ -58690,7 +58777,8 @@
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.offsets.to_offset":{
@@ -58702,97 +58790,154 @@
  "scmdata.ops":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.ops._calculate_linear_regression":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.ops._convert_linear_regression_raw_to_pdf":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ops._perform_op":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ops.add":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.ops.delta_per_delta_time":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ops.divide":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.ops.has_scipy":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ops.inject_ops_methods":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.ops.integrate":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.ops.linear_regression":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ops.multiply":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ops.prep_for_op":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.ops.scipy":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ops.set_op_values":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.ops.subtract":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.plotting":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.plotting.RCMIP_SCENARIO_COLOURS":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.plotting._deprecated_line_plot":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.plotting.has_seaborn":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.plotting.inject_plotting_methods":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.plotting.lineplot":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.plotting.long_data":{
@@ -58805,41 +58950,53 @@
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.pyam_compat":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.pyam_compat.IamDataFrame":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.pyam_compat.LongDatetimeIamDataFrame":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.run.BaseScmRun":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run.MetadataType":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run.REQUIRED_COLS":{
@@ -58852,69 +59009,79 @@
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._format_data":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._format_long_data":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._format_wide_data":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._from_ts":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._handle_potential_duplicates_in_append":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._logger":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._merge_metadata":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._read_file":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run._read_pandas":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run.df_append":{
@@ -58927,153 +59094,187 @@
  "scmdata.run.run_append":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.run_append":{
   "__set__":true,
   "elements":[
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.testing":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.testing._assert_frame_equal":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
+  ]
+ },
+ "scmdata.testing._check_pandas_less_110":{
+  "__set__":true,
+  "elements":[
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.testing.assert_scmdf_almost_equal":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time.InsufficientDataError":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time.TimePoints":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time.TimeseriesConverter":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time._TARGET_DTYPE":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time._TARGET_TYPE":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time._float_year_to_datetime":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time._format_datetime":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time._parse_datetime":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time._ufunc_float_year_to_datetime":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.time._ufunc_str_to_datetime":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.timeseries":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.timeseries.TimeSeries":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.timeseries._Counter":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.timeseries.get_default_name":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.units":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.units.UnitConverter":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scmdata.units._unit_registry":{
   "__set__":true,
   "elements":[
    "scmdata-0.4.3-py_0",
-   "scmdata-0.6.4-py_0"
+   "scmdata-0.6.4-py_0",
+   "scmdata-0.7.4-pyhd8ed1ab_0"
   ]
  },
  "scompose.__version__":{
