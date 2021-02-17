@@ -1419,25 +1419,131 @@
  "einops.EinopsError":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops.__all__":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.__author__":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.__version__":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.AbstractBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.ChainerBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.CupyBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.GluonBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.JaxBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.KerasBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.MXNetBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.NumpyBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.TensorflowBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.TorchBackend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.UnknownSize":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.__author__":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends._backends":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends._debug_importing":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops._backends.get_backend":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.asnumpy":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.backends":{
@@ -1533,31 +1639,36 @@
  "einops.einops":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops.CompositeAxis":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops.EinopsError":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops.TransformRecipe":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._check_elementary_axis_name":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._check_shapes":{
@@ -1569,163 +1680,214 @@
  "einops.einops._ellipsis":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._enumerate_directions":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._optimize_transformation":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._parse_composite_axis":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._prepare_transformation_recipe":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._product":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._reduce_axes":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops._reductions":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops.asnumpy":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops.parse_expression":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops.parse_shape":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops.rearrange":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.einops.reduce":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.RearrangeMixin":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.ReduceMixin":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.__author__":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.chainer":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.gluon":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.gluon.Rearrange":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.gluon.Reduce":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.gluon.__author__":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.keras":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops.layers.tensorflow":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops.layers.tensorflow.Rearrange":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops.layers.tensorflow.Reduce":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
+  ]
+ },
+ "einops.layers.tensorflow.__author__":{
+  "__set__":true,
+  "elements":[
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.layers.torch":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.parse_shape":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.rearrange":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einops.reduce":{
   "__set__":true,
   "elements":[
-   "einops-0.1.0-py_0"
+   "einops-0.1.0-py_0",
+   "einops-0.2.0-py_0"
   ]
  },
  "einsteinpy.__version__":{
