@@ -1,0 +1,47 @@
+{
+ "errors": {
+  "empyrical_dist.empyrical_dist": {
+   "exception": "'NoneType' object has no attribute 'type'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 488, in wrapper",
+    "    return func(self, line, column, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 213, in complete",
+    "    return completion.complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 169, in complete",
+    "    cached_name, completion_names = self._complete_python(leaf)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 311, in _complete_python",
+    "    completion_names += self._complete_inherited(is_function=False)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 428, in _complete_inherited",
+    "    if (name.api_type == 'function') == is_function:",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/value/klass.py\", line 80, in api_type",
+    "    if definition.type == 'funcdef':",
+    "AttributeError: 'NoneType' object has no attribute 'type'",
+    ""
+   ]
+  }
+ },
+ "symbols": [
+  "empyrical_dist.Cdf",
+  "empyrical_dist.Distribution",
+  "empyrical_dist.Hazard",
+  "empyrical_dist.Pmf",
+  "empyrical_dist.Surv",
+  "empyrical_dist.empyrical_dist",
+  "empyrical_dist.empyrical_dist.Cdf",
+  "empyrical_dist.empyrical_dist.Distribution",
+  "empyrical_dist.empyrical_dist.Hazard",
+  "empyrical_dist.empyrical_dist.Pmf",
+  "empyrical_dist.empyrical_dist.Surv",
+  "empyrical_dist.empyrical_dist.underride",
+  "empyrical_dist.empyrical_dist_test",
+  "empyrical_dist.empyrical_dist_test.Cdf",
+  "empyrical_dist.empyrical_dist_test.Hazard",
+  "empyrical_dist.empyrical_dist_test.Pmf",
+  "empyrical_dist.empyrical_dist_test.Surv",
+  "empyrical_dist.empyrical_dist_test.Test",
+  "empyrical_dist.underride"
+ ]
+}
