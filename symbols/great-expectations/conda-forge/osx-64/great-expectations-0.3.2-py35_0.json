@@ -1,0 +1,59 @@
+{
+ "errors": {
+  "great_expectations.dataset.pandas_dataset": {
+   "exception": "'NoneType' object has no attribute 'type'",
+   "traceback": [
+    "Traceback (most recent call last):",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/symbol_exporter/symbol_inspection.py\", line 36, in single_file_extraction",
+    "    path=file_name, project=jedi.Project(\"\".join(top_dir))",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/helpers.py\", line 488, in wrapper",
+    "    return func(self, line, column, *args, **kwargs)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/__init__.py\", line 213, in complete",
+    "    return completion.complete()",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 169, in complete",
+    "    cached_name, completion_names = self._complete_python(leaf)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 311, in _complete_python",
+    "    completion_names += self._complete_inherited(is_function=False)",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/api/completion.py\", line 428, in _complete_inherited",
+    "    if (name.api_type == 'function') == is_function:",
+    "  File \"/usr/share/miniconda/envs/test/lib/python3.7/site-packages/jedi/inference/value/klass.py\", line 80, in api_type",
+    "    if definition.type == 'funcdef':",
+    "AttributeError: 'NoneType' object has no attribute 'type'",
+    ""
+   ]
+  }
+ },
+ "symbols": [
+  "great_expectations.DotDict",
+  "great_expectations.__version__",
+  "great_expectations.connect_to_dataset",
+  "great_expectations.connect_to_datasource",
+  "great_expectations.dataset",
+  "great_expectations.dataset.DataSet",
+  "great_expectations.dataset.MetaPandasDataSet",
+  "great_expectations.dataset.PandasDataSet",
+  "great_expectations.dataset.base",
+  "great_expectations.dataset.base.DataSet",
+  "great_expectations.dataset.pandas_dataset",
+  "great_expectations.dataset.util",
+  "great_expectations.dataset.util.DocInherit",
+  "great_expectations.dataset.util.DotDict",
+  "great_expectations.dataset.util.categorical_partition_data",
+  "great_expectations.dataset.util.continuous_partition_data",
+  "great_expectations.dataset.util.is_valid_categorical_partition_object",
+  "great_expectations.dataset.util.is_valid_continuous_partition_object",
+  "great_expectations.dataset.util.is_valid_partition_object",
+  "great_expectations.dataset.util.kde_partition_data",
+  "great_expectations.dataset.util.partition_data",
+  "great_expectations.dataset.util.recursively_convert_to_json_serializable",
+  "great_expectations.expect",
+  "great_expectations.list_sources",
+  "great_expectations.meta_scratch",
+  "great_expectations.meta_scratch.TestDatasetMeta",
+  "great_expectations.meta_scratch.expectation_args",
+  "great_expectations.read_csv",
+  "great_expectations.util",
+  "great_expectations.util.DotDict",
+  "great_expectations.version"
+ ]
+}
