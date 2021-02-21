@@ -17404,49 +17404,441 @@
  "hdxrate.__author__":{
   "__set__":true,
   "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0",
    "hdxrate-0.1.2-pyhd8ed1ab_0"
   ]
  },
  "hdxrate.__email__":{
   "__set__":true,
   "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0",
    "hdxrate-0.1.2-pyhd8ed1ab_0"
   ]
  },
  "hdxrate.__version__":{
   "__set__":true,
   "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0",
    "hdxrate-0.1.2-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.api":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.api.calc_k_int":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.api.calculate_kint_per_residue":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.api.chain":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.api.k_int":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.Ea":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.Eb":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.Ew":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.R":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_D":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_Fta":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_Ftb":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_Ftw":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_OD":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_l_DTR":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_pK_asp":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_pK_glu":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.get_pK_his":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.ka":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.kb":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.kw":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.lamb_Cterm_acid":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.lamb_Cterm_base":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.lamb_cterm_acid":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.lamb_cterm_base":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.pKD":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.para":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.rho_Nterm_acid":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.constants.rho_Nterm_base":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.Ea":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.Eb":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.Ew":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.R":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.acid":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.base":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.calculate_kint_for_sequence":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.calculate_kint_per_residue":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_D":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_Fta":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_Ftb":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_Ftw":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_OD":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_l_DTR":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_pK_asp":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_pK_glu":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.get_pK_his":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.ka":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.kb":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.kw":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.lamb_Cterm_acid":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.lamb_Cterm_base":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.lamb_cterm_acid":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.lamb_cterm_base":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.pKD":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.para":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.rho_Nterm_acid":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.expfact.kint.rho_Nterm_base":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
   ]
  },
  "hdxrate.hdxrate":{
   "__set__":true,
   "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0",
    "hdxrate-0.1.2-pyhd8ed1ab_0"
   ]
  },
  "hdxrate.hdxrate.k_int_from_sequence":{
   "__set__":true,
   "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0",
    "hdxrate-0.1.2-pyhd8ed1ab_0"
   ]
  },
  "hdxrate.k_int_from_sequence":{
   "__set__":true,
   "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0",
    "hdxrate-0.1.2-pyhd8ed1ab_0"
   ]
  },
  "hdxrate.psx":{
   "__set__":true,
   "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0",
    "hdxrate-0.1.2-pyhd8ed1ab_0"
   ]
  },
  "hdxrate.psx.IntrinsicExchange.CalculateExchangeRatesForASingleChain":{
   "__set__":true,
   "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0",
    "hdxrate-0.1.2-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.psx.IntrinsicExchange.c":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.psx.IntrinsicExchange.chain":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.psx.IntrinsicExchange.k":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
+  ]
+ },
+ "hdxrate.psx.IntrinsicExchange.k_int":{
+  "__set__":true,
+  "elements":[
+   "hdxrate-0.1.1-pyhd8ed1ab_0"
   ]
  }
 }
