@@ -2303,33 +2303,44 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.AWAIT":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.Activation":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.AsyncFile":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.AsyncOnlyError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.AsyncThread":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.AsyncioLoop":{
@@ -2343,7 +2354,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.BoundedSemaphore":{
@@ -2357,63 +2369,84 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.CancelledError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.Channel":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.Condition":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ConnectionError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.ContextTask":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.CurioError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.Event":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ExceptionWithTraceback":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.FAILURE":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.FIFOImpl":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.GroupExit":{
@@ -2427,7 +2460,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.KernelExit":{
@@ -2437,11 +2471,18 @@
    "curio-0.9-py37_1000"
   ]
  },
+ "curio.LIFOImpl":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
  "curio.LifoQueue":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.Local":{
@@ -2454,42 +2495,54 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.MAX_WORKER_PROCESSES":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.MAX_WORKER_THREADS":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.PriorityImpl":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.PriorityQueue":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ProcessPool":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ProcessWorker":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.Promise":{
@@ -2503,42 +2556,48 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.RLock":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ReadResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.RemoteTraceback":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.Semaphore":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.SignalEvent":{
@@ -2559,28 +2618,32 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.Task":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.TaskCancelled":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.TaskError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.TaskExit":{
@@ -2608,7 +2671,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ThreadFile":{
@@ -2621,7 +2685,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ThreadProxy":{
@@ -2640,14 +2705,16 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.TimeoutCancellationError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.Traps":{
@@ -2661,35 +2728,52 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.UniversalEvent":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.UniversalQueue":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.WELCOME":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.WinProcessWorker":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.WorkerPool":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.WriteResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._AsyncContextManager":{
@@ -2702,21 +2786,24 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._FutureLess":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._LockBase":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._SignalHandler":{
@@ -2730,21 +2817,24 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.__version__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._async_thread_exit":{
@@ -2757,14 +2847,16 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._cancel_task":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._check_async_thread_block":{
@@ -2777,7 +2869,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._contextadapt_basic":{
@@ -2809,7 +2902,8 @@
  "curio._format_stack":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._future_wait":{
@@ -2823,20 +2917,41 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._get_kernel":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._get_stack":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio._io_release":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio._io_waiting":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio._kernel_trap":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio._local_dict":{
@@ -2848,35 +2963,40 @@
  "curio._locals":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._pending":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._read_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._scheduler_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._scheduler_wake":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._set_tasklocal":{
@@ -2889,55 +3009,63 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._sleep":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._spawn":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._timeout_after_func":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._unset_timeout":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._where":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._wrap_ssl_client":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio._write_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.abide":{
@@ -2977,14 +3105,16 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.aopen":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.aside":{
@@ -3011,7 +3141,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.bridge":{
@@ -3046,167 +3177,191 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.AUTH_MESSAGE_LENGTH":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.AuthenticationError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.CHALLENGE":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.Channel":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.Connection":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.ConnectionError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.FAILURE":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.WELCOME":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.channel.log":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.check_cancellation":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.clock":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.current_task":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug.DebugBase":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug._create_debuggers":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug.log":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug.logcrash":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug.longblock":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug.schedtrace":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.debug.traptrace":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.disable_cancellation":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.enable_cancellation":{
@@ -3227,28 +3382,32 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.AsyncOnlyError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.CancelledError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.CurioError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.GroupExit":{
@@ -3269,35 +3428,40 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.ResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.SyncIOError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.TaskCancelled":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.TaskError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.TaskExit":{
@@ -3325,70 +3489,80 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.TimeoutCancellationError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.UncaughtTimeoutError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.WriteResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.errors.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.file":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.file.AsyncFile":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.file.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.file.anext":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.file.aopen":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.gather":{
@@ -3402,7 +3576,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ignore_at":{
@@ -3423,97 +3598,117 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.io.FileStream":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.io.MAX_READ":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.io.Socket":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.io.StreamBase":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.io.WantRead":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.io.WantWrite":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.io._Fd":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.io.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.is_async_thread":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.kernel.Activation":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.AsyncOnlyError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.CancelledError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.CurioError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.GroupExit":{
@@ -3527,7 +3722,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.KernelExit":{
@@ -3541,35 +3737,40 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.ResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.SyncIOError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.TaskCancelled":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.TaskError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.TaskExit":{
@@ -3597,49 +3798,56 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.TimeoutCancellationError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.UncaughtTimeoutError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.WriteResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.log":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.kernel.run":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.local":{
@@ -3688,14 +3896,16 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.AsyncABC":{
@@ -3737,7 +3947,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta._CO_GENERATOR":{
@@ -3758,14 +3969,16 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta._from_coroutine":{
@@ -3779,14 +3992,16 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta._locals":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta._safe_async_generators":{
@@ -3800,21 +4015,24 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.asyncioable":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.awaitable":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.blocking":{
@@ -3835,21 +4053,30 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.finalize":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.meta.from_coroutine":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.instantiate_coroutine":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.is_safe_generator":{
@@ -3863,13 +4090,15 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.running":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.meta.safe_generator":{
@@ -3896,28 +4125,32 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.monitor.MONITOR_HOST":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.monitor.MONITOR_PORT":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.monitor.Monitor":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.monitor._format_stack":{
@@ -3936,21 +4169,24 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.monitor.main":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.monitor.monitor_client":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.more_magic":{
@@ -3963,77 +4199,88 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.network.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.network._wrap_ssl_client":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.network.log":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.network.open_connection":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.network.open_unix_connection":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.network.run_server":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.network.tcp_server":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.network.unix_server":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.open_connection":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.open_unix_connection":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.promise":{
@@ -4061,119 +4308,160 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.queue.FIFOImpl":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.queue.LIFOImpl":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.queue.LifoQueue":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.queue.PriorityImpl":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.queue.PriorityQueue":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.queue.Queue":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.queue.UniversalQueue":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.queue.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.rebuild_exc":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.reserve_thread_worker":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.run":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.run_in_executor":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.run_in_process":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.run_in_thread":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.run_server":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sched":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sched.SchedBarrier":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sched.SchedBase":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sched.SchedFIFO":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.sched.__all__":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.schedule":{
@@ -4187,7 +4475,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.side":{
@@ -4285,209 +4574,239 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.create_connection":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.fromfd":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.getaddrinfo":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.getfqdn":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.gethostbyaddr":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.gethostbyname":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.gethostname":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.getnameinfo":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.socket.socket":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.spawn":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.spawn_thread":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl.CurioSSLContext":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl.SSLContext":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl.SSLWantReadError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl.SSLWantWriteError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl._ssl":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl.create_default_context":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl.get_server_certificate":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.ssl.wrap_socket":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.subprocess":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.subprocess.Popen":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.subprocess.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.subprocess.check_output":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.subprocess.run":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync.BoundedSemaphore":{
@@ -4501,56 +4820,64 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync.Event":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync.Lock":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync.RLock":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync.Semaphore":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync.UniversalEvent":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync._LockBase":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.sync._contextadapt_basic":{
@@ -4578,28 +4905,38 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.AsyncOnlyError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.CancelledError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.task.ContextTask":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.CurioError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.GroupExit":{
@@ -4620,42 +4957,48 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.ResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.SyncIOError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.Task":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.TaskCancelled":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.TaskError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.TaskExit":{
@@ -4683,14 +5026,16 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.TimeoutCancellationError":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.Traps":{
@@ -4704,21 +5049,24 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.WriteResourceBusy":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._CancellationManager":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._TimeoutAfter":{
@@ -4732,96 +5080,128 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._cancel_task":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._clock":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._format_stack":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._future_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._get_current":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._get_kernel":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._get_stack":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.task._io_release":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.task._io_waiting":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.task._kernel_trap":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._read_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._scheduler_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._scheduler_wake":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._set_timeout":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._sleep":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._spawn":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._timeout_after_func":{
@@ -4835,20 +5215,23 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._where":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task._write_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.aside":{
@@ -4862,7 +5245,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.clock":{
@@ -4876,14 +5260,16 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.disable_cancellation":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.enable_cancellation":{
@@ -4918,7 +5304,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.schedule":{
@@ -4932,7 +5319,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.sleep":{
@@ -4946,7 +5334,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.task.timeout_after":{
@@ -4974,28 +5363,32 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.thread":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.thread.AWAIT":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.thread.AsyncThread":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.thread.ThreadFile":{
@@ -5026,7 +5419,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.thread._async_thread_exit":{
@@ -5045,7 +5439,8 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.thread.async_thread":{
@@ -5058,7 +5453,14 @@
  "curio.thread.is_async_thread":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.thread.log":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.thread.more_magic":{
@@ -5070,14 +5472,238 @@
  "curio.thread.spawn_thread":{
   "__set__":true,
   "elements":[
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.AsyncOnlyError":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.CancelledError":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.CurioError":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.ReadResourceBusy":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.ResourceBusy":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.SyncIOError":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.TaskCancelled":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.TaskError":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.TaskTimeout":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.TimeoutCancellationError":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.UncaughtTimeoutError":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.WriteResourceBusy":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._TimeoutAfter":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.__all__":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._cancel_task":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._clock":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._future_wait":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._get_current":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._get_kernel":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._io_release":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._io_waiting":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._kernel_trap":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._read_wait":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._scheduler_wait":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._scheduler_wake":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._set_timeout":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._sleep":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._spawn":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._timeout_after_func":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._unset_timeout":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time._write_wait":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.clock":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.ignore_after":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.log":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.sleep":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.time.timeout_after":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.timeout_after":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.timeout_at":{
@@ -5091,21 +5717,24 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.timequeue.TimeQueue":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps.Traps":{
@@ -5119,105 +5748,138 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._cancel_task":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._clock":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._future_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._get_current":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._get_kernel":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.traps._io_release":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.traps._io_waiting":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.traps._kernel_trap":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._read_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._scheduler_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._scheduler_wake":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._set_timeout":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._sleep":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._spawn":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._unset_timeout":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.traps._write_wait":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.unix_server":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.wake_at":{
@@ -5231,140 +5893,166 @@
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.ExceptionWithTraceback":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.MAX_WORKER_PROCESSES":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.MAX_WORKER_THREADS":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.ProcessPool":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.ProcessWorker":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.RemoteTraceback":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.ThreadPool":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.ThreadWorker":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
+  ]
+ },
+ "curio.workers.WinProcessWorker":{
+  "__set__":true,
+  "elements":[
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.WorkerPool":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers._FutureLess":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.__all__":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers._barrier":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers._pending":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.block_in_thread":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.rebuild_exc":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.reserve_thread_worker":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.run_in_executor":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.run_in_process":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.workers.run_in_thread":{
   "__set__":true,
   "elements":[
    "curio-0.8-py36_0",
-   "curio-0.9-py37_1000"
+   "curio-0.9-py37_1000",
+   "curio-1.1-py_0"
   ]
  },
  "curio.zmq":{
