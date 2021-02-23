@@ -96772,6 +96772,7 @@
  "airflow.exceptions.AirflowException":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
   ]
  },
@@ -96784,7 +96785,92 @@
  "airflow.models.BaseOperator":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.http.hooks.http.HttpHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.get_provider_info":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.get_provider_info.get_provider_info":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.hooks":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.hooks.opsgenie_alert":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.hooks.opsgenie_alert.AirflowException":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.hooks.opsgenie_alert.HttpHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.hooks.opsgenie_alert.OpsgenieAlertHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.operators":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.operators.opsgenie_alert":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.operators.opsgenie_alert.BaseOperator":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.operators.opsgenie_alert.OpsgenieAlertHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.operators.opsgenie_alert.OpsgenieAlertOperator":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.opsgenie.operators.opsgenie_alert.apply_defaults":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0"
   ]
  },
  "airflow.providers.salesforce.example_dags":{
@@ -97030,6 +97116,7 @@
  "airflow.utils.decorators.apply_defaults":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
   ]
  }

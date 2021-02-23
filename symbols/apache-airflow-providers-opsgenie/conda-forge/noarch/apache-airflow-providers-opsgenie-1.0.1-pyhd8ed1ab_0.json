@@ -1,0 +1,22 @@
+{
+ "errors": {},
+ "symbols": [
+  "airflow.exceptions.AirflowException",
+  "airflow.models.BaseOperator",
+  "airflow.providers.http.hooks.http.HttpHook",
+  "airflow.providers.opsgenie.get_provider_info",
+  "airflow.providers.opsgenie.get_provider_info.get_provider_info",
+  "airflow.providers.opsgenie.hooks",
+  "airflow.providers.opsgenie.hooks.opsgenie_alert",
+  "airflow.providers.opsgenie.hooks.opsgenie_alert.AirflowException",
+  "airflow.providers.opsgenie.hooks.opsgenie_alert.HttpHook",
+  "airflow.providers.opsgenie.hooks.opsgenie_alert.OpsgenieAlertHook",
+  "airflow.providers.opsgenie.operators",
+  "airflow.providers.opsgenie.operators.opsgenie_alert",
+  "airflow.providers.opsgenie.operators.opsgenie_alert.BaseOperator",
+  "airflow.providers.opsgenie.operators.opsgenie_alert.OpsgenieAlertHook",
+  "airflow.providers.opsgenie.operators.opsgenie_alert.OpsgenieAlertOperator",
+  "airflow.providers.opsgenie.operators.opsgenie_alert.apply_defaults",
+  "airflow.utils.decorators.apply_defaults"
+ ]
+}
