@@ -4341,14 +4341,22 @@
   "__set__":true,
   "elements":[
    "jsonfield-1.0.3-py_0",
-   "jsonfield-2.1.0-py_0"
+   "jsonfield-2.1.0-py_0",
+   "jsonfield-3.0.0-py_0"
   ]
  },
  "jsonfield.JSONField":{
   "__set__":true,
   "elements":[
    "jsonfield-1.0.3-py_0",
-   "jsonfield-2.1.0-py_0"
+   "jsonfield-2.1.0-py_0",
+   "jsonfield-3.0.0-py_0"
+  ]
+ },
+ "jsonfield.__all__":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
   ]
  },
  "jsonfield.apps":{
@@ -4367,28 +4375,44 @@
   "__set__":true,
   "elements":[
    "jsonfield-1.0.3-py_0",
-   "jsonfield-2.1.0-py_0"
+   "jsonfield-2.1.0-py_0",
+   "jsonfield-3.0.0-py_0"
   ]
  },
  "jsonfield.encoder.JSONEncoder":{
   "__set__":true,
   "elements":[
    "jsonfield-1.0.3-py_0",
-   "jsonfield-2.1.0-py_0"
+   "jsonfield-2.1.0-py_0",
+   "jsonfield-3.0.0-py_0"
   ]
  },
  "jsonfield.fields":{
   "__set__":true,
   "elements":[
    "jsonfield-1.0.3-py_0",
-   "jsonfield-2.1.0-py_0"
+   "jsonfield-2.1.0-py_0",
+   "jsonfield-3.0.0-py_0"
+  ]
+ },
+ "jsonfield.fields.DEFAULT_DUMP_KWARGS":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
+  ]
+ },
+ "jsonfield.fields.DEFAULT_LOAD_KWARGS":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
   ]
  },
  "jsonfield.fields.JSONCharField":{
   "__set__":true,
   "elements":[
    "jsonfield-1.0.3-py_0",
-   "jsonfield-2.1.0-py_0"
+   "jsonfield-2.1.0-py_0",
+   "jsonfield-3.0.0-py_0"
   ]
  },
  "jsonfield.fields.JSONCharFormField":{
@@ -4402,7 +4426,8 @@
   "__set__":true,
   "elements":[
    "jsonfield-1.0.3-py_0",
-   "jsonfield-2.1.0-py_0"
+   "jsonfield-2.1.0-py_0",
+   "jsonfield-3.0.0-py_0"
   ]
  },
  "jsonfield.fields.JSONFormField":{
@@ -4410,6 +4435,42 @@
   "elements":[
    "jsonfield-1.0.3-py_0",
    "jsonfield-2.1.0-py_0"
+  ]
+ },
+ "jsonfield.forms":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
+  ]
+ },
+ "jsonfield.forms.InvalidJSONInput":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
+  ]
+ },
+ "jsonfield.forms.JSONField":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
+  ]
+ },
+ "jsonfield.json":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
+  ]
+ },
+ "jsonfield.json.JSONString":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
+  ]
+ },
+ "jsonfield.json.checked_loads":{
+  "__set__":true,
+  "elements":[
+   "jsonfield-3.0.0-py_0"
   ]
  },
  "jsonfield.models":{
