@@ -28,6 +28,7 @@
   "elements":[
    "nr-2.0.12-py37_0",
    "nr.fs-1.6.0-pyh9f0ad1d_0",
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2245,36 +2246,78 @@
  "nr.types":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
+  ]
+ },
+ "nr.types.NotSet":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.NotSetType":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
   ]
  },
  "nr.types.__author__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.__version__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
+  ]
+ },
+ "nr.types._impl":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types._impl.ordereddict":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types._impl.ordereddict.MutableMapping":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types._impl.ordereddict.OrderedDict":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
   ]
  },
  "nr.types.abc":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.abc.Mapping":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.abc.MutableMapping":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2423,69 +2466,104 @@
    "nr-1.3.5-py34_0"
   ]
  },
+ "nr.types.functools":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.functools.__all__":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.functools.copy_function":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.functools.new_closure":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
  "nr.types.generic":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.generic.Generic":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.generic.GenericMeta":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.generic._GenericHelperMeta":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.generic.assert_initialized":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.generic.is_initialized":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.Attribute":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.ConflictingInterfacesError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.Decoration":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.Implementation":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2498,12 +2576,14 @@
  "nr.types.interface.Interface":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.Method":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2522,138 +2602,161 @@
  "nr.types.interface.Property":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface._Member":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.__all__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.attr":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.check_conflicting_interfaces":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.default":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.final":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.get_conflicting_members":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.implements":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.is_interface":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.override":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.reduce_interfaces":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.interface.staticattr":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps.ChainDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps.HashDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps.ObjectAsDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps.ObjectFromDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps.OrderedDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps.ValueIterableDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps.__all__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps._can_iteritems":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.maps._can_iterkeys":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2678,12 +2781,14 @@
  "nr.types.meta":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.meta.InlineMetaclass":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2696,18 +2801,57 @@
  "nr.types.meta.get_staticmethod_func":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.meta.mro_resolve":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
+  ]
+ },
+ "nr.types.moduletools":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.moduletools._CallableModuleType":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.moduletools._InheritableModuleTypeClass":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.moduletools._ProxyModuleType":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.moduletools.make_callable":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.moduletools.make_inheritable":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
   ]
  },
  "nr.types.proxy":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2717,16 +2861,107 @@
    "nr.types-3.0.2-py_0"
   ]
  },
+ "nr.types.proxy.lazy_proxy":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
  "nr.types.proxy.make_proxy_class":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
+  ]
+ },
+ "nr.types.proxy.proxy":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
   ]
  },
  "nr.types.proxy.proxy_decorator":{
   "__set__":true,
   "elements":[
    "nr.types-3.0.2-py_0"
+  ]
+ },
+ "nr.types.record":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.AsDict":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.CleanRecord":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.Field":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.Record":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.Sequence":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.ToJSON":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.__all__":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record._get_calling_module_name":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.clone_record":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.compile_fields":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.create":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.record.create_record":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
   ]
  },
  "nr.types.recordclass":{
@@ -2741,6 +2976,24 @@
   "elements":[
    "nr-1.3.5-py27_0",
    "nr-1.3.5-py34_0"
+  ]
+ },
+ "nr.types.sets":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.sets.OrderedSet":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.sets.__all__":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
   ]
  },
  "nr.types.singleton":{
@@ -2791,6 +3044,7 @@
  "nr.types.stream":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2821,6 +3075,7 @@
  "nr.types.stream._dualmethod":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2830,9 +3085,16 @@
    "nr.types-3.0.2-py_0"
   ]
  },
+ "nr.types.stream._module":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
  "nr.types.stream._next":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2848,15 +3110,23 @@
    "nr.types-3.0.2-py_0"
   ]
  },
+ "nr.types.stream.stream":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
  "nr.types.structured":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.ArrayType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2869,6 +3139,7 @@
  "nr.types.structured.BooleanType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2881,72 +3152,84 @@
  "nr.types.structured.DictType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.ExtractError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.ExtractTypeError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.ExtractValueError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.Field":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.ForwardDecl":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.IFieldDescriptor":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.IFieldTypeTranslator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.IntegerType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.Interface":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.InvalidTypeDefinitionError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.LocationInfo":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2959,18 +3242,21 @@
  "nr.types.structured.Mapping":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.MetadataField":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.NotSet":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -2983,18 +3269,21 @@
  "nr.types.structured.ObjectKeyField":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.ObjectType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.OrderedDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3019,6 +3308,7 @@
  "nr.types.structured.StringType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3031,6 +3321,7 @@
  "nr.types.structured.UnionType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3043,12 +3334,14 @@
  "nr.types.structured.WildcardField":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured._ArrayTranslator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3067,6 +3360,7 @@
  "nr.types.structured._ForwardDeclTranslator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3082,15 +3376,29 @@
    "nr.types-3.0.2-py_0"
   ]
  },
+ "nr.types.structured._ObjectDefTranslator":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
  "nr.types.structured._ObjectMeta":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
+  ]
+ },
+ "nr.types.structured._ObjectTranslator":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
   ]
  },
  "nr.types.structured._PlainTypeTranslator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3109,18 +3417,21 @@
  "nr.types.structured.__all__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.abc":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.attr":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3163,138 +3474,161 @@
  "nr.types.structured.default":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.errors":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.errors.ExtractError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.errors.ExtractTypeError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.errors.ExtractValueError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.errors.InvalidTypeDefinitionError":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.errors.__all__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.extract":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.extract_optional":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.format_location_path":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.get_generic_args":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.getargspec":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.implements":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.is_generic":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator.Interface":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator.LocationInfo":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator.Locator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator.__all__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator.default":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator.format_location_path":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator.implements":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.locator.override":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3337,66 +3671,77 @@
  "nr.types.structured.object":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.Field":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.IFieldDescriptor":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.Interface":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.META":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.Mapping":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.MetadataField":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.NotSet":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.Object":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.ObjectKeyField":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.OrderedDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3409,24 +3754,28 @@
  "nr.types.structured.object.WildcardField":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object._ObjectMeta":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.__all__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.attr":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3445,72 +3794,84 @@
  "nr.types.structured.object.default":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.extract_optional":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.implements":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.object.override":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.override":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.staticattr":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.store":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.translate_field_type":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.AnyType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.ArrayType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.BooleanType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3523,36 +3884,42 @@
  "nr.types.structured.types.DictType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.ForwardDecl":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.IDataType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.IFieldTypeTranslator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.IntegerType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.Interface":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3565,6 +3932,7 @@
  "nr.types.structured.types.ObjectType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3577,12 +3945,14 @@
  "nr.types.structured.types.StringType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.UnionType":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3595,6 +3965,7 @@
  "nr.types.structured.types._ArrayTranslator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3607,6 +3978,7 @@
  "nr.types.structured.types._ForwardDeclTranslator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3622,9 +3994,22 @@
    "nr.types-3.0.2-py_0"
   ]
  },
+ "nr.types.structured.types._ObjectDefTranslator":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
+ "nr.types.structured.types._ObjectTranslator":{
+  "__set__":true,
+  "elements":[
+   "nr.types-2.5.5-py_0"
+  ]
+ },
  "nr.types.structured.types._PlainTypeTranslator":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3643,12 +4028,14 @@
  "nr.types.structured.types.__all__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.abc":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3661,126 +4048,147 @@
  "nr.types.structured.types.default":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.get_generic_args":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.getargspec":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.implements":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.is_generic":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.override":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.staticattr":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.types.translate_field_type":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.OriginInfo":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.__all__":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.add_origin_metadata_field":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.yaml":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.yaml.YamlDict":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.yaml.YamlLineNumberLoaderMixin":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.yaml.YamlList":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.yaml.YamlSet":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.yaml._yaml_type_factory":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.structured.utils.yaml.load":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.sumtype":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.sumtype.Constructor":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3805,6 +4213,7 @@
  "nr.types.sumtype.Sumtype":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3817,6 +4226,7 @@
  "nr.types.sumtype.add_is_methods":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3829,6 +4239,7 @@
  "nr.types.sumtype.member_of":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3856,6 +4267,7 @@
  "nr.types.utils":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
@@ -3976,24 +4388,28 @@
  "nr.types.utils.typing":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.utils.typing.extract_optional":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.utils.typing.get_generic_args":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
  "nr.types.utils.typing.is_generic":{
   "__set__":true,
   "elements":[
+   "nr.types-2.5.5-py_0",
    "nr.types-3.0.2-py_0"
   ]
  },
