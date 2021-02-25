@@ -16931,7 +16931,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common":{
@@ -16941,7 +16942,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.KalmanFilter":{
@@ -16959,7 +16961,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.Q_discrete_white_noise":{
@@ -16969,13 +16972,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.Saver":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.__all__":{
@@ -16985,13 +16990,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common._kf":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.discretization":{
@@ -17001,7 +17008,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.discretization.Q_continuous_white_noise":{
@@ -17011,7 +17019,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.discretization.Q_discrete_white_noise":{
@@ -17021,7 +17030,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.discretization.linear_ode_discretation":{
@@ -17031,7 +17041,14 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
+  ]
+ },
+ "filterpy.common.discretization.order_by_derivative":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.discretization.van_loan_discretization":{
@@ -17041,7 +17058,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.dot3":{
@@ -17069,13 +17087,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.helpers.Saver":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.helpers.dot3":{
@@ -17096,16 +17116,30 @@
    "filterpy-1.0.0-py27_0"
   ]
  },
+ "filterpy.common.helpers.inv_diagonal":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
+  ]
+ },
+ "filterpy.common.helpers.outer_product_sum":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
+  ]
+ },
  "filterpy.common.helpers.pprint":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.helpers.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.helpers.repeated_array":{
@@ -17117,7 +17151,8 @@
  "filterpy.common.helpers.reshape_z":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.helpers.runge_kutta4":{
@@ -17127,13 +17162,20 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.helpers.setter":{
   "__set__":true,
   "elements":[
    "filterpy-1.0.0-py27_0"
+  ]
+ },
+ "filterpy.common.inv_diagonal":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.kf":{
@@ -17150,7 +17192,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.kinematic.KalmanFilter":{
@@ -17164,7 +17207,8 @@
  "filterpy.common.kinematic._kf":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.kinematic.kf":{
@@ -17181,7 +17225,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.kinematic.kinematic_state_transition":{
@@ -17190,7 +17235,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.kinematic_kf":{
@@ -17199,7 +17245,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.kinematic_state_transition":{
@@ -17208,7 +17255,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.linear_ode_discretation":{
@@ -17218,19 +17266,34 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
+  ]
+ },
+ "filterpy.common.order_by_derivative":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
+  ]
+ },
+ "filterpy.common.outer_product_sum":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.pprint":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.repeated_array":{
@@ -17242,7 +17305,8 @@
  "filterpy.common.reshape_z":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.runge_kutta4":{
@@ -17252,7 +17316,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.common.setter":{
@@ -17268,7 +17333,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes":{
@@ -17278,7 +17344,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes.__all__":{
@@ -17288,7 +17355,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes.discrete_bayes":{
@@ -17298,7 +17366,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes.discrete_bayes.normalize":{
@@ -17308,7 +17377,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes.discrete_bayes.predict":{
@@ -17318,7 +17388,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes.discrete_bayes.update":{
@@ -17328,7 +17399,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes.normalize":{
@@ -17338,7 +17410,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes.predict":{
@@ -17348,7 +17421,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.discrete_bayes.update":{
@@ -17358,7 +17432,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples":{
@@ -17368,7 +17443,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.GetRadar":{
@@ -17378,7 +17454,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.GetRadar.GetRadar":{
@@ -17393,7 +17470,8 @@
  "filterpy.examples.GetRadar.get_radar":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.GetRadar.i":{
@@ -17403,7 +17481,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarEKF":{
@@ -17440,7 +17519,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF":{
@@ -17450,7 +17530,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.Q_discrete_white_noise":{
@@ -17460,7 +17541,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.UnscentedKalmanFilter":{
@@ -17470,7 +17552,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.dt":{
@@ -17480,7 +17563,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.fx":{
@@ -17490,7 +17574,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.hx":{
@@ -17500,7 +17585,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.i":{
@@ -17510,7 +17596,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.n":{
@@ -17520,7 +17607,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.r":{
@@ -17530,7 +17618,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.radarUKF":{
@@ -17540,7 +17629,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.rs":{
@@ -17550,7 +17640,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.t":{
@@ -17560,7 +17651,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.RadarUKF.xs":{
@@ -17570,7 +17662,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.__all__":{
@@ -17580,7 +17673,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only":{
@@ -17590,7 +17684,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.Q_discrete_white_noise":{
@@ -17600,7 +17695,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.ScaledUnscentedKalmanFilter":{
@@ -17610,7 +17706,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.UnscentedKalmanFilter":{
@@ -17620,7 +17717,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.angle":{
@@ -17630,7 +17728,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.dt":{
@@ -17640,7 +17739,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.f":{
@@ -17650,7 +17750,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.fx":{
@@ -17660,7 +17761,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.hx":{
@@ -17670,7 +17772,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.i":{
@@ -17680,7 +17783,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.platform_pos":{
@@ -17690,7 +17794,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.sf":{
@@ -17700,7 +17805,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.xs":{
@@ -17710,7 +17816,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.xs_scaled":{
@@ -17720,7 +17827,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.bearing_only.y":{
@@ -17730,7 +17838,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.radar_sim":{
@@ -17740,7 +17849,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.examples.radar_sim.RadarSim":{
@@ -17750,7 +17860,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh":{
@@ -17760,7 +17871,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.GHFilter":{
@@ -17770,7 +17882,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.GHKFilter":{
@@ -17780,7 +17893,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.__all__":{
@@ -17790,7 +17904,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.benedict_bornder_constants":{
@@ -17800,7 +17915,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.critical_damping_parameters":{
@@ -17810,7 +17926,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.gh_filter":{
@@ -17820,7 +17937,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.gh_filter.GHFilter":{
@@ -17830,7 +17948,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.gh_filter.GHKFilter":{
@@ -17840,7 +17959,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.gh_filter.benedict_bornder_constants":{
@@ -17850,7 +17970,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.gh_filter.critical_damping_parameters":{
@@ -17860,7 +17981,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.gh_filter.least_squares_parameters":{
@@ -17870,7 +17992,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.gh_filter.optimal_noise_smoothing":{
@@ -17880,13 +18003,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.gh_filter.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.least_squares_parameters":{
@@ -17896,7 +18021,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.optimal_noise_smoothing":{
@@ -17906,13 +18032,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.gh.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.hinfinity":{
@@ -17922,7 +18050,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.hinfinity.HInfinityFilter":{
@@ -17932,7 +18061,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.hinfinity.__all__":{
@@ -17942,7 +18072,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.hinfinity.dot3":{
@@ -17958,7 +18089,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.hinfinity.hinfinity_filter.HInfinityFilter":{
@@ -17968,7 +18100,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.hinfinity.hinfinity_filter.dot3":{
@@ -17980,7 +18113,8 @@
  "filterpy.hinfinity.hinfinity_filter.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.hinfinity.hinfinity_filter.setter":{
@@ -17992,7 +18126,8 @@
  "filterpy.hinfinity.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.hinfinity.setter":{
@@ -18008,7 +18143,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.CubatureKalmanFilter":{
@@ -18018,7 +18154,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.CubatureKalmanFilter.CubatureKalmanFilter":{
@@ -18028,7 +18165,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.CubatureKalmanFilter.ckf_transform":{
@@ -18038,7 +18176,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.CubatureKalmanFilter.dot3":{
@@ -18050,13 +18189,21 @@
  "filterpy.kalman.CubatureKalmanFilter.logpdf":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
+  ]
+ },
+ "filterpy.kalman.CubatureKalmanFilter.outer_product_sum":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.CubatureKalmanFilter.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.CubatureKalmanFilter.spherical_radial_sigmas":{
@@ -18066,7 +18213,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.EKF":{
@@ -18076,7 +18224,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.EKF.ExtendedKalmanFilter":{
@@ -18086,7 +18235,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.EKF.dot3":{
@@ -18098,13 +18248,21 @@
  "filterpy.kalman.EKF.logpdf":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.EKF.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
+  ]
+ },
+ "filterpy.kalman.EKF.reshape_z":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.EKF.setter":{
@@ -18120,7 +18278,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.ExtendedKalmanFilter":{
@@ -18130,7 +18289,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.FadingKalmanFilter":{
@@ -18140,7 +18300,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.FixedLagSmoother":{
@@ -18150,7 +18311,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.IMM":{
@@ -18160,7 +18322,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.IMM.IMMEstimator":{
@@ -18170,7 +18333,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.IMM.dot3":{
@@ -18182,7 +18346,8 @@
  "filterpy.kalman.IMM.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.IMMEstimator":{
@@ -18192,7 +18357,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.InformationFilter":{
@@ -18202,7 +18368,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.JulierSigmaPoints":{
@@ -18212,7 +18379,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.KalmanFilter":{
@@ -18222,7 +18390,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.MMAEFilterBank":{
@@ -18232,7 +18401,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.MerweScaledSigmaPoints":{
@@ -18242,7 +18412,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.Saver":{
@@ -18261,7 +18432,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.SimplexSigmaPoints":{
@@ -18271,7 +18443,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.SquareRootKalmanFilter":{
@@ -18281,7 +18454,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.UKF":{
@@ -18291,7 +18465,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.UKF.UnscentedKalmanFilter":{
@@ -18301,7 +18476,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.UKF.dot3":{
@@ -18317,13 +18493,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.UKF.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.UKF.repeated_array":{
@@ -18339,7 +18517,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.UnscentedKalmanFilter":{
@@ -18349,7 +18528,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman._reshape_z":{
@@ -18367,7 +18547,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.ckf_transform":{
@@ -18377,7 +18558,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.dot3":{
@@ -18393,7 +18575,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.ensemble_kalman_filter.EnsembleKalmanFilter":{
@@ -18403,7 +18586,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.ensemble_kalman_filter.dot3":{
@@ -18412,10 +18596,17 @@
    "filterpy-1.0.0-py27_0"
   ]
  },
+ "filterpy.kalman.ensemble_kalman_filter.outer_product_sum":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
+  ]
+ },
  "filterpy.kalman.ensemble_kalman_filter.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.fading_memory":{
@@ -18425,7 +18616,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.fading_memory.FadingKalmanFilter":{
@@ -18435,7 +18627,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.fading_memory.dot3":{
@@ -18447,13 +18640,15 @@
  "filterpy.kalman.fading_memory.logpdf":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.fading_memory.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.fading_memory.setter":{
@@ -18469,7 +18664,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.fixed_lag_smoother.FixedLagSmoother":{
@@ -18479,7 +18675,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.fixed_lag_smoother.dot3":{
@@ -18503,7 +18700,8 @@
  "filterpy.kalman.fixed_lag_smoother.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.information_filter":{
@@ -18513,7 +18711,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.information_filter.InformationFilter":{
@@ -18523,7 +18722,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.information_filter.dot3":{
@@ -18535,19 +18735,22 @@
  "filterpy.kalman.information_filter.logpdf":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.information_filter.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.information_filter.reshape_z":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.information_filter.setter":{
@@ -18563,7 +18766,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.kalman_filter.KalmanFilter":{
@@ -18573,7 +18777,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.kalman_filter.Saver":{
@@ -18600,7 +18805,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.kalman_filter.dot3":{
@@ -18616,7 +18822,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.kalman_filter.predict":{
@@ -18626,13 +18833,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.kalman_filter.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.kalman_filter.repeated_array":{
@@ -18644,7 +18853,8 @@
  "filterpy.kalman.kalman_filter.reshape_z":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.kalman_filter.rts_smoother":{
@@ -18654,7 +18864,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.kalman_filter.setter":{
@@ -18670,7 +18881,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.logpdf":{
@@ -18680,7 +18892,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.mmae":{
@@ -18690,7 +18903,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.mmae.MMAEFilterBank":{
@@ -18700,13 +18914,21 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.mmae.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
+  ]
+ },
+ "filterpy.kalman.outer_product_sum":{
+  "__set__":true,
+  "elements":[
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.predict":{
@@ -18716,13 +18938,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.repeated_array":{
@@ -18734,7 +18958,8 @@
  "filterpy.kalman.reshape_z":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.rts_smoother":{
@@ -18744,7 +18969,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.setter":{
@@ -18760,7 +18986,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.sigma_points.JulierSigmaPoints":{
@@ -18770,7 +18997,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.sigma_points.MerweScaledSigmaPoints":{
@@ -18780,7 +19008,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.sigma_points.SimplexSigmaPoints":{
@@ -18790,13 +19019,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.sigma_points.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.spherical_radial_sigmas":{
@@ -18806,7 +19037,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.square_root":{
@@ -18816,7 +19048,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.square_root.SquareRootKalmanFilter":{
@@ -18826,7 +19059,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.square_root.dot3":{
@@ -18838,7 +19072,8 @@
  "filterpy.kalman.square_root.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.square_root.setter":{
@@ -18854,7 +19089,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.unscented_transform.unscented_transform":{
@@ -18864,7 +19100,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.kalman.update":{
@@ -18874,7 +19111,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.leastsq":{
@@ -18884,7 +19122,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.leastsq.LeastSquaresFilter":{
@@ -18894,7 +19133,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.leastsq.__all__":{
@@ -18904,7 +19144,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.leastsq.least_squares":{
@@ -18914,7 +19155,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.leastsq.least_squares.LeastSquaresFilter":{
@@ -18924,13 +19166,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.leastsq.least_squares.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.memory":{
@@ -18940,7 +19184,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.memory.FadingMemoryFilter":{
@@ -18950,13 +19195,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.memory.__all__":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.memory.fading_memory":{
@@ -18966,7 +19213,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.memory.fading_memory.FadingMemoryFilter":{
@@ -18976,19 +19224,22 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.memory.fading_memory.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.memory.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo":{
@@ -18998,7 +19249,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.__all__":{
@@ -19008,7 +19260,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.multinomial_resample":{
@@ -19018,7 +19271,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature":{
@@ -19028,7 +19282,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature.ProcessModel":{
@@ -19038,7 +19293,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature.gaussian_density":{
@@ -19048,7 +19304,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature.i":{
@@ -19058,7 +19315,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature.output_quadrature":{
@@ -19077,13 +19335,15 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature.pretty_str":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature.quad_data":{
@@ -19093,7 +19353,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature.quadrature":{
@@ -19103,7 +19364,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.quadrature.x":{
@@ -19122,7 +19384,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.resampling":{
@@ -19132,7 +19395,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.resampling.multinomial_resample":{
@@ -19142,7 +19406,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.resampling.residual_resample":{
@@ -19152,7 +19417,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.resampling.stratified_resample":{
@@ -19162,7 +19428,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.resampling.systematic_resample":{
@@ -19172,7 +19439,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.residual_resample":{
@@ -19182,7 +19450,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.stratified_resample":{
@@ -19192,7 +19461,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.monte_carlo.systematic_resample":{
@@ -19202,7 +19472,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats":{
@@ -19212,7 +19483,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.NESS":{
@@ -19222,7 +19494,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.__all__":{
@@ -19232,7 +19505,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats._do_plot_test":{
@@ -19247,7 +19521,8 @@
  "filterpy.stats._eigsorted":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats._is_inside_ellipse":{
@@ -19262,7 +19537,8 @@
  "filterpy.stats._std_tuple_of":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats._support_singular":{
@@ -19272,7 +19548,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats._to_cov":{
@@ -19282,7 +19559,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats._validate_vector":{
@@ -19291,7 +19569,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.a":{
@@ -19310,7 +19589,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.cov":{
@@ -19338,7 +19618,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.gaussian":{
@@ -19348,19 +19629,22 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.likelihood":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.log_likelihood":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.logpdf":{
@@ -19370,7 +19654,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.mahalanobis":{
@@ -19379,7 +19664,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.mean":{
@@ -19398,7 +19684,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.norm_cdf":{
@@ -19408,19 +19695,22 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.plot_3d_covariance":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.plot_covariance":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.plot_covariance_ellipse":{
@@ -19439,7 +19729,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.plot_gaussian":{
@@ -19449,7 +19740,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.plot_std_vs_var":{
@@ -19468,7 +19760,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats":{
@@ -19478,7 +19771,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.NESS":{
@@ -19488,7 +19782,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats._do_plot_test":{
@@ -19503,7 +19798,8 @@
  "filterpy.stats.stats._eigsorted":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats._is_inside_ellipse":{
@@ -19518,7 +19814,8 @@
  "filterpy.stats.stats._std_tuple_of":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats._support_singular":{
@@ -19528,7 +19825,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats._to_cov":{
@@ -19538,7 +19836,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats._validate_vector":{
@@ -19547,7 +19846,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.a":{
@@ -19566,7 +19866,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.cov":{
@@ -19594,7 +19895,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.gaussian":{
@@ -19604,19 +19906,22 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.likelihood":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.log_likelihood":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.logpdf":{
@@ -19626,7 +19931,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.mahalanobis":{
@@ -19635,7 +19941,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.mean":{
@@ -19654,7 +19961,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.norm_cdf":{
@@ -19664,19 +19972,22 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.plot_3d_covariance":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.plot_covariance":{
   "__set__":true,
   "elements":[
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.plot_covariance_ellipse":{
@@ -19695,7 +20006,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.plot_gaussian":{
@@ -19705,7 +20017,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "filterpy.stats.stats.plot_std_vs_var":{
@@ -19724,7 +20037,8 @@
    "filterpy-1.2.1-py27_0",
    "filterpy-1.2.1-py35_0",
    "filterpy-1.2.1-py36_0",
-   "filterpy-1.4.1-py36_0"
+   "filterpy-1.4.1-py36_0",
+   "filterpy-1.4.5-py_0"
   ]
  },
  "findspark.__version__":{
