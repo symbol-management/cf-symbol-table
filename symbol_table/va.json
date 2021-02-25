@@ -4303,7 +4303,8 @@
    "vaex-core-2.0.3-py37h3bbf574_0",
    "vaex-core-2.0.3-py38hcf432d8_1",
    "vaex-core-2.0.3-py38he6e81aa_0",
-   "vaex-server-0.3.1-pyh9f0ad1d_0"
+   "vaex-server-0.3.1-pyh9f0ad1d_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.dataframe.Executor":{
@@ -66440,7 +66441,8 @@
    "vaex-core-2.0.3-py37h3bbf574_0",
    "vaex-core-2.0.3-py38hcf432d8_1",
    "vaex-core-2.0.3-py38he6e81aa_0",
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils.NumpyEncoder":{
@@ -66776,7 +66778,8 @@
    "vaex-core-2.0.3-py38he6e81aa_0",
    "vaex-jupyter-0.3.0-py_0",
    "vaex-jupyter-0.4.0-py_0",
-   "vaex-jupyter-0.4.1-py_0"
+   "vaex-jupyter-0.4.1-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._ensure_string_from_expression":{
@@ -66822,7 +66825,8 @@
    "vaex-core-2.0.2-py38he6e81aa_0",
    "vaex-core-2.0.3-py37h3bbf574_0",
    "vaex-core-2.0.3-py38hcf432d8_1",
-   "vaex-core-2.0.3-py38he6e81aa_0"
+   "vaex-core-2.0.3-py38he6e81aa_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._ensure_strings_from_expressions":{
@@ -66868,7 +66872,8 @@
    "vaex-core-2.0.2-py38he6e81aa_0",
    "vaex-core-2.0.3-py37h3bbf574_0",
    "vaex-core-2.0.3-py38hcf432d8_1",
-   "vaex-core-2.0.3-py38he6e81aa_0"
+   "vaex-core-2.0.3-py38he6e81aa_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._expand":{
@@ -66917,7 +66922,14 @@
    "vaex-core-2.0.3-py38he6e81aa_0",
    "vaex-jupyter-0.3.0-py_0",
    "vaex-jupyter-0.4.0-py_0",
-   "vaex-jupyter-0.4.1-py_0"
+   "vaex-jupyter-0.4.1-py_0",
+   "vaex-viz-0.3.4-py_0"
+  ]
+ },
+ "vaex.utils._expand_limits":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._expand_shape":{
@@ -66925,7 +66937,8 @@
   "elements":[
    "vaex-jupyter-0.3.0-py_0",
    "vaex-jupyter-0.4.0-py_0",
-   "vaex-jupyter-0.4.1-py_0"
+   "vaex-jupyter-0.4.1-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._is_limit":{
@@ -67109,7 +67122,8 @@
    "vaex-core-2.0.2-py38he6e81aa_0",
    "vaex-core-2.0.3-py37h3bbf574_0",
    "vaex-core-2.0.3-py38hcf432d8_1",
-   "vaex-core-2.0.3-py38he6e81aa_0"
+   "vaex-core-2.0.3-py38he6e81aa_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._mapping_tag":{
@@ -67282,7 +67296,8 @@
    "vaex-core-2.0.3-py38he6e81aa_0",
    "vaex-jupyter-0.3.0-py_0",
    "vaex-jupyter-0.4.0-py_0",
-   "vaex-jupyter-0.4.1-py_0"
+   "vaex-jupyter-0.4.1-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._parse_n":{
@@ -67331,7 +67346,8 @@
    "vaex-core-2.0.3-py38he6e81aa_0",
    "vaex-jupyter-0.3.0-py_0",
    "vaex-jupyter-0.4.0-py_0",
-   "vaex-jupyter-0.4.1-py_0"
+   "vaex-jupyter-0.4.1-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._parse_reduction":{
@@ -67380,7 +67396,8 @@
    "vaex-core-2.0.3-py38he6e81aa_0",
    "vaex-jupyter-0.3.0-py_0",
    "vaex-jupyter-0.4.0-py_0",
-   "vaex-jupyter-0.4.1-py_0"
+   "vaex-jupyter-0.4.1-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.utils._progressbar":{
@@ -70729,37 +70746,61 @@
  "vaex.viz.InnerNamespace":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz._version":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz._version.__version__":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz._version.__version_tuple__":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.add_namespace":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
+  ]
+ },
+ "vaex.viz.contour":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.4-py_0"
+  ]
+ },
+ "vaex.viz.contour.plot2d_contour":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
+  ]
+ },
+ "vaex.viz.mpl.DataFrame":{
+  "__set__":true,
+  "elements":[
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl.Dataset":{
@@ -70771,127 +70812,148 @@
  "vaex.viz.mpl._ensure_list":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._ensure_string_from_expression":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._ensure_strings_from_expressions":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._expand":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._expand_limits":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._expand_shape":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._issequence":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._parse_f":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._parse_n":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl._parse_reduction":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl.add_plugin":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl.logger":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl.max_labels":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl.patch":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl.plot":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.mpl.scatter":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.tensor":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.tensor.ellipse":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.tensor.plot2d_tensor":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.vector":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.viz.vector.plot2d_vector":{
   "__set__":true,
   "elements":[
-   "vaex-viz-0.3.0-py_0"
+   "vaex-viz-0.3.0-py_0",
+   "vaex-viz-0.3.4-py_0"
   ]
  },
  "vaex.vrange":{
