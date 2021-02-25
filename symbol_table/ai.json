@@ -99822,6 +99822,7 @@
  "airflow.hooks.base.BaseHook":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
   ]
  },
@@ -99830,6 +99831,144 @@
   "elements":[
    "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp._internal_client":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp._internal_client.vault_client":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp._internal_client.vault_client.DEFAULT_KUBERNETES_JWT_PATH":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp._internal_client.vault_client.DEFAULT_KV_ENGINE_VERSION":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp._internal_client.vault_client.LoggingMixin":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp._internal_client.vault_client.VALID_AUTH_TYPES":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp._internal_client.vault_client.VALID_KV_VERSIONS":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp._internal_client.vault_client._VaultClient":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.get_provider_info":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.get_provider_info.get_provider_info":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.hooks":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.hooks.vault":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.hooks.vault.BaseHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.hooks.vault.DEFAULT_KUBERNETES_JWT_PATH":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.hooks.vault.DEFAULT_KV_ENGINE_VERSION":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.hooks.vault.VaultHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.hooks.vault._VaultClient":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.secrets":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.secrets.vault":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.secrets.vault.BaseSecretsBackend":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.secrets.vault.LoggingMixin":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.secrets.vault.VaultBackend":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.hashicorp.secrets.vault._VaultClient":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
   ]
  },
  "airflow.providers.http.hooks.http.HttpHook":{
@@ -100144,6 +100283,12 @@
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
   ]
  },
+ "airflow.secrets.BaseSecretsBackend":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
  "airflow.sensors.base.BaseSensorOperator":{
   "__set__":true,
   "elements":[
@@ -100161,6 +100306,12 @@
   "elements":[
    "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.utils.log.logging_mixin.LoggingMixin":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
   ]
  }
 }

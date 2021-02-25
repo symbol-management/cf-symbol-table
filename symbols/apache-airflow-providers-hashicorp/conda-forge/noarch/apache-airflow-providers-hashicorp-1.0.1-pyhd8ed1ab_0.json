@@ -1,0 +1,31 @@
+{
+ "errors": {},
+ "symbols": [
+  "airflow.hooks.base.BaseHook",
+  "airflow.providers.hashicorp._internal_client",
+  "airflow.providers.hashicorp._internal_client.vault_client",
+  "airflow.providers.hashicorp._internal_client.vault_client.DEFAULT_KUBERNETES_JWT_PATH",
+  "airflow.providers.hashicorp._internal_client.vault_client.DEFAULT_KV_ENGINE_VERSION",
+  "airflow.providers.hashicorp._internal_client.vault_client.LoggingMixin",
+  "airflow.providers.hashicorp._internal_client.vault_client.VALID_AUTH_TYPES",
+  "airflow.providers.hashicorp._internal_client.vault_client.VALID_KV_VERSIONS",
+  "airflow.providers.hashicorp._internal_client.vault_client._VaultClient",
+  "airflow.providers.hashicorp.get_provider_info",
+  "airflow.providers.hashicorp.get_provider_info.get_provider_info",
+  "airflow.providers.hashicorp.hooks",
+  "airflow.providers.hashicorp.hooks.vault",
+  "airflow.providers.hashicorp.hooks.vault.BaseHook",
+  "airflow.providers.hashicorp.hooks.vault.DEFAULT_KUBERNETES_JWT_PATH",
+  "airflow.providers.hashicorp.hooks.vault.DEFAULT_KV_ENGINE_VERSION",
+  "airflow.providers.hashicorp.hooks.vault.VaultHook",
+  "airflow.providers.hashicorp.hooks.vault._VaultClient",
+  "airflow.providers.hashicorp.secrets",
+  "airflow.providers.hashicorp.secrets.vault",
+  "airflow.providers.hashicorp.secrets.vault.BaseSecretsBackend",
+  "airflow.providers.hashicorp.secrets.vault.LoggingMixin",
+  "airflow.providers.hashicorp.secrets.vault.VaultBackend",
+  "airflow.providers.hashicorp.secrets.vault._VaultClient",
+  "airflow.secrets.BaseSecretsBackend",
+  "airflow.utils.log.logging_mixin.LoggingMixin"
+ ]
+}
