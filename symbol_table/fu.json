@@ -20314,14 +20314,16 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.Fragment":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.INVALID_DOMAIN_CHARS":{
@@ -20331,32 +20333,42 @@
    "furl-1.0.1-py35_0"
   ]
  },
+ "furl.INVALID_HOST_CHARS":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
  "furl.PERCENT_REGEX":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.Path":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.Query":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.URLPathCompositionInterface":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.__author__":{
@@ -20398,7 +20410,50 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.__version__.__author__":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.__version__.__contact__":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.__version__.__description__":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.__version__.__license__":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.__version__.__title__":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.__version__.__url__":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.__version__.__version__":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl._absent":{
@@ -20426,7 +20481,8 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.callable_attr":{
@@ -20436,18 +20492,44 @@
    "furl-1.0.1-py35_0"
   ]
  },
+ "furl.common":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.common.absent":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.common.callable_attr":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.common.is_iterable_but_not_string":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
  "furl.compat":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.compat.UnicodeMixin":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.compat.basestring":{
@@ -20457,11 +20539,24 @@
    "furl-1.0.1-py35_0"
   ]
  },
+ "furl.compat.string_types":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.create_quote_fn":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
  "furl.furl":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.COLON_SEPARATED_SCHEMES":{
@@ -20475,14 +20570,16 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.Fragment":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.INVALID_DOMAIN_CHARS":{
@@ -20492,32 +20589,42 @@
    "furl-1.0.1-py35_0"
   ]
  },
+ "furl.furl.INVALID_HOST_CHARS":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
  "furl.furl.PERCENT_REGEX":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.Path":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.Query":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.URLPathCompositionInterface":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl._absent":{
@@ -20545,7 +20652,8 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.callable_attr":{
@@ -20555,25 +20663,52 @@
    "furl-1.0.1-py35_0"
   ]
  },
+ "furl.furl.create_quote_fn":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
  "furl.furl.furl":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.furl.get_scheme":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.furl.has_netloc":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.furl.ic":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.idna_decode":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.idna_encode":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.is_valid_domain":{
@@ -20587,49 +20722,68 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.is_valid_encoded_query_key":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.is_valid_encoded_query_value":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.furl.is_valid_host":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.is_valid_port":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.is_valid_scheme":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.join_path_segments":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.lget":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.furl.non_string_iterable":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.non_text_iterable":{
@@ -20639,53 +20793,96 @@
    "furl-1.0.1-py35_0"
   ]
  },
+ "furl.furl.quacks_like_a_path_with_segments":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
  "furl.furl.remove_path_segments":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.furl.set_scheme":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.static_vars":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.furl.strip_scheme":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.urljoin":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.urlsplit":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.furl.utf8":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.get_scheme":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.has_netloc":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.ic":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.idna_decode":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.idna_encode":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.is_valid_domain":{
@@ -20699,49 +20896,68 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.is_valid_encoded_query_key":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.is_valid_encoded_query_value":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.is_valid_host":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.is_valid_port":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.is_valid_scheme":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.join_path_segments":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.lget":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.non_string_iterable":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.non_text_iterable":{
@@ -20755,7 +20971,8 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.omdict1D._quacks_like_a_list_but_not_str":{
@@ -20768,42 +20985,66 @@
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.quacks_like_a_path_with_segments":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.remove_path_segments":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.set_scheme":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.static_vars":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
+  ]
+ },
+ "furl.strip_scheme":{
+  "__set__":true,
+  "elements":[
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.urljoin":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.urlsplit":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furl.utf8":{
   "__set__":true,
   "elements":[
    "furl-1.0.0-py36_0",
-   "furl-1.0.1-py35_0"
+   "furl-1.0.1-py35_0",
+   "furl-2.1.0-py_0"
   ]
  },
  "furo.__version__":{
