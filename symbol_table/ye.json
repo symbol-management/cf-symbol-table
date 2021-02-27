@@ -7326,61 +7326,71 @@
  "yews.__about__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__about__.__author__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__about__.__email__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__about__.__license__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__about__.__summary__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__about__.__title__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__about__.__version__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__summary__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__title__":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.__version__":{
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -7531,12 +7541,14 @@
  "yews.datasets":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.datasets.BaseDataset":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -7546,15 +7558,29 @@
    "yews-0.0.6-py_0"
   ]
  },
+ "yews.datasets.DatasetArray":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
+ "yews.datasets.DatasetFolder":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
  "yews.datasets.DirDataset":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.datasets.FileDataset":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -7579,6 +7605,7 @@
  "yews.datasets.PathDataset":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -7603,18 +7630,21 @@
  "yews.datasets.__all__":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.datasets.base":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.datasets.base.BaseDataset":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -7645,12 +7675,14 @@
  "yews.datasets.base.PathDataset":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.datasets.base.is_dataset":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -7660,10 +7692,64 @@
    "yews-0.0.6-py_0"
   ]
  },
+ "yews.datasets.dirs":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
+ "yews.datasets.dirs.DatasetArrayFolder":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
+ "yews.datasets.dirs.DatasetFolder":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
+ "yews.datasets.dirs.DirDataset":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
+ "yews.datasets.dirs.__all__":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
  "yews.datasets.extract_tar":{
   "__set__":true,
   "elements":[
    "yews-0.0.6-py_0"
+  ]
+ },
+ "yews.datasets.files":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
+ "yews.datasets.files.DatasetArray":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
+ "yews.datasets.files.FileDataset":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
+ "yews.datasets.files.__all__":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.datasets.gen_bar_update":{
@@ -7693,6 +7779,7 @@
  "yews.datasets.is_dataset":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -7898,13 +7985,15 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.models.Cpic":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.models.CpicV1":{
@@ -7923,6 +8012,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -7930,13 +8020,15 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.models.cpic.Cpic":{
   "__set__":true,
   "elements":[
-   "yews-0.0.1-py_0"
+   "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.models.cpic.CpicV1":{
@@ -7955,7 +8047,14 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
+  ]
+ },
+ "yews.models.cpic.cpic64":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
   ]
  },
  "yews.models.cpic.cpic_v1":{
@@ -7973,6 +8072,7 @@
  "yews.models.cpic.model_urls":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8012,6 +8112,12 @@
    "yews-0.0.1-py_0"
   ]
  },
+ "yews.models.cpic64":{
+  "__set__":true,
+  "elements":[
+   "yews-0.0.3-py_0"
+  ]
+ },
  "yews.models.cpic_v1":{
   "__set__":true,
   "elements":[
@@ -8027,6 +8133,7 @@
  "yews.models.model_urls":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8040,6 +8147,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8047,6 +8155,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8054,6 +8163,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8061,6 +8171,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8068,6 +8179,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8075,6 +8187,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8082,6 +8195,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8089,6 +8203,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8096,6 +8211,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8103,6 +8219,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8110,6 +8227,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8117,6 +8235,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8124,6 +8243,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8131,6 +8251,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8138,6 +8259,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8145,6 +8267,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8152,6 +8275,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8159,6 +8283,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8166,6 +8291,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8173,6 +8299,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8180,6 +8307,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8187,12 +8315,14 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.transforms.BaseTransform":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8200,6 +8330,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8207,6 +8338,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8220,12 +8352,14 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.transforms.ToInt":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8233,6 +8367,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8240,6 +8375,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8247,24 +8383,28 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.transforms.base":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.transforms.base.BaseTransform":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.transforms.base.Compose":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8284,6 +8424,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8291,12 +8432,14 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.transforms.functional._to_tensor":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8316,6 +8459,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8329,6 +8473,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8342,12 +8487,14 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
  "yews.transforms.transforms.ToInt":{
   "__set__":true,
   "elements":[
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8355,6 +8502,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8362,6 +8510,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
@@ -8369,6 +8518,7 @@
   "__set__":true,
   "elements":[
    "yews-0.0.1-py_0",
+   "yews-0.0.3-py_0",
    "yews-0.0.6-py_0"
   ]
  },
