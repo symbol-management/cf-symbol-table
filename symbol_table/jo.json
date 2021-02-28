@@ -18919,13 +18919,15 @@
  "joommfutil.__dependencies__":{
   "__set__":true,
   "elements":[
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.__version__":{
   "__set__":true,
   "elements":[
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.test":{
@@ -18941,25 +18943,29 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.tests.test_init":{
   "__set__":true,
   "elements":[
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.tests.test_init.test_dependencies":{
   "__set__":true,
   "elements":[
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.tests.test_init.test_version":{
   "__set__":true,
   "elements":[
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.tests.test_typesystem":{
@@ -18975,7 +18981,26 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.tests.test_typesystem.DecoratedClass":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.tests.test_typesystem.test_add_missing_argument":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.tests.test_typesystem.test_const":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.tests.test_typesystem.test_constanttypesystem":{
@@ -18992,6 +19017,18 @@
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
    "joommfutil-0.8.2-py35_0"
+  ]
+ },
+ "joommfutil.tests.test_typesystem.test_del_attribute":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.tests.test_typesystem.test_inset":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.tests.test_typesystem.test_missing_allowed_values_option":{
@@ -19042,6 +19079,30 @@
    "joommfutil-0.8.2-py35_0"
   ]
  },
+ "joommfutil.tests.test_typesystem.test_name":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.tests.test_typesystem.test_scalar":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.tests.test_typesystem.test_subset":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.tests.test_typesystem.test_typed":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
  "joommfutil.tests.test_typesystem.test_typesystem":{
   "__set__":true,
   "elements":[
@@ -19074,6 +19135,12 @@
    "joommfutil-0.8.2-py35_0"
   ]
  },
+ "joommfutil.tests.test_typesystem.test_vector":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
  "joommfutil.tests.test_typesystem.typesystem":{
   "__set__":true,
   "elements":[
@@ -19087,7 +19154,8 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem":{
@@ -19103,7 +19171,8 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem.ConstantDescriptor":{
@@ -19279,7 +19348,8 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem.FromCombinations":{
@@ -19296,6 +19366,12 @@
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
    "joommfutil-0.8.2-py35_0"
+  ]
+ },
+ "joommfutil.typesystem.InSet":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem.Int":{
@@ -19328,6 +19404,12 @@
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
    "joommfutil-0.8.2-py35_0"
+  ]
+ },
+ "joommfutil.typesystem.Name":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem.ObjectName":{
@@ -19378,6 +19460,12 @@
    "joommfutil-0.8.2-py35_0"
   ]
  },
+ "joommfutil.typesystem.Scalar":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
  "joommfutil.typesystem.SizedVector":{
   "__set__":true,
   "elements":[
@@ -19410,6 +19498,12 @@
    "joommfutil-0.8.2-py35_0"
   ]
  },
+ "joommfutil.typesystem.Subset":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
  "joommfutil.typesystem.Typed":{
   "__set__":true,
   "elements":[
@@ -19423,7 +19517,8 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem.Unsigned":{
@@ -19455,7 +19550,8 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem.constantdescriptors":{
@@ -19650,6 +19746,54 @@
    "joommfutil-0.7.4-py36_0"
   ]
  },
+ "joommfutil.typesystem.descriptors":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.typesystem.descriptors.Descriptor":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.typesystem.descriptors.InSet":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.typesystem.descriptors.Name":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.typesystem.descriptors.Scalar":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.typesystem.descriptors.Subset":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.typesystem.descriptors.Typed":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
+ "joommfutil.typesystem.descriptors.Vector":{
+  "__set__":true,
+  "elements":[
+   "joommfutil-0.8.4-py_1"
+  ]
+ },
  "joommfutil.typesystem.typesystem":{
   "__set__":true,
   "elements":[
@@ -19663,7 +19807,8 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem.typesystem.typesystem":{
@@ -19679,7 +19824,8 @@
    "joommfutil-0.7.6-py36_1",
    "joommfutil-0.8-py35_0",
    "joommfutil-0.8-py36_0",
-   "joommfutil-0.8.2-py35_0"
+   "joommfutil-0.8.2-py35_0",
+   "joommfutil-0.8.4-py_1"
   ]
  },
  "joommfutil.typesystem.variabledescriptors":{
