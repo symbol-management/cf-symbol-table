@@ -101345,6 +101345,7 @@
  "airflow.hooks.base.BaseHook":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-jenkins-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
@@ -101358,10 +101359,190 @@
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
   ]
  },
+ "airflow.models.DAG":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
  "airflow.operators.python.PythonOperator":{
   "__set__":true,
   "elements":[
    "apache-airflow-providers-jenkins-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag.CassandraRecordSensor":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag.CassandraTableSensor":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag.DAG":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag.args":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag.dag":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag.days_ago":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag.record_sensor":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.example_dags.example_cassandra_dag.table_sensor":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.get_provider_info":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.get_provider_info.get_provider_info":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.hooks":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.hooks.cassandra":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.hooks.cassandra.BaseHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.hooks.cassandra.CassandraHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.hooks.cassandra.LoggingMixin":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.hooks.cassandra.Policy":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.record":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.record.BaseSensorOperator":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.record.CassandraHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.record.CassandraRecordSensor":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.record.apply_defaults":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.table":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.table.BaseSensorOperator":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.table.CassandraHook":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.table.CassandraTableSensor":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
+  ]
+ },
+ "airflow.providers.apache.cassandra.sensors.table.apply_defaults":{
+  "__set__":true,
+  "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0"
   ]
  },
  "airflow.providers.hashicorp._internal_client":{
@@ -101985,18 +102166,21 @@
  "airflow.sensors.base.BaseSensorOperator":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
   ]
  },
  "airflow.utils.dates.days_ago":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
   ]
  },
  "airflow.utils.decorators.apply_defaults":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-jenkins-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-opsgenie-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-salesforce-1.0.1-pyhd8ed1ab_0"
@@ -102005,6 +102189,7 @@
  "airflow.utils.log.logging_mixin.LoggingMixin":{
   "__set__":true,
   "elements":[
+   "apache-airflow-providers-apache-cassandra-1.0.1-pyhd8ed1ab_0",
    "apache-airflow-providers-hashicorp-1.0.1-pyhd8ed1ab_0"
   ]
  }
