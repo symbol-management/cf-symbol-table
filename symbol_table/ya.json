@@ -48346,7 +48346,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.ContinuousHardware":{
@@ -48354,13 +48355,15 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.DiscreteHardware":{
   "__set__":true,
   "elements":[
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.Hardware":{
@@ -48371,12 +48374,91 @@
    "yaqd-core-2020.6.1-py_0"
   ]
  },
+ "yaqd_core.HasLimits":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.HasMapping":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.HasMeasureTrigger":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.HasPosition":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.HasTurret":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.IsDiscrete":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.IsHomeable":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.IsSensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.MeasureType":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "yaqd_core.Sensor":{
   "__set__":true,
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.UsesI2C":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.UsesSerial":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.UsesUart":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.__all__":{
@@ -48384,7 +48466,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.__version__":{
@@ -48392,7 +48475,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.__version__.__all__":{
@@ -48400,7 +48484,14 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.__version__.__avro_version__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.__version__.__branch__":{
@@ -48408,7 +48499,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.__version__.__rpc_version__":{
@@ -48423,7 +48515,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.__version__.f":{
@@ -48431,7 +48524,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.__version__.here":{
@@ -48439,7 +48533,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.__version__.p":{
@@ -48655,16 +48750,600 @@
    "yaqd-core-2020.6.1-py_0"
   ]
  },
+ "yaqd_core._has_limits":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_limits.HasLimits":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_limits.HasPosition":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_limits.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_limits.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_limits._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_limits._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_mapping":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_mapping.HasMapping":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_mapping.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_mapping.IsSensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_mapping.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_mapping._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_mapping._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_measure_trigger":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_measure_trigger.HasMeasureTrigger":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_measure_trigger.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_measure_trigger.IsSensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_measure_trigger.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_measure_trigger._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_measure_trigger._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_position":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_position.HasPosition":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_position.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_position._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_position._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_turret":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_turret.HasTurret":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_turret.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_turret._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._has_turret._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_daemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_daemon.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_daemon.IsDaemon._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_daemon.IsDaemon._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_daemon.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_daemon.classproperty":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_daemon.logger":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_discrete":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_discrete.IsDiscrete":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_discrete.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_discrete._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_discrete._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_homeable":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_homeable.IsHomeable":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_homeable.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_homeable._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_homeable._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_sensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_sensor.IsSensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_sensor.MeasureType":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_sensor.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_sensor._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._is_sensor._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.Base":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.ContinuousHardware":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.DiscreteHardware":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.HasLimits":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.HasMeasureTrigger":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.HasPosition":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.IsDiscrete":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.IsSensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.Sensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._base":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._base.Base":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._base.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._base._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._base._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._continuous":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._continuous.ContinuousHardware":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._continuous.HasLimits":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._continuous.HasPosition":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._continuous.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._continuous.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._continuous._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._continuous._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._discrete":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._discrete.DiscreteHardware":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._discrete.HasPosition":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._discrete.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._discrete.IsDiscrete":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._discrete.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._discrete._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._discrete._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._sensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._sensor.HasMeasureTrigger":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._sensor.IsDaemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._sensor.IsSensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._sensor.Sensor":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._sensor.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._sensor._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._legacy._sensor._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._mro":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._mro.assert_mro":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "yaqd_core._protocol":{
   "__set__":true,
   "elements":[
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core._protocol.Protocol":{
   "__set__":true,
   "elements":[
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core._sensor":{
@@ -48699,12 +49378,115 @@
    "yaqd-core-2020.6.1-py_0"
   ]
  },
+ "yaqd_core._state":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._state.State":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_i2c":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_i2c.UsesI2C":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_i2c.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_i2c._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_i2c._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_serial":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_serial.UsesSerial":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_serial.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_serial._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_serial._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_uart":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_uart.UsesUart":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_uart.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_uart._daemons":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core._uses_uart._kind":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "yaqd_core.aserial":{
   "__set__":true,
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.aserial.ASerial":{
@@ -48712,7 +49494,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.aserial.__all__":{
@@ -48720,7 +49503,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.aserial._aserial":{
@@ -48728,7 +49512,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.aserial._aserial.ASerial":{
@@ -48736,7 +49521,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.aserial._aserial.__all__":{
@@ -48744,7 +49530,134 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.Unpacker":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.avro_numpy":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.avro_numpy.Interface":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.avro_numpy.prepare_ndarray":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.avro_numpy.read_ndarray":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.fill_avro_default":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.handshake":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.handshake.HandshakeMatch":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.handshake.HandshakeRequest":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.handshake.HandshakeResponse":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.handshake.handle_handshake":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.handshake.handshake_request_schema":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.handshake.handshake_response_schema":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.protocol":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.protocol.hash_protocol":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.unpacker":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.unpacker.Unpacker":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.avrorpc.unpacker.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.classproperty":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.exceptions":{
@@ -48827,12 +49740,19 @@
    "yaqd-core-2020.6.1-py_0"
   ]
  },
+ "yaqd_core.logger":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
  "yaqd_core.logging":{
   "__set__":true,
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.ALERT":{
@@ -48840,7 +49760,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.CRITICAL":{
@@ -48848,7 +49769,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.DEBUG":{
@@ -48856,7 +49778,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.EMERGENCY":{
@@ -48864,7 +49787,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.ERROR":{
@@ -48872,7 +49796,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.INFO":{
@@ -48880,7 +49805,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.NOTICE":{
@@ -48888,7 +49814,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.WARNING":{
@@ -48896,7 +49823,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.__all__":{
@@ -48904,14 +49832,16 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging._loggers":{
   "__set__":true,
   "elements":[
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.formatter":{
@@ -48919,7 +49849,8 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.getLogger":{
@@ -48927,21 +49858,24 @@
   "elements":[
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.name_to_level":{
   "__set__":true,
   "elements":[
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.logging.setLevel":{
   "__set__":true,
   "elements":[
    "yaqd-core-2020.5.2-py_0",
-   "yaqd-core-2020.6.1-py_0"
+   "yaqd-core-2020.6.1-py_0",
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_core.msgpack":{
@@ -49142,6 +50076,54 @@
    "yaqd-core-0.7.0-py_1",
    "yaqd-core-2020.5.2-py_0",
    "yaqd-core-2020.6.1-py_0"
+  ]
+ },
+ "yaqd_core.testing":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.testing.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.testing._run_daemon":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.testing._run_daemon.__all__":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.testing._run_daemon.run_daemon_entry_point":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.testing._run_daemon.run_daemon_from_file":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.testing.run_daemon_entry_point":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
+  ]
+ },
+ "yaqd_core.testing.run_daemon_from_file":{
+  "__set__":true,
+  "elements":[
+   "yaqd-core-2021.2.0-pyhd8ed1ab_0"
   ]
  },
  "yaqd_fakes.FakeContinuousHardware":{
