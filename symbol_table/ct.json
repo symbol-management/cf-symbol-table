@@ -15,11 +15,18 @@
    "ctd-0.2.2-py35_0"
   ]
  },
+ "ctd._CTD":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
  "ctd.__all__":{
   "__set__":true,
   "elements":[
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.__version__":{
@@ -30,7 +37,26 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd._version":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd._version.get_versions":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd._version.version_json":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.align":{
@@ -72,7 +98,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.cell_thermal_mass":{
@@ -84,6 +111,18 @@
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
    "ctd-0.3.0-py36_0"
+  ]
+ },
+ "ctd.core":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.core.CTD":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.ctd":{
@@ -221,7 +260,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.extrap_sec":{
@@ -235,6 +275,72 @@
    "ctd-0.3.0-py36_0"
   ]
  },
+ "ctd.extras":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.extras._extrap1d":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.extras.barrier_layer_thickness":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.extras.cell_thermal_mass":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.extras.extrap_sec":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.extras.gen_topomask":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.extras.get_maxdepth":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.extras.mixed_layer_depth":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.extras.plot_section":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.from_bl":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.from_btl":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
  "ctd.from_cnv":{
   "__set__":true,
   "elements":[
@@ -243,7 +349,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.from_edf":{
@@ -254,7 +361,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.from_fsi":{
@@ -265,7 +373,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.gen_topomask":{
@@ -298,7 +407,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.mixed_layer_depth":{
@@ -320,7 +430,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.plot":{
@@ -334,12 +445,24 @@
    "ctd-0.3.0-py36_0"
   ]
  },
+ "ctd.plot_cast":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
  "ctd.plot_section":{
   "__set__":true,
   "elements":[
    "ctd-0.2.2-py27_0",
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0"
+  ]
+ },
+ "ctd.plotting":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.plotting.__all__":{
@@ -395,6 +518,12 @@
    "ctd-0.3.0-py36_0"
   ]
  },
+ "ctd.plotting.plot_cast":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
  "ctd.pmel_inversion_check":{
   "__set__":true,
   "elements":[
@@ -412,7 +541,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing":{
@@ -423,7 +553,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing.__all__":{
@@ -433,6 +564,36 @@
    "ctd-0.2.2-py27_0",
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0"
+  ]
+ },
+ "ctd.processing._bindata":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.processing._despike":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.processing._movingaverage":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.processing._rolling_window":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.processing._smooth":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing.align":{
@@ -463,7 +624,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing.cell_thermal_mass":{
@@ -515,7 +677,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing.lp_filter":{
@@ -526,7 +689,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing.mixed_layer_depth":{
@@ -548,7 +712,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing.pmel_inversion_check":{
@@ -568,7 +733,14 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.processing.remove_above_water":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing.smooth":{
@@ -579,7 +751,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.processing.split":{
@@ -590,7 +763,86 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read._basename":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read._normalize_names":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read._open_compressed":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read._parse_seabird":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read._read_file":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read.from_bl":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read.from_btl":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read.from_cnv":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read.from_edf":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read.from_fsi":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.read.rosette_summary":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
+  ]
+ },
+ "ctd.remove_above_water":{
+  "__set__":true,
+  "elements":[
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.rosette_summary":{
@@ -601,7 +853,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.smooth":{
@@ -612,7 +865,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.split":{
@@ -623,7 +877,8 @@
    "ctd-0.2.2-py34_0",
    "ctd-0.2.2-py35_0",
    "ctd-0.3.0-py27_0",
-   "ctd-0.3.0-py36_0"
+   "ctd-0.3.0-py36_0",
+   "ctd-1.0.0-py_1"
   ]
  },
  "ctd.tests":{
